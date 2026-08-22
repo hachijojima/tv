@@ -1,7 +1,7 @@
 {
   "sources": {
-    "sokodo": {"type":"live","youtubeId":"SilNYdV2HNs","programLabel":"ISLAND CAMERA","detail":"SOKODO / HACHIJOJIMA","sourceChannel":"東京都伊豆・小笠原諸島港湾ライブカメラ"},
-    "yaene": {"type":"live","youtubeId":"7IygrRRgXYQ","programLabel":"ISLAND CAMERA","detail":"YAENE / HACHIJOJIMA","sourceChannel":"東京都伊豆・小笠原諸島港湾ライブカメラ"},
+    "sokodo": {"type":"live","youtubeId":"SilNYdV2HNs","programLabel":"SOKODO CAMERA","detail":"SOKODO / HACHIJOJIMA","sourceChannel":"東京都伊豆・小笠原諸島港湾ライブカメラ"},
+    "yaene": {"type":"live","youtubeId":"7IygrRRgXYQ","programLabel":"YAENE CAMERA","detail":"YAENE / HACHIJOJIMA","sourceChannel":"東京都伊豆・小笠原諸島港湾ライブカメラ"},
     "tokyo-relay": {"type":"live","youtubeId":"_k-5U7IeK8g","programLabel":"TOKYO RELAY","detail":"TOKYO BAY / TOKYO","sourceChannel":"Tokyo Views"},
     "taiko-archive": {"type":"vod","youtubeId":"OvLirJiY8To","programLabel":"HACHIJO ARCHIVE","detail":"ARCHIVE SELECTION","sourceTitle":"八丈太鼓アーカイブ　新日本紀行","sourceChannel":"阿久津文彦","duration":2332},
     "taiko-short": {"type":"vod","youtubeId":"q22isj-plz4","programLabel":"HACHIJO ARCHIVE","detail":"ARCHIVE SELECTION","sourceTitle":"八丈太鼓","sourceChannel":"jet8jojet","duration":516}
