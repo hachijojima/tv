@@ -22,7 +22,9 @@
 { "type":"event-live", "start":"2026-08-30T18:00:00+09:00", "end":"2026-08-30T20:30:00+09:00", "youtubeId":"XXXXXXXXXXX", "detail":"EVENT LIVE" }
 ```
 
-八丈太鼓とAIlandleagueの過去LIVEアーカイブは `library.json` の `archivePools` にあります。どちらも通常動画タブではなく各チャンネルの `/streams` を起点に確認したアーカイブです。`youtubeId`、実時間（秒）、年（太鼓の場合）を追加すると、日付seedによりアーカイブと開始位置を選びます。太鼓は1日4枠、AIlandleagueは1日0〜2枠です。
+八丈太鼓とAIlandleagueの過去LIVEアーカイブは `library.json` の `archivePools` にあります。どちらも通常動画タブではなく各チャンネルの `/streams` を起点に確認したアーカイブです。`youtubeId`、YouTube上で確認した実時間（秒）、年（太鼓の場合）を追加すると、日付seedによりアーカイブと開始位置を選びます。太鼓は1日4枠、AIlandleagueは1日0〜2枠です。
+
+太鼓の重複ロック日数は固定値ではありません。各sourceの `floor(duration / 3600)` の合計から `usableBlockCount` を算出し、`theoreticalCycleDays = floor(usableBlockCount / 4)`、`hardCooldownDays = max(1, theoreticalCycleDays - 2)` として自動計算します。ブラウザのconsoleに当日の選択source・offsetと一緒に出力されます。
 
 ```json
 { "id":"taiko-2026", "youtubeId":"XXXXXXXXXXX", "duration":86400, "archiveYear":2026, "sourceTitle":"実際の配信タイトル", "sourceChannel":"24時間チャレンジ八丈太鼓" }
