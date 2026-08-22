@@ -10,11 +10,13 @@
 
 素材は `library.json`、編成ルールは `programming.json` に分かれています。ページはJSTの日付をseedに0:00〜24:00の番組表を一度生成し、全視聴者が同じ表を共有します。00:00 / 03:00 / 06:00 / 09:00 / 12:00 / 15:00 / 18:00 / 21:00 はソフトアンカーです。DAWN、SUNSET、EVENT LIVE、22:30 TOKYO RELAY、長尺枠を優先します。
 
-`library.json` の `sources` へ通常素材を追加し、`catalogs.islandArchive` または `catalogs.nightMusic` へIDを加えます。VODの `duration` は動画の実時間（秒）です。
+`library.json` の `sources` へ通常素材を追加し、`catalogs.islandArchive` または `catalogs.nightMusic` へIDを加えます。VODの `duration` は動画の実時間（秒）です。夜の音楽はジャンル名ではなく `LONG PLAY`（フルアルバム／長尺ライブ）として編成し、`atomic: true` の作品はソフトアンカーで途中分断しません。
 
 ```json
 { "type": "vod", "youtubeId": "XXXXXXXXXXX", "programLabel": "HACHIJO ARCHIVE", "detail": "ISLAND DOCUMENT", "sourceTitle": "実際のYouTubeタイトル", "sourceChannel": "投稿元", "duration": 720, "atomic": true }
 ```
+
+長尺音楽・ライブを追加する場合は、投稿元と埋め込み可否を確認したうえで `catalogs.nightMusic.LONG PLAY` にIDを追加します。番組画面では `LONG PLAY` と実際の作品名を表示します。
 
 真のイベントLIVEは `programming.json` の `events` へ追加します。イベントはDAWN、SUNSET、固定アンカーより優先し、LIVEにはseekしません。
 

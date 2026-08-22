@@ -7,8 +7,8 @@
     "hachijoTaiko":{"slots":[
       {"name":"morning","candidates":[21600,23400,25200,27000,28800,30600,32400]},
       {"name":"daytime","candidates":[37800,39600,43200,45000,46800,48600,50400,54000]},
-      {"name":"evening","candidates":[64800,66600,68400,70200]},
-      {"name":"night","candidates":[72000,73800,75600]}
+      {"name":"evening","candidates":[68400]},
+      {"name":"night","candidates":[77400]}
     ]},
     "islandLeague":{"maxDailySlots":2,"candidates":[32400,34200,36000,37800,39600,43200,45000,46800,48600,50400,54000,61200,63000,64800,66600,68400]}
   },

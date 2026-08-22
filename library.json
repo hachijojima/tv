@@ -5,9 +5,10 @@
     "tokyo-relay": {"type":"live","youtubeId":"_k-5U7IeK8g","programLabel":"TOKYO RELAY","detail":"TOKYO BAY / TOKYO","sourceChannel":"Tokyo Views"},
     "taiko-archive": {"type":"vod","youtubeId":"OvLirJiY8To","programLabel":"HACHIJO ARCHIVE","detail":"ARCHIVE SELECTION","sourceTitle":"八丈太鼓アーカイブ　新日本紀行","sourceChannel":"阿久津文彦","duration":2332},
     "taiko-short": {"type":"vod","youtubeId":"q22isj-plz4","programLabel":"HACHIJO ARCHIVE","detail":"ARCHIVE SELECTION","sourceTitle":"八丈太鼓","sourceChannel":"jet8jojet","duration":516},
-    "jazz-scene": {"type":"vod","youtubeId":"PhQmbUxFsGs","programLabel":"JAZZ","detail":"ALBUM SELECTION","sourceTitle":"Ryo Fukui - Scenery (1976) FULL ALBUM","sourceChannel":"Ctrl Shift Mood ♪","duration":2510,"atomic":true},
-    "city-lights": {"type":"vod","youtubeId":"oyJSV9nnt10","programLabel":"CITY LIGHTS","detail":"ALBUM SELECTION","sourceTitle":"Takashi Kokubo - The Day I Saw The Rainbow","sourceChannel":"should be asleep","duration":3074,"atomic":true},
+    "jazz-scene": {"type":"vod","youtubeId":"PhQmbUxFsGs","programLabel":"LONG PLAY","detail":"ALBUM","sourceTitle":"Ryo Fukui - Scenery (1976)","sourceChannel":"Ctrl Shift Mood ♪","duration":2510,"atomic":true},
+    "city-lights": {"type":"vod","youtubeId":"oyJSV9nnt10","programLabel":"LONG PLAY","detail":"ALBUM","sourceTitle":"Takashi Kokubo - The Day I Saw The Rainbow","sourceChannel":"should be asleep","duration":3074,"atomic":true},
     "after-hours": {"type":"vod","youtubeId":"Z3m7HXeiHpg","programLabel":"AFTER HOURS","detail":"ALBUM SELECTION","sourceTitle":"Hiroshi Yoshimura - Wet Land","sourceChannel":"should be asleep","duration":2284,"atomic":true},
+    "mooru-live": {"type":"vod","youtubeId":"h0Of6eFBXm4","programLabel":"LONG PLAY","detail":"LIVE SET","sourceTitle":"モーモールルギャバン LIVE 2018.12.1 京都磔磔","sourceChannel":"モーモールルギャバン公式CH","duration":5344,"atomic":true},
     "mx-documentary": {"type":"vod","youtubeId":"2Ig_o9pM6HM","programLabel":"HACHIJO ARCHIVE","detail":"DOCUMENTARY","sourceTitle":"報道特番「明日が芽吹く島～八丈町の再生～」","sourceChannel":"TOKYO MX 報道局","duration":2970,"atomic":true},
     "history": {"type":"vod","youtubeId":"Z4lxNJow-tQ","programLabel":"HACHIJO ARCHIVE","detail":"ISLAND HISTORY","sourceTitle":"八丈島 -歴史-","sourceChannel":"HachijoTown","duration":425},
     "storm-one": {"type":"vod","youtubeId":"lwSD1VSbEko","programLabel":"HACHIJO ARCHIVE","detail":"ISLAND DOCUMENT","sourceTitle":"八丈島台風ドキュメント #1","sourceChannel":"SisiDen","duration":449},
@@ -17,7 +18,7 @@
   },
   "catalogs": {
     "islandArchive": ["mx-documentary","taiko-archive","history","storm-one","storm-two","island-4k","island-film","taiko-short"],
-    "nightMusic": {"JAZZ":["jazz-scene"],"CITY LIGHTS":["city-lights"],"AFTER HOURS":["after-hours"]},
+    "nightMusic": {"LONG PLAY":["mooru-live","city-lights","jazz-scene"],"AFTER HOURS":["after-hours"]},
     "cameraFallback": ["sokodo","yaene"]
   },
   "archivePools": {
