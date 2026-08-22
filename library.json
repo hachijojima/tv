@@ -20,11 +20,34 @@
     "nightMusic": {"JAZZ":["jazz-scene"],"CITY LIGHTS":["city-lights"],"AFTER HOURS":["after-hours"]},
     "cameraFallback": ["sokodo","yaene"]
   },
-  "taikoArchivePool": [
-    {"id":"taiko-2025","youtubeId":"LgXe2_Z5EMc","duration":21043,"archiveYear":2025,"sourceChannel":"24時間チャレンジ八丈太鼓"},
-    {"id":"taiko-2024","youtubeId":"lKQCWt3vpu0","duration":35462,"archiveYear":2024,"sourceChannel":"24時間チャレンジ八丈太鼓"},
-    {"id":"taiko-2023","youtubeId":"hX_IdIUV8T0","duration":33917,"archiveYear":2023,"sourceChannel":"24時間チャレンジ八丈太鼓"},
-    {"id":"taiko-2022","youtubeId":"Kb9iP5JFMfM","duration":27621,"archiveYear":2022,"sourceChannel":"24時間チャレンジ八丈太鼓"},
-    {"id":"taiko-2021","youtubeId":"DeJfJgVSdgM","duration":28410,"archiveYear":2021,"sourceChannel":"24時間チャレンジ八丈太鼓"}
-  ]
+  "archivePools": {
+    "hachijoTaiko": {
+      "type": "live-archive-pool",
+      "programLabel": "HACHIJO TAIKO",
+      "channelStreamsUrl": "https://www.youtube.com/@24時間チャレンジ八丈太鼓/streams",
+      "segmentDuration": 3600,
+      "sources": [
+        {"id":"taiko-2025","youtubeId":"LgXe2_Z5EMc","duration":21043,"archiveYear":2025,"sourceChannel":"24時間チャレンジ八丈太鼓","sourceTitle":"24時間チャレンジ八丈太鼓 2025"},
+        {"id":"taiko-2024","youtubeId":"lKQCWt3vpu0","duration":35462,"archiveYear":2024,"sourceChannel":"24時間チャレンジ八丈太鼓","sourceTitle":"24時間チャレンジ八丈太鼓 2024"},
+        {"id":"taiko-2023","youtubeId":"hX_IdIUV8T0","duration":33917,"archiveYear":2023,"sourceChannel":"24時間チャレンジ八丈太鼓","sourceTitle":"24時間チャレンジ八丈太鼓 2023"},
+        {"id":"taiko-2022","youtubeId":"Kb9iP5JFMfM","duration":27621,"archiveYear":2022,"sourceChannel":"24時間チャレンジ八丈太鼓","sourceTitle":"24時間チャレンジ八丈太鼓 2022"},
+        {"id":"taiko-2021","youtubeId":"DeJfJgVSdgM","duration":28410,"archiveYear":2021,"sourceChannel":"24時間チャレンジ八丈太鼓","sourceTitle":"24時間チャレンジ八丈太鼓 2021"}
+      ]
+    },
+    "islandLeague": {
+      "type": "live-archive-pool",
+      "programLabel": "ISLAND LEAGUE",
+      "channelStreamsUrl": "https://www.youtube.com/@AIlandleague/streams",
+      "segmentMin": 1800,
+      "segmentMax": 3600,
+      "sources": [
+        {"id":"league-2026-island-pride","youtubeId":"0fCX-IJmxu0","duration":7988,"sourceTitle":"島じまん発表会｜7月25日｜愛らんどリーグ2026","sourceChannel":"AIlandleague"},
+        {"id":"league-2026-b-finals","youtubeId":"BWhjoH_wTmw","duration":20655,"sourceTitle":"Bコート｜7月26日｜愛らんどリーグ2026","sourceChannel":"AIlandleague"},
+        {"id":"league-2026-a-finals","youtubeId":"FmPt3ybWM34","duration":18943,"sourceTitle":"Aコート｜7月26日｜愛らんどリーグ2026","sourceChannel":"AIlandleague"},
+        {"id":"league-2026-a-qualifying","youtubeId":"WG1IwAynB7U","duration":16207,"sourceTitle":"Aコート｜7月25日｜愛らんどリーグ2026","sourceChannel":"AIlandleague"},
+        {"id":"league-2026-court-c","youtubeId":"mKaIuz-HI2g","duration":5490,"sourceTitle":"Cコート｜7月26日｜愛らんどリーグ2026","sourceChannel":"AIlandleague"},
+        {"id":"league-2026-b-qualifying","youtubeId":"x1BquHTIEG8","duration":16315,"sourceTitle":"Bコート｜7月25日｜愛らんどリーグ2026","sourceChannel":"AIlandleague"}
+      ]
+    }
+  }
 }

@@ -8,7 +8,7 @@
 
 ## 編成を編集する
 
-素材は `library.json`、編成ルールは `programming.json` に分かれています。ページはJSTの日付をseedに0:00〜24:00の番組表を一度生成し、全視聴者が同じ表を共有します。
+素材は `library.json`、編成ルールは `programming.json` に分かれています。ページはJSTの日付をseedに0:00〜24:00の番組表を一度生成し、全視聴者が同じ表を共有します。00:00 / 03:00 / 06:00 / 09:00 / 12:00 / 15:00 / 18:00 / 21:00 はソフトアンカーです。DAWN、SUNSET、EVENT LIVE、22:30 TOKYO RELAY、長尺枠を優先します。
 
 `library.json` の `sources` へ通常素材を追加し、`catalogs.islandArchive` または `catalogs.nightMusic` へIDを加えます。VODの `duration` は動画の実時間（秒）です。
 
@@ -22,10 +22,10 @@
 { "type":"event-live", "start":"2026-08-30T18:00:00+09:00", "end":"2026-08-30T20:30:00+09:00", "youtubeId":"XXXXXXXXXXX", "detail":"EVENT LIVE" }
 ```
 
-八丈太鼓の過去LIVEアーカイブは、同ファイルの `taikoArchivePool` に追加します。`youtubeId`、実時間（秒）、年を登録すると、1日2回の枠で日付seedによりアーカイブと開始位置を選びます。
+八丈太鼓とAIlandleagueの過去LIVEアーカイブは `library.json` の `archivePools` にあります。どちらも通常動画タブではなく各チャンネルの `/streams` を起点に確認したアーカイブです。`youtubeId`、実時間（秒）、年（太鼓の場合）を追加すると、日付seedによりアーカイブと開始位置を選びます。太鼓は1日4枠、AIlandleagueは1日0〜2枠です。
 
 ```json
-{ "id":"taiko-2026", "youtubeId":"XXXXXXXXXXX", "duration":86400, "archiveYear":2026, "sourceChannel":"24時間チャレンジ八丈太鼓" }
+{ "id":"taiko-2026", "youtubeId":"XXXXXXXXXXX", "duration":86400, "archiveYear":2026, "sourceTitle":"実際の配信タイトル", "sourceChannel":"24時間チャレンジ八丈太鼓" }
 ```
 
 太陽連動枠、22:30のTOKYO RELAY、枠長は `programming.json` で調整します。変更をcommit・pushするとGitHub Pagesへ反映されます。

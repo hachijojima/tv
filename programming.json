@@ -2,7 +2,16 @@
   "timezone":"Asia/Tokyo",
   "location":{"latitude":33.11,"longitude":139.79},
   "solar":{"dawnBefore":1800,"dawnAfter":1200,"sunsetBefore":1800,"sunsetAfter":1500},
-  "anchors":{"tokyoRelay":{"start":81000,"duration":1200},"taiko":{"duration":3600}},
+  "anchors":{"tokyoRelay":{"start":81000,"duration":1200},"clock":[0,10800,21600,32400,43200,54000,64800,75600]},
+  "pools":{
+    "hachijoTaiko":{"slots":[
+      {"name":"morning","candidates":[21600,23400,25200,27000,28800,30600,32400]},
+      {"name":"daytime","candidates":[37800,39600,43200,45000,46800,48600,50400,54000]},
+      {"name":"evening","candidates":[64800,66600,68400,70200]},
+      {"name":"night","candidates":[72000,73800,75600]}
+    ]},
+    "islandLeague":{"maxDailySlots":2,"candidates":[32400,34200,36000,37800,39600,43200,45000,46800,48600,50400,54000,61200,63000,64800,66600,68400]}
+  },
   "dayparts":[
     {"name":"DEEP NIGHT","start":0,"end":18000,"family":"nightMusic"},
     {"name":"MORNING","start":18000,"end":36000,"family":"islandArchive"},
