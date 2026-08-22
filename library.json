@@ -15,6 +15,11 @@
     "radiohead-summer-sonic": {"type":"vod","youtubeId":"Z49AnoS7C9Q","programLabel":"LONG PLAY","detail":"LIVE SET","sourceTitle":"Radiohead - Live at Summer Sonic (August 2016)","sourceChannel":"Radiohead","duration":7309,"atomic":true},
     "sakamoto-nanao-u-zhaan": {"type":"vod","youtubeId":"lP38IQHBs4E","programLabel":"LONG PLAY","detail":"LIVE SET","sourceTitle":"坂本龍一 × 七尾旅人 × ユザーン 2012.8.18","sourceChannel":"vang","duration":1095,"atomic":true},
     "tavito-concert-for-dogs": {"type":"vod","youtubeId":"fxOU5ECkFaM","programLabel":"LONG PLAY","detail":"LIVE SET","sourceTitle":"七尾旅人「犬たちのためのコンサート」2018/12/11","sourceChannel":"七尾旅人_sub","duration":6405,"atomic":true},
+    "pizzicato-readymade-tv": {"type":"vod","youtubeId":"S1W7lu3jP6I","programLabel":"LONG PLAY","detail":"PROGRAMME","sourceTitle":"Pizzicato Five – Readymade TV Vol. 2","sourceChannel":"Smak!","duration":2617,"atomic":true},
+    "pizzicato-trailers-footages": {"type":"vod","youtubeId":"H8qqPNNr0Ys","programLabel":"LONG PLAY","detail":"PROGRAMME","sourceTitle":"Pizzicato Five – Trailers & Footages (2004)","sourceChannel":"moss","duration":5205,"atomic":true},
+    "flippers-guitar-quattro": {"type":"vod","youtubeId":"oycp1KP-i3g","programLabel":"LONG PLAY","detail":"LIVE SET","sourceTitle":"Flipper's Guitar – Live at 渋谷クアトロ (1990.01.16)","sourceChannel":"norinorimasanari","duration":3642,"atomic":true},
+    "my-bloody-valentine-ulu": {"type":"vod","youtubeId":"CagV0mwQdaM","programLabel":"LONG PLAY","detail":"LIVE SET","sourceTitle":"My Bloody Valentine – London ULU 4.05.1990","sourceChannel":"Indypendientes","duration":7196,"atomic":true},
+    "lindberg-pophill-92": {"type":"vod","youtubeId":"LlxKPYlc5E0","programLabel":"LONG PLAY","detail":"FESTIVAL SET","sourceTitle":"LINDBERG – POPHiLL '92","sourceChannel":"anpanman3175","duration":1863,"atomic":true},
     "mx-documentary": {"type":"vod","youtubeId":"2Ig_o9pM6HM","programLabel":"HACHIJO ARCHIVE","detail":"DOCUMENTARY","sourceTitle":"報道特番「明日が芽吹く島～八丈町の再生～」","sourceChannel":"TOKYO MX 報道局","duration":2970,"atomic":true},
     "history": {"type":"vod","youtubeId":"Z4lxNJow-tQ","programLabel":"HACHIJO ARCHIVE","detail":"ISLAND HISTORY","sourceTitle":"八丈島 -歴史-","sourceChannel":"HachijoTown","duration":425},
     "storm-one": {"type":"vod","youtubeId":"lwSD1VSbEko","programLabel":"HACHIJO ARCHIVE","detail":"ISLAND DOCUMENT","sourceTitle":"八丈島台風ドキュメント #1","sourceChannel":"SisiDen","duration":449},
@@ -24,7 +29,7 @@
   },
   "catalogs": {
     "islandArchive": ["mx-documentary","taiko-archive","history","storm-one","storm-two","island-4k","island-film","taiko-short"],
-    "nightMusic": {"LONG PLAY":["odotte-last-universe","radiohead-summer-sonic","tavito-concert-for-dogs","mooru-live","pop-hill-99","fishmans-long-season","sakamoto-nanao-u-zhaan","city-lights","jazz-scene"],"AFTER HOURS":["after-hours"]},
+    "nightMusic": {"LONG PLAY":["odotte-last-universe","radiohead-summer-sonic","my-bloody-valentine-ulu","tavito-concert-for-dogs","mooru-live","pizzicato-trailers-footages","pop-hill-99","flippers-guitar-quattro","fishmans-long-season","pizzicato-readymade-tv","lindberg-pophill-92","sakamoto-nanao-u-zhaan","city-lights","jazz-scene"],"AFTER HOURS":["after-hours"]},
     "cameraFallback": ["sokodo","yaene"]
   },
   "archivePools": {
