@@ -1,0 +1,16 @@
+{
+  "sources": {
+    "sokodo": {"type":"live","youtubeId":"SilNYdV2HNs","programLabel":"ISLAND CAMERA","detail":"SOKODO / HACHIJOJIMA","sourceChannel":"東京都伊豆・小笠原諸島港湾ライブカメラ"},
+    "yaene": {"type":"live","youtubeId":"7IygrRRgXYQ","programLabel":"ISLAND CAMERA","detail":"YAENE / HACHIJOJIMA","sourceChannel":"東京都伊豆・小笠原諸島港湾ライブカメラ"},
+    "tokyo-relay": {"type":"live","youtubeId":"_k-5U7IeK8g","programLabel":"TOKYO RELAY","detail":"TOKYO BAY / TOKYO","sourceChannel":"Tokyo Views"},
+    "taiko-archive": {"type":"vod","youtubeId":"OvLirJiY8To","programLabel":"HACHIJO ARCHIVE","detail":"ARCHIVE SELECTION","sourceTitle":"八丈太鼓アーカイブ　新日本紀行","sourceChannel":"阿久津文彦","duration":2332},
+    "taiko-short": {"type":"vod","youtubeId":"q22isj-plz4","programLabel":"HACHIJO ARCHIVE","detail":"ARCHIVE SELECTION","sourceTitle":"八丈太鼓","sourceChannel":"jet8jojet","duration":516}
+  },
+  "taikoArchivePool": [
+    {"id":"taiko-2025","youtubeId":"LgXe2_Z5EMc","duration":21043,"archiveYear":2025,"sourceChannel":"24時間チャレンジ八丈太鼓"},
+    {"id":"taiko-2024","youtubeId":"lKQCWt3vpu0","duration":35462,"archiveYear":2024,"sourceChannel":"24時間チャレンジ八丈太鼓"},
+    {"id":"taiko-2023","youtubeId":"hX_IdIUV8T0","duration":33917,"archiveYear":2023,"sourceChannel":"24時間チャレンジ八丈太鼓"},
+    {"id":"taiko-2022","youtubeId":"Kb9iP5JFMfM","duration":27621,"archiveYear":2022,"sourceChannel":"24時間チャレンジ八丈太鼓"},
+    {"id":"taiko-2021","youtubeId":"DeJfJgVSdgM","duration":28410,"archiveYear":2021,"sourceChannel":"24時間チャレンジ八丈太鼓"}
+  ]
+}
