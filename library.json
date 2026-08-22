@@ -52,12 +52,12 @@
       "segmentMin": 1800,
       "segmentMax": 3600,
       "sources": [
-        {"id":"league-2026-island-pride","youtubeId":"0fCX-IJmxu0","duration":7988,"sourceTitle":"島じまん発表会｜7月25日｜愛らんどリーグ2026","sourceChannel":"AIlandleague"},
-        {"id":"league-2026-b-finals","youtubeId":"BWhjoH_wTmw","duration":20655,"sourceTitle":"Bコート｜7月26日｜愛らんどリーグ2026","sourceChannel":"AIlandleague"},
-        {"id":"league-2026-a-finals","youtubeId":"FmPt3ybWM34","duration":18943,"sourceTitle":"Aコート｜7月26日｜愛らんどリーグ2026","sourceChannel":"AIlandleague"},
-        {"id":"league-2026-a-qualifying","youtubeId":"WG1IwAynB7U","duration":16207,"sourceTitle":"Aコート｜7月25日｜愛らんどリーグ2026","sourceChannel":"AIlandleague"},
-        {"id":"league-2026-court-c","youtubeId":"mKaIuz-HI2g","duration":5490,"sourceTitle":"Cコート｜7月26日｜愛らんどリーグ2026","sourceChannel":"AIlandleague"},
-        {"id":"league-2026-b-qualifying","youtubeId":"x1BquHTIEG8","duration":16315,"sourceTitle":"Bコート｜7月25日｜愛らんどリーグ2026","sourceChannel":"AIlandleague"}
+        {"id":"league-2026-island-pride","youtubeId":"0fCX-IJmxu0","duration":7988,"publishedAt":"2026-07-25T14:39:58-07:00","sourceTitle":"島じまん発表会｜7月25日｜愛らんどリーグ2026","sourceChannel":"AIlandleague","url":"https://www.youtube.com/watch?v=0fCX-IJmxu0","streamType":"past-live-archive"},
+        {"id":"league-2026-b-finals","youtubeId":"BWhjoH_wTmw","duration":20655,"publishedAt":"2026-07-25T22:55:06-07:00","sourceTitle":"Bコート｜7月26日(決勝戦・表彰式・順位決定戦)｜愛らんどリーグ2026","sourceChannel":"AIlandleague","url":"https://www.youtube.com/watch?v=BWhjoH_wTmw","streamType":"past-live-archive"},
+        {"id":"league-2026-a-finals","youtubeId":"FmPt3ybWM34","duration":18943,"publishedAt":"2026-07-25T22:28:33-07:00","sourceTitle":"Aコート｜7月26日(準決勝・順位決定戦)｜愛らんどリーグ2026","sourceChannel":"AIlandleague","url":"https://www.youtube.com/watch?v=FmPt3ybWM34","streamType":"past-live-archive"},
+        {"id":"league-2026-a-qualifying","youtubeId":"WG1IwAynB7U","duration":16207,"publishedAt":"2026-07-24T22:01:13-07:00","sourceTitle":"Aコート｜7月25日(予選リーグ)｜愛らんどリーグ2026","sourceChannel":"AIlandleague","url":"https://www.youtube.com/watch?v=WG1IwAynB7U","streamType":"past-live-archive"},
+        {"id":"league-2026-court-c","youtubeId":"mKaIuz-HI2g","duration":5490,"publishedAt":"2026-07-26T08:09:27-07:00","sourceTitle":"Cコート｜7月26日(７位決定戦/固定カメラ)｜愛らんどリーグ2026","sourceChannel":"AIlandleague","url":"https://www.youtube.com/watch?v=mKaIuz-HI2g","streamType":"past-live-archive"},
+        {"id":"league-2026-b-qualifying","youtubeId":"x1BquHTIEG8","duration":16315,"publishedAt":"2026-07-24T22:06:16-07:00","sourceTitle":"Bコート｜7月25日(予選リーグ/開会式)｜愛らんどリーグ2026","sourceChannel":"AIlandleague","url":"https://www.youtube.com/watch?v=x1BquHTIEG8","streamType":"past-live-archive"}
       ]
     }
   }
