@@ -10,16 +10,16 @@
 
 素材は `library.json`、編成ルールは `programming.json` に分かれています。ページはJSTの日付をseedに0:00〜24:00の番組表を一度生成し、全視聴者が同じ表を共有します。
 
-`library.json` の `sources` へ通常素材を追加します。VODの `duration` は動画の実時間（秒）です。
+`library.json` の `sources` へ通常素材を追加し、`catalogs.islandArchive` または `catalogs.nightMusic` へIDを加えます。VODの `duration` は動画の実時間（秒）です。
 
 ```json
-{ "type": "vod", "youtubeId": "XXXXXXXXXXX", "title": "番組名", "channel": "投稿元チャンネル", "duration": 720, "enabled": true }
+{ "type": "vod", "youtubeId": "XXXXXXXXXXX", "programLabel": "HACHIJO ARCHIVE", "detail": "ISLAND DOCUMENT", "sourceTitle": "実際のYouTubeタイトル", "sourceChannel": "投稿元", "duration": 720, "atomic": true }
 ```
 
-LIVEはYouTube動画IDを直接指定し、`slotDuration` に番組表上の放送枠（秒）を指定します。LIVEにはseekしません。
+真のイベントLIVEは `programming.json` の `events` へ追加します。イベントはDAWN、SUNSET、固定アンカーより優先し、LIVEにはseekしません。
 
 ```json
-{ "type": "live", "youtubeId": "XXXXXXXXXXX", "title": "底土港 LIVE", "channel": "投稿元チャンネル", "slotDuration": 1800, "enabled": true }
+{ "type":"event-live", "start":"2026-08-30T18:00:00+09:00", "end":"2026-08-30T20:30:00+09:00", "youtubeId":"XXXXXXXXXXX", "detail":"EVENT LIVE" }
 ```
 
 八丈太鼓の過去LIVEアーカイブは、同ファイルの `taikoArchivePool` に追加します。`youtubeId`、実時間（秒）、年を登録すると、1日2回の枠で日付seedによりアーカイブと開始位置を選びます。
