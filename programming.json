@@ -3,5 +3,13 @@
   "location":{"latitude":33.11,"longitude":139.79},
   "solar":{"dawnBefore":1800,"dawnAfter":1200,"sunsetBefore":1800,"sunsetAfter":1500},
   "anchors":{"tokyoRelay":{"start":81000,"duration":1200},"taiko":{"duration":3600}},
+  "dayparts":[
+    {"name":"DEEP NIGHT","start":0,"end":18000,"family":"nightMusic"},
+    {"name":"MORNING","start":18000,"end":36000,"family":"islandArchive"},
+    {"name":"DAYTIME","start":36000,"end":61200,"family":"islandArchive"},
+    {"name":"EVENING","start":61200,"end":72000,"family":"islandArchive"},
+    {"name":"NIGHT","start":72000,"end":86400,"family":"nightMusic"}
+  ],
+  "cameraFallback":{"maxBlock":1800,"onlyForUnfillableGaps":true},
   "events":[]
 }

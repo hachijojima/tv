@@ -7,7 +7,18 @@
     "taiko-short": {"type":"vod","youtubeId":"q22isj-plz4","programLabel":"HACHIJO ARCHIVE","detail":"ARCHIVE SELECTION","sourceTitle":"八丈太鼓","sourceChannel":"jet8jojet","duration":516},
     "jazz-scene": {"type":"vod","youtubeId":"PhQmbUxFsGs","programLabel":"JAZZ","detail":"ALBUM SELECTION","sourceTitle":"Ryo Fukui - Scenery (1976) FULL ALBUM","sourceChannel":"Ctrl Shift Mood ♪","duration":2510,"atomic":true},
     "city-lights": {"type":"vod","youtubeId":"oyJSV9nnt10","programLabel":"CITY LIGHTS","detail":"ALBUM SELECTION","sourceTitle":"Takashi Kokubo - The Day I Saw The Rainbow","sourceChannel":"should be asleep","duration":3074,"atomic":true},
-    "after-hours": {"type":"vod","youtubeId":"Z3m7HXeiHpg","programLabel":"AFTER HOURS","detail":"ALBUM SELECTION","sourceTitle":"Hiroshi Yoshimura - Wet Land","sourceChannel":"should be asleep","duration":2284,"atomic":true}
+    "after-hours": {"type":"vod","youtubeId":"Z3m7HXeiHpg","programLabel":"AFTER HOURS","detail":"ALBUM SELECTION","sourceTitle":"Hiroshi Yoshimura - Wet Land","sourceChannel":"should be asleep","duration":2284,"atomic":true},
+    "mx-documentary": {"type":"vod","youtubeId":"2Ig_o9pM6HM","programLabel":"HACHIJO ARCHIVE","detail":"DOCUMENTARY","sourceTitle":"報道特番「明日が芽吹く島～八丈町の再生～」","sourceChannel":"TOKYO MX 報道局","duration":2970,"atomic":true},
+    "history": {"type":"vod","youtubeId":"Z4lxNJow-tQ","programLabel":"HACHIJO ARCHIVE","detail":"ISLAND HISTORY","sourceTitle":"八丈島 -歴史-","sourceChannel":"HachijoTown","duration":425},
+    "storm-one": {"type":"vod","youtubeId":"lwSD1VSbEko","programLabel":"HACHIJO ARCHIVE","detail":"ISLAND DOCUMENT","sourceTitle":"八丈島台風ドキュメント #1","sourceChannel":"SisiDen","duration":449},
+    "storm-two": {"type":"vod","youtubeId":"yHfF96JyP90","programLabel":"HACHIJO ARCHIVE","detail":"ISLAND DOCUMENT","sourceTitle":"八丈島台風ドキュメント #2","sourceChannel":"SisiDen","duration":969},
+    "island-4k": {"type":"vod","youtubeId":"CqT1-XIplW4","programLabel":"HACHIJO ARCHIVE","detail":"ISLAND LANDSCAPE","sourceTitle":"八丈島 4K","sourceChannel":"原風景探訪録","duration":944},
+    "island-film": {"type":"vod","youtubeId":"PWIe4Ot0qnk","programLabel":"HACHIJO ARCHIVE","detail":"ISLAND LANDSCAPE","sourceTitle":"hachijojima, Island of Tokyo","sourceChannel":"mitsu oka","duration":398}
+  },
+  "catalogs": {
+    "islandArchive": ["mx-documentary","taiko-archive","history","storm-one","storm-two","island-4k","island-film","taiko-short"],
+    "nightMusic": {"JAZZ":["jazz-scene"],"CITY LIGHTS":["city-lights"],"AFTER HOURS":["after-hours"]},
+    "cameraFallback": ["sokodo","yaene"]
   },
   "taikoArchivePool": [
     {"id":"taiko-2025","youtubeId":"LgXe2_Z5EMc","duration":21043,"archiveYear":2025,"sourceChannel":"24時間チャレンジ八丈太鼓"},
