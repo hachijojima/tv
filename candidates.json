@@ -1,0 +1,35 @@
+{
+  "updatedAt": "2026-08-23",
+  "editorialReference": {
+    "title": "きょうのFM八丈島｜note",
+    "url": "https://note.com/hachijojima",
+    "principles": [
+      "風・霧・湿度・港・船・夜の灯りを感じること",
+      "島から外の世界を見ている感覚があること",
+      "静けさだけでなく、少しの高揚や生々しさを持つこと",
+      "作品単位で最後まで置いておけること"
+    ]
+  },
+  "candidates": [
+    {
+      "status": "review",
+      "youtubeId": "suMt6wjJSV0",
+      "title": "Popol Vuh – In den Gärten Pharaos (1971)",
+      "channel": "emBLICko",
+      "duration": 3588,
+      "url": "https://www.youtube.com/watch?v=suMt6wjJSV0",
+      "tags": ["空にある森", "夜", "長尺作品"],
+      "reason": "noteで取り上げられたPopol Vuhを起点にした、夜の森・霧の文脈の候補。埋め込み可能。"
+    },
+    {
+      "status": "review",
+      "youtubeId": "05A-LRoAzUc",
+      "title": "Popol Vuh – Spirit of Peace (1985)",
+      "channel": "Psychedelic Underground V",
+      "duration": 2285,
+      "url": "https://www.youtube.com/watch?v=05A-LRoAzUc",
+      "tags": ["空にある森", "夜", "フルアルバム"],
+      "reason": "同じくPopol Vuhの別時代のフル作品。埋め込み可能。"
+    }
+  ]
+}
