@@ -27,11 +27,22 @@
       "channelStreamsUrl": "https://www.youtube.com/@24時間チャレンジ八丈太鼓/streams",
       "segmentDuration": 3600,
       "sources": [
-        {"id":"taiko-2025","youtubeId":"LgXe2_Z5EMc","duration":21043,"archiveYear":2025,"sourceChannel":"24時間チャレンジ八丈太鼓","sourceTitle":"24時間チャレンジ八丈太鼓 2025"},
-        {"id":"taiko-2024","youtubeId":"lKQCWt3vpu0","duration":35462,"archiveYear":2024,"sourceChannel":"24時間チャレンジ八丈太鼓","sourceTitle":"24時間チャレンジ八丈太鼓 2024"},
-        {"id":"taiko-2023","youtubeId":"hX_IdIUV8T0","duration":33917,"archiveYear":2023,"sourceChannel":"24時間チャレンジ八丈太鼓","sourceTitle":"24時間チャレンジ八丈太鼓 2023"},
-        {"id":"taiko-2022","youtubeId":"Kb9iP5JFMfM","duration":27621,"archiveYear":2022,"sourceChannel":"24時間チャレンジ八丈太鼓","sourceTitle":"24時間チャレンジ八丈太鼓 2022"},
-        {"id":"taiko-2021","youtubeId":"DeJfJgVSdgM","duration":28410,"archiveYear":2021,"sourceChannel":"24時間チャレンジ八丈太鼓","sourceTitle":"24時間チャレンジ八丈太鼓 2021"}
+        {"id":"taiko-2021-part-1","youtubeId":"1afEXDLYIpw","archiveYear":2021,"part":"Part 1","duration":34481,"sourceTitle":"[Part1] 第12回 24時間チャレンジ八丈太鼓 オープニング","sourceChannel":"24時間チャレンジ八丈太鼓","url":"https://www.youtube.com/watch?v=1afEXDLYIpw"},
+        {"id":"taiko-2021-part-2","youtubeId":"u2OSRiiow6E","archiveYear":2021,"part":"Part 2","duration":29498,"sourceTitle":"[Part2] 第12回 24時間チャレンジ八丈太鼓","sourceChannel":"24時間チャレンジ八丈太鼓","url":"https://www.youtube.com/watch?v=u2OSRiiow6E"},
+        {"id":"taiko-2021-part-3","youtubeId":"-kWYegfVmho","archiveYear":2021,"part":"Part 3","duration":19543,"sourceTitle":"[Part3] 第12回 24時間チャレンジ八丈太鼓","sourceChannel":"24時間チャレンジ八丈太鼓","url":"https://www.youtube.com/watch?v=-kWYegfVmho"},
+        {"id":"taiko-2021-part-4","youtubeId":"S7GCqLC17y0","archiveYear":2021,"part":"Part 4","duration":10440,"sourceTitle":"[Part4] 第12回 24時間チャレンジ八丈太鼓","sourceChannel":"24時間チャレンジ八丈太鼓","url":"https://www.youtube.com/watch?v=S7GCqLC17y0"},
+        {"id":"taiko-2022-part-1","youtubeId":"HNgqywxCz84","archiveYear":2022,"part":"Part 1","duration":26763,"sourceTitle":"第13回 24時間チャレンジ八丈太鼓 Part1","sourceChannel":"24時間チャレンジ八丈太鼓","url":"https://www.youtube.com/watch?v=HNgqywxCz84"},
+        {"id":"taiko-2022-part-2","youtubeId":"EseUp8tHcBU","archiveYear":2022,"part":"Part 2","duration":30091,"sourceTitle":"第13回 24時間チャレンジ八丈太鼓 Part2","sourceChannel":"24時間チャレンジ八丈太鼓","url":"https://www.youtube.com/watch?v=EseUp8tHcBU"},
+        {"id":"taiko-2022-final","youtubeId":"wAkycmxR52I","archiveYear":2022,"part":"Final","duration":34127,"sourceTitle":"第13回 24時間チャレンジ八丈太鼓 Part Final","sourceChannel":"24時間チャレンジ八丈太鼓","url":"https://www.youtube.com/watch?v=wAkycmxR52I"},
+        {"id":"taiko-2023-part-1","youtubeId":"11EveZqW4CU","archiveYear":2023,"part":"Part 1","duration":24405,"sourceTitle":"第14回 24時間チャレンジ八丈太鼓 Part1","sourceChannel":"24時間チャレンジ八丈太鼓","url":"https://www.youtube.com/watch?v=11EveZqW4CU"},
+        {"id":"taiko-2023-part-2","youtubeId":"od_Yh8puyew","archiveYear":2023,"part":"Part 2","duration":30684,"sourceTitle":"第14回 24時間チャレンジ八丈太鼓 Part2","sourceChannel":"24時間チャレンジ八丈太鼓","url":"https://www.youtube.com/watch?v=od_Yh8puyew"},
+        {"id":"taiko-2023-part-3-final","youtubeId":"DrGTL-CJRRo","archiveYear":2023,"part":"Part 3 Final","duration":34245,"sourceTitle":"第14回 24時間チャレンジ八丈太鼓 Part 3 Final","sourceChannel":"24時間チャレンジ八丈太鼓","url":"https://www.youtube.com/watch?v=DrGTL-CJRRo"},
+        {"id":"taiko-2024-part-1","youtubeId":"iOGtDcKVLC4","archiveYear":2024,"part":"Part 1","duration":35865,"sourceTitle":"【2024年第15回 24時間チャレンジ八丈太鼓】 Part 1","sourceChannel":"24時間チャレンジ八丈太鼓","url":"https://www.youtube.com/watch?v=iOGtDcKVLC4"},
+        {"id":"taiko-2024-part-2","youtubeId":"DeJfJgVSdgM","archiveYear":2024,"part":"Part 2","duration":28410,"sourceTitle":"【2024年 第15回 24時間チャレンジ八丈太鼓】 Part 2","sourceChannel":"24時間チャレンジ八丈太鼓","url":"https://www.youtube.com/watch?v=DeJfJgVSdgM"},
+        {"id":"taiko-2024-part-3-final","youtubeId":"Kb9iP5JFMfM","archiveYear":2024,"part":"Part 3 Final","duration":27621,"sourceTitle":"【2024年 第15回 24時間チャレンジ八丈太鼓】 Part 3 Final","sourceChannel":"24時間チャレンジ八丈太鼓","url":"https://www.youtube.com/watch?v=Kb9iP5JFMfM"},
+        {"id":"taiko-2025-part-1","youtubeId":"hX_IdIUV8T0","archiveYear":2025,"part":"Part 1","duration":33917,"sourceTitle":"【2025年】第16回 24時間チャレンジ八丈太鼓 Part 1","sourceChannel":"24時間チャレンジ八丈太鼓","url":"https://www.youtube.com/watch?v=hX_IdIUV8T0"},
+        {"id":"taiko-2025-part-2","youtubeId":"lKQCWt3vpu0","archiveYear":2025,"part":"Part 2","duration":35462,"sourceTitle":"【2025年】第16回 24時間チャレンジ八丈太鼓 Part 2","sourceChannel":"24時間チャレンジ八丈太鼓","url":"https://www.youtube.com/watch?v=lKQCWt3vpu0"},
+        {"id":"taiko-2025-part-3","youtubeId":"LgXe2_Z5EMc","archiveYear":2025,"part":"Part 3","duration":21043,"sourceTitle":"【2025年】第16回 24時間チャレンジ八丈太鼓 Part 3","sourceChannel":"24時間チャレンジ八丈太鼓","url":"https://www.youtube.com/watch?v=LgXe2_Z5EMc"}
       ]
     },
     "islandLeague": {
