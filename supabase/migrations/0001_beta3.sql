@@ -23,3 +23,14 @@ create policy "admin all schedule items" on public.schedule_items for all using 
 create policy "admin read history" on public.playout_history for select using (public.is_admin());
 create policy "admin write history" on public.playout_history for insert with check (public.is_admin());
 create policy "profile self read" on public.profiles for select using (id=auth.uid());
+
+-- Data API privileges are deliberately narrower than the RLS policies above.
+grant usage on schema public to anon, authenticated;
+revoke all on table public.program_families, public.content_items, public.archive_sources, public.daily_schedules, public.schedule_items, public.playout_history, public.profiles from anon, authenticated;
+grant select on table public.program_families, public.content_items, public.archive_sources, public.daily_schedules, public.schedule_items to anon;
+grant select, insert, update, delete on table public.program_families, public.content_items, public.archive_sources, public.daily_schedules, public.schedule_items to authenticated;
+grant select, insert on table public.playout_history to authenticated;
+grant select on table public.profiles to authenticated;
+revoke all on function public.is_admin() from public;
+grant execute on function public.is_admin() to anon, authenticated;
+revoke all on function public.handle_new_user() from public, anon, authenticated;
