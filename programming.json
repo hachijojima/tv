@@ -16,7 +16,7 @@
   "dayparts":[
     {"name":"DEEP NIGHT","start":0,"end":18000,"family":"nightMusic"},
     {"name":"MORNING","start":18000,"end":36000,"family":"islandArchive"},
-    {"name":"DAYTIME","start":36000,"end":61200,"family":"islandArchive"},
+    {"name":"DAYTIME","start":36000,"end":61200,"family":"longPlay"},
     {"name":"EVENING","start":61200,"end":72000,"family":"islandArchive"},
     {"name":"NIGHT","start":72000,"end":86400,"family":"nightMusic"}
   ],
