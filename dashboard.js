@@ -3,6 +3,8 @@ const cfg = window.FM_HACHIJO_SUPABASE;
 const sb = window.supabase.createClient(cfg.url, cfg.publishableKey);
 let families = [];
 let items = [];
+let pendingRecords = null;
+let youtubeApiPromise = null;
 
 const escapeHtml = value => String(value || '').replace(/[&<>"']/g, character => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[character]));
 const idFrom = value => (value.match(/(?:youtu\.be\/|[?&]v=|\/embed\/)([\w-]{11})/) || [])[1];
@@ -40,25 +42,93 @@ async function youtubeMetadata(url, youtubeId) {
   } catch { return { verified: false }; }
 }
 
-async function saveContent() {
-  const urls = $d('#urls').value.split(/\n+/).map(value => value.trim()).filter(Boolean);
-  const duration = Number($d('#duration').value);
-  if (!urls.length || !Number.isFinite(duration) || duration < 1) return void ($d('#save-status').textContent = 'URLと秒単位の再生時間を入力してください。');
-  const parsed = urls.map(url => ({ url, youtubeId: idFrom(url) }));
-  if (parsed.some(item => !item.youtubeId)) return void ($d('#save-status').textContent = 'YouTube動画URLを1行ずつ入力してください。');
+function loadYouTubeApi() {
+  if (window.YT?.Player) return Promise.resolve(window.YT);
+  if (youtubeApiPromise) return youtubeApiPromise;
+  youtubeApiPromise = new Promise((resolve, reject) => {
+    const previous = window.onYouTubeIframeAPIReady;
+    window.onYouTubeIframeAPIReady = () => { previous?.(); resolve(window.YT); };
+    const script = document.createElement('script');
+    script.src = 'https://www.youtube.com/iframe_api';
+    script.onerror = () => reject(new Error('YouTube Player APIを読み込めませんでした。'));
+    document.head.append(script);
+  });
+  return youtubeApiPromise;
+}
+
+async function youtubeDuration(youtubeId) {
+  const YT = await loadYouTubeApi();
+  const mount = document.createElement('div');
+  mount.setAttribute('aria-hidden', 'true');
+  mount.style.cssText = 'position:fixed;left:-2px;bottom:-2px;width:1px;height:1px;overflow:hidden;opacity:0;pointer-events:none';
+  const playerId = `duration-probe-${youtubeId}-${Date.now()}`;
+  mount.id = playerId;
+  document.body.append(mount);
+  return new Promise(resolve => {
+    let settled = false;
+    const finish = value => { if (!settled) { settled = true; try { player.destroy(); } catch {} mount.remove(); resolve(value); } };
+    const timer = setTimeout(() => finish(null), 12000);
+    const player = new YT.Player(playerId, {
+      width: '1', height: '1', videoId: youtubeId,
+      playerVars: { autoplay: 0, controls: 0, playsinline: 1, rel: 0 },
+      events: {
+        onReady: event => {
+          const read = () => { const duration = Math.round(event.target.getDuration()); if (duration > 0) { clearTimeout(timer); finish(duration); } };
+          read(); setTimeout(read, 800); setTimeout(read, 2200);
+        },
+        onError: () => { clearTimeout(timer); finish(null); }
+      }
+    });
+  });
+}
+
+function renderDurationFallbacks(records) {
+  const missing = records.filter(record => !record.duration_seconds);
+  $d('#duration-fallbacks').innerHTML = missing.map(record => `<label>Duration (seconds) <small>${escapeHtml(record.source_title || record.youtube_id)} — 自動取得できませんでした。</small><input type="number" min="1" data-duration-for="${escapeHtml(record.youtube_id)}" placeholder="seconds"></label>`).join('');
+  $d('#duration-fallbacks').hidden = !missing.length;
+}
+
+async function persistRecords(records) {
+  const missing = records.filter(record => !record.duration_seconds);
+  if (missing.length) {
+    missing.forEach(record => { record.duration_seconds = Number($d(`[data-duration-for="${record.youtube_id}"]`)?.value); });
+    if (missing.some(record => !Number.isFinite(record.duration_seconds) || record.duration_seconds < 1)) {
+      $d('#save-status').textContent = '自動取得できなかった動画だけ、秒数を入力してください。';
+      return;
+    }
+  }
   $d('#save').disabled = true;
-  $d('#save-status').textContent = `YouTube情報を確認中…（${parsed.length}件）`;
-  const records = await Promise.all(parsed.map(async item => {
-    const metadata = await youtubeMetadata(item.url, item.youtubeId);
-    return { family_code: $d('#family-code').value, youtube_id: item.youtubeId, source_url: item.url, source_title: metadata.source_title || item.youtubeId, source_channel: metadata.source_channel || null, public_title: metadata.source_title || item.youtubeId, duration_seconds: duration, content_type: 'vod', atomic: true, enabled: true, verified: metadata.verified };
-  }));
   const { error } = await sb.from('content_items').upsert(records, { onConflict: 'youtube_id' });
   $d('#save').disabled = false;
   if (error) return void ($d('#save-status').textContent = error.message);
   $d('#urls').value = '';
-  $d('#duration').value = '';
-  $d('#save-status').textContent = `${records.length}件を保存しました。CHECKEDはoEmbed応答の一次確認済みです。`;
+  $d('#duration-fallbacks').innerHTML = '';
+  $d('#duration-fallbacks').hidden = true;
+  pendingRecords = null;
+  $d('#save-status').textContent = `${records.length}件を、動画ごとの実durationで保存しました。`;
   await loadLibrary();
+}
+
+async function saveContent() {
+  if (pendingRecords) return persistRecords(pendingRecords);
+  const urls = $d('#urls').value.split(/\n+/).map(value => value.trim()).filter(Boolean);
+  if (!urls.length) return void ($d('#save-status').textContent = 'YouTube動画URLを1行ずつ入力してください。');
+  const parsed = urls.map(url => ({ url, youtubeId: idFrom(url) }));
+  if (parsed.some(item => !item.youtubeId)) return void ($d('#save-status').textContent = 'YouTube動画URLを1行ずつ入力してください。');
+  $d('#save').disabled = true;
+  $d('#save-status').textContent = `YouTube情報・実durationを確認中…（${parsed.length}件）`;
+  const records = await Promise.all(parsed.map(async item => {
+    const [metadata, duration] = await Promise.all([youtubeMetadata(item.url, item.youtubeId), youtubeDuration(item.youtubeId)]);
+    return { family_code: $d('#family-code').value, youtube_id: item.youtubeId, source_url: item.url, source_title: metadata.source_title || item.youtubeId, source_channel: metadata.source_channel || null, public_title: metadata.source_title || item.youtubeId, duration_seconds: duration, content_type: 'vod', atomic: true, enabled: true, verified: metadata.verified && Boolean(duration) };
+  }));
+  $d('#save').disabled = false;
+  pendingRecords = records;
+  renderDurationFallbacks(records);
+  if (records.some(record => !record.duration_seconds)) {
+    $d('#save-status').textContent = '取得不能な動画があります。表示された行だけ秒数を入力して、もう一度SAVEしてください。';
+    return;
+  }
+  await persistRecords(records);
 }
 
 async function updateItem(item, changes) {
@@ -150,6 +220,7 @@ async function start() {
   $d('#auth-submit').onclick = async () => { const { error } = await sb.auth.signInWithPassword({ email: $d('#auth-email').value, password: $d('#auth-password').value }); $d('#auth-status').textContent = error?.message || 'ログインしました。'; if (!error) await auth(); };
   $d('#auth-logout').onclick = async () => { await sb.auth.signOut(); location.reload(); };
   $d('#save').onclick = saveContent;
+  $d('#urls').oninput = () => { pendingRecords = null; $d('#duration-fallbacks').innerHTML = ''; $d('#duration-fallbacks').hidden = true; };
   $d('#library-search').oninput = renderItems;
   $d('#library-list').onclick = handleItemAction;
   $d('#generate-week').onclick = generateWeek;
