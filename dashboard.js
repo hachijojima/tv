@@ -119,8 +119,9 @@ async function persistRecords(records) {
   pendingRecords = null;
   const existingIds = new Set((existing || []).map(row => row.youtube_id));
   renderSaveResults(records, Object.fromEntries(records.map(record => [record.youtube_id, existingIds.has(record.youtube_id) ? '既存を更新して保存済み' : '新規保存済み'])));
-  $d('#save-status').textContent = `${records.length}件を、動画ごとの実durationで保存しました。下の結果を確認してください。`;
+  $d('#save-status').textContent = `${records.length}件を保存しました。今後7日分の編成を自動更新中です。`;
   await loadLibrary();
+  await generateWeek({ confirmBeforeReplace: false, reason: '素材更新に合わせて7日分の編成を自動更新しました。' });
 }
 
 async function saveContent() {
@@ -207,8 +208,8 @@ async function loadWeek() {
   }).join('') || '<p class="candidate-empty">まだ確定済みの番組表はありません。管理者がGENERATEを実行してください。</p>';
 }
 
-async function generateWeek() {
-  if (!confirm('今後7日分の確定番組表を置き換えます。')) return;
+async function generateWeek({ confirmBeforeReplace = true, reason = '7日分をDBへ確定保存しました。diagnosticsの警告を確認してください。' } = {}) {
+  if (confirmBeforeReplace && !confirm('今後7日分の確定番組表を置き換えます。')) return;
   $d('#generate-week').disabled = true;
   $d('#schedule-status').textContent = 'ライブラリと7日分の編成を読み込み中…';
   const library = await fetch('library.json', { cache: 'no-store' }).then(response => response.json());
@@ -228,7 +229,7 @@ async function generateWeek() {
     const { error: itemError } = await sb.from('schedule_items').insert(rows);
     if (itemError) { $d('#schedule-status').textContent = itemError.message; $d('#generate-week').disabled = false; return; }
   }
-  $d('#schedule-status').textContent = '7日分をDBへ確定保存しました。diagnosticsの警告を確認してください。';
+  $d('#schedule-status').textContent = reason;
   $d('#generate-week').disabled = false;
   await loadWeek();
 }
@@ -240,7 +241,7 @@ async function start() {
   $d('#urls').oninput = () => { pendingRecords = null; $d('#duration-fallbacks').innerHTML = ''; $d('#duration-fallbacks').hidden = true; $d('#save-results').innerHTML = ''; };
   $d('#library-search').oninput = renderItems;
   $d('#library-list').onclick = handleItemAction;
-  $d('#generate-week').onclick = generateWeek;
+  $d('#generate-week').onclick = () => generateWeek();
   await auth();
   await loadWeek();
 }
