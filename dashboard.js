@@ -96,7 +96,54 @@ async function auth() {
   if (error || !profile?.is_admin) return void ($d('#auth-status').textContent = 'このユーザーは管理者ではありません。');
   $d('#admin-panel').hidden = false;
   $d('#library-panel').hidden = false;
+  $d('#generate-week').hidden = false;
   await loadLibrary();
+}
+
+function jstDate(offset = 0) {
+  const parts = Object.fromEntries(new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Tokyo', year: 'numeric', month: '2-digit', day: '2-digit' }).formatToParts().filter(part => part.type !== 'literal').map(part => [part.type, part.value]));
+  const date = new Date(Date.UTC(+parts.year, +parts.month - 1, +parts.day + offset));
+  return { year: String(date.getUTCFullYear()), month: String(date.getUTCMonth() + 1).padStart(2, '0'), day: String(date.getUTCDate()).padStart(2, '0') };
+}
+const dateKey = date => `${date.year}-${date.month}-${date.day}`;
+const timestamp = (date, seconds) => { const value = new Date(Date.UTC(+date.year, +date.month - 1, +date.day + Math.floor(seconds / 86400), 0, 0, seconds % 86400)); return `${value.getUTCFullYear()}-${String(value.getUTCMonth() + 1).padStart(2, '0')}-${String(value.getUTCDate()).padStart(2, '0')}T${String(value.getUTCHours()).padStart(2, '0')}:${String(value.getUTCMinutes()).padStart(2, '0')}:${String(value.getUTCSeconds()).padStart(2, '0')}+09:00`; };
+
+async function loadWeek() {
+  const start = dateKey(jstDate());
+  const end = dateKey(jstDate(7));
+  const { data: schedules, error } = await sb.from('daily_schedules').select('id,broadcast_date,diagnostics,rule_version,schedule_items(start_at,end_at,family_code,detail,content_id,source_id)').gte('broadcast_date', start).lt('broadcast_date', end).order('broadcast_date');
+  if (error) { $d('#schedule-status').textContent = error.message; return; }
+  $d('#week').innerHTML = (schedules || []).map((schedule, index) => {
+    const diagnostics = schedule.diagnostics || {}, counts = diagnostics.counts || {}, warnings = diagnostics.warnings || [];
+    const entries = (schedule.schedule_items || []).sort((a, b) => a.start_at.localeCompare(b.start_at)).map(item => `<p><time>${item.start_at.slice(11, 16)}</time><span>${escapeHtml(item.family_code)}</span><small>${escapeHtml(item.detail?.sourceTitle || item.detail?.archiveYear ? `${item.detail?.archiveYear || ''} ${item.detail?.archivePart || ''}` : '')}</small></p>`).join('');
+    return `<details ${index ? '' : 'open'}><summary>${schedule.broadcast_date} · score ${diagnostics.diversity_score ?? '—'}</summary><p class="candidate-meta">LONG PLAY ${counts['LONG PLAY'] ?? 0}/4 · TAIKO ${counts['HACHIJO TAIKO'] ?? 0}/4 · SPORTS ${counts.SPORTS ?? 0} · BRIDGE ${Math.round((diagnostics.bridge_total_seconds || 0) / 60)}m</p>${warnings.length ? `<p class="candidate-reason">${escapeHtml(warnings.join(' / '))}</p>` : ''}${entries}</details>`;
+  }).join('') || '<p class="candidate-empty">まだ確定済みの番組表はありません。管理者がGENERATEを実行してください。</p>';
+}
+
+async function generateWeek() {
+  if (!confirm('今後7日分の確定番組表を置き換えます。')) return;
+  $d('#generate-week').disabled = true;
+  $d('#schedule-status').textContent = 'ライブラリと7日分の編成を読み込み中…';
+  const library = await fetch('library.json', { cache: 'no-store' }).then(response => response.json());
+  const [{ data: contentRows, error: contentError }, { data: sourceRows, error: sourceError }] = await Promise.all([
+    sb.from('content_items').select('id,youtube_id'), sb.from('archive_sources').select('id,youtube_id')
+  ]);
+  if (contentError || sourceError) { $d('#schedule-status').textContent = (contentError || sourceError).message; $d('#generate-week').disabled = false; return; }
+  const contentId = new Map((contentRows || []).map(row => [row.youtube_id, row.id]));
+  const sourceId = new Map((sourceRows || []).map(row => [row.youtube_id, row.id]));
+  for (let offset = 0; offset < 7; offset++) {
+    const date = jstDate(offset), generated = window.HachijoScheduleV3.build(library, date);
+    const { data: schedule, error } = await sb.from('daily_schedules').upsert({ broadcast_date: generated.date, rule_version: generated.ruleVersion, diversity_score: generated.diagnostics.diversity_score, diagnostics: generated.diagnostics }, { onConflict: 'broadcast_date' }).select('id').single();
+    if (error) { $d('#schedule-status').textContent = error.message; $d('#generate-week').disabled = false; return; }
+    const { error: deleteError } = await sb.from('schedule_items').delete().eq('schedule_id', schedule.id);
+    if (deleteError) { $d('#schedule-status').textContent = deleteError.message; $d('#generate-week').disabled = false; return; }
+    const rows = generated.items.map(program => ({ schedule_id: schedule.id, start_at: timestamp(date, program.start), end_at: timestamp(date, program.end), family_code: ({ 'LONG PLAY': 'long_play', 'HACHIJO TAIKO': 'hachijo_taiko', SPORTS: 'island_league', 'HACHIJO ARCHIVE': 'hachijo_archive', 'HACHIJO NOW': 'island_camera', 'TOKYO RELAY': 'tokyo_relay', DAWN: 'dawn', SUNSET: 'sunset', 'AFTER HOURS': 'after_hours' }[program.programLabel] || 'island_camera'), content_id: contentId.get(program.youtubeId) || null, source_id: sourceId.get(program.youtubeId) || null, start_offset: program.sourceOffset || 0, end_offset: program.sourceOffset ? program.sourceOffset + (program.end - program.start) : null, detail: program }));
+    const { error: itemError } = await sb.from('schedule_items').insert(rows);
+    if (itemError) { $d('#schedule-status').textContent = itemError.message; $d('#generate-week').disabled = false; return; }
+  }
+  $d('#schedule-status').textContent = '7日分をDBへ確定保存しました。diagnosticsの警告を確認してください。';
+  $d('#generate-week').disabled = false;
+  await loadWeek();
 }
 
 async function start() {
@@ -105,6 +152,8 @@ async function start() {
   $d('#save').onclick = saveContent;
   $d('#library-search').oninput = renderItems;
   $d('#library-list').onclick = handleItemAction;
+  $d('#generate-week').onclick = generateWeek;
   await auth();
+  await loadWeek();
 }
 start();
