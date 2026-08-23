@@ -2,7 +2,7 @@
   "timezone":"Asia/Tokyo",
   "location":{"latitude":33.11,"longitude":139.79},
   "solar":{"dawnBefore":1800,"dawnAfter":1200,"sunsetBefore":1800,"sunsetAfter":1500},
-  "anchors":{"tokyoRelay":{"start":81000,"duration":1200},"clock":[0,10800,21600,32400,43200,54000,64800,75600]},
+  "anchors":{"tokyoRelay":{"start":81000,"duration":1200},"nightRelayStart":3600,"clock":[0,10800,21600,32400,43200,54000,64800,75600]},
   "pools":{
     "hachijoTaiko":{"slots":[
       {"name":"morning","candidates":[21600,23400,25200,27000,28800,30600,32400]},
