@@ -90,6 +90,14 @@ function renderDurationFallbacks(records) {
   $d('#duration-fallbacks').hidden = !missing.length;
 }
 
+function renderSaveResults(records, states = {}) {
+  $d('#save-results').innerHTML = records.map(record => {
+    const state = states[record.youtube_id] || (record.duration_seconds ? '取得済み' : '要手入力');
+    const duration = record.duration_seconds ? secondsLabel(record.duration_seconds) : 'duration未取得';
+    return `<article class="candidate"><div><p class="candidate-kicker">${escapeHtml(state)} · ${escapeHtml(duration)}</p><h3>${escapeHtml(record.source_title || record.youtube_id)}</h3><p class="candidate-meta">${escapeHtml(record.youtube_id)}</p></div></article>`;
+  }).join('');
+}
+
 async function persistRecords(records) {
   const missing = records.filter(record => !record.duration_seconds);
   if (missing.length) {
@@ -100,6 +108,8 @@ async function persistRecords(records) {
     }
   }
   $d('#save').disabled = true;
+  const { data: existing, error: lookupError } = await sb.from('content_items').select('youtube_id').in('youtube_id', records.map(record => record.youtube_id));
+  if (lookupError) { $d('#save').disabled = false; $d('#save-status').textContent = lookupError.message; return; }
   const { error } = await sb.from('content_items').upsert(records, { onConflict: 'youtube_id' });
   $d('#save').disabled = false;
   if (error) return void ($d('#save-status').textContent = error.message);
@@ -107,7 +117,9 @@ async function persistRecords(records) {
   $d('#duration-fallbacks').innerHTML = '';
   $d('#duration-fallbacks').hidden = true;
   pendingRecords = null;
-  $d('#save-status').textContent = `${records.length}件を、動画ごとの実durationで保存しました。`;
+  const existingIds = new Set((existing || []).map(row => row.youtube_id));
+  renderSaveResults(records, Object.fromEntries(records.map(record => [record.youtube_id, existingIds.has(record.youtube_id) ? '既存を更新して保存済み' : '新規保存済み'])));
+  $d('#save-status').textContent = `${records.length}件を、動画ごとの実durationで保存しました。下の結果を確認してください。`;
   await loadLibrary();
 }
 
@@ -119,10 +131,13 @@ async function saveContent() {
   if (parsed.some(item => !item.youtubeId)) return void ($d('#save-status').textContent = 'YouTube動画URLを1行ずつ入力してください。');
   $d('#save').disabled = true;
   $d('#save-status').textContent = `YouTube情報・実durationを確認中…（${parsed.length}件）`;
-  const records = await Promise.all(parsed.map(async item => {
+  const records = [];
+  for (const [index, item] of parsed.entries()) {
+    $d('#save-status').textContent = `YouTube情報・実durationを確認中… ${index + 1}/${parsed.length}`;
     const [metadata, duration] = await Promise.all([youtubeMetadata(item.url, item.youtubeId), youtubeDuration(item.youtubeId).catch(() => null)]);
-    return { family_code: $d('#family-code').value, youtube_id: item.youtubeId, source_url: item.url, source_title: metadata.source_title || item.youtubeId, source_channel: metadata.source_channel || null, public_title: metadata.source_title || item.youtubeId, duration_seconds: duration, content_type: 'vod', atomic: true, enabled: true, verified: metadata.verified && Boolean(duration) };
-  }));
+    records.push({ family_code: $d('#family-code').value, youtube_id: item.youtubeId, source_url: item.url, source_title: metadata.source_title || item.youtubeId, source_channel: metadata.source_channel || null, public_title: metadata.source_title || item.youtubeId, duration_seconds: duration, content_type: 'vod', atomic: true, enabled: true, verified: metadata.verified && Boolean(duration) });
+    renderSaveResults(records);
+  }
   $d('#save').disabled = false;
   pendingRecords = records;
   renderDurationFallbacks(records);
@@ -222,7 +237,7 @@ async function start() {
   $d('#auth-submit').onclick = async () => { const { error } = await sb.auth.signInWithPassword({ email: $d('#auth-email').value, password: $d('#auth-password').value }); $d('#auth-status').textContent = error?.message || 'ログインしました。'; if (!error) await auth(); };
   $d('#auth-logout').onclick = async () => { await sb.auth.signOut(); location.reload(); };
   $d('#save').onclick = saveContent;
-  $d('#urls').oninput = () => { pendingRecords = null; $d('#duration-fallbacks').innerHTML = ''; $d('#duration-fallbacks').hidden = true; };
+  $d('#urls').oninput = () => { pendingRecords = null; $d('#duration-fallbacks').innerHTML = ''; $d('#duration-fallbacks').hidden = true; $d('#save-results').innerHTML = ''; };
   $d('#library-search').oninput = renderItems;
   $d('#library-list').onclick = handleItemAction;
   $d('#generate-week').onclick = generateWeek;
