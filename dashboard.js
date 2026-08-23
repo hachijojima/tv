@@ -65,20 +65,22 @@ async function youtubeDuration(youtubeId) {
   mount.id = playerId;
   document.body.append(mount);
   return new Promise(resolve => {
-    let settled = false;
-    const finish = value => { if (!settled) { settled = true; try { player.destroy(); } catch {} mount.remove(); resolve(value); } };
-    const timer = setTimeout(() => finish(null), 12000);
-    const player = new YT.Player(playerId, {
-      width: '1', height: '1', videoId: youtubeId,
-      playerVars: { autoplay: 0, controls: 0, playsinline: 1, rel: 0 },
-      events: {
-        onReady: event => {
-          const read = () => { const duration = Math.round(event.target.getDuration()); if (duration > 0) { clearTimeout(timer); finish(duration); } };
-          read(); setTimeout(read, 800); setTimeout(read, 2200);
-        },
-        onError: () => { clearTimeout(timer); finish(null); }
-      }
-    });
+    let settled = false, player, timer;
+    const finish = value => { if (!settled) { settled = true; try { player?.destroy(); } catch {} mount.remove(); resolve(value); } };
+    timer = setTimeout(() => finish(null), 12000);
+    try {
+      player = new YT.Player(playerId, {
+        width: '1', height: '1', videoId: youtubeId,
+        playerVars: { autoplay: 0, controls: 0, playsinline: 1, rel: 0 },
+        events: {
+          onReady: event => {
+            const read = () => { const duration = Math.round(event.target.getDuration()); if (duration > 0) { clearTimeout(timer); finish(duration); } };
+            read(); setTimeout(read, 800); setTimeout(read, 2200);
+          },
+          onError: () => { clearTimeout(timer); finish(null); }
+        }
+      });
+    } catch { clearTimeout(timer); finish(null); }
   });
 }
 
@@ -118,7 +120,7 @@ async function saveContent() {
   $d('#save').disabled = true;
   $d('#save-status').textContent = `YouTube情報・実durationを確認中…（${parsed.length}件）`;
   const records = await Promise.all(parsed.map(async item => {
-    const [metadata, duration] = await Promise.all([youtubeMetadata(item.url, item.youtubeId), youtubeDuration(item.youtubeId)]);
+    const [metadata, duration] = await Promise.all([youtubeMetadata(item.url, item.youtubeId), youtubeDuration(item.youtubeId).catch(() => null)]);
     return { family_code: $d('#family-code').value, youtube_id: item.youtubeId, source_url: item.url, source_title: metadata.source_title || item.youtubeId, source_channel: metadata.source_channel || null, public_title: metadata.source_title || item.youtubeId, duration_seconds: duration, content_type: 'vod', atomic: true, enabled: true, verified: metadata.verified && Boolean(duration) };
   }));
   $d('#save').disabled = false;
