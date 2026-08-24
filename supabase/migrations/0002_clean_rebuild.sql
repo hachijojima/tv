@@ -17,7 +17,7 @@ create table if not exists public.profiles (
 
 create table public.content_items (
   id uuid primary key default gen_random_uuid(),
-  family_code text not null check (family_code in ('music','hachijo_taiko','sports','hachijo_picks')),
+  family_code text not null check (family_code in ('music','hachijo_taiko','power_push','sports','hachijo_picks')),
   youtube_id text not null unique check (youtube_id ~ '^[A-Za-z0-9_-]{11}$'),
   title text not null,
   channel_name text,
@@ -28,7 +28,7 @@ create table public.content_items (
 
 create table public.schedule_items (
   id uuid primary key default gen_random_uuid(),
-  family_code text not null check (family_code in ('music','hachijo_taiko','sports','hachijo_picks','island_view','tokyo_relay')),
+  family_code text not null check (family_code in ('music','hachijo_taiko','power_push','sports','hachijo_picks','island_view','tokyo_relay')),
   youtube_id text not null check (youtube_id ~ '^[A-Za-z0-9_-]{11}$'),
   title text,
   start_at timestamptz not null,
@@ -72,16 +72,17 @@ declare
   horizon timestamptz := replace_from + interval '72 hours';
   local_day date; dawn_start timestamptz; dawn_end timestamptz; sunset_start timestamptz; sunset_end timestamptz; relay_start timestamptz; relay_end timestamptz; next_special timestamptz;
   current_family text := 'music'; selected record; natural_end timestamptz; night_program boolean := false; force_night_relay boolean := false;
-  music_pos integer := 1; taiko_pos integer := 1; sports_pos integer := 1; picks_pos integer := 1;
+  music_pos integer := 1; taiko_pos integer := 1; power_pos integer := 1; sports_pos integer := 1; picks_pos integer := 1;
 begin
   if not public.is_admin() then raise exception 'admin required'; end if;
   create temporary table if not exists fmh_queue (family_code text, ord integer, youtube_id text, title text, duration_secs integer, start_offset_seconds integer) on commit drop;
   truncate fmh_queue;
   insert into fmh_queue select 'music', row_number() over (order by random()), youtube_id, title, duration_secs, null from public.content_items where family_code='music';
   insert into fmh_queue select 'hachijo_picks', row_number() over (order by random()), youtube_id, title, duration_secs, null from public.content_items where family_code='hachijo_picks';
+  insert into fmh_queue select 'power_push', row_number() over (order by random()), youtube_id, title, duration_secs, null from public.content_items where family_code='power_push';
   insert into fmh_queue select 'hachijo_taiko', row_number() over (order by random()), youtube_id, title, 3600, duration_secs - part * 3600 from public.content_items cross join lateral generate_series(1, floor(duration_secs / 3600)::integer) part where family_code='hachijo_taiko';
   insert into fmh_queue select 'sports', row_number() over (order by random()), youtube_id, title, 1800, (part - 1) * 1800 from public.content_items cross join lateral generate_series(1, floor(duration_secs / 1800)::integer) part where family_code='sports';
-  if not exists(select 1 from fmh_queue where family_code='music') or not exists(select 1 from fmh_queue where family_code='hachijo_picks') or not exists(select 1 from fmh_queue where family_code='hachijo_taiko') or not exists(select 1 from fmh_queue where family_code='sports') then raise exception 'all four library families require content'; end if;
+  if not exists(select 1 from fmh_queue where family_code='music') or not exists(select 1 from fmh_queue where family_code='hachijo_picks') or not exists(select 1 from fmh_queue where family_code='hachijo_taiko') or not exists(select 1 from fmh_queue where family_code='power_push') or not exists(select 1 from fmh_queue where family_code='sports') then raise exception 'all five library families require content'; end if;
   update public.schedule_items set end_at=replace_from where start_at < replace_from and end_at > replace_from;
   delete from public.schedule_items where start_at >= replace_from;
   while cursor_at < horizon loop
@@ -107,6 +108,7 @@ begin
     end if;
     if current_family='music' then select * into selected from fmh_queue where family_code='music' order by ord offset music_pos-1 limit 1; if not found then update fmh_queue set ord=floor(random()*1000000) where family_code='music'; music_pos:=1; select * into selected from fmh_queue where family_code='music' order by ord limit 1; end if; music_pos:=music_pos+1;
     elsif current_family='hachijo_taiko' then select * into selected from fmh_queue where family_code='hachijo_taiko' order by ord offset taiko_pos-1 limit 1; if not found then update fmh_queue set ord=floor(random()*1000000) where family_code='hachijo_taiko'; taiko_pos:=1; select * into selected from fmh_queue where family_code='hachijo_taiko' order by ord limit 1; end if; taiko_pos:=taiko_pos+1;
+    elsif current_family='power_push' then select * into selected from fmh_queue where family_code='power_push' order by ord offset power_pos-1 limit 1; if not found then update fmh_queue set ord=floor(random()*1000000) where family_code='power_push'; power_pos:=1; select * into selected from fmh_queue where family_code='power_push' order by ord limit 1; end if; power_pos:=power_pos+1;
     elsif current_family='sports' then select * into selected from fmh_queue where family_code='sports' order by ord offset sports_pos-1 limit 1; if not found then update fmh_queue set ord=floor(random()*1000000) where family_code='sports'; sports_pos:=1; select * into selected from fmh_queue where family_code='sports' order by ord limit 1; end if; sports_pos:=sports_pos+1;
     else select * into selected from fmh_queue where family_code='hachijo_picks' order by ord offset picks_pos-1 limit 1; if not found then update fmh_queue set ord=floor(random()*1000000) where family_code='hachijo_picks'; picks_pos:=1; select * into selected from fmh_queue where family_code='hachijo_picks' order by ord limit 1; end if; picks_pos:=picks_pos+1; end if;
     natural_end := cursor_at + make_interval(secs=>selected.duration_secs);
@@ -114,7 +116,7 @@ begin
     if next_special = 'infinity'::timestamptz then next_special := public.fmh_jst_at(local_day + 1, public.fmh_solar_seconds(local_day + 1, true) - 600); end if;
     insert into public.schedule_items(family_code,youtube_id,title,start_at,end_at,start_offset_seconds) values (current_family,selected.youtube_id,selected.title,cursor_at,least(natural_end,next_special),selected.start_offset_seconds);
     cursor_at := least(natural_end,next_special);
-    if night_program then force_night_relay:=true; night_program:=false; else current_family := case current_family when 'music' then 'hachijo_taiko' when 'hachijo_taiko' then 'sports' when 'sports' then 'hachijo_picks' else 'music' end; end if;
+    if night_program then force_night_relay:=true; night_program:=false; else current_family := case current_family when 'music' then 'hachijo_taiko' when 'hachijo_taiko' then 'power_push' when 'power_push' then 'sports' when 'sports' then 'hachijo_picks' else 'music' end; end if;
   end loop;
 end;
 $$;

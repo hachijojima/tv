@@ -4,7 +4,7 @@
 
 PUBLICはSupabaseの`schedule_items`からNOW/NEXTだけを読み、YouTube公式IFrame Playerで再生します。編成生成はPUBLICでは行いません。
 
-通常familyは`music`、`hachijo_taiko`、`sports`、`hachijo_picks`です。SPECIALは`island_view`と`tokyo_relay`です。
+通常familyは`music`、`hachijo_taiko`、`power_push`、`sports`、`hachijo_picks`です。SPECIALは`island_view`と`tokyo_relay`です。
 
 ## Dashboard
 
