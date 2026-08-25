@@ -1,0 +1,1844 @@
+{
+  "source": "National Astronomical Observatory of Japan, Koyomi Calculation",
+  "sourceUrl": "https://eco.mtk.nao.ac.jp/koyomi/koyomix/",
+  "location": {
+    "latitude": "33°06′21″N",
+    "longitude": "139°47′39″E",
+    "elevationMeters": 0,
+    "timezone": "Asia/Tokyo"
+  },
+  "calendarYear": 2026,
+  "leapDaySourceYear": 2024,
+  "days": {
+    "01-01": {
+      "sourceDate": "2026-01-01",
+      "sunriseSeconds": 24240,
+      "sunsetSeconds": 60300
+    },
+    "01-02": {
+      "sourceDate": "2026-01-02",
+      "sunriseSeconds": 24240,
+      "sunsetSeconds": 60300
+    },
+    "01-03": {
+      "sourceDate": "2026-01-03",
+      "sunriseSeconds": 24240,
+      "sunsetSeconds": 60360
+    },
+    "01-04": {
+      "sourceDate": "2026-01-04",
+      "sunriseSeconds": 24240,
+      "sunsetSeconds": 60420
+    },
+    "01-05": {
+      "sourceDate": "2026-01-05",
+      "sunriseSeconds": 24300,
+      "sunsetSeconds": 60480
+    },
+    "01-06": {
+      "sourceDate": "2026-01-06",
+      "sunriseSeconds": 24300,
+      "sunsetSeconds": 60540
+    },
+    "01-07": {
+      "sourceDate": "2026-01-07",
+      "sunriseSeconds": 24300,
+      "sunsetSeconds": 60540
+    },
+    "01-08": {
+      "sourceDate": "2026-01-08",
+      "sunriseSeconds": 24300,
+      "sunsetSeconds": 60600
+    },
+    "01-09": {
+      "sourceDate": "2026-01-09",
+      "sunriseSeconds": 24300,
+      "sunsetSeconds": 60660
+    },
+    "01-10": {
+      "sourceDate": "2026-01-10",
+      "sunriseSeconds": 24300,
+      "sunsetSeconds": 60720
+    },
+    "01-11": {
+      "sourceDate": "2026-01-11",
+      "sunriseSeconds": 24300,
+      "sunsetSeconds": 60780
+    },
+    "01-12": {
+      "sourceDate": "2026-01-12",
+      "sunriseSeconds": 24240,
+      "sunsetSeconds": 60840
+    },
+    "01-13": {
+      "sourceDate": "2026-01-13",
+      "sunriseSeconds": 24240,
+      "sunsetSeconds": 60900
+    },
+    "01-14": {
+      "sourceDate": "2026-01-14",
+      "sunriseSeconds": 24240,
+      "sunsetSeconds": 60900
+    },
+    "01-15": {
+      "sourceDate": "2026-01-15",
+      "sunriseSeconds": 24240,
+      "sunsetSeconds": 60960
+    },
+    "01-16": {
+      "sourceDate": "2026-01-16",
+      "sunriseSeconds": 24240,
+      "sunsetSeconds": 61020
+    },
+    "01-17": {
+      "sourceDate": "2026-01-17",
+      "sunriseSeconds": 24240,
+      "sunsetSeconds": 61080
+    },
+    "01-18": {
+      "sourceDate": "2026-01-18",
+      "sunriseSeconds": 24180,
+      "sunsetSeconds": 61140
+    },
+    "01-19": {
+      "sourceDate": "2026-01-19",
+      "sunriseSeconds": 24180,
+      "sunsetSeconds": 61200
+    },
+    "01-20": {
+      "sourceDate": "2026-01-20",
+      "sunriseSeconds": 24180,
+      "sunsetSeconds": 61260
+    },
+    "01-21": {
+      "sourceDate": "2026-01-21",
+      "sunriseSeconds": 24120,
+      "sunsetSeconds": 61320
+    },
+    "01-22": {
+      "sourceDate": "2026-01-22",
+      "sunriseSeconds": 24120,
+      "sunsetSeconds": 61380
+    },
+    "01-23": {
+      "sourceDate": "2026-01-23",
+      "sunriseSeconds": 24060,
+      "sunsetSeconds": 61440
+    },
+    "01-24": {
+      "sourceDate": "2026-01-24",
+      "sunriseSeconds": 24060,
+      "sunsetSeconds": 61500
+    },
+    "01-25": {
+      "sourceDate": "2026-01-25",
+      "sunriseSeconds": 24060,
+      "sunsetSeconds": 61560
+    },
+    "01-26": {
+      "sourceDate": "2026-01-26",
+      "sunriseSeconds": 24000,
+      "sunsetSeconds": 61620
+    },
+    "01-27": {
+      "sourceDate": "2026-01-27",
+      "sunriseSeconds": 24000,
+      "sunsetSeconds": 61680
+    },
+    "01-28": {
+      "sourceDate": "2026-01-28",
+      "sunriseSeconds": 23940,
+      "sunsetSeconds": 61740
+    },
+    "01-29": {
+      "sourceDate": "2026-01-29",
+      "sunriseSeconds": 23880,
+      "sunsetSeconds": 61800
+    },
+    "01-30": {
+      "sourceDate": "2026-01-30",
+      "sunriseSeconds": 23880,
+      "sunsetSeconds": 61860
+    },
+    "01-31": {
+      "sourceDate": "2026-01-31",
+      "sunriseSeconds": 23820,
+      "sunsetSeconds": 61920
+    },
+    "02-01": {
+      "sourceDate": "2026-02-01",
+      "sunriseSeconds": 23760,
+      "sunsetSeconds": 61980
+    },
+    "02-02": {
+      "sourceDate": "2026-02-02",
+      "sunriseSeconds": 23760,
+      "sunsetSeconds": 61980
+    },
+    "02-03": {
+      "sourceDate": "2026-02-03",
+      "sunriseSeconds": 23700,
+      "sunsetSeconds": 62040
+    },
+    "02-04": {
+      "sourceDate": "2026-02-04",
+      "sunriseSeconds": 23640,
+      "sunsetSeconds": 62100
+    },
+    "02-05": {
+      "sourceDate": "2026-02-05",
+      "sunriseSeconds": 23640,
+      "sunsetSeconds": 62160
+    },
+    "02-06": {
+      "sourceDate": "2026-02-06",
+      "sunriseSeconds": 23580,
+      "sunsetSeconds": 62220
+    },
+    "02-07": {
+      "sourceDate": "2026-02-07",
+      "sunriseSeconds": 23520,
+      "sunsetSeconds": 62280
+    },
+    "02-08": {
+      "sourceDate": "2026-02-08",
+      "sunriseSeconds": 23460,
+      "sunsetSeconds": 62340
+    },
+    "02-09": {
+      "sourceDate": "2026-02-09",
+      "sunriseSeconds": 23400,
+      "sunsetSeconds": 62400
+    },
+    "02-10": {
+      "sourceDate": "2026-02-10",
+      "sunriseSeconds": 23340,
+      "sunsetSeconds": 62460
+    },
+    "02-11": {
+      "sourceDate": "2026-02-11",
+      "sunriseSeconds": 23340,
+      "sunsetSeconds": 62520
+    },
+    "02-12": {
+      "sourceDate": "2026-02-12",
+      "sunriseSeconds": 23280,
+      "sunsetSeconds": 62580
+    },
+    "02-13": {
+      "sourceDate": "2026-02-13",
+      "sunriseSeconds": 23220,
+      "sunsetSeconds": 62640
+    },
+    "02-14": {
+      "sourceDate": "2026-02-14",
+      "sunriseSeconds": 23160,
+      "sunsetSeconds": 62700
+    },
+    "02-15": {
+      "sourceDate": "2026-02-15",
+      "sunriseSeconds": 23100,
+      "sunsetSeconds": 62760
+    },
+    "02-16": {
+      "sourceDate": "2026-02-16",
+      "sunriseSeconds": 23040,
+      "sunsetSeconds": 62760
+    },
+    "02-17": {
+      "sourceDate": "2026-02-17",
+      "sunriseSeconds": 22980,
+      "sunsetSeconds": 62820
+    },
+    "02-18": {
+      "sourceDate": "2026-02-18",
+      "sunriseSeconds": 22920,
+      "sunsetSeconds": 62880
+    },
+    "02-19": {
+      "sourceDate": "2026-02-19",
+      "sunriseSeconds": 22860,
+      "sunsetSeconds": 62940
+    },
+    "02-20": {
+      "sourceDate": "2026-02-20",
+      "sunriseSeconds": 22800,
+      "sunsetSeconds": 63000
+    },
+    "02-21": {
+      "sourceDate": "2026-02-21",
+      "sunriseSeconds": 22740,
+      "sunsetSeconds": 63060
+    },
+    "02-22": {
+      "sourceDate": "2026-02-22",
+      "sunriseSeconds": 22620,
+      "sunsetSeconds": 63120
+    },
+    "02-23": {
+      "sourceDate": "2026-02-23",
+      "sunriseSeconds": 22560,
+      "sunsetSeconds": 63180
+    },
+    "02-24": {
+      "sourceDate": "2026-02-24",
+      "sunriseSeconds": 22500,
+      "sunsetSeconds": 63180
+    },
+    "02-25": {
+      "sourceDate": "2026-02-25",
+      "sunriseSeconds": 22440,
+      "sunsetSeconds": 63240
+    },
+    "02-26": {
+      "sourceDate": "2026-02-26",
+      "sunriseSeconds": 22380,
+      "sunsetSeconds": 63300
+    },
+    "02-27": {
+      "sourceDate": "2026-02-27",
+      "sunriseSeconds": 22320,
+      "sunsetSeconds": 63360
+    },
+    "02-28": {
+      "sourceDate": "2026-02-28",
+      "sunriseSeconds": 22260,
+      "sunsetSeconds": 63420
+    },
+    "02-29": {
+      "sourceDate": "2024-02-29",
+      "sunriseSeconds": 22200,
+      "sunsetSeconds": 63420
+    },
+    "03-01": {
+      "sourceDate": "2026-03-01",
+      "sunriseSeconds": 22140,
+      "sunsetSeconds": 63420
+    },
+    "03-02": {
+      "sourceDate": "2026-03-02",
+      "sunriseSeconds": 22080,
+      "sunsetSeconds": 63480
+    },
+    "03-03": {
+      "sourceDate": "2026-03-03",
+      "sunriseSeconds": 22020,
+      "sunsetSeconds": 63540
+    },
+    "03-04": {
+      "sourceDate": "2026-03-04",
+      "sunriseSeconds": 21960,
+      "sunsetSeconds": 63600
+    },
+    "03-05": {
+      "sourceDate": "2026-03-05",
+      "sunriseSeconds": 21900,
+      "sunsetSeconds": 63660
+    },
+    "03-06": {
+      "sourceDate": "2026-03-06",
+      "sunriseSeconds": 21780,
+      "sunsetSeconds": 63660
+    },
+    "03-07": {
+      "sourceDate": "2026-03-07",
+      "sunriseSeconds": 21720,
+      "sunsetSeconds": 63720
+    },
+    "03-08": {
+      "sourceDate": "2026-03-08",
+      "sunriseSeconds": 21660,
+      "sunsetSeconds": 63780
+    },
+    "03-09": {
+      "sourceDate": "2026-03-09",
+      "sunriseSeconds": 21540,
+      "sunsetSeconds": 63840
+    },
+    "03-10": {
+      "sourceDate": "2026-03-10",
+      "sunriseSeconds": 21480,
+      "sunsetSeconds": 63900
+    },
+    "03-11": {
+      "sourceDate": "2026-03-11",
+      "sunriseSeconds": 21420,
+      "sunsetSeconds": 63900
+    },
+    "03-12": {
+      "sourceDate": "2026-03-12",
+      "sunriseSeconds": 21360,
+      "sunsetSeconds": 63960
+    },
+    "03-13": {
+      "sourceDate": "2026-03-13",
+      "sunriseSeconds": 21240,
+      "sunsetSeconds": 64020
+    },
+    "03-14": {
+      "sourceDate": "2026-03-14",
+      "sunriseSeconds": 21180,
+      "sunsetSeconds": 64080
+    },
+    "03-15": {
+      "sourceDate": "2026-03-15",
+      "sunriseSeconds": 21120,
+      "sunsetSeconds": 64080
+    },
+    "03-16": {
+      "sourceDate": "2026-03-16",
+      "sunriseSeconds": 21000,
+      "sunsetSeconds": 64140
+    },
+    "03-17": {
+      "sourceDate": "2026-03-17",
+      "sunriseSeconds": 20940,
+      "sunsetSeconds": 64200
+    },
+    "03-18": {
+      "sourceDate": "2026-03-18",
+      "sunriseSeconds": 20880,
+      "sunsetSeconds": 64260
+    },
+    "03-19": {
+      "sourceDate": "2026-03-19",
+      "sunriseSeconds": 20760,
+      "sunsetSeconds": 64260
+    },
+    "03-20": {
+      "sourceDate": "2026-03-20",
+      "sunriseSeconds": 20700,
+      "sunsetSeconds": 64320
+    },
+    "03-21": {
+      "sourceDate": "2026-03-21",
+      "sunriseSeconds": 20640,
+      "sunsetSeconds": 64380
+    },
+    "03-22": {
+      "sourceDate": "2026-03-22",
+      "sunriseSeconds": 20580,
+      "sunsetSeconds": 64440
+    },
+    "03-23": {
+      "sourceDate": "2026-03-23",
+      "sunriseSeconds": 20460,
+      "sunsetSeconds": 64440
+    },
+    "03-24": {
+      "sourceDate": "2026-03-24",
+      "sunriseSeconds": 20400,
+      "sunsetSeconds": 64500
+    },
+    "03-25": {
+      "sourceDate": "2026-03-25",
+      "sunriseSeconds": 20340,
+      "sunsetSeconds": 64560
+    },
+    "03-26": {
+      "sourceDate": "2026-03-26",
+      "sunriseSeconds": 20220,
+      "sunsetSeconds": 64560
+    },
+    "03-27": {
+      "sourceDate": "2026-03-27",
+      "sunriseSeconds": 20160,
+      "sunsetSeconds": 64620
+    },
+    "03-28": {
+      "sourceDate": "2026-03-28",
+      "sunriseSeconds": 20100,
+      "sunsetSeconds": 64680
+    },
+    "03-29": {
+      "sourceDate": "2026-03-29",
+      "sunriseSeconds": 19980,
+      "sunsetSeconds": 64740
+    },
+    "03-30": {
+      "sourceDate": "2026-03-30",
+      "sunriseSeconds": 19920,
+      "sunsetSeconds": 64740
+    },
+    "03-31": {
+      "sourceDate": "2026-03-31",
+      "sunriseSeconds": 19860,
+      "sunsetSeconds": 64800
+    },
+    "04-01": {
+      "sourceDate": "2026-04-01",
+      "sunriseSeconds": 19740,
+      "sunsetSeconds": 64860
+    },
+    "04-02": {
+      "sourceDate": "2026-04-02",
+      "sunriseSeconds": 19680,
+      "sunsetSeconds": 64920
+    },
+    "04-03": {
+      "sourceDate": "2026-04-03",
+      "sunriseSeconds": 19620,
+      "sunsetSeconds": 64920
+    },
+    "04-04": {
+      "sourceDate": "2026-04-04",
+      "sunriseSeconds": 19500,
+      "sunsetSeconds": 64980
+    },
+    "04-05": {
+      "sourceDate": "2026-04-05",
+      "sunriseSeconds": 19440,
+      "sunsetSeconds": 65040
+    },
+    "04-06": {
+      "sourceDate": "2026-04-06",
+      "sunriseSeconds": 19380,
+      "sunsetSeconds": 65040
+    },
+    "04-07": {
+      "sourceDate": "2026-04-07",
+      "sunriseSeconds": 19260,
+      "sunsetSeconds": 65100
+    },
+    "04-08": {
+      "sourceDate": "2026-04-08",
+      "sunriseSeconds": 19200,
+      "sunsetSeconds": 65160
+    },
+    "04-09": {
+      "sourceDate": "2026-04-09",
+      "sunriseSeconds": 19140,
+      "sunsetSeconds": 65220
+    },
+    "04-10": {
+      "sourceDate": "2026-04-10",
+      "sunriseSeconds": 19080,
+      "sunsetSeconds": 65220
+    },
+    "04-11": {
+      "sourceDate": "2026-04-11",
+      "sunriseSeconds": 18960,
+      "sunsetSeconds": 65280
+    },
+    "04-12": {
+      "sourceDate": "2026-04-12",
+      "sunriseSeconds": 18900,
+      "sunsetSeconds": 65340
+    },
+    "04-13": {
+      "sourceDate": "2026-04-13",
+      "sunriseSeconds": 18840,
+      "sunsetSeconds": 65340
+    },
+    "04-14": {
+      "sourceDate": "2026-04-14",
+      "sunriseSeconds": 18780,
+      "sunsetSeconds": 65400
+    },
+    "04-15": {
+      "sourceDate": "2026-04-15",
+      "sunriseSeconds": 18660,
+      "sunsetSeconds": 65460
+    },
+    "04-16": {
+      "sourceDate": "2026-04-16",
+      "sunriseSeconds": 18600,
+      "sunsetSeconds": 65520
+    },
+    "04-17": {
+      "sourceDate": "2026-04-17",
+      "sunriseSeconds": 18540,
+      "sunsetSeconds": 65520
+    },
+    "04-18": {
+      "sourceDate": "2026-04-18",
+      "sunriseSeconds": 18480,
+      "sunsetSeconds": 65580
+    },
+    "04-19": {
+      "sourceDate": "2026-04-19",
+      "sunriseSeconds": 18420,
+      "sunsetSeconds": 65640
+    },
+    "04-20": {
+      "sourceDate": "2026-04-20",
+      "sunriseSeconds": 18300,
+      "sunsetSeconds": 65700
+    },
+    "04-21": {
+      "sourceDate": "2026-04-21",
+      "sunriseSeconds": 18240,
+      "sunsetSeconds": 65700
+    },
+    "04-22": {
+      "sourceDate": "2026-04-22",
+      "sunriseSeconds": 18180,
+      "sunsetSeconds": 65760
+    },
+    "04-23": {
+      "sourceDate": "2026-04-23",
+      "sunriseSeconds": 18120,
+      "sunsetSeconds": 65820
+    },
+    "04-24": {
+      "sourceDate": "2026-04-24",
+      "sunriseSeconds": 18060,
+      "sunsetSeconds": 65880
+    },
+    "04-25": {
+      "sourceDate": "2026-04-25",
+      "sunriseSeconds": 18000,
+      "sunsetSeconds": 65880
+    },
+    "04-26": {
+      "sourceDate": "2026-04-26",
+      "sunriseSeconds": 17940,
+      "sunsetSeconds": 65940
+    },
+    "04-27": {
+      "sourceDate": "2026-04-27",
+      "sunriseSeconds": 17880,
+      "sunsetSeconds": 66000
+    },
+    "04-28": {
+      "sourceDate": "2026-04-28",
+      "sunriseSeconds": 17820,
+      "sunsetSeconds": 66060
+    },
+    "04-29": {
+      "sourceDate": "2026-04-29",
+      "sunriseSeconds": 17760,
+      "sunsetSeconds": 66060
+    },
+    "04-30": {
+      "sourceDate": "2026-04-30",
+      "sunriseSeconds": 17700,
+      "sunsetSeconds": 66120
+    },
+    "05-01": {
+      "sourceDate": "2026-05-01",
+      "sunriseSeconds": 17640,
+      "sunsetSeconds": 66180
+    },
+    "05-02": {
+      "sourceDate": "2026-05-02",
+      "sunriseSeconds": 17580,
+      "sunsetSeconds": 66240
+    },
+    "05-03": {
+      "sourceDate": "2026-05-03",
+      "sunriseSeconds": 17520,
+      "sunsetSeconds": 66240
+    },
+    "05-04": {
+      "sourceDate": "2026-05-04",
+      "sunriseSeconds": 17460,
+      "sunsetSeconds": 66300
+    },
+    "05-05": {
+      "sourceDate": "2026-05-05",
+      "sunriseSeconds": 17400,
+      "sunsetSeconds": 66360
+    },
+    "05-06": {
+      "sourceDate": "2026-05-06",
+      "sunriseSeconds": 17340,
+      "sunsetSeconds": 66420
+    },
+    "05-07": {
+      "sourceDate": "2026-05-07",
+      "sunriseSeconds": 17280,
+      "sunsetSeconds": 66420
+    },
+    "05-08": {
+      "sourceDate": "2026-05-08",
+      "sunriseSeconds": 17220,
+      "sunsetSeconds": 66480
+    },
+    "05-09": {
+      "sourceDate": "2026-05-09",
+      "sunriseSeconds": 17160,
+      "sunsetSeconds": 66540
+    },
+    "05-10": {
+      "sourceDate": "2026-05-10",
+      "sunriseSeconds": 17100,
+      "sunsetSeconds": 66600
+    },
+    "05-11": {
+      "sourceDate": "2026-05-11",
+      "sunriseSeconds": 17100,
+      "sunsetSeconds": 66600
+    },
+    "05-12": {
+      "sourceDate": "2026-05-12",
+      "sunriseSeconds": 17040,
+      "sunsetSeconds": 66660
+    },
+    "05-13": {
+      "sourceDate": "2026-05-13",
+      "sunriseSeconds": 16980,
+      "sunsetSeconds": 66720
+    },
+    "05-14": {
+      "sourceDate": "2026-05-14",
+      "sunriseSeconds": 16920,
+      "sunsetSeconds": 66720
+    },
+    "05-15": {
+      "sourceDate": "2026-05-15",
+      "sunriseSeconds": 16920,
+      "sunsetSeconds": 66780
+    },
+    "05-16": {
+      "sourceDate": "2026-05-16",
+      "sunriseSeconds": 16860,
+      "sunsetSeconds": 66840
+    },
+    "05-17": {
+      "sourceDate": "2026-05-17",
+      "sunriseSeconds": 16800,
+      "sunsetSeconds": 66900
+    },
+    "05-18": {
+      "sourceDate": "2026-05-18",
+      "sunriseSeconds": 16800,
+      "sunsetSeconds": 66900
+    },
+    "05-19": {
+      "sourceDate": "2026-05-19",
+      "sunriseSeconds": 16740,
+      "sunsetSeconds": 66960
+    },
+    "05-20": {
+      "sourceDate": "2026-05-20",
+      "sunriseSeconds": 16680,
+      "sunsetSeconds": 67020
+    },
+    "05-21": {
+      "sourceDate": "2026-05-21",
+      "sunriseSeconds": 16680,
+      "sunsetSeconds": 67020
+    },
+    "05-22": {
+      "sourceDate": "2026-05-22",
+      "sunriseSeconds": 16620,
+      "sunsetSeconds": 67080
+    },
+    "05-23": {
+      "sourceDate": "2026-05-23",
+      "sunriseSeconds": 16620,
+      "sunsetSeconds": 67140
+    },
+    "05-24": {
+      "sourceDate": "2026-05-24",
+      "sunriseSeconds": 16560,
+      "sunsetSeconds": 67200
+    },
+    "05-25": {
+      "sourceDate": "2026-05-25",
+      "sunriseSeconds": 16560,
+      "sunsetSeconds": 67200
+    },
+    "05-26": {
+      "sourceDate": "2026-05-26",
+      "sunriseSeconds": 16500,
+      "sunsetSeconds": 67260
+    },
+    "05-27": {
+      "sourceDate": "2026-05-27",
+      "sunriseSeconds": 16500,
+      "sunsetSeconds": 67260
+    },
+    "05-28": {
+      "sourceDate": "2026-05-28",
+      "sunriseSeconds": 16440,
+      "sunsetSeconds": 67320
+    },
+    "05-29": {
+      "sourceDate": "2026-05-29",
+      "sunriseSeconds": 16440,
+      "sunsetSeconds": 67380
+    },
+    "05-30": {
+      "sourceDate": "2026-05-30",
+      "sunriseSeconds": 16440,
+      "sunsetSeconds": 67380
+    },
+    "05-31": {
+      "sourceDate": "2026-05-31",
+      "sunriseSeconds": 16380,
+      "sunsetSeconds": 67440
+    },
+    "06-01": {
+      "sourceDate": "2026-06-01",
+      "sunriseSeconds": 16380,
+      "sunsetSeconds": 67500
+    },
+    "06-02": {
+      "sourceDate": "2026-06-02",
+      "sunriseSeconds": 16380,
+      "sunsetSeconds": 67500
+    },
+    "06-03": {
+      "sourceDate": "2026-06-03",
+      "sunriseSeconds": 16320,
+      "sunsetSeconds": 67560
+    },
+    "06-04": {
+      "sourceDate": "2026-06-04",
+      "sunriseSeconds": 16320,
+      "sunsetSeconds": 67560
+    },
+    "06-05": {
+      "sourceDate": "2026-06-05",
+      "sunriseSeconds": 16320,
+      "sunsetSeconds": 67620
+    },
+    "06-06": {
+      "sourceDate": "2026-06-06",
+      "sunriseSeconds": 16320,
+      "sunsetSeconds": 67620
+    },
+    "06-07": {
+      "sourceDate": "2026-06-07",
+      "sunriseSeconds": 16320,
+      "sunsetSeconds": 67680
+    },
+    "06-08": {
+      "sourceDate": "2026-06-08",
+      "sunriseSeconds": 16320,
+      "sunsetSeconds": 67680
+    },
+    "06-09": {
+      "sourceDate": "2026-06-09",
+      "sunriseSeconds": 16260,
+      "sunsetSeconds": 67740
+    },
+    "06-10": {
+      "sourceDate": "2026-06-10",
+      "sunriseSeconds": 16260,
+      "sunsetSeconds": 67740
+    },
+    "06-11": {
+      "sourceDate": "2026-06-11",
+      "sunriseSeconds": 16260,
+      "sunsetSeconds": 67800
+    },
+    "06-12": {
+      "sourceDate": "2026-06-12",
+      "sunriseSeconds": 16260,
+      "sunsetSeconds": 67800
+    },
+    "06-13": {
+      "sourceDate": "2026-06-13",
+      "sunriseSeconds": 16260,
+      "sunsetSeconds": 67800
+    },
+    "06-14": {
+      "sourceDate": "2026-06-14",
+      "sunriseSeconds": 16260,
+      "sunsetSeconds": 67860
+    },
+    "06-15": {
+      "sourceDate": "2026-06-15",
+      "sunriseSeconds": 16260,
+      "sunsetSeconds": 67860
+    },
+    "06-16": {
+      "sourceDate": "2026-06-16",
+      "sunriseSeconds": 16260,
+      "sunsetSeconds": 67920
+    },
+    "06-17": {
+      "sourceDate": "2026-06-17",
+      "sunriseSeconds": 16320,
+      "sunsetSeconds": 67920
+    },
+    "06-18": {
+      "sourceDate": "2026-06-18",
+      "sunriseSeconds": 16320,
+      "sunsetSeconds": 67920
+    },
+    "06-19": {
+      "sourceDate": "2026-06-19",
+      "sunriseSeconds": 16320,
+      "sunsetSeconds": 67920
+    },
+    "06-20": {
+      "sourceDate": "2026-06-20",
+      "sunriseSeconds": 16320,
+      "sunsetSeconds": 67980
+    },
+    "06-21": {
+      "sourceDate": "2026-06-21",
+      "sunriseSeconds": 16320,
+      "sunsetSeconds": 67980
+    },
+    "06-22": {
+      "sourceDate": "2026-06-22",
+      "sunriseSeconds": 16320,
+      "sunsetSeconds": 67980
+    },
+    "06-23": {
+      "sourceDate": "2026-06-23",
+      "sunriseSeconds": 16380,
+      "sunsetSeconds": 67980
+    },
+    "06-24": {
+      "sourceDate": "2026-06-24",
+      "sunriseSeconds": 16380,
+      "sunsetSeconds": 67980
+    },
+    "06-25": {
+      "sourceDate": "2026-06-25",
+      "sunriseSeconds": 16380,
+      "sunsetSeconds": 68040
+    },
+    "06-26": {
+      "sourceDate": "2026-06-26",
+      "sunriseSeconds": 16440,
+      "sunsetSeconds": 68040
+    },
+    "06-27": {
+      "sourceDate": "2026-06-27",
+      "sunriseSeconds": 16440,
+      "sunsetSeconds": 68040
+    },
+    "06-28": {
+      "sourceDate": "2026-06-28",
+      "sunriseSeconds": 16440,
+      "sunsetSeconds": 68040
+    },
+    "06-29": {
+      "sourceDate": "2026-06-29",
+      "sunriseSeconds": 16500,
+      "sunsetSeconds": 68040
+    },
+    "06-30": {
+      "sourceDate": "2026-06-30",
+      "sunriseSeconds": 16500,
+      "sunsetSeconds": 68040
+    },
+    "07-01": {
+      "sourceDate": "2026-07-01",
+      "sunriseSeconds": 16500,
+      "sunsetSeconds": 68040
+    },
+    "07-02": {
+      "sourceDate": "2026-07-02",
+      "sunriseSeconds": 16560,
+      "sunsetSeconds": 68040
+    },
+    "07-03": {
+      "sourceDate": "2026-07-03",
+      "sunriseSeconds": 16560,
+      "sunsetSeconds": 68040
+    },
+    "07-04": {
+      "sourceDate": "2026-07-04",
+      "sunriseSeconds": 16620,
+      "sunsetSeconds": 68040
+    },
+    "07-05": {
+      "sourceDate": "2026-07-05",
+      "sunriseSeconds": 16620,
+      "sunsetSeconds": 68040
+    },
+    "07-06": {
+      "sourceDate": "2026-07-06",
+      "sunriseSeconds": 16680,
+      "sunsetSeconds": 67980
+    },
+    "07-07": {
+      "sourceDate": "2026-07-07",
+      "sunriseSeconds": 16680,
+      "sunsetSeconds": 67980
+    },
+    "07-08": {
+      "sourceDate": "2026-07-08",
+      "sunriseSeconds": 16740,
+      "sunsetSeconds": 67980
+    },
+    "07-09": {
+      "sourceDate": "2026-07-09",
+      "sunriseSeconds": 16740,
+      "sunsetSeconds": 67980
+    },
+    "07-10": {
+      "sourceDate": "2026-07-10",
+      "sunriseSeconds": 16800,
+      "sunsetSeconds": 67920
+    },
+    "07-11": {
+      "sourceDate": "2026-07-11",
+      "sunriseSeconds": 16800,
+      "sunsetSeconds": 67920
+    },
+    "07-12": {
+      "sourceDate": "2026-07-12",
+      "sunriseSeconds": 16860,
+      "sunsetSeconds": 67920
+    },
+    "07-13": {
+      "sourceDate": "2026-07-13",
+      "sunriseSeconds": 16860,
+      "sunsetSeconds": 67920
+    },
+    "07-14": {
+      "sourceDate": "2026-07-14",
+      "sunriseSeconds": 16920,
+      "sunsetSeconds": 67860
+    },
+    "07-15": {
+      "sourceDate": "2026-07-15",
+      "sunriseSeconds": 16920,
+      "sunsetSeconds": 67860
+    },
+    "07-16": {
+      "sourceDate": "2026-07-16",
+      "sunriseSeconds": 16980,
+      "sunsetSeconds": 67800
+    },
+    "07-17": {
+      "sourceDate": "2026-07-17",
+      "sunriseSeconds": 17040,
+      "sunsetSeconds": 67800
+    },
+    "07-18": {
+      "sourceDate": "2026-07-18",
+      "sunriseSeconds": 17040,
+      "sunsetSeconds": 67740
+    },
+    "07-19": {
+      "sourceDate": "2026-07-19",
+      "sunriseSeconds": 17100,
+      "sunsetSeconds": 67740
+    },
+    "07-20": {
+      "sourceDate": "2026-07-20",
+      "sunriseSeconds": 17160,
+      "sunsetSeconds": 67680
+    },
+    "07-21": {
+      "sourceDate": "2026-07-21",
+      "sunriseSeconds": 17160,
+      "sunsetSeconds": 67680
+    },
+    "07-22": {
+      "sourceDate": "2026-07-22",
+      "sunriseSeconds": 17220,
+      "sunsetSeconds": 67620
+    },
+    "07-23": {
+      "sourceDate": "2026-07-23",
+      "sunriseSeconds": 17280,
+      "sunsetSeconds": 67620
+    },
+    "07-24": {
+      "sourceDate": "2026-07-24",
+      "sunriseSeconds": 17280,
+      "sunsetSeconds": 67560
+    },
+    "07-25": {
+      "sourceDate": "2026-07-25",
+      "sunriseSeconds": 17340,
+      "sunsetSeconds": 67560
+    },
+    "07-26": {
+      "sourceDate": "2026-07-26",
+      "sunriseSeconds": 17400,
+      "sunsetSeconds": 67500
+    },
+    "07-27": {
+      "sourceDate": "2026-07-27",
+      "sunriseSeconds": 17400,
+      "sunsetSeconds": 67440
+    },
+    "07-28": {
+      "sourceDate": "2026-07-28",
+      "sunriseSeconds": 17460,
+      "sunsetSeconds": 67380
+    },
+    "07-29": {
+      "sourceDate": "2026-07-29",
+      "sunriseSeconds": 17520,
+      "sunsetSeconds": 67380
+    },
+    "07-30": {
+      "sourceDate": "2026-07-30",
+      "sunriseSeconds": 17520,
+      "sunsetSeconds": 67320
+    },
+    "07-31": {
+      "sourceDate": "2026-07-31",
+      "sunriseSeconds": 17580,
+      "sunsetSeconds": 67260
+    },
+    "08-01": {
+      "sourceDate": "2026-08-01",
+      "sunriseSeconds": 17640,
+      "sunsetSeconds": 67200
+    },
+    "08-02": {
+      "sourceDate": "2026-08-02",
+      "sunriseSeconds": 17640,
+      "sunsetSeconds": 67200
+    },
+    "08-03": {
+      "sourceDate": "2026-08-03",
+      "sunriseSeconds": 17700,
+      "sunsetSeconds": 67140
+    },
+    "08-04": {
+      "sourceDate": "2026-08-04",
+      "sunriseSeconds": 17760,
+      "sunsetSeconds": 67080
+    },
+    "08-05": {
+      "sourceDate": "2026-08-05",
+      "sunriseSeconds": 17760,
+      "sunsetSeconds": 67020
+    },
+    "08-06": {
+      "sourceDate": "2026-08-06",
+      "sunriseSeconds": 17820,
+      "sunsetSeconds": 66960
+    },
+    "08-07": {
+      "sourceDate": "2026-08-07",
+      "sunriseSeconds": 17880,
+      "sunsetSeconds": 66900
+    },
+    "08-08": {
+      "sourceDate": "2026-08-08",
+      "sunriseSeconds": 17880,
+      "sunsetSeconds": 66840
+    },
+    "08-09": {
+      "sourceDate": "2026-08-09",
+      "sunriseSeconds": 17940,
+      "sunsetSeconds": 66780
+    },
+    "08-10": {
+      "sourceDate": "2026-08-10",
+      "sunriseSeconds": 18000,
+      "sunsetSeconds": 66720
+    },
+    "08-11": {
+      "sourceDate": "2026-08-11",
+      "sunriseSeconds": 18060,
+      "sunsetSeconds": 66660
+    },
+    "08-12": {
+      "sourceDate": "2026-08-12",
+      "sunriseSeconds": 18060,
+      "sunsetSeconds": 66600
+    },
+    "08-13": {
+      "sourceDate": "2026-08-13",
+      "sunriseSeconds": 18120,
+      "sunsetSeconds": 66540
+    },
+    "08-14": {
+      "sourceDate": "2026-08-14",
+      "sunriseSeconds": 18180,
+      "sunsetSeconds": 66480
+    },
+    "08-15": {
+      "sourceDate": "2026-08-15",
+      "sunriseSeconds": 18180,
+      "sunsetSeconds": 66420
+    },
+    "08-16": {
+      "sourceDate": "2026-08-16",
+      "sunriseSeconds": 18240,
+      "sunsetSeconds": 66360
+    },
+    "08-17": {
+      "sourceDate": "2026-08-17",
+      "sunriseSeconds": 18300,
+      "sunsetSeconds": 66300
+    },
+    "08-18": {
+      "sourceDate": "2026-08-18",
+      "sunriseSeconds": 18300,
+      "sunsetSeconds": 66240
+    },
+    "08-19": {
+      "sourceDate": "2026-08-19",
+      "sunriseSeconds": 18360,
+      "sunsetSeconds": 66180
+    },
+    "08-20": {
+      "sourceDate": "2026-08-20",
+      "sunriseSeconds": 18420,
+      "sunsetSeconds": 66060
+    },
+    "08-21": {
+      "sourceDate": "2026-08-21",
+      "sunriseSeconds": 18420,
+      "sunsetSeconds": 66000
+    },
+    "08-22": {
+      "sourceDate": "2026-08-22",
+      "sunriseSeconds": 18480,
+      "sunsetSeconds": 65940
+    },
+    "08-23": {
+      "sourceDate": "2026-08-23",
+      "sunriseSeconds": 18540,
+      "sunsetSeconds": 65880
+    },
+    "08-24": {
+      "sourceDate": "2026-08-24",
+      "sunriseSeconds": 18540,
+      "sunsetSeconds": 65820
+    },
+    "08-25": {
+      "sourceDate": "2026-08-25",
+      "sunriseSeconds": 18600,
+      "sunsetSeconds": 65700
+    },
+    "08-26": {
+      "sourceDate": "2026-08-26",
+      "sunriseSeconds": 18660,
+      "sunsetSeconds": 65640
+    },
+    "08-27": {
+      "sourceDate": "2026-08-27",
+      "sunriseSeconds": 18720,
+      "sunsetSeconds": 65580
+    },
+    "08-28": {
+      "sourceDate": "2026-08-28",
+      "sunriseSeconds": 18720,
+      "sunsetSeconds": 65520
+    },
+    "08-29": {
+      "sourceDate": "2026-08-29",
+      "sunriseSeconds": 18780,
+      "sunsetSeconds": 65400
+    },
+    "08-30": {
+      "sourceDate": "2026-08-30",
+      "sunriseSeconds": 18780,
+      "sunsetSeconds": 65340
+    },
+    "08-31": {
+      "sourceDate": "2026-08-31",
+      "sunriseSeconds": 18840,
+      "sunsetSeconds": 65280
+    },
+    "09-01": {
+      "sourceDate": "2026-09-01",
+      "sunriseSeconds": 18900,
+      "sunsetSeconds": 65220
+    },
+    "09-02": {
+      "sourceDate": "2026-09-02",
+      "sunriseSeconds": 18900,
+      "sunsetSeconds": 65100
+    },
+    "09-03": {
+      "sourceDate": "2026-09-03",
+      "sunriseSeconds": 18960,
+      "sunsetSeconds": 65040
+    },
+    "09-04": {
+      "sourceDate": "2026-09-04",
+      "sunriseSeconds": 19020,
+      "sunsetSeconds": 64980
+    },
+    "09-05": {
+      "sourceDate": "2026-09-05",
+      "sunriseSeconds": 19020,
+      "sunsetSeconds": 64860
+    },
+    "09-06": {
+      "sourceDate": "2026-09-06",
+      "sunriseSeconds": 19080,
+      "sunsetSeconds": 64800
+    },
+    "09-07": {
+      "sourceDate": "2026-09-07",
+      "sunriseSeconds": 19140,
+      "sunsetSeconds": 64740
+    },
+    "09-08": {
+      "sourceDate": "2026-09-08",
+      "sunriseSeconds": 19140,
+      "sunsetSeconds": 64620
+    },
+    "09-09": {
+      "sourceDate": "2026-09-09",
+      "sunriseSeconds": 19200,
+      "sunsetSeconds": 64560
+    },
+    "09-10": {
+      "sourceDate": "2026-09-10",
+      "sunriseSeconds": 19260,
+      "sunsetSeconds": 64500
+    },
+    "09-11": {
+      "sourceDate": "2026-09-11",
+      "sunriseSeconds": 19260,
+      "sunsetSeconds": 64380
+    },
+    "09-12": {
+      "sourceDate": "2026-09-12",
+      "sunriseSeconds": 19320,
+      "sunsetSeconds": 64320
+    },
+    "09-13": {
+      "sourceDate": "2026-09-13",
+      "sunriseSeconds": 19380,
+      "sunsetSeconds": 64260
+    },
+    "09-14": {
+      "sourceDate": "2026-09-14",
+      "sunriseSeconds": 19380,
+      "sunsetSeconds": 64140
+    },
+    "09-15": {
+      "sourceDate": "2026-09-15",
+      "sunriseSeconds": 19440,
+      "sunsetSeconds": 64080
+    },
+    "09-16": {
+      "sourceDate": "2026-09-16",
+      "sunriseSeconds": 19500,
+      "sunsetSeconds": 64020
+    },
+    "09-17": {
+      "sourceDate": "2026-09-17",
+      "sunriseSeconds": 19500,
+      "sunsetSeconds": 63900
+    },
+    "09-18": {
+      "sourceDate": "2026-09-18",
+      "sunriseSeconds": 19560,
+      "sunsetSeconds": 63840
+    },
+    "09-19": {
+      "sourceDate": "2026-09-19",
+      "sunriseSeconds": 19620,
+      "sunsetSeconds": 63720
+    },
+    "09-20": {
+      "sourceDate": "2026-09-20",
+      "sunriseSeconds": 19620,
+      "sunsetSeconds": 63660
+    },
+    "09-21": {
+      "sourceDate": "2026-09-21",
+      "sunriseSeconds": 19680,
+      "sunsetSeconds": 63600
+    },
+    "09-22": {
+      "sourceDate": "2026-09-22",
+      "sunriseSeconds": 19740,
+      "sunsetSeconds": 63480
+    },
+    "09-23": {
+      "sourceDate": "2026-09-23",
+      "sunriseSeconds": 19740,
+      "sunsetSeconds": 63420
+    },
+    "09-24": {
+      "sourceDate": "2026-09-24",
+      "sunriseSeconds": 19800,
+      "sunsetSeconds": 63360
+    },
+    "09-25": {
+      "sourceDate": "2026-09-25",
+      "sunriseSeconds": 19860,
+      "sunsetSeconds": 63240
+    },
+    "09-26": {
+      "sourceDate": "2026-09-26",
+      "sunriseSeconds": 19860,
+      "sunsetSeconds": 63180
+    },
+    "09-27": {
+      "sourceDate": "2026-09-27",
+      "sunriseSeconds": 19920,
+      "sunsetSeconds": 63060
+    },
+    "09-28": {
+      "sourceDate": "2026-09-28",
+      "sunriseSeconds": 19980,
+      "sunsetSeconds": 63000
+    },
+    "09-29": {
+      "sourceDate": "2026-09-29",
+      "sunriseSeconds": 19980,
+      "sunsetSeconds": 62940
+    },
+    "09-30": {
+      "sourceDate": "2026-09-30",
+      "sunriseSeconds": 20040,
+      "sunsetSeconds": 62820
+    },
+    "10-01": {
+      "sourceDate": "2026-10-01",
+      "sunriseSeconds": 20100,
+      "sunsetSeconds": 62760
+    },
+    "10-02": {
+      "sourceDate": "2026-10-02",
+      "sunriseSeconds": 20100,
+      "sunsetSeconds": 62700
+    },
+    "10-03": {
+      "sourceDate": "2026-10-03",
+      "sunriseSeconds": 20160,
+      "sunsetSeconds": 62580
+    },
+    "10-04": {
+      "sourceDate": "2026-10-04",
+      "sunriseSeconds": 20220,
+      "sunsetSeconds": 62520
+    },
+    "10-05": {
+      "sourceDate": "2026-10-05",
+      "sunriseSeconds": 20220,
+      "sunsetSeconds": 62460
+    },
+    "10-06": {
+      "sourceDate": "2026-10-06",
+      "sunriseSeconds": 20280,
+      "sunsetSeconds": 62400
+    },
+    "10-07": {
+      "sourceDate": "2026-10-07",
+      "sunriseSeconds": 20340,
+      "sunsetSeconds": 62280
+    },
+    "10-08": {
+      "sourceDate": "2026-10-08",
+      "sunriseSeconds": 20400,
+      "sunsetSeconds": 62220
+    },
+    "10-09": {
+      "sourceDate": "2026-10-09",
+      "sunriseSeconds": 20400,
+      "sunsetSeconds": 62160
+    },
+    "10-10": {
+      "sourceDate": "2026-10-10",
+      "sunriseSeconds": 20460,
+      "sunsetSeconds": 62040
+    },
+    "10-11": {
+      "sourceDate": "2026-10-11",
+      "sunriseSeconds": 20520,
+      "sunsetSeconds": 61980
+    },
+    "10-12": {
+      "sourceDate": "2026-10-12",
+      "sunriseSeconds": 20520,
+      "sunsetSeconds": 61920
+    },
+    "10-13": {
+      "sourceDate": "2026-10-13",
+      "sunriseSeconds": 20580,
+      "sunsetSeconds": 61860
+    },
+    "10-14": {
+      "sourceDate": "2026-10-14",
+      "sunriseSeconds": 20640,
+      "sunsetSeconds": 61740
+    },
+    "10-15": {
+      "sourceDate": "2026-10-15",
+      "sunriseSeconds": 20700,
+      "sunsetSeconds": 61680
+    },
+    "10-16": {
+      "sourceDate": "2026-10-16",
+      "sunriseSeconds": 20700,
+      "sunsetSeconds": 61620
+    },
+    "10-17": {
+      "sourceDate": "2026-10-17",
+      "sunriseSeconds": 20760,
+      "sunsetSeconds": 61560
+    },
+    "10-18": {
+      "sourceDate": "2026-10-18",
+      "sunriseSeconds": 20820,
+      "sunsetSeconds": 61500
+    },
+    "10-19": {
+      "sourceDate": "2026-10-19",
+      "sunriseSeconds": 20880,
+      "sunsetSeconds": 61380
+    },
+    "10-20": {
+      "sourceDate": "2026-10-20",
+      "sunriseSeconds": 20940,
+      "sunsetSeconds": 61320
+    },
+    "10-21": {
+      "sourceDate": "2026-10-21",
+      "sunriseSeconds": 20940,
+      "sunsetSeconds": 61260
+    },
+    "10-22": {
+      "sourceDate": "2026-10-22",
+      "sunriseSeconds": 21000,
+      "sunsetSeconds": 61200
+    },
+    "10-23": {
+      "sourceDate": "2026-10-23",
+      "sunriseSeconds": 21060,
+      "sunsetSeconds": 61140
+    },
+    "10-24": {
+      "sourceDate": "2026-10-24",
+      "sunriseSeconds": 21120,
+      "sunsetSeconds": 61080
+    },
+    "10-25": {
+      "sourceDate": "2026-10-25",
+      "sunriseSeconds": 21180,
+      "sunsetSeconds": 61020
+    },
+    "10-26": {
+      "sourceDate": "2026-10-26",
+      "sunriseSeconds": 21180,
+      "sunsetSeconds": 60960
+    },
+    "10-27": {
+      "sourceDate": "2026-10-27",
+      "sunriseSeconds": 21240,
+      "sunsetSeconds": 60900
+    },
+    "10-28": {
+      "sourceDate": "2026-10-28",
+      "sunriseSeconds": 21300,
+      "sunsetSeconds": 60840
+    },
+    "10-29": {
+      "sourceDate": "2026-10-29",
+      "sunriseSeconds": 21360,
+      "sunsetSeconds": 60780
+    },
+    "10-30": {
+      "sourceDate": "2026-10-30",
+      "sunriseSeconds": 21420,
+      "sunsetSeconds": 60720
+    },
+    "10-31": {
+      "sourceDate": "2026-10-31",
+      "sunriseSeconds": 21480,
+      "sunsetSeconds": 60660
+    },
+    "11-01": {
+      "sourceDate": "2026-11-01",
+      "sunriseSeconds": 21480,
+      "sunsetSeconds": 60600
+    },
+    "11-02": {
+      "sourceDate": "2026-11-02",
+      "sunriseSeconds": 21540,
+      "sunsetSeconds": 60540
+    },
+    "11-03": {
+      "sourceDate": "2026-11-03",
+      "sunriseSeconds": 21600,
+      "sunsetSeconds": 60480
+    },
+    "11-04": {
+      "sourceDate": "2026-11-04",
+      "sunriseSeconds": 21660,
+      "sunsetSeconds": 60420
+    },
+    "11-05": {
+      "sourceDate": "2026-11-05",
+      "sunriseSeconds": 21720,
+      "sunsetSeconds": 60360
+    },
+    "11-06": {
+      "sourceDate": "2026-11-06",
+      "sunriseSeconds": 21780,
+      "sunsetSeconds": 60360
+    },
+    "11-07": {
+      "sourceDate": "2026-11-07",
+      "sunriseSeconds": 21840,
+      "sunsetSeconds": 60300
+    },
+    "11-08": {
+      "sourceDate": "2026-11-08",
+      "sunriseSeconds": 21900,
+      "sunsetSeconds": 60240
+    },
+    "11-09": {
+      "sourceDate": "2026-11-09",
+      "sunriseSeconds": 21960,
+      "sunsetSeconds": 60180
+    },
+    "11-10": {
+      "sourceDate": "2026-11-10",
+      "sunriseSeconds": 21960,
+      "sunsetSeconds": 60180
+    },
+    "11-11": {
+      "sourceDate": "2026-11-11",
+      "sunriseSeconds": 22020,
+      "sunsetSeconds": 60120
+    },
+    "11-12": {
+      "sourceDate": "2026-11-12",
+      "sunriseSeconds": 22080,
+      "sunsetSeconds": 60060
+    },
+    "11-13": {
+      "sourceDate": "2026-11-13",
+      "sunriseSeconds": 22140,
+      "sunsetSeconds": 60060
+    },
+    "11-14": {
+      "sourceDate": "2026-11-14",
+      "sunriseSeconds": 22200,
+      "sunsetSeconds": 60000
+    },
+    "11-15": {
+      "sourceDate": "2026-11-15",
+      "sunriseSeconds": 22260,
+      "sunsetSeconds": 59940
+    },
+    "11-16": {
+      "sourceDate": "2026-11-16",
+      "sunriseSeconds": 22320,
+      "sunsetSeconds": 59940
+    },
+    "11-17": {
+      "sourceDate": "2026-11-17",
+      "sunriseSeconds": 22380,
+      "sunsetSeconds": 59880
+    },
+    "11-18": {
+      "sourceDate": "2026-11-18",
+      "sunriseSeconds": 22440,
+      "sunsetSeconds": 59880
+    },
+    "11-19": {
+      "sourceDate": "2026-11-19",
+      "sunriseSeconds": 22500,
+      "sunsetSeconds": 59820
+    },
+    "11-20": {
+      "sourceDate": "2026-11-20",
+      "sunriseSeconds": 22560,
+      "sunsetSeconds": 59820
+    },
+    "11-21": {
+      "sourceDate": "2026-11-21",
+      "sunriseSeconds": 22620,
+      "sunsetSeconds": 59760
+    },
+    "11-22": {
+      "sourceDate": "2026-11-22",
+      "sunriseSeconds": 22620,
+      "sunsetSeconds": 59760
+    },
+    "11-23": {
+      "sourceDate": "2026-11-23",
+      "sunriseSeconds": 22680,
+      "sunsetSeconds": 59760
+    },
+    "11-24": {
+      "sourceDate": "2026-11-24",
+      "sunriseSeconds": 22740,
+      "sunsetSeconds": 59700
+    },
+    "11-25": {
+      "sourceDate": "2026-11-25",
+      "sunriseSeconds": 22800,
+      "sunsetSeconds": 59700
+    },
+    "11-26": {
+      "sourceDate": "2026-11-26",
+      "sunriseSeconds": 22860,
+      "sunsetSeconds": 59700
+    },
+    "11-27": {
+      "sourceDate": "2026-11-27",
+      "sunriseSeconds": 22920,
+      "sunsetSeconds": 59640
+    },
+    "11-28": {
+      "sourceDate": "2026-11-28",
+      "sunriseSeconds": 22980,
+      "sunsetSeconds": 59640
+    },
+    "11-29": {
+      "sourceDate": "2026-11-29",
+      "sunriseSeconds": 23040,
+      "sunsetSeconds": 59640
+    },
+    "11-30": {
+      "sourceDate": "2026-11-30",
+      "sunriseSeconds": 23100,
+      "sunsetSeconds": 59640
+    },
+    "12-01": {
+      "sourceDate": "2026-12-01",
+      "sunriseSeconds": 23100,
+      "sunsetSeconds": 59640
+    },
+    "12-02": {
+      "sourceDate": "2026-12-02",
+      "sunriseSeconds": 23160,
+      "sunsetSeconds": 59640
+    },
+    "12-03": {
+      "sourceDate": "2026-12-03",
+      "sunriseSeconds": 23220,
+      "sunsetSeconds": 59640
+    },
+    "12-04": {
+      "sourceDate": "2026-12-04",
+      "sunriseSeconds": 23280,
+      "sunsetSeconds": 59640
+    },
+    "12-05": {
+      "sourceDate": "2026-12-05",
+      "sunriseSeconds": 23340,
+      "sunsetSeconds": 59640
+    },
+    "12-06": {
+      "sourceDate": "2026-12-06",
+      "sunriseSeconds": 23400,
+      "sunsetSeconds": 59640
+    },
+    "12-07": {
+      "sourceDate": "2026-12-07",
+      "sunriseSeconds": 23400,
+      "sunsetSeconds": 59640
+    },
+    "12-08": {
+      "sourceDate": "2026-12-08",
+      "sunriseSeconds": 23460,
+      "sunsetSeconds": 59640
+    },
+    "12-09": {
+      "sourceDate": "2026-12-09",
+      "sunriseSeconds": 23520,
+      "sunsetSeconds": 59640
+    },
+    "12-10": {
+      "sourceDate": "2026-12-10",
+      "sunriseSeconds": 23580,
+      "sunsetSeconds": 59640
+    },
+    "12-11": {
+      "sourceDate": "2026-12-11",
+      "sunriseSeconds": 23580,
+      "sunsetSeconds": 59640
+    },
+    "12-12": {
+      "sourceDate": "2026-12-12",
+      "sunriseSeconds": 23640,
+      "sunsetSeconds": 59700
+    },
+    "12-13": {
+      "sourceDate": "2026-12-13",
+      "sunriseSeconds": 23700,
+      "sunsetSeconds": 59700
+    },
+    "12-14": {
+      "sourceDate": "2026-12-14",
+      "sunriseSeconds": 23700,
+      "sunsetSeconds": 59700
+    },
+    "12-15": {
+      "sourceDate": "2026-12-15",
+      "sunriseSeconds": 23760,
+      "sunsetSeconds": 59700
+    },
+    "12-16": {
+      "sourceDate": "2026-12-16",
+      "sunriseSeconds": 23820,
+      "sunsetSeconds": 59760
+    },
+    "12-17": {
+      "sourceDate": "2026-12-17",
+      "sunriseSeconds": 23820,
+      "sunsetSeconds": 59760
+    },
+    "12-18": {
+      "sourceDate": "2026-12-18",
+      "sunriseSeconds": 23880,
+      "sunsetSeconds": 59760
+    },
+    "12-19": {
+      "sourceDate": "2026-12-19",
+      "sunriseSeconds": 23940,
+      "sunsetSeconds": 59820
+    },
+    "12-20": {
+      "sourceDate": "2026-12-20",
+      "sunriseSeconds": 23940,
+      "sunsetSeconds": 59820
+    },
+    "12-21": {
+      "sourceDate": "2026-12-21",
+      "sunriseSeconds": 24000,
+      "sunsetSeconds": 59880
+    },
+    "12-22": {
+      "sourceDate": "2026-12-22",
+      "sunriseSeconds": 24000,
+      "sunsetSeconds": 59880
+    },
+    "12-23": {
+      "sourceDate": "2026-12-23",
+      "sunriseSeconds": 24060,
+      "sunsetSeconds": 59940
+    },
+    "12-24": {
+      "sourceDate": "2026-12-24",
+      "sunriseSeconds": 24060,
+      "sunsetSeconds": 59940
+    },
+    "12-25": {
+      "sourceDate": "2026-12-25",
+      "sunriseSeconds": 24120,
+      "sunsetSeconds": 60000
+    },
+    "12-26": {
+      "sourceDate": "2026-12-26",
+      "sunriseSeconds": 24120,
+      "sunsetSeconds": 60000
+    },
+    "12-27": {
+      "sourceDate": "2026-12-27",
+      "sunriseSeconds": 24120,
+      "sunsetSeconds": 60060
+    },
+    "12-28": {
+      "sourceDate": "2026-12-28",
+      "sunriseSeconds": 24180,
+      "sunsetSeconds": 60120
+    },
+    "12-29": {
+      "sourceDate": "2026-12-29",
+      "sunriseSeconds": 24180,
+      "sunsetSeconds": 60120
+    },
+    "12-30": {
+      "sourceDate": "2026-12-30",
+      "sunriseSeconds": 24180,
+      "sunsetSeconds": 60180
+    },
+    "12-31": {
+      "sourceDate": "2026-12-31",
+      "sunriseSeconds": 24240,
+      "sunsetSeconds": 60240
+    }
+  }
+}
