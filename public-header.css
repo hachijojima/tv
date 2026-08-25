@@ -7,6 +7,7 @@
   width: 184px;
   clip-path: inset(12% 0);
   margin-block: -7px;
+  transform: translateX(-5.2%);
 }
 
 .public-page #presence-status {
