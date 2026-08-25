@@ -13,6 +13,16 @@
   font-size: 14px;
 }
 
+@media (max-width: 767px) {
+  .public-page .tv-shell {
+    padding-top: max(14px, env(safe-area-inset-top));
+  }
+
+  .public-page .masthead {
+    padding-bottom: 12px;
+  }
+}
+
 @media (max-width: 374px) {
   .public-page .brand-logo.brand-wordmark {
     width: 160px;
