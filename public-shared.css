@@ -94,6 +94,15 @@
   flex: 0 0 50px;
 }
 
+.public-page .note-link .note-divider,
+.public-page .note-link .note-link-label {
+  color: #111827;
+}
+
+.public-page .note-link .note-divider {
+  line-height: 1;
+}
+
 @media (min-width: 768px) {
   .public-page .player-controls {
     padding: 14px 0 0;
