@@ -81,6 +81,49 @@
 .hot10-movement.is-flat { color: var(--hot10-gray); }
 .hot10-loading, .hot10-error { display: flex; min-height: 486px; align-items: center; color: var(--hot10-gray); font-size: 13px; }
 
+@media (min-width: 1100px) {
+  .public-page .tv-main-layout {
+    display: grid;
+    grid-template-columns: minmax(0, 1.6fr) minmax(340px, 1fr);
+    align-items: start;
+  }
+
+  .public-page .tv-main-left { min-width: 0; }
+
+  .public-page .hot10-section {
+    width: auto;
+    min-width: 0;
+    margin: 0;
+    align-self: stretch;
+  }
+
+  .public-page .hot10-inner {
+    width: auto;
+    max-width: none;
+    margin: 0;
+    padding: 34px 32px 36px;
+  }
+
+  .hot10-header { gap: 16px; }
+  .hot10-logo { font-size: clamp(36px, 3.2vw, 45px); }
+  .hot10-month-day { font-size: clamp(31px, 2.6vw, 37px); }
+  .hot10-list { min-height: 0; margin-top: 28px; }
+
+  .hot10-row {
+    grid-template-columns: 68px minmax(0, 1fr) minmax(80px, .64fr);
+    gap: 10px;
+    align-items: center;
+    padding: 12px 0;
+  }
+
+  .hot10-title,
+  .hot10-artist {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+}
+
 @media (min-width: 1440px) {
   .public-page .hot10-inner { max-width: 1088px; }
 }
