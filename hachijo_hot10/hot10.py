@@ -224,14 +224,29 @@ def simulate(days: int, seed: int, tracks: list[dict[str, Any]], config: dict[st
 def today(chart_day: date, tracks: list[dict[str, Any]], config: dict[str, Any], state_path: Path, output_dir: Path, generated_at: datetime | None = None) -> dict[str, Any]:
     state = load_state(state_path, tracks, config)
     daily_path = output_dir / f"{chart_day.isoformat()}.json"
-    if state["last_generated_chart_date"] == chart_day.isoformat():
+    last_generated = state["last_generated_chart_date"]
+    if last_generated == chart_day.isoformat():
         if not daily_path.exists():
             raise RuntimeError("state says chart already exists but daily output is missing")
         return json.loads(daily_path.read_text(encoding="utf-8"))
-    result = generate_chart(chart_day, tracks, state, config, random.Random(int(chart_day.strftime("%Y%m%d"))))
+
+    last_day = date.fromisoformat(last_generated) if last_generated else None
+    if last_day and last_day > chart_day:
+        if not daily_path.exists():
+            raise RuntimeError("state is newer than the requested chart date and its daily output is missing")
+        return json.loads(daily_path.read_text(encoding="utf-8"))
+
     timestamp = (generated_at or datetime.now(ZoneInfo(config["timezone"]))).astimezone(ZoneInfo(config["timezone"])).isoformat()
-    payload = {"date": result["date"], "generated_at": timestamp, "chart": result["chart"]}
-    atomic_write_json(daily_path, payload)
+    first_day = chart_day if last_day is None else last_day + timedelta(days=1)
+    payload: dict[str, Any] | None = None
+    for day_offset in range((chart_day - first_day).days + 1):
+        day = first_day + timedelta(days=day_offset)
+        result = generate_chart(day, tracks, state, config, random.Random(int(day.strftime("%Y%m%d"))))
+        payload = {"date": result["date"], "generated_at": timestamp, "chart": result["chart"]}
+        atomic_write_json(output_dir / f"{day.isoformat()}.json", payload)
+
+    if payload is None:
+        raise RuntimeError("no chart was generated")
     atomic_write_json(output_dir / "latest.json", payload)
     atomic_write_json(state_path, state)
     return payload
