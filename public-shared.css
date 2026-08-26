@@ -13,7 +13,7 @@
 }
 
 .public-page .next-info {
-  margin-top: 12px;
+  margin-top: 14px;
   background: #fff;
   border-color: #d9e2ee;
   color: #111827;
@@ -89,6 +89,6 @@
 
 @media (min-width: 768px) {
   .public-page .player-controls {
-    padding: 10px 0 0;
+    padding: 14px 0 0;
   }
 }

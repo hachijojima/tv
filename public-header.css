@@ -1,6 +1,6 @@
 /* Public header only: keep the wordmark prominent without adding vertical air. */
 .public-page .masthead {
-  padding: 0 0 6px;
+  padding: 0 0 16px;
 }
 
 .public-page .brand-logo.brand-wordmark {
