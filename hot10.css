@@ -17,7 +17,7 @@
   width: calc(100% - 64px);
   max-width: 928px;
   margin: 0 auto;
-  padding: 36px 0;
+  padding: 26px 0 36px;
 }
 
 .hot10-header { display: flex; align-items: flex-end; justify-content: space-between; gap: 24px; }
@@ -82,7 +82,7 @@
 
 @media (max-width: 767px) {
   .public-page .hot10-section { margin-top: 26px; }
-  .public-page .hot10-inner { width: calc(100% - 64px); padding: 32px 0; }
+  .public-page .hot10-inner { width: calc(100% - 64px); padding: 24px 0 32px; }
   .hot10-header { gap: 12px; }
   .hot10-logo { font-size: clamp(35px, 10.4vw, 42px); }
   .hot10-place { letter-spacing: .38em; }
