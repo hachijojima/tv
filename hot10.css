@@ -83,14 +83,27 @@
 
 @media (min-width: 1100px) {
   .public-page .tv-main-layout {
+    display: contents;
+  }
+
+  .public-page .tv-shell {
     display: grid;
-    grid-template-columns: minmax(0, 1.6fr) minmax(340px, 1fr);
+    grid-template-columns: minmax(0, 1.6fr) minmax(400px, 1fr);
+    grid-template-areas:
+      "masthead hot10"
+      "main hot10"
+      "note hot10";
+    width: calc(100% - 48px);
+    max-width: 1240px;
     align-items: start;
   }
 
-  .public-page .tv-main-left { min-width: 0; }
+  .public-page .masthead { grid-area: masthead; }
+  .public-page .tv-main-left { grid-area: main; min-width: 0; }
+  .public-page .note-link { grid-area: note; }
 
   .public-page .hot10-section {
+    grid-area: hot10;
     width: auto;
     min-width: 0;
     margin: 0;
@@ -101,16 +114,16 @@
     width: auto;
     max-width: none;
     margin: 0;
-    padding: 34px 32px 36px;
+    padding: 38px 38px 40px;
   }
 
   .hot10-header { gap: 16px; }
-  .hot10-logo { font-size: clamp(36px, 3.2vw, 45px); }
-  .hot10-month-day { font-size: clamp(31px, 2.6vw, 37px); }
+  .hot10-logo { font-size: clamp(40px, 3.3vw, 50px); }
+  .hot10-month-day { font-size: clamp(34px, 2.8vw, 40px); }
   .hot10-list { min-height: 0; margin-top: 28px; }
 
   .hot10-row {
-    grid-template-columns: 68px minmax(0, 1fr) minmax(80px, .64fr);
+    grid-template-columns: 68px minmax(0, 1.25fr) minmax(0, .75fr);
     gap: 10px;
     align-items: center;
     padding: 12px 0;
