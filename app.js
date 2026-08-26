@@ -1,7 +1,7 @@
 const $ = selector => document.querySelector(selector);
 const sb = window.supabase.createClient(window.FM_HACHIJO_SUPABASE.url, window.FM_HACHIJO_SUPABASE.publishableKey);
 const state = { player: null, current: null, key: '', boundaryTimer: null, soundOn: false, soundWanted: localStorage.getItem('hachijo-tv-sound') === 'on', initialising: false };
-const familyName = { music: 'MUSIC', hachijo_taiko: 'HACHIJO TAIKO', power_push: 'POWER PUSH', sports: 'SPORTS', hachijo_picks: 'HACHIJO PICKS', island_view: 'ISLAND VIEW', tokyo_relay: 'TOKYO RELAY' };
+const familyName = { music: 'MUSIC', hachijo_taiko: 'HACHIJO TAIKO', power_push: 'POWER PLAY', sports: 'SPORTS', hachijo_picks: 'HACHIJO PICKS', island_view: 'ISLAND VIEW', tokyo_relay: 'TOKYO RELAY' };
 const formatTime = value => new Intl.DateTimeFormat('ja-JP', { timeZone: 'Asia/Tokyo', hour: '2-digit', minute: '2-digit', hourCycle: 'h23' }).format(new Date(value));
 const message = value => { $('#player-message').textContent = value; $('#player-message').hidden = !value; };
 function showProgram(prefix, program) { const isDeparture = program?.family_code === 'tokyo_relay' && formatTime(program.start_at) === '22:30' && formatTime(program.end_at) === '22:50'; const showTitle = ['music', 'power_push', 'hachijo_picks', 'island_view'].includes(program?.family_code); const displayTitle = program?.family_code === 'tokyo_relay' ? (isDeparture ? 'DEPARTURE' : '放送休止') : (showTitle ? (program.title || '') : ''); $(`#${prefix}-family`).textContent = program ? familyName[program.family_code] : '—'; $(`#${prefix}-title`).textContent = displayTitle; }
