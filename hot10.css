@@ -4,6 +4,8 @@
   --hot10-gray: #8d9099;
   --hot10-rule: rgba(255, 255, 255, .14);
   --hot10-gold: #c7a84b;
+  --hot10-red: #d84b4b;
+  --hot10-blue: #4d74d9;
 }
 
 .public-page .hot10-section {
@@ -74,6 +76,9 @@
 .hot10-artist { min-width: 0; color: var(--hot10-gray); font-size: 14px; font-weight: 500; line-height: 1.35; }
 .hot10-movement { color: var(--hot10-gray); font-size: 12px; font-variant-numeric: tabular-nums; font-weight: 700; letter-spacing: .04em; white-space: nowrap; }
 .hot10-movement.is-new, .hot10-movement.is-re { color: var(--hot10-gold); }
+.hot10-movement.is-up { color: var(--hot10-red); }
+.hot10-movement.is-down { color: var(--hot10-blue); }
+.hot10-movement.is-flat { color: var(--hot10-gray); }
 .hot10-loading, .hot10-error { display: flex; min-height: 486px; align-items: center; color: var(--hot10-gray); font-size: 13px; }
 
 @media (min-width: 1440px) {
