@@ -81,9 +81,9 @@
 .hot10-movement.is-flat { color: var(--hot10-gray); }
 .hot10-loading, .hot10-error { display: flex; min-height: 486px; align-items: center; color: var(--hot10-gray); font-size: 13px; }
 
-@media (min-width: 1100px) {
+@media (min-width: 1360px) {
   .public-page {
-    background: linear-gradient(to right, var(--page-bg) 0 61.538%, var(--hot10-bg) 61.538% 100%);
+    background: linear-gradient(to right, var(--page-bg) 0 65%, var(--hot10-bg) 65% 100%);
   }
 
   .public-page .tv-main-layout {
@@ -92,7 +92,7 @@
 
   .public-page .tv-shell {
     display: grid;
-    grid-template-columns: minmax(0, 1.6fr) minmax(400px, 1fr);
+    grid-template-columns: minmax(0, 13fr) minmax(0, 7fr);
     grid-template-areas:
       "masthead hot10"
       "main hot10"
@@ -109,8 +109,8 @@
   .public-page .masthead,
   .public-page .tv-main-left,
   .public-page .note-link {
-    width: min(calc(100% - 48px), 780px);
-    justify-self: end;
+    width: min(840px, calc(100% - 64px));
+    justify-self: center;
   }
 
   .public-page .masthead {
@@ -134,22 +134,22 @@
   }
 
   .public-page .hot10-inner {
-    width: auto;
-    max-width: none;
     margin: 0;
-    padding: 38px 38px 40px;
+    width: min(100%, 520px);
+    padding: 32px 28px 36px;
   }
 
-  .hot10-header { gap: 16px; }
+  .hot10-header { align-items: flex-start; gap: 16px; }
   .hot10-logo { font-size: clamp(40px, 3.3vw, 50px); }
   .hot10-month-day { font-size: clamp(34px, 2.8vw, 40px); }
+  .hot10-date { padding-top: 6px; }
   .hot10-list { min-height: 0; margin-top: 28px; }
 
   .hot10-row {
     grid-template-columns: 68px minmax(0, 1.25fr) minmax(0, .75fr);
     gap: 10px;
     align-items: center;
-    padding: 12px 0;
+    padding: 15px 0;
   }
 
   .hot10-title,
