@@ -20,7 +20,7 @@
   padding: 36px 0;
 }
 
-.hot10-header { display: flex; align-items: stretch; justify-content: space-between; gap: 24px; }
+.hot10-header { display: flex; align-items: flex-end; justify-content: space-between; gap: 24px; }
 .hot10-logo, .hot10-date, .hot10-list { margin: 0; }
 
 .hot10-logo {
@@ -30,32 +30,31 @@
   min-width: 0;
   color: var(--hot10-white);
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
-  font-size: clamp(30px, 4vw, 45px);
+  font-size: clamp(60px, 6vw, 78px);
   font-stretch: condensed;
   font-weight: 900;
   letter-spacing: .015em;
   line-height: .82;
 }
 
-.hot10-place { font-size: .47em; letter-spacing: .3em; line-height: 1.2; }
-.hot10-name { display: inline-flex; align-items: flex-end; width: max-content; margin-top: 5px; letter-spacing: .02em; }
-.hot10-name b { position: relative; display: inline-block; margin-left: .13em; color: var(--hot10-gold); font-weight: inherit; }
+.hot10-place { font-size: .2em; letter-spacing: .44em; line-height: 1.12; }
+.hot10-name { display: inline-flex; align-items: flex-end; width: max-content; margin-top: 4px; letter-spacing: -.015em; }
+.hot10-name b { position: relative; display: inline-block; margin-left: .08em; color: var(--hot10-gold); font-weight: inherit; }
 .hot10-name b::after { position: absolute; right: 0; bottom: -.16em; left: 0; height: .075em; background: var(--hot10-gold); content: ""; }
 
 .hot10-date {
-  display: grid;
-  grid-template-columns: auto auto;
-  column-gap: 9px;
+  display: flex;
+  flex-direction: column;
   flex: 0 0 auto;
-  align-items: start;
+  align-items: flex-end;
   color: var(--hot10-white);
   font-variant-numeric: tabular-nums;
   line-height: 1;
   text-align: right;
 }
 
-.hot10-month-day { padding-top: 1px; font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif; font-size: clamp(27px, 3.2vw, 38px); font-weight: 900; letter-spacing: -.025em; }
-.hot10-date-meta { display: flex; flex-direction: column; gap: 4px; padding-top: 3px; color: var(--hot10-gray); font-size: clamp(10px, 1.2vw, 13px); font-weight: 650; letter-spacing: .035em; text-align: left; }
+.hot10-month-day { padding-top: 1px; font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif; font-size: clamp(32px, 3.6vw, 43px); font-weight: 900; letter-spacing: -.025em; }
+.hot10-date-meta { display: flex; gap: 8px; padding-top: 5px; color: var(--hot10-gray); font-size: clamp(11px, 1.3vw, 14px); font-weight: 650; letter-spacing: .035em; }
 
 .hot10-list { min-height: 486px; margin-top: 30px; padding: 0; list-style: none; }
 
@@ -85,10 +84,10 @@
   .public-page .hot10-section { margin-top: 14px; }
   .public-page .hot10-inner { width: calc(100% - 64px); padding: 32px 0; }
   .hot10-header { gap: 12px; }
-  .hot10-logo { font-size: clamp(29px, 9.6vw, 39px); }
-  .hot10-place { letter-spacing: .25em; }
-  .hot10-month-day { font-size: clamp(25px, 8.2vw, 33px); }
-  .hot10-date-meta { gap: 3px; font-size: 10px; }
+  .hot10-logo { font-size: clamp(44px, 13vw, 54px); }
+  .hot10-place { letter-spacing: .38em; }
+  .hot10-month-day { font-size: clamp(29px, 8.7vw, 35px); }
+  .hot10-date-meta { gap: 7px; padding-top: 4px; font-size: 11px; }
   .hot10-list { min-height: 610px; margin-top: 28px; }
   .hot10-row {
     grid-template-columns: 78px minmax(0, 1fr);
@@ -107,8 +106,8 @@
 
 @media (max-width: 340px) {
   .hot10-header { gap: 8px; }
-  .hot10-logo { font-size: 27px; }
-  .hot10-place { letter-spacing: .2em; }
-  .hot10-month-day { font-size: 23px; }
+  .hot10-logo { font-size: 41px; }
+  .hot10-place { letter-spacing: .31em; }
+  .hot10-month-day { font-size: 28px; }
   .hot10-row { grid-template-columns: 72px minmax(0, 1fr); }
 }
