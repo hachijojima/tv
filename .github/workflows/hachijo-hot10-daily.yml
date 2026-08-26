@@ -6,8 +6,6 @@ on:
     # GitHub-hosted schedule runs can occasionally be delayed. This is an
     # idempotent fallback: `hot10.py today` will not generate a second chart.
     - cron: "20 18 * * *"
-    - cron: "5 19 * * *"
-    - cron: "5 20 * * *"
   workflow_dispatch:
 
 permissions:

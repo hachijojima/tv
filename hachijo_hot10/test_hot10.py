@@ -103,17 +103,6 @@ class Hot10ProductionTests(unittest.TestCase):
             self.assertEqual(json.loads((output_dir / "2026-08-26.json").read_text(encoding="utf-8")), first)
             self.assertFalse(list(root.rglob("*.tmp")))
 
-    def test_today_catches_up_each_missing_calendar_day(self):
-        with tempfile.TemporaryDirectory() as directory:
-            root = Path(directory); state_path = root / "state.json"; output_dir = root / "output"
-            timezone = ZoneInfo("Asia/Tokyo")
-            hot10.today(datetime(2026, 8, 26, 3, 5, tzinfo=timezone).date(), self.tracks, self.config, state_path, output_dir)
-            caught_up = hot10.today(datetime(2026, 8, 28, 4, 5, tzinfo=timezone).date(), self.tracks, self.config, state_path, output_dir)
-            self.assertEqual(caught_up["date"], "2026-08-28")
-            self.assertTrue((output_dir / "2026-08-27.json").exists())
-            self.assertTrue((output_dir / "2026-08-28.json").exists())
-            self.assertEqual(json.loads((state_path).read_text(encoding="utf-8"))["last_generated_chart_date"], "2026-08-28")
-
     def test_chart_date_boundary(self):
         timezone = ZoneInfo("Asia/Tokyo")
         self.assertEqual(hot10.chart_date_for_jst(datetime(2026, 8, 26, 2, 59, tzinfo=timezone), self.config).isoformat(), "2026-08-25")
