@@ -1,0 +1,118 @@
+#!/usr/bin/env python3
+"""Acceptance tests for the F4.1-B production engine."""
+
+import copy
+import hashlib
+import inspect
+import json
+import tempfile
+import unittest
+from datetime import datetime
+from pathlib import Path
+from zoneinfo import ZoneInfo
+
+import hot10
+
+
+def summary(charts):
+    daily = [{row["track_id"] for row in day["chart"]} for day in charts]
+    replacements = [10 - len(left & right) for left, right in zip(daily, daily[1:])]
+    rows = [row for day in charts for row in day["chart"]]
+    return {
+        "retention": sum(10 - value for value in replacements) / len(replacements),
+        "replacements": sum(replacements) / len(replacements),
+        "unique": len(set().union(*daily),),
+        "new": sum(row["movement"] == "NEW" for row in rows), "re": sum(row["movement"] == "RE" for row in rows),
+        "max1": max(row["days_at_number_1"] for row in rows), "maxtop": max(row["top10_streak"] for row in rows),
+        "replacements_by_day": replacements,
+    }
+
+
+class Hot10ProductionTests(unittest.TestCase):
+    @classmethod
+    def setUpClass(cls):
+        cls.config = hot10.load_config()
+        cls.tracks = hot10.load_tracks(hot10.resolve_master_path(cls.config))
+
+    def test_master_schema_and_ids(self):
+        self.assertEqual(len(self.tracks), 1389)
+        self.assertEqual({track["track_id"] for track in self.tracks}, set(range(1, 1390)))
+        self.assertTrue(all(track["enabled"] in (0, 1) for track in self.tracks))
+        self.assertTrue(all(0 <= track[field] <= 100 for track in self.tracks for field in hot10.SCORE_COLUMNS))
+
+    def test_saturation_freshness_and_inertia(self):
+        self.assertEqual(hot10.effective_hachijo_fit(70, self.config), 70)
+        self.assertEqual(hot10.effective_hachijo_fit(100, self.config), 77.5)
+        self.assertEqual(self.config["previous_day_inertia"], {"base_bonus_for_rank_1": 5.25, "rank_step_down": 0.35, "stickiness_scale": 0.015})
+        track = next(track for track in self.tracks if track["track_id"] == 2)
+        self.assertGreaterEqual(hot10.effective_freshness(track, self.config), track["freshness_bonus"] * self.config["attenuated_freshness"]["minimum_factor"])
+        self.assertLessEqual(hot10.effective_freshness(track, self.config), track["freshness_bonus"])
+
+    def test_movement_labels(self):
+        labels = self.config["movement_labels"]
+        blank = hot10.blank_track_state()
+        self.assertEqual(hot10.movement_for(blank, 1, labels), "NEW")
+        reentry = blank | {"ever_charted": True}
+        self.assertEqual(hot10.movement_for(reentry, 1, labels), "RE")
+        prior = blank | {"ever_charted": True, "last_rank": 4}
+        self.assertEqual(hot10.movement_for(prior, 4, labels), "→")
+        self.assertEqual(hot10.movement_for(prior, 2, labels), "↑2")
+        self.assertEqual(hot10.movement_for(prior, 7, labels), "↓3")
+
+    def test_seeded_14_day_golden_summary_and_chart(self):
+        charts = hot10.simulate(14, 20260826, self.tracks, self.config, datetime(2026, 8, 26).date())
+        actual = summary(charts)
+        self.assertEqual(actual["replacements_by_day"], [1, 3, 3, 1, 2, 1, 3, 2, 1, 2, 2, 2, 3])
+        self.assertEqual((actual["unique"], actual["new"], actual["re"], actual["max1"], actual["maxtop"]), (35, 35, 1, 3, 12))
+        self.assertEqual((actual["retention"], actual["replacements"]), (8.0, 2.0))
+        canonical = json.dumps(charts, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
+        self.assertEqual(hashlib.sha256(canonical).hexdigest(), "e6c47bac2549e277422bdd308401fa6b76145f5d3d24851c7299a6efcebbf766")
+
+    def test_five_seed_reference_summary(self):
+        charts = [hot10.simulate(30, seed, self.tracks, self.config, datetime(2026, 8, 26).date()) for seed in (20260826, 12345, 20260901, 777, 424242)]
+        values = [summary(run) for run in charts]
+        self.assertAlmostEqual(sum(item["retention"] for item in values) / 5, 7.9724137931)
+        self.assertAlmostEqual(sum(item["replacements"] for item in values) / 5, 2.0275862069)
+        self.assertAlmostEqual(sum(item["unique"] for item in values) / 5, 65.6)
+        self.assertAlmostEqual(sum(item["new"] for item in values) / 5, 65.6)
+        self.assertAlmostEqual(sum(item["re"] for item in values) / 5, 3.2)
+        self.assertAlmostEqual(sum(item["max1"] for item in values) / 5, 5.2)
+        self.assertAlmostEqual(sum(item["maxtop"] for item in values) / 5, 18.0)
+
+    def test_ten_tracks_and_one_artist_maximum(self):
+        for day in hot10.simulate(30, 12345, self.tracks, self.config, datetime(2026, 8, 26).date()):
+            self.assertEqual(len(day["chart"]), 10)
+            self.assertEqual(len({row["artist"] for row in day["chart"]}), 10)
+
+    def test_simulation_leaves_production_state_untouched(self):
+        state = hot10.initial_state(self.tracks, self.config)
+        original = copy.deepcopy(state)
+        hot10.simulate(14, 20260826, self.tracks, self.config, datetime(2026, 8, 26).date())
+        self.assertEqual(state, original)
+
+    def test_today_idempotence_and_atomic_outputs(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory); state_path = root / "state.json"; output_dir = root / "output"
+            generated_at = datetime(2026, 8, 26, 3, 5, tzinfo=ZoneInfo("Asia/Tokyo"))
+            first = hot10.today(generated_at.date(), self.tracks, self.config, state_path, output_dir, generated_at)
+            state_before = state_path.read_bytes()
+            second = hot10.today(generated_at.date(), self.tracks, self.config, state_path, output_dir, generated_at)
+            self.assertEqual(first, second)
+            self.assertEqual(state_before, state_path.read_bytes())
+            self.assertEqual(json.loads((output_dir / "latest.json").read_text(encoding="utf-8")), first)
+            self.assertEqual(json.loads((output_dir / "2026-08-26.json").read_text(encoding="utf-8")), first)
+            self.assertFalse(list(root.rglob("*.tmp")))
+
+    def test_chart_date_boundary(self):
+        timezone = ZoneInfo("Asia/Tokyo")
+        self.assertEqual(hot10.chart_date_for_jst(datetime(2026, 8, 26, 2, 59, tzinfo=timezone), self.config).isoformat(), "2026-08-25")
+        self.assertEqual(hot10.chart_date_for_jst(datetime(2026, 8, 26, 3, 0, tzinfo=timezone), self.config).isoformat(), "2026-08-26")
+
+    def test_runtime_score_has_no_metadata_branching(self):
+        scoring_source = inspect.getsource(hot10.daily_score)
+        for forbidden in ("release_year", "source", "category", "artist ==", "artist in"):
+            self.assertNotIn(forbidden, scoring_source)
+
+
+if __name__ == "__main__":
+    unittest.main(verbosity=2)

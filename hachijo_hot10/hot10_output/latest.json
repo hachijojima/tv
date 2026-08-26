@@ -1,0 +1,96 @@
+{
+  "date": "2026-08-26",
+  "generated_at": "2026-08-26T16:03:04.045629+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 299,
+      "artist": "ハナレグミ",
+      "title": "家族の風景",
+      "movement": "NEW",
+      "days_at_number_1": 1,
+      "top10_streak": 1
+    },
+    {
+      "rank": 2,
+      "track_id": 1363,
+      "artist": "Arctic Monkeys",
+      "title": "Do I Wanna Know?",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 3,
+      "track_id": 346,
+      "artist": "椎名林檎",
+      "title": "茎(STEM)～大名遊ビ編～",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 4,
+      "track_id": 19,
+      "artist": "MONO NO AWARE",
+      "title": "幽霊船",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 5,
+      "track_id": 1061,
+      "artist": "Cyndi Lauper",
+      "title": "Time After Time",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 6,
+      "track_id": 227,
+      "artist": "chelmico",
+      "title": "Love Is Over",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 7,
+      "track_id": 1020,
+      "artist": "The Doobie Brothers",
+      "title": "What a Fool Believes",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 857,
+      "artist": "ヨルシカ",
+      "title": "花に亡霊",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 1021,
+      "artist": "スチャダラパー",
+      "title": "サマージャム’95",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1011,
+      "artist": "Underworld",
+      "title": "Born Slippy (Nuxx)",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    }
+  ]
+}

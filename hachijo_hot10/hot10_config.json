@@ -1,0 +1,66 @@
+{
+  "version": "F4.1-B",
+  "master_path": "HACHIJO_HOT10_master_1389_F41_input.csv",
+  "top_n": 10,
+  "timezone": "Asia/Tokyo",
+  "chart_boundary_hour": 3,
+  "static_score_weights": {
+    "base_strength": 0.34,
+    "emo": 0.15,
+    "popularity": 0.10,
+    "hachijo_fit": 0.14,
+    "oddity": 0.07,
+    "stickiness": 0.14
+  },
+  "hachijo_fit_saturation": {
+    "threshold": 70.0,
+    "above_threshold_multiplier": 0.25
+  },
+  "attenuated_freshness": {
+    "static_score_center": 76.0,
+    "divisor": 8.0,
+    "minimum_factor": 0.2,
+    "maximum_factor": 1.0
+  },
+  "daily_heat": {
+    "persistence": 0.88,
+    "noise_sd_min": 0.75,
+    "noise_sd_volatility_scale": 1.25
+  },
+  "daily_mood": {
+    "persistence": 0.78,
+    "noise_sd": 0.32,
+    "axes": ["emo", "popularity", "hachijo_fit", "oddity"],
+    "contribution_divisor": 25.0
+  },
+  "previous_day_inertia": {
+    "base_bonus_for_rank_1": 5.25,
+    "rank_step_down": 0.35,
+    "stickiness_scale": 0.015
+  },
+  "streak": {
+    "top10_bonus_per_day": 0.4,
+    "top10_bonus_cap": 2.4,
+    "fatigue_starts_after_days": 8,
+    "fatigue_per_extra_day": 0.45
+  },
+  "wildcard_shock": {
+    "base_probability": 0.0012,
+    "oddity_probability_scale": 0.0013,
+    "volatility_probability_scale": 0.0013,
+    "bonus_min": 6.0,
+    "bonus_max": 13.0,
+    "decay_next_day": 0.68
+  },
+  "return_bonus": {
+    "per_day_outside_top10": 0.025,
+    "max_days": 45
+  },
+  "movement_labels": {
+    "first_ever_top10": "NEW",
+    "reentry_after_absence": "RE",
+    "same_rank": "→",
+    "up": "↑",
+    "down": "↓"
+  }
+}

@@ -1,0 +1,48 @@
+name: HACHIJO HOT 10 Daily
+
+on:
+  schedule:
+    - cron: "5 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: hachijo-hot10-daily
+  cancel-in-progress: false
+
+jobs:
+  update-hot10:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate HOT10
+        working-directory: hachijo_hot10
+        run: python3 test_hot10.py
+
+      - name: Generate today's HOT10
+        working-directory: hachijo_hot10
+        env:
+          TZ: Asia/Tokyo
+        run: python3 hot10.py today
+
+      - name: Commit updated HOT10 state
+        run: |
+          git config user.name "hachijo-hot10-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add hachijo_hot10/hot10_state.json hachijo_hot10/hot10_output/latest.json hachijo_hot10/hot10_output/*.json
+          if git diff --cached --quiet; then
+            echo "No HOT10 changes."
+            exit 0
+          fi
+          git commit -m "Update HACHIJO HOT 10"
+          git push
