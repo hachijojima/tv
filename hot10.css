@@ -140,7 +140,8 @@
     margin: 0;
     width: 100%;
     max-width: none;
-    padding: 32px 28px 36px;
+    /* Align the HOT 10 header with the player, not the page top. */
+    padding: 71px 28px 36px;
   }
 
   .hot10-header { align-items: flex-start; gap: 16px; }
