@@ -172,10 +172,12 @@
 @media (max-width: 767px) {
   .public-page .hot10-section { margin-top: 26px; }
   .public-page .hot10-inner { width: calc(100% - 64px); padding: 24px 0 32px; }
-  .hot10-header { gap: 12px; }
+  .hot10-header { align-items: flex-start; gap: 12px; }
   .hot10-logo { font-size: clamp(35px, 10.4vw, 42px); }
+  .hot10-name { margin-top: -2px; }
   .hot10-place { letter-spacing: .38em; }
   .hot10-month-day { font-size: clamp(29px, 8.7vw, 35px); }
+  .hot10-date { padding-top: 6px; }
   .hot10-date-meta { gap: 7px; padding-top: 4px; font-size: 11px; }
   .hot10-list { min-height: 610px; margin-top: 28px; }
   .hot10-row {
