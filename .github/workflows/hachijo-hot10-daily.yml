@@ -3,9 +3,6 @@ name: HACHIJO HOT 10 Daily
 on:
   schedule:
     - cron: "5 18 * * *"
-    # GitHub-hosted schedule runs can occasionally be delayed. This is an
-    # idempotent fallback: `hot10.py today` will not generate a second chart.
-    - cron: "20 18 * * *"
   workflow_dispatch:
 
 permissions:
