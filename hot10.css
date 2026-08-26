@@ -95,7 +95,9 @@
       "note hot10";
     width: calc(100% - 48px);
     max-width: 1240px;
+    min-height: 0;
     align-items: start;
+    align-content: start;
   }
 
   .public-page .masthead { grid-area: masthead; }
