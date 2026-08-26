@@ -4,10 +4,10 @@
 }
 
 .public-page .brand-logo.brand-wordmark {
-  width: 184px;
-  clip-path: inset(12% 0);
-  margin-block: -7px;
-  transform: translateX(-5.2%);
+  width: 215px;
+  clip-path: none;
+  margin: 0;
+  transform: none;
 }
 
 .public-page #presence-status {
@@ -21,11 +21,5 @@
 
   .public-page .masthead {
     padding-bottom: 12px;
-  }
-}
-
-@media (max-width: 374px) {
-  .public-page .brand-logo.brand-wordmark {
-    width: 160px;
   }
 }
