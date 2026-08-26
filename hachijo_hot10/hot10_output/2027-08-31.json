@@ -1,0 +1,96 @@
+{
+  "date": "2027-08-31",
+  "generated_at": "2027-08-31T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 582,
+      "artist": "T-BOLAN",
+      "title": "Bye For Now",
+      "movement": "↑1",
+      "days_at_number_1": 1,
+      "top10_streak": 6
+    },
+    {
+      "rank": 2,
+      "track_id": 1364,
+      "artist": "Linkin Park",
+      "title": "In the End",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 3,
+      "track_id": 500,
+      "artist": "モーニング娘。",
+      "title": "LOVEマシーン",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 10
+    },
+    {
+      "rank": 4,
+      "track_id": 14,
+      "artist": "MIZ",
+      "title": "とびうおのうた",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 5,
+      "track_id": 451,
+      "artist": "WANDS",
+      "title": "時の扉",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 6,
+      "track_id": 496,
+      "artist": "宇多田ヒカル",
+      "title": "Automatic",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 7,
+      "track_id": 1245,
+      "artist": "David Guetta",
+      "title": "Titanium (feat. Sia)",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 883,
+      "artist": "Vampire Weekend",
+      "title": "A-Punk",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 9,
+      "track_id": 1091,
+      "artist": "The Cure",
+      "title": "Boys Don’t Cry",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 10
+    },
+    {
+      "rank": 10,
+      "track_id": 540,
+      "artist": "槇原敬之",
+      "title": "もう恋なんてしない",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    }
+  ]
+}

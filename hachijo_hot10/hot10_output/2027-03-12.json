@@ -1,0 +1,96 @@
+{
+  "date": "2027-03-12",
+  "generated_at": "2027-03-12T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 762,
+      "artist": "ティン・パン・アレー",
+      "title": "北京ダック",
+      "movement": "↑1",
+      "days_at_number_1": 1,
+      "top10_streak": 7
+    },
+    {
+      "rank": 2,
+      "track_id": 998,
+      "artist": "Donald Fagen",
+      "title": "The Nightfly",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 3,
+      "track_id": 1315,
+      "artist": "Nirvana",
+      "title": "Come As You Are",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 9
+    },
+    {
+      "rank": 4,
+      "track_id": 15,
+      "artist": "MONO NO AWARE",
+      "title": "もうけもん",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 459,
+      "artist": "B'z",
+      "title": "ALONE",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 10
+    },
+    {
+      "rank": 6,
+      "track_id": 552,
+      "artist": "森高千里",
+      "title": "雨",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 11
+    },
+    {
+      "rank": 7,
+      "track_id": 2,
+      "artist": "MIZ",
+      "title": "パレード",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 1214,
+      "artist": "Ariana Grande",
+      "title": "Into You",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 1061,
+      "artist": "Cyndi Lauper",
+      "title": "Time After Time",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 10,
+      "track_id": 1305,
+      "artist": "鼓童",
+      "title": "凰（おおとり）",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 9
+    }
+  ]
+}

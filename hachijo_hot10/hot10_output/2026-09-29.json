@@ -1,0 +1,96 @@
+{
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 945,
+      "artist": "Oasis",
+      "title": "Don't Look Back in Anger",
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 2
+    },
+    {
+      "rank": 2,
+      "track_id": 1,
+      "artist": "MONO NO AWARE",
+      "title": "東京",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 3,
+      "track_id": 12,
+      "artist": "MIZ",
+      "title": "丘",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 17
+    },
+    {
+      "rank": 4,
+      "track_id": 1141,
+      "artist": "The Beatles",
+      "title": "Something",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 5,
+      "track_id": 548,
+      "artist": "REBECCA",
+      "title": "RASPBERRY DREAM",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 9
+    },
+    {
+      "rank": 6,
+      "track_id": 348,
+      "artist": "レミオロメン",
+      "title": "電話",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 10
+    },
+    {
+      "rank": 7,
+      "track_id": 268,
+      "artist": "リーガルリリー",
+      "title": "ハナヒカリ",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
+      "track_id": 734,
+      "artist": "濱田金吾",
+      "title": "Midnight Cruisin'",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 9,
+      "track_id": 530,
+      "artist": "X JAPAN",
+      "title": "Rusty Nail",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 10,
+      "track_id": 679,
+      "artist": "太田裕美",
+      "title": "木綿のハンカチーフ",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    }
+  ]
+}

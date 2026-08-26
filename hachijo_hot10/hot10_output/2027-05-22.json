@@ -1,0 +1,96 @@
+{
+  "date": "2027-05-22",
+  "generated_at": "2027-05-22T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 18,
+      "artist": "MONO NO AWARE",
+      "title": "アングル",
+      "movement": "→",
+      "days_at_number_1": 6,
+      "top10_streak": 7
+    },
+    {
+      "rank": 2,
+      "track_id": 1043,
+      "artist": "Television",
+      "title": "Marquee Moon",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 3,
+      "track_id": 4,
+      "artist": "MIZ",
+      "title": "空砲",
+      "movement": "↑7",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 4,
+      "track_id": 1248,
+      "artist": "Swedish House Mafia",
+      "title": "Save the World",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 5,
+      "track_id": 454,
+      "artist": "爆風スランプ",
+      "title": "Runner",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 10
+    },
+    {
+      "rank": 6,
+      "track_id": 57,
+      "artist": "君島大空",
+      "title": "遠視のコントラルト",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 7,
+      "track_id": 533,
+      "artist": "TRF",
+      "title": "survival dAnce ～no no cry more～",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 8,
+      "track_id": 1107,
+      "artist": "Pixies",
+      "title": "Debaser",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 1028,
+      "artist": "Kendrick Lamar",
+      "title": "Alright",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 10,
+      "track_id": 1068,
+      "artist": "Simon & Garfunkel",
+      "title": "Bridge Over Troubled Water",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 10
+    }
+  ]
+}

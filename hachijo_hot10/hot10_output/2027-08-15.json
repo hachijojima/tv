@@ -1,0 +1,96 @@
+{
+  "date": "2027-08-15",
+  "generated_at": "2027-08-15T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 1206,
+      "artist": "Beyoncé",
+      "title": "Single Ladies (Put a Ring on It)",
+      "movement": "→",
+      "days_at_number_1": 5,
+      "top10_streak": 13
+    },
+    {
+      "rank": 2,
+      "track_id": 1091,
+      "artist": "The Cure",
+      "title": "Boys Don’t Cry",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 3,
+      "track_id": 487,
+      "artist": "PRINCESS PRINCESS",
+      "title": "M",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 11
+    },
+    {
+      "rank": 4,
+      "track_id": 1256,
+      "artist": "Major Lazer",
+      "title": "Lean On (with DJ Snake feat. MØ)",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 5,
+      "track_id": 20,
+      "artist": "MONO NO AWARE",
+      "title": "水が湧いた",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 6,
+      "track_id": 548,
+      "artist": "REBECCA",
+      "title": "RASPBERRY DREAM",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 7,
+      "track_id": 1072,
+      "artist": "坂本龍一",
+      "title": "Thousand Knives",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 1346,
+      "artist": "Garbage",
+      "title": "Stupid Girl",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 563,
+      "artist": "ポルノグラフィティ",
+      "title": "サウダージ",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 768,
+      "artist": "小沢健二",
+      "title": "いちょう並木のセレナーデ",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    }
+  ]
+}

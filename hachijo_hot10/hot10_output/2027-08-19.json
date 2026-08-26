@@ -1,0 +1,96 @@
+{
+  "date": "2027-08-19",
+  "generated_at": "2027-08-19T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 2,
+      "artist": "MIZ",
+      "title": "パレード",
+      "movement": "↑2",
+      "days_at_number_1": 1,
+      "top10_streak": 2
+    },
+    {
+      "rank": 2,
+      "track_id": 331,
+      "artist": "ORIGINAL LOVE",
+      "title": "朝日のあたる道 AS TIME GOES BY",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 3,
+      "track_id": 1346,
+      "artist": "Garbage",
+      "title": "Stupid Girl",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 4,
+      "track_id": 901,
+      "artist": "R.E.M.",
+      "title": "Nightswimming",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 5,
+      "track_id": 463,
+      "artist": "JUDY AND MARY",
+      "title": "Over Drive",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 6,
+      "track_id": 607,
+      "artist": "THE BLUE HEARTS",
+      "title": "青空",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 7,
+      "track_id": 24,
+      "artist": "シャムキャッツ",
+      "title": "Four O’clock Flower",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 563,
+      "artist": "ポルノグラフィティ",
+      "title": "サウダージ",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 9,
+      "track_id": 1215,
+      "artist": "Taylor Swift",
+      "title": "Shake It Off",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 10,
+      "track_id": 20,
+      "artist": "MONO NO AWARE",
+      "title": "水が湧いた",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    }
+  ]
+}

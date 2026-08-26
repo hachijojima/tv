@@ -1,0 +1,96 @@
+{
+  "date": "2026-12-19",
+  "generated_at": "2026-12-19T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 539,
+      "artist": "KAN",
+      "title": "まゆみ",
+      "movement": "→",
+      "days_at_number_1": 5,
+      "top10_streak": 9
+    },
+    {
+      "rank": 2,
+      "track_id": 1332,
+      "artist": "R.E.M.",
+      "title": "Everybody Hurts",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 3,
+      "track_id": 768,
+      "artist": "小沢健二",
+      "title": "いちょう並木のセレナーデ",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 4,
+      "track_id": 1065,
+      "artist": "Marvin Gaye",
+      "title": "Mercy Mercy Me (The Ecology)",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 533,
+      "artist": "TRF",
+      "title": "survival dAnce ～no no cry more～",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 6,
+      "track_id": 1020,
+      "artist": "The Doobie Brothers",
+      "title": "What a Fool Believes",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 10
+    },
+    {
+      "rank": 7,
+      "track_id": 1259,
+      "artist": "DJ Snake",
+      "title": "Turn Down for What (with Lil Jon)",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 1108,
+      "artist": "Portishead",
+      "title": "Glory Box",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 9,
+      "track_id": 863,
+      "artist": "Saucy Dog",
+      "title": "結",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 10,
+      "track_id": 1093,
+      "artist": "The Smashing Pumpkins",
+      "title": "1979",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    }
+  ]
+}

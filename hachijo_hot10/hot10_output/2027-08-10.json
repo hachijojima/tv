@@ -1,0 +1,96 @@
+{
+  "date": "2027-08-10",
+  "generated_at": "2027-08-10T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 11,
+      "artist": "MONO NO AWARE",
+      "title": "異邦人",
+      "movement": "↑1",
+      "days_at_number_1": 1,
+      "top10_streak": 5
+    },
+    {
+      "rank": 2,
+      "track_id": 852,
+      "artist": "Official髭男dism",
+      "title": "宿命",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 3,
+      "track_id": 1206,
+      "artist": "Beyoncé",
+      "title": "Single Ladies (Put a Ring on It)",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 4,
+      "track_id": 1043,
+      "artist": "Television",
+      "title": "Marquee Moon",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 5,
+      "track_id": 541,
+      "artist": "山崎まさよし",
+      "title": "セロリ",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 6,
+      "track_id": 6,
+      "artist": "MIZ",
+      "title": "夏がきたら",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 7,
+      "track_id": 162,
+      "artist": "キセル",
+      "title": "くちなしの丘",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 693,
+      "artist": "RCサクセション",
+      "title": "雨あがりの夜空に",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 283,
+      "artist": "小沢健二",
+      "title": "ぼくらが旅に出る理由",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 10,
+      "track_id": 487,
+      "artist": "PRINCESS PRINCESS",
+      "title": "M",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    }
+  ]
+}

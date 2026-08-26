@@ -1,0 +1,96 @@
+{
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 660,
+      "artist": "岡林信康",
+      "title": "山谷ブルース",
+      "movement": "↑3",
+      "days_at_number_1": 1,
+      "top10_streak": 8
+    },
+    {
+      "rank": 2,
+      "track_id": 1002,
+      "artist": "Jamiroquai",
+      "title": "Virtual Insanity",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 3,
+      "track_id": 641,
+      "artist": "佐野元春",
+      "title": "SOMEDAY",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 4,
+      "track_id": 1021,
+      "artist": "スチャダラパー",
+      "title": "サマージャム’95",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 1040,
+      "artist": "METAFIVE",
+      "title": "環境と心理",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 6,
+      "track_id": 1028,
+      "artist": "Kendrick Lamar",
+      "title": "Alright",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 13
+    },
+    {
+      "rank": 7,
+      "track_id": 1001,
+      "artist": "Earth, Wind & Fire",
+      "title": "September",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 8,
+      "track_id": 503,
+      "artist": "hitomi",
+      "title": "LOVE 2000",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 547,
+      "artist": "JUN SKY WALKER(S)",
+      "title": "すてきな夜空",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 461,
+      "artist": "スピッツ",
+      "title": "ロビンソン",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    }
+  ]
+}

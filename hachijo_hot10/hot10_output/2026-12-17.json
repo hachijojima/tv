@@ -1,0 +1,96 @@
+{
+  "date": "2026-12-17",
+  "generated_at": "2026-12-17T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 539,
+      "artist": "KAN",
+      "title": "まゆみ",
+      "movement": "→",
+      "days_at_number_1": 3,
+      "top10_streak": 7
+    },
+    {
+      "rank": 2,
+      "track_id": 1020,
+      "artist": "The Doobie Brothers",
+      "title": "What a Fool Believes",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 3,
+      "track_id": 1332,
+      "artist": "R.E.M.",
+      "title": "Everybody Hurts",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 4,
+      "track_id": 533,
+      "artist": "TRF",
+      "title": "survival dAnce ～no no cry more～",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 5,
+      "track_id": 779,
+      "artist": "ヨルシカ",
+      "title": "ただ君に晴れ",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 6,
+      "track_id": 1108,
+      "artist": "Portishead",
+      "title": "Glory Box",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 7,
+      "track_id": 1222,
+      "artist": "Billie Eilish",
+      "title": "BIRDS OF A FEATHER",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 190,
+      "artist": "AAAMYYY",
+      "title": "HOME",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 1076,
+      "artist": "Alicia Keys",
+      "title": "If I Ain’t Got You",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 10,
+      "track_id": 1251,
+      "artist": "Kygo",
+      "title": "Firestone (feat. Conrad Sewell)",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    }
+  ]
+}

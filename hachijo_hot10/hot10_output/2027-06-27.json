@@ -1,0 +1,96 @@
+{
+  "date": "2027-06-27",
+  "generated_at": "2027-06-27T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 1333,
+      "artist": "R.E.M.",
+      "title": "Man on the Moon",
+      "movement": "→",
+      "days_at_number_1": 3,
+      "top10_streak": 6
+    },
+    {
+      "rank": 2,
+      "track_id": 452,
+      "artist": "大黒摩季",
+      "title": "ら・ら・ら",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 3,
+      "track_id": 1295,
+      "artist": "SHINee",
+      "title": "Ring Ding Dong",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 4,
+      "track_id": 1023,
+      "artist": "Carpenters",
+      "title": "(They Long To Be) Close To You",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 5,
+      "track_id": 1273,
+      "artist": "BTS",
+      "title": "Dynamite",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 6,
+      "track_id": 1256,
+      "artist": "Major Lazer",
+      "title": "Lean On (with DJ Snake feat. MØ)",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 7,
+      "track_id": 1327,
+      "artist": "Weezer",
+      "title": "Buddy Holly",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
+      "track_id": 1251,
+      "artist": "Kygo",
+      "title": "Firestone (feat. Conrad Sewell)",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 1283,
+      "artist": "Stray Kids",
+      "title": "God's Menu",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 395,
+      "artist": "GO!GO!7188",
+      "title": "C7",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    }
+  ]
+}

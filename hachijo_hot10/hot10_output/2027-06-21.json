@@ -1,0 +1,96 @@
+{
+  "date": "2027-06-21",
+  "generated_at": "2027-06-21T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 459,
+      "artist": "B'z",
+      "title": "ALONE",
+      "movement": "→",
+      "days_at_number_1": 3,
+      "top10_streak": 5
+    },
+    {
+      "rank": 2,
+      "track_id": 1245,
+      "artist": "David Guetta",
+      "title": "Titanium (feat. Sia)",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 3,
+      "track_id": 1228,
+      "artist": "Maroon 5",
+      "title": "Sugar",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 4,
+      "track_id": 890,
+      "artist": "Clairo",
+      "title": "Sofia",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 1023,
+      "artist": "Carpenters",
+      "title": "(They Long To Be) Close To You",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 6,
+      "track_id": 1154,
+      "artist": "たま",
+      "title": "さよなら人類",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 7,
+      "track_id": 1336,
+      "artist": "Coldplay",
+      "title": "Clocks",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
+      "track_id": 769,
+      "artist": "オフコース",
+      "title": "Yes-No",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 585,
+      "artist": "スピッツ",
+      "title": "楓",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1265,
+      "artist": "Disclosure",
+      "title": "White Noise (feat. AlunaGeorge)",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "date": "2027-04-19",
+  "generated_at": "2027-04-19T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 679,
+      "artist": "太田裕美",
+      "title": "木綿のハンカチーフ",
+      "movement": "↑1",
+      "days_at_number_1": 1,
+      "top10_streak": 2
+    },
+    {
+      "rank": 2,
+      "track_id": 14,
+      "artist": "MIZ",
+      "title": "とびうおのうた",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 3,
+      "track_id": 1066,
+      "artist": "Nujabes",
+      "title": "Luv(sic.) pt3 (feat. Shing02)",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 4,
+      "track_id": 7,
+      "artist": "MONO NO AWARE",
+      "title": "ゾッコン",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 5,
+      "track_id": 1023,
+      "artist": "Carpenters",
+      "title": "(They Long To Be) Close To You",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 6,
+      "track_id": 376,
+      "artist": "ORIGINAL LOVE",
+      "title": "プライマル",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 7,
+      "track_id": 1006,
+      "artist": "NewJeans",
+      "title": "Ditto",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 8,
+      "track_id": 524,
+      "artist": "サザンオールスターズ",
+      "title": "希望の轍",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 9,
+      "track_id": 1090,
+      "artist": "The Beatles",
+      "title": "Strawberry Fields Forever",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1370,
+      "artist": "The Killers",
+      "title": "Somebody Told Me",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    }
+  ]
+}

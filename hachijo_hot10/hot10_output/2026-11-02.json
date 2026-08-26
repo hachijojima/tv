@@ -1,0 +1,96 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 1068,
+      "artist": "Simon & Garfunkel",
+      "title": "Bridge Over Troubled Water",
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 3
+    },
+    {
+      "rank": 2,
+      "track_id": 1383,
+      "artist": "Bon Jovi",
+      "title": "It's My Life",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 3,
+      "track_id": 591,
+      "artist": "LUNA SEA",
+      "title": "I for You",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 4,
+      "track_id": 1046,
+      "artist": "星野源",
+      "title": "不思議",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 10,
+      "artist": "MIZ",
+      "title": "パジャマでハイウェイ",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 13
+    },
+    {
+      "rank": 6,
+      "track_id": 1295,
+      "artist": "SHINee",
+      "title": "Ring Ding Dong",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 7,
+      "track_id": 1040,
+      "artist": "METAFIVE",
+      "title": "環境と心理",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
+      "track_id": 1267,
+      "artist": "Eric Prydz",
+      "title": "Call on Me",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 9,
+      "track_id": 541,
+      "artist": "山崎まさよし",
+      "title": "セロリ",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 10,
+      "track_id": 1249,
+      "artist": "Zedd",
+      "title": "Clarity (feat. Foxes)",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    }
+  ]
+}

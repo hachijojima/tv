@@ -224,23 +224,57 @@ def simulate(days: int, seed: int, tracks: list[dict[str, Any]], config: dict[st
 def today(chart_day: date, tracks: list[dict[str, Any]], config: dict[str, Any], state_path: Path, output_dir: Path, generated_at: datetime | None = None) -> dict[str, Any]:
     state = load_state(state_path, tracks, config)
     daily_path = output_dir / f"{chart_day.isoformat()}.json"
-    if state["last_generated_chart_date"] == chart_day.isoformat():
+    last_generated = state["last_generated_chart_date"]
+    if last_generated == chart_day.isoformat():
         if not daily_path.exists():
             raise RuntimeError("state says chart already exists but daily output is missing")
         return json.loads(daily_path.read_text(encoding="utf-8"))
-    result = generate_chart(chart_day, tracks, state, config, random.Random(int(chart_day.strftime("%Y%m%d"))))
+
+    last_day = date.fromisoformat(last_generated) if last_generated else None
+    if last_day and last_day > chart_day:
+        if not daily_path.exists():
+            raise RuntimeError("state is newer than the requested chart date and its daily output is missing")
+        return json.loads(daily_path.read_text(encoding="utf-8"))
+
     timestamp = (generated_at or datetime.now(ZoneInfo(config["timezone"]))).astimezone(ZoneInfo(config["timezone"])).isoformat()
-    payload = {"date": result["date"], "generated_at": timestamp, "chart": result["chart"]}
-    atomic_write_json(daily_path, payload)
+    first_day = chart_day if last_day is None else last_day + timedelta(days=1)
+    payload: dict[str, Any] | None = None
+    for day_offset in range((chart_day - first_day).days + 1):
+        day = first_day + timedelta(days=day_offset)
+        result = generate_chart(day, tracks, state, config, random.Random(int(day.strftime("%Y%m%d"))))
+        payload = {"date": result["date"], "generated_at": timestamp, "chart": result["chart"]}
+        atomic_write_json(output_dir / f"{day.isoformat()}.json", payload)
+
+    if payload is None:
+        raise RuntimeError("no chart was generated")
     atomic_write_json(output_dir / "latest.json", payload)
     atomic_write_json(state_path, state)
     return payload
+
+
+def project(days: int, tracks: list[dict[str, Any]], config: dict[str, Any], state_path: Path, output_dir: Path) -> None:
+    """Write deterministic future chart files without advancing production state."""
+    if days < 1:
+        raise ValueError("projection days must be positive")
+    state = copy.deepcopy(load_state(state_path, tracks, config))
+    last_generated = state["last_generated_chart_date"]
+    if not last_generated:
+        raise RuntimeError("cannot project before the first production chart exists")
+    first_day = date.fromisoformat(last_generated) + timedelta(days=1)
+    timezone = ZoneInfo(config["timezone"])
+    for day_offset in range(days):
+        chart_day = first_day + timedelta(days=day_offset)
+        result = generate_chart(chart_day, tracks, state, config, random.Random(int(chart_day.strftime("%Y%m%d"))))
+        projected_at = datetime(chart_day.year, chart_day.month, chart_day.day, config["chart_boundary_hour"], tzinfo=timezone).isoformat()
+        payload = {"date": result["date"], "generated_at": projected_at, "chart": result["chart"]}
+        atomic_write_json(output_dir / f"{chart_day.isoformat()}.json", payload)
 
 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description="HACHIJO HOT 10 F4.1-B")
     commands = parser.add_subparsers(dest="command", required=True)
     today_parser = commands.add_parser("today"); today_parser.add_argument("--date"); today_parser.add_argument("--state-file", default=str(STATE_PATH)); today_parser.add_argument("--output-dir", default=str(OUTPUT_DIR))
+    project_parser = commands.add_parser("project"); project_parser.add_argument("--days", type=int, required=True); project_parser.add_argument("--state-file", default=str(STATE_PATH)); project_parser.add_argument("--output-dir", default=str(OUTPUT_DIR))
     sim_parser = commands.add_parser("simulate"); sim_parser.add_argument("--days", type=int, required=True); sim_parser.add_argument("--seed", type=int, required=True); sim_parser.add_argument("--start-date")
     reset_parser = commands.add_parser("reset-state"); reset_parser.add_argument("--state-file", default=str(STATE_PATH)); reset_parser.add_argument("--output-dir", default=str(OUTPUT_DIR)); reset_parser.add_argument("--yes", action="store_true")
     args = parser.parse_args(argv); config = load_config()
@@ -251,6 +285,8 @@ def main(argv: list[str] | None = None) -> int:
     if args.command == "reset-state":
         if not args.yes: raise ValueError("reset-state requires --yes")
         Path(args.state_file).unlink(missing_ok=True); return 0
+    if args.command == "project":
+        project(args.days, tracks, config, Path(args.state_file), Path(args.output_dir)); return 0
     day = date.fromisoformat(args.date) if args.date else chart_date_for_jst(datetime.now(ZoneInfo(config["timezone"])), config)
     print(json.dumps(today(day, tracks, config, Path(args.state_file), Path(args.output_dir)), ensure_ascii=False, indent=2)); return 0
 

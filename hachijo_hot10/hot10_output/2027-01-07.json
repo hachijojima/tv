@@ -1,0 +1,96 @@
+{
+  "date": "2027-01-07",
+  "generated_at": "2027-01-07T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 12,
+      "artist": "MIZ",
+      "title": "丘",
+      "movement": "→",
+      "days_at_number_1": 6,
+      "top10_streak": 8
+    },
+    {
+      "rank": 2,
+      "track_id": 1020,
+      "artist": "The Doobie Brothers",
+      "title": "What a Fool Believes",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 3,
+      "track_id": 281,
+      "artist": "ピチカート・ファイヴ",
+      "title": "東京は夜の七時",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 4,
+      "track_id": 468,
+      "artist": "X JAPAN",
+      "title": "ENDLESS RAIN",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 12
+    },
+    {
+      "rank": 5,
+      "track_id": 325,
+      "artist": "SAKEROCK",
+      "title": "慰安旅行",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 6,
+      "track_id": 738,
+      "artist": "松田聖子",
+      "title": "瑠璃色の地球",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 7,
+      "track_id": 15,
+      "artist": "MONO NO AWARE",
+      "title": "もうけもん",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
+      "track_id": 728,
+      "artist": "角松敏生",
+      "title": "If You Wanna Dance",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 9,
+      "track_id": 1023,
+      "artist": "Carpenters",
+      "title": "(They Long To Be) Close To You",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 10,
+      "track_id": 495,
+      "artist": "MISIA",
+      "title": "つつみ込むように…",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    }
+  ]
+}

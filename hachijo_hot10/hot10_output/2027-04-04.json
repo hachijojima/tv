@@ -1,0 +1,96 @@
+{
+  "date": "2027-04-04",
+  "generated_at": "2027-04-04T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 679,
+      "artist": "太田裕美",
+      "title": "木綿のハンカチーフ",
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 3
+    },
+    {
+      "rank": 2,
+      "track_id": 1061,
+      "artist": "Cyndi Lauper",
+      "title": "Time After Time",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 3,
+      "track_id": 707,
+      "artist": "チューリップ",
+      "title": "心の旅",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 4,
+      "track_id": 18,
+      "artist": "MONO NO AWARE",
+      "title": "アングル",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 5,
+      "track_id": 221,
+      "artist": "yonawo",
+      "title": "good job",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 6,
+      "track_id": 473,
+      "artist": "Every Little Thing",
+      "title": "Time goes by",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 7,
+      "track_id": 1100,
+      "artist": "Bon Jovi",
+      "title": "Livin’ On A Prayer",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 4,
+      "artist": "MIZ",
+      "title": "空砲",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 1028,
+      "artist": "Kendrick Lamar",
+      "title": "Alright",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1351,
+      "artist": "Alanis Morissette",
+      "title": "Ironic",
+      "movement": "↓6",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    }
+  ]
+}

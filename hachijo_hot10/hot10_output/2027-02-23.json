@@ -1,0 +1,96 @@
+{
+  "date": "2027-02-23",
+  "generated_at": "2027-02-23T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 7,
+      "artist": "MONO NO AWARE",
+      "title": "ゾッコン",
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 6
+    },
+    {
+      "rank": 2,
+      "track_id": 16,
+      "artist": "MIZ",
+      "title": "暑中見舞い",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 3,
+      "track_id": 1247,
+      "artist": "Swedish House Mafia",
+      "title": "Don't You Worry Child",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 15
+    },
+    {
+      "rank": 4,
+      "track_id": 615,
+      "artist": "米米CLUB",
+      "title": "Shake Hip!",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 5,
+      "track_id": 1275,
+      "artist": "TWICE",
+      "title": "TT",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 6,
+      "track_id": 1327,
+      "artist": "Weezer",
+      "title": "Buddy Holly",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 7,
+      "track_id": 762,
+      "artist": "ティン・パン・アレー",
+      "title": "北京ダック",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 1242,
+      "artist": "Avicii",
+      "title": "Levels",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 9,
+      "track_id": 611,
+      "artist": "PRINCESS PRINCESS",
+      "title": "世界でいちばん熱い夏",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 10,
+      "track_id": 1089,
+      "artist": "The Beatles",
+      "title": "Let It Be",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    }
+  ]
+}

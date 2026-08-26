@@ -1,0 +1,96 @@
+{
+  "date": "2027-04-21",
+  "generated_at": "2027-04-21T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 14,
+      "artist": "MIZ",
+      "title": "とびうおのうた",
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 9
+    },
+    {
+      "rank": 2,
+      "track_id": 268,
+      "artist": "リーガルリリー",
+      "title": "ハナヒカリ",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 3,
+      "track_id": 7,
+      "artist": "MONO NO AWARE",
+      "title": "ゾッコン",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 4,
+      "track_id": 1023,
+      "artist": "Carpenters",
+      "title": "(They Long To Be) Close To You",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 5,
+      "track_id": 679,
+      "artist": "太田裕美",
+      "title": "木綿のハンカチーフ",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 6,
+      "track_id": 369,
+      "artist": "bonobos",
+      "title": "Beautiful",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 7,
+      "track_id": 1090,
+      "artist": "The Beatles",
+      "title": "Strawberry Fields Forever",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
+      "track_id": 706,
+      "artist": "オフコース",
+      "title": "秋の気配",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 1073,
+      "artist": "東京事変",
+      "title": "透明人間",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 524,
+      "artist": "サザンオールスターズ",
+      "title": "希望の轍",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    }
+  ]
+}

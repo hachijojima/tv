@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 1219,
+      "artist": "Ed Sheeran",
+      "title": "Shape of You",
+      "movement": "→",
+      "days_at_number_1": 7,
+      "top10_streak": 9
+    },
+    {
+      "rank": 2,
+      "track_id": 1021,
+      "artist": "スチャダラパー",
+      "title": "サマージャム’95",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 3,
+      "track_id": 319,
+      "artist": "Syrup16g",
+      "title": "生活",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 4,
+      "track_id": 1023,
+      "artist": "Carpenters",
+      "title": "(They Long To Be) Close To You",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 5,
+      "track_id": 475,
+      "artist": "ウルフルズ",
+      "title": "バンザイ ～好きでよかった～",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 6,
+      "track_id": 1080,
+      "artist": "Jeff Buckley",
+      "title": "Hallelujah",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 7,
+      "track_id": 1089,
+      "artist": "The Beatles",
+      "title": "Let It Be",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 14,
+      "artist": "MIZ",
+      "title": "とびうおのうた",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 11
+    },
+    {
+      "rank": 9,
+      "track_id": 1365,
+      "artist": "Linkin Park",
+      "title": "Numb",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 10,
+      "track_id": 734,
+      "artist": "濱田金吾",
+      "title": "Midnight Cruisin'",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 13
+    }
+  ]
+}

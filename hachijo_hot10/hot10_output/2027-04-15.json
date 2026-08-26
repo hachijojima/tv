@@ -1,0 +1,96 @@
+{
+  "date": "2027-04-15",
+  "generated_at": "2027-04-15T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 14,
+      "artist": "MIZ",
+      "title": "とびうおのうた",
+      "movement": "↑3",
+      "days_at_number_1": 1,
+      "top10_streak": 3
+    },
+    {
+      "rank": 2,
+      "track_id": 1006,
+      "artist": "NewJeans",
+      "title": "Ditto",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 3,
+      "track_id": 541,
+      "artist": "山崎まさよし",
+      "title": "セロリ",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 10
+    },
+    {
+      "rank": 4,
+      "track_id": 7,
+      "artist": "MONO NO AWARE",
+      "title": "ゾッコン",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 5,
+      "track_id": 1011,
+      "artist": "Underworld",
+      "title": "Born Slippy (Nuxx)",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 9
+    },
+    {
+      "rank": 6,
+      "track_id": 1375,
+      "artist": "Soundgarden",
+      "title": "Black Hole Sun",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 7,
+      "track_id": 524,
+      "artist": "サザンオールスターズ",
+      "title": "希望の轍",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 377,
+      "artist": "Fishmans",
+      "title": "ナイトクルージング",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 9,
+      "track_id": 1023,
+      "artist": "Carpenters",
+      "title": "(They Long To Be) Close To You",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1229,
+      "artist": "Harry Styles",
+      "title": "As It Was",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "date": "2026-12-30",
+  "generated_at": "2026-12-30T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 468,
+      "artist": "X JAPAN",
+      "title": "ENDLESS RAIN",
+      "movement": "↑1",
+      "days_at_number_1": 1,
+      "top10_streak": 4
+    },
+    {
+      "rank": 2,
+      "track_id": 11,
+      "artist": "MONO NO AWARE",
+      "title": "異邦人",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 11
+    },
+    {
+      "rank": 3,
+      "track_id": 1109,
+      "artist": "Radiohead",
+      "title": "Everything In Its Right Place",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 4,
+      "track_id": 1089,
+      "artist": "The Beatles",
+      "title": "Let It Be",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 5,
+      "track_id": 10,
+      "artist": "MIZ",
+      "title": "パジャマでハイウェイ",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 6,
+      "track_id": 679,
+      "artist": "太田裕美",
+      "title": "木綿のハンカチーフ",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 7,
+      "track_id": 541,
+      "artist": "山崎まさよし",
+      "title": "セロリ",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 457,
+      "artist": "DEEN",
+      "title": "このまま君だけを奪い去りたい",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 9,
+      "track_id": 563,
+      "artist": "ポルノグラフィティ",
+      "title": "サウダージ",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 410,
+      "artist": "Syrup16g",
+      "title": "Reborn",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    }
+  ]
+}

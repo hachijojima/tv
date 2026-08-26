@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 14,
+      "artist": "MIZ",
+      "title": "とびうおのうた",
+      "movement": "↑3",
+      "days_at_number_1": 1,
+      "top10_streak": 3
+    },
+    {
+      "rank": 2,
+      "track_id": 601,
+      "artist": "KAN",
+      "title": "言えずのI LOVE YOU",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 3,
+      "track_id": 945,
+      "artist": "Oasis",
+      "title": "Don't Look Back in Anger",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 4,
+      "track_id": 471,
+      "artist": "TRF",
+      "title": "寒い夜だから…",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 548,
+      "artist": "REBECCA",
+      "title": "RASPBERRY DREAM",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 12
+    },
+    {
+      "rank": 6,
+      "track_id": 1141,
+      "artist": "The Beatles",
+      "title": "Something",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 7,
+      "track_id": 734,
+      "artist": "濱田金吾",
+      "title": "Midnight Cruisin'",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 8,
+      "track_id": 268,
+      "artist": "リーガルリリー",
+      "title": "ハナヒカリ",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 9,
+      "track_id": 1284,
+      "artist": "Stray Kids",
+      "title": "MANIAC",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1219,
+      "artist": "Ed Sheeran",
+      "title": "Shape of You",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    }
+  ]
+}

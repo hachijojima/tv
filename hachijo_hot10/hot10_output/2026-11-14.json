@@ -1,0 +1,96 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 1280,
+      "artist": "IVE",
+      "title": "I AM",
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 8
+    },
+    {
+      "rank": 2,
+      "track_id": 1028,
+      "artist": "Kendrick Lamar",
+      "title": "Alright",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 3,
+      "track_id": 1145,
+      "artist": "tofubeats",
+      "title": "水星 (feat. オノマトペ大臣)",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 4,
+      "track_id": 568,
+      "artist": "椎名林檎",
+      "title": "本能",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 5,
+      "track_id": 16,
+      "artist": "MIZ",
+      "title": "暑中見舞い",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 6,
+      "track_id": 541,
+      "artist": "山崎まさよし",
+      "title": "セロリ",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 14
+    },
+    {
+      "rank": 7,
+      "track_id": 170,
+      "artist": "betcover!!",
+      "title": "翔け夜の匂い草",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 8,
+      "track_id": 1228,
+      "artist": "Maroon 5",
+      "title": "Sugar",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 545,
+      "artist": "THE BLUE HEARTS",
+      "title": "TRAIN-TRAIN",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 10,
+      "track_id": 612,
+      "artist": "渡辺美里",
+      "title": "サマータイム ブルース",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    }
+  ]
+}

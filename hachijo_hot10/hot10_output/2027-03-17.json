@@ -1,0 +1,96 @@
+{
+  "date": "2027-03-17",
+  "generated_at": "2027-03-17T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 604,
+      "artist": "斉藤和義",
+      "title": "彼女",
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 2
+    },
+    {
+      "rank": 2,
+      "track_id": 259,
+      "artist": "ドミコ",
+      "title": "ペーパーロールスター",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 3,
+      "track_id": 762,
+      "artist": "ティン・パン・アレー",
+      "title": "北京ダック",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 12
+    },
+    {
+      "rank": 4,
+      "track_id": 451,
+      "artist": "WANDS",
+      "title": "時の扉",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 5,
+      "track_id": 634,
+      "artist": "吉田美奈子",
+      "title": "夢で逢えたら",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 6,
+      "track_id": 1247,
+      "artist": "Swedish House Mafia",
+      "title": "Don't You Worry Child",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 7,
+      "track_id": 287,
+      "artist": "Fishmans",
+      "title": "いかれたBaby",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 1325,
+      "artist": "Green Day",
+      "title": "American Idiot",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 9,
+      "track_id": 2,
+      "artist": "MIZ",
+      "title": "パレード",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 262,
+      "artist": "Laura day romance",
+      "title": "渚で会いましょう",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    }
+  ]
+}

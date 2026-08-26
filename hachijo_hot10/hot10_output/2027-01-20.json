@@ -1,0 +1,96 @@
+{
+  "date": "2027-01-20",
+  "generated_at": "2027-01-20T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 1048,
+      "artist": "Ben E. King",
+      "title": "Stand By Me",
+      "movement": "→",
+      "days_at_number_1": 4,
+      "top10_streak": 6
+    },
+    {
+      "rank": 2,
+      "track_id": 563,
+      "artist": "ポルノグラフィティ",
+      "title": "サウダージ",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 3,
+      "track_id": 79,
+      "artist": "奇妙礼太郎",
+      "title": "君が誰かの彼女になりくさっても",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 4,
+      "track_id": 432,
+      "artist": "SUPERCAR",
+      "title": "cream soda",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 5,
+      "track_id": 1023,
+      "artist": "Carpenters",
+      "title": "(They Long To Be) Close To You",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 16
+    },
+    {
+      "rank": 6,
+      "track_id": 459,
+      "artist": "B'z",
+      "title": "ALONE",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 7,
+      "track_id": 1386,
+      "artist": "Fishmans",
+      "title": "新しい人",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 489,
+      "artist": "小泉今日子",
+      "title": "あなたに会えてよかった",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 95,
+      "artist": "リーガルリリー",
+      "title": "リッケンバッカー",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 10,
+      "track_id": 1038,
+      "artist": "Bob Dylan",
+      "title": "Like a Rolling Stone",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "date": "2027-07-02",
+  "generated_at": "2027-07-02T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 1327,
+      "artist": "Weezer",
+      "title": "Buddy Holly",
+      "movement": "→",
+      "days_at_number_1": 3,
+      "top10_streak": 8
+    },
+    {
+      "rank": 2,
+      "track_id": 701,
+      "artist": "シュガー・ベイブ",
+      "title": "今日はなんだか",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 3,
+      "track_id": 1068,
+      "artist": "Simon & Garfunkel",
+      "title": "Bridge Over Troubled Water",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 4,
+      "track_id": 1381,
+      "artist": "Metallica",
+      "title": "Enter Sandman",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 5,
+      "track_id": 810,
+      "artist": "サカナクション",
+      "title": "新宝島",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 6,
+      "track_id": 541,
+      "artist": "山崎まさよし",
+      "title": "セロリ",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 7,
+      "track_id": 585,
+      "artist": "スピッツ",
+      "title": "楓",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 244,
+      "artist": "森は生きている",
+      "title": "煙夜の夢",
+      "movement": "↓6",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 9,
+      "track_id": 454,
+      "artist": "爆風スランプ",
+      "title": "Runner",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 452,
+      "artist": "大黒摩季",
+      "title": "ら・ら・ら",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    }
+  ]
+}

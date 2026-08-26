@@ -1,0 +1,96 @@
+{
+  "date": "2026-09-26",
+  "generated_at": "2026-09-26T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 12,
+      "artist": "MIZ",
+      "title": "丘",
+      "movement": "↑1",
+      "days_at_number_1": 1,
+      "top10_streak": 14
+    },
+    {
+      "rank": 2,
+      "track_id": 348,
+      "artist": "レミオロメン",
+      "title": "電話",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 3,
+      "track_id": 636,
+      "artist": "鈴木茂",
+      "title": "砂の女",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 11
+    },
+    {
+      "rank": 4,
+      "track_id": 548,
+      "artist": "REBECCA",
+      "title": "RASPBERRY DREAM",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 5,
+      "track_id": 1,
+      "artist": "MONO NO AWARE",
+      "title": "東京",
+      "movement": "↑5",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 6,
+      "track_id": 361,
+      "artist": "ACIDMAN",
+      "title": "造花が笑う",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 7,
+      "track_id": 572,
+      "artist": "BEGIN",
+      "title": "恋しくて",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 1267,
+      "artist": "Eric Prydz",
+      "title": "Call on Me",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 9,
+      "track_id": 500,
+      "artist": "モーニング娘。",
+      "title": "LOVEマシーン",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1286,
+      "artist": "SEVENTEEN",
+      "title": "Super",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    }
+  ]
+}

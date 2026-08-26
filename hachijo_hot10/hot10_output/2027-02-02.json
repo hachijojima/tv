@@ -1,0 +1,96 @@
+{
+  "date": "2027-02-02",
+  "generated_at": "2027-02-02T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 1068,
+      "artist": "Simon & Garfunkel",
+      "title": "Bridge Over Troubled Water",
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 7
+    },
+    {
+      "rank": 2,
+      "track_id": 1023,
+      "artist": "Carpenters",
+      "title": "(They Long To Be) Close To You",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 3,
+      "track_id": 961,
+      "artist": "Mac DeMarco",
+      "title": "Chamber of Reflection",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 4,
+      "track_id": 699,
+      "artist": "鈴木茂",
+      "title": "八月の匂い",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 5,
+      "track_id": 146,
+      "artist": "青葉市子",
+      "title": "Porcelain",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 6,
+      "track_id": 603,
+      "artist": "山崎まさよし",
+      "title": "僕はここにいる",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 7,
+      "track_id": 566,
+      "artist": "the brilliant green",
+      "title": "冷たい花",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
+      "track_id": 1052,
+      "artist": "Pixies",
+      "title": "Where Is My Mind?",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 829,
+      "artist": "Mrs. GREEN APPLE",
+      "title": "僕のこと",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1296,
+      "artist": "Super Junior",
+      "title": "Sorry, Sorry",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    }
+  ]
+}

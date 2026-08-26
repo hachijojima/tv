@@ -1,0 +1,96 @@
+{
+  "date": "2027-05-04",
+  "generated_at": "2027-05-04T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 1149,
+      "artist": "エレファントカシマシ",
+      "title": "今宵の月のように",
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 2
+    },
+    {
+      "rank": 2,
+      "track_id": 1314,
+      "artist": "U2",
+      "title": "Beautiful Day",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 10
+    },
+    {
+      "rank": 3,
+      "track_id": 1251,
+      "artist": "Kygo",
+      "title": "Firestone (feat. Conrad Sewell)",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 4,
+      "track_id": 1048,
+      "artist": "Ben E. King",
+      "title": "Stand By Me",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 5,
+      "track_id": 470,
+      "artist": "TM NETWORK",
+      "title": "Get Wild",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 6,
+      "track_id": 20,
+      "artist": "MONO NO AWARE",
+      "title": "水が湧いた",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 7,
+      "track_id": 790,
+      "artist": "Mrs. GREEN APPLE",
+      "title": "青と夏",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 764,
+      "artist": "EPO",
+      "title": "土曜の夜はパラダイス",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 9,
+      "track_id": 471,
+      "artist": "TRF",
+      "title": "寒い夜だから…",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 11
+    },
+    {
+      "rank": 10,
+      "track_id": 1241,
+      "artist": "Avicii",
+      "title": "Wake Me Up",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    }
+  ]
+}

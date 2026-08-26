@@ -1,0 +1,96 @@
+{
+  "date": "2027-08-24",
+  "generated_at": "2027-08-24T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 500,
+      "artist": "モーニング娘。",
+      "title": "LOVEマシーン",
+      "movement": "↑1",
+      "days_at_number_1": 1,
+      "top10_streak": 3
+    },
+    {
+      "rank": 2,
+      "track_id": 330,
+      "artist": "カヒミ・カリィ",
+      "title": "Mike Alway's Diary",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 3,
+      "track_id": 607,
+      "artist": "THE BLUE HEARTS",
+      "title": "青空",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 4,
+      "track_id": 1091,
+      "artist": "The Cure",
+      "title": "Boys Don’t Cry",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 5,
+      "track_id": 901,
+      "artist": "R.E.M.",
+      "title": "Nightswimming",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 9
+    },
+    {
+      "rank": 6,
+      "track_id": 1357,
+      "artist": "The White Stripes",
+      "title": "Seven Nation Army",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 7,
+      "track_id": 14,
+      "artist": "MIZ",
+      "title": "とびうおのうた",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 1261,
+      "artist": "Tiësto",
+      "title": "The Business",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 9,
+      "track_id": 1254,
+      "artist": "The Chainsmokers",
+      "title": "Closer (feat. Halsey)",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1272,
+      "artist": "BLACKPINK",
+      "title": "How You Like That",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    }
+  ]
+}

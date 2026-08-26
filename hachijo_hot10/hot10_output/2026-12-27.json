@@ -1,0 +1,96 @@
+{
+  "date": "2026-12-27",
+  "generated_at": "2026-12-27T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 11,
+      "artist": "MONO NO AWARE",
+      "title": "異邦人",
+      "movement": "→",
+      "days_at_number_1": 3,
+      "top10_streak": 8
+    },
+    {
+      "rank": 2,
+      "track_id": 275,
+      "artist": "BREIMEN",
+      "title": "yonaki",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 3,
+      "track_id": 10,
+      "artist": "MIZ",
+      "title": "パジャマでハイウェイ",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 4,
+      "track_id": 481,
+      "artist": "奥田民生",
+      "title": "愛のために",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 5,
+      "track_id": 1089,
+      "artist": "The Beatles",
+      "title": "Let It Be",
+      "movement": "↑5",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 6,
+      "track_id": 1371,
+      "artist": "The Killers",
+      "title": "When You Were Young",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 7,
+      "track_id": 468,
+      "artist": "X JAPAN",
+      "title": "ENDLESS RAIN",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 679,
+      "artist": "太田裕美",
+      "title": "木綿のハンカチーフ",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 9,
+      "track_id": 1309,
+      "artist": "Red Hot Chili Peppers",
+      "title": "Under the Bridge",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 738,
+      "artist": "松田聖子",
+      "title": "瑠璃色の地球",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    }
+  ]
+}

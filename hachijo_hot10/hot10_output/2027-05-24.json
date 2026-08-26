@@ -1,0 +1,96 @@
+{
+  "date": "2027-05-24",
+  "generated_at": "2027-05-24T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 533,
+      "artist": "TRF",
+      "title": "survival dAnce ～no no cry more～",
+      "movement": "↑7",
+      "days_at_number_1": 1,
+      "top10_streak": 6
+    },
+    {
+      "rank": 2,
+      "track_id": 18,
+      "artist": "MONO NO AWARE",
+      "title": "アングル",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 9
+    },
+    {
+      "rank": 3,
+      "track_id": 1043,
+      "artist": "Television",
+      "title": "Marquee Moon",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 4,
+      "track_id": 4,
+      "artist": "MIZ",
+      "title": "空砲",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 5,
+      "track_id": 1028,
+      "artist": "Kendrick Lamar",
+      "title": "Alright",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 6,
+      "track_id": 1035,
+      "artist": "Queen",
+      "title": "Don’t Stop Me Now",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 7,
+      "track_id": 454,
+      "artist": "爆風スランプ",
+      "title": "Runner",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 12
+    },
+    {
+      "rank": 8,
+      "track_id": 1248,
+      "artist": "Swedish House Mafia",
+      "title": "Save the World",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 9,
+      "track_id": 1046,
+      "artist": "星野源",
+      "title": "不思議",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 10,
+      "track_id": 1021,
+      "artist": "スチャダラパー",
+      "title": "サマージャム’95",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    }
+  ]
+}

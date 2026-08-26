@@ -1,0 +1,96 @@
+{
+  "date": "2026-12-11",
+  "generated_at": "2026-12-11T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 1291,
+      "artist": "KARA",
+      "title": "Mister",
+      "movement": "↑1",
+      "days_at_number_1": 1,
+      "top10_streak": 2
+    },
+    {
+      "rank": 2,
+      "track_id": 1286,
+      "artist": "SEVENTEEN",
+      "title": "Super",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 3,
+      "track_id": 1020,
+      "artist": "The Doobie Brothers",
+      "title": "What a Fool Believes",
+      "movement": "↑5",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 4,
+      "track_id": 109,
+      "artist": "アカシック",
+      "title": "今日から夜は家にいるよ",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 5,
+      "track_id": 1204,
+      "artist": "Rihanna",
+      "title": "We Found Love",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 6,
+      "track_id": 539,
+      "artist": "KAN",
+      "title": "まゆみ",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 7,
+      "track_id": 2,
+      "artist": "MIZ",
+      "title": "パレード",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 8,
+      "track_id": 600,
+      "artist": "シャ乱Q",
+      "title": "いいわけ",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 9,
+      "track_id": 1242,
+      "artist": "Avicii",
+      "title": "Levels",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 10,
+      "track_id": 1305,
+      "artist": "鼓童",
+      "title": "凰（おおとり）",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 12
+    }
+  ]
+}

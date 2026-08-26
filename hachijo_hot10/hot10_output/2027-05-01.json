@@ -1,0 +1,96 @@
+{
+  "date": "2027-05-01",
+  "generated_at": "2027-05-01T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 1314,
+      "artist": "U2",
+      "title": "Beautiful Day",
+      "movement": "↑1",
+      "days_at_number_1": 1,
+      "top10_streak": 7
+    },
+    {
+      "rank": 2,
+      "track_id": 10,
+      "artist": "MIZ",
+      "title": "パジャマでハイウェイ",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 3,
+      "track_id": 1251,
+      "artist": "Kygo",
+      "title": "Firestone (feat. Conrad Sewell)",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 4,
+      "track_id": 603,
+      "artist": "山崎まさよし",
+      "title": "僕はここにいる",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 1048,
+      "artist": "Ben E. King",
+      "title": "Stand By Me",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 6,
+      "track_id": 471,
+      "artist": "TRF",
+      "title": "寒い夜だから…",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 7,
+      "track_id": 470,
+      "artist": "TM NETWORK",
+      "title": "Get Wild",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 8,
+      "track_id": 1241,
+      "artist": "Avicii",
+      "title": "Wake Me Up",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 1262,
+      "artist": "Tiësto",
+      "title": "Red Lights",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 10,
+      "track_id": 509,
+      "artist": "夏川りみ",
+      "title": "涙そうそう",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    }
+  ]
+}

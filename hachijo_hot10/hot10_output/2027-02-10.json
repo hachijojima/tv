@@ -1,0 +1,96 @@
+{
+  "date": "2027-02-10",
+  "generated_at": "2027-02-10T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 1264,
+      "artist": "Disclosure",
+      "title": "Latch (feat. Sam Smith)",
+      "movement": "→",
+      "days_at_number_1": 3,
+      "top10_streak": 8
+    },
+    {
+      "rank": 2,
+      "track_id": 1091,
+      "artist": "The Cure",
+      "title": "Boys Don’t Cry",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 3,
+      "track_id": 19,
+      "artist": "MONO NO AWARE",
+      "title": "幽霊船",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 4,
+      "track_id": 829,
+      "artist": "Mrs. GREEN APPLE",
+      "title": "僕のこと",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 9
+    },
+    {
+      "rank": 5,
+      "track_id": 229,
+      "artist": "柴田聡子",
+      "title": "ぼちぼち銀河",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 6,
+      "track_id": 1058,
+      "artist": "ランカ・リー=中島愛",
+      "title": "星間飛行",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 7,
+      "track_id": 1247,
+      "artist": "Swedish House Mafia",
+      "title": "Don't You Worry Child",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 470,
+      "artist": "TM NETWORK",
+      "title": "Get Wild",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 9,
+      "track_id": 1013,
+      "artist": "The Police",
+      "title": "Every Breath You Take",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1044,
+      "artist": "The Jackson 5",
+      "title": "I Want You Back",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    }
+  ]
+}

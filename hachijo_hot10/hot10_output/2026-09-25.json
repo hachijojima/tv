@@ -1,0 +1,96 @@
+{
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 348,
+      "artist": "レミオロメン",
+      "title": "電話",
+      "movement": "→",
+      "days_at_number_1": 3,
+      "top10_streak": 6
+    },
+    {
+      "rank": 2,
+      "track_id": 12,
+      "artist": "MIZ",
+      "title": "丘",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 13
+    },
+    {
+      "rank": 3,
+      "track_id": 1267,
+      "artist": "Eric Prydz",
+      "title": "Call on Me",
+      "movement": "↑6",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 4,
+      "track_id": 548,
+      "artist": "REBECCA",
+      "title": "RASPBERRY DREAM",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 5,
+      "track_id": 636,
+      "artist": "鈴木茂",
+      "title": "砂の女",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 10
+    },
+    {
+      "rank": 6,
+      "track_id": 1040,
+      "artist": "METAFIVE",
+      "title": "環境と心理",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 11
+    },
+    {
+      "rank": 7,
+      "track_id": 361,
+      "artist": "ACIDMAN",
+      "title": "造花が笑う",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 8,
+      "track_id": 580,
+      "artist": "FIELD OF VIEW",
+      "title": "Last Good-bye",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 9,
+      "track_id": 1286,
+      "artist": "SEVENTEEN",
+      "title": "Super",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 10,
+      "track_id": 1,
+      "artist": "MONO NO AWARE",
+      "title": "東京",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    }
+  ]
+}

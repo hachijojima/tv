@@ -35,6 +35,10 @@ jobs:
           TZ: Asia/Tokyo
         run: python3 hot10.py today
 
+      - name: Keep the public chart horizon one year ahead
+        working-directory: hachijo_hot10
+        run: python3 hot10.py project --days 370
+
       - name: Commit updated HOT10 state
         run: |
           git config user.name "hachijo-hot10-bot"

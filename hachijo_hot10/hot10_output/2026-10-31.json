@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 10,
+      "artist": "MIZ",
+      "title": "パジャマでハイウェイ",
+      "movement": "→",
+      "days_at_number_1": 4,
+      "top10_streak": 11
+    },
+    {
+      "rank": 2,
+      "track_id": 1068,
+      "artist": "Simon & Garfunkel",
+      "title": "Bridge Over Troubled Water",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 3,
+      "track_id": 591,
+      "artist": "LUNA SEA",
+      "title": "I for You",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 4,
+      "track_id": 1267,
+      "artist": "Eric Prydz",
+      "title": "Call on Me",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 5,
+      "track_id": 1013,
+      "artist": "The Police",
+      "title": "Every Breath You Take",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 12
+    },
+    {
+      "rank": 6,
+      "track_id": 695,
+      "artist": "矢野顕子",
+      "title": "春咲小紅",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 7,
+      "track_id": 623,
+      "artist": "細野晴臣",
+      "title": "恋は桃色",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 8,
+      "track_id": 1040,
+      "artist": "METAFIVE",
+      "title": "環境と心理",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 489,
+      "artist": "小泉今日子",
+      "title": "あなたに会えてよかった",
+      "movement": "↓7",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 10,
+      "track_id": 1240,
+      "artist": "Pharrell Williams",
+      "title": "Happy",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 14
+    }
+  ]
+}

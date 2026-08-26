@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 1013,
+      "artist": "The Police",
+      "title": "Every Breath You Take",
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 3
+    },
+    {
+      "rank": 2,
+      "track_id": 1364,
+      "artist": "Linkin Park",
+      "title": "In the End",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 3,
+      "track_id": 1240,
+      "artist": "Pharrell Williams",
+      "title": "Happy",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 4,
+      "track_id": 1089,
+      "artist": "The Beatles",
+      "title": "Let It Be",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 13
+    },
+    {
+      "rank": 5,
+      "track_id": 608,
+      "artist": "THE HIGH-LOWS",
+      "title": "千年メダル",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 6,
+      "track_id": 10,
+      "artist": "MIZ",
+      "title": "パジャマでハイウェイ",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 7,
+      "track_id": 409,
+      "artist": "LOST IN TIME",
+      "title": "花",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
+      "track_id": 572,
+      "artist": "BEGIN",
+      "title": "恋しくて",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 12
+    },
+    {
+      "rank": 9,
+      "track_id": 524,
+      "artist": "サザンオールスターズ",
+      "title": "希望の轍",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 11
+    },
+    {
+      "rank": 10,
+      "track_id": 425,
+      "artist": "サニーデイ・サービス",
+      "title": "白い恋人",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    }
+  ]
+}

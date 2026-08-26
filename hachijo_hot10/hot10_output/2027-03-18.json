@@ -1,0 +1,96 @@
+{
+  "date": "2027-03-18",
+  "generated_at": "2027-03-18T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 604,
+      "artist": "斉藤和義",
+      "title": "彼女",
+      "movement": "→",
+      "days_at_number_1": 3,
+      "top10_streak": 3
+    },
+    {
+      "rank": 2,
+      "track_id": 451,
+      "artist": "WANDS",
+      "title": "時の扉",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 3,
+      "track_id": 2,
+      "artist": "MIZ",
+      "title": "パレード",
+      "movement": "↑6",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 4,
+      "track_id": 1240,
+      "artist": "Pharrell Williams",
+      "title": "Happy",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 5,
+      "track_id": 259,
+      "artist": "ドミコ",
+      "title": "ペーパーロールスター",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 6,
+      "track_id": 762,
+      "artist": "ティン・パン・アレー",
+      "title": "北京ダック",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 13
+    },
+    {
+      "rank": 7,
+      "track_id": 287,
+      "artist": "Fishmans",
+      "title": "いかれたBaby",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
+      "track_id": 1247,
+      "artist": "Swedish House Mafia",
+      "title": "Don't You Worry Child",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 9,
+      "track_id": 500,
+      "artist": "モーニング娘。",
+      "title": "LOVEマシーン",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 634,
+      "artist": "吉田美奈子",
+      "title": "夢で逢えたら",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    }
+  ]
+}

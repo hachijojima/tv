@@ -1,0 +1,96 @@
+{
+  "date": "2027-04-02",
+  "generated_at": "2027-04-02T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 1061,
+      "artist": "Cyndi Lauper",
+      "title": "Time After Time",
+      "movement": "→",
+      "days_at_number_1": 3,
+      "top10_streak": 6
+    },
+    {
+      "rank": 2,
+      "track_id": 679,
+      "artist": "太田裕美",
+      "title": "木綿のハンカチーフ",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 3,
+      "track_id": 221,
+      "artist": "yonawo",
+      "title": "good job",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 4,
+      "track_id": 293,
+      "artist": "くるり",
+      "title": "東京",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 541,
+      "artist": "山崎まさよし",
+      "title": "セロリ",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 10
+    },
+    {
+      "rank": 6,
+      "track_id": 473,
+      "artist": "Every Little Thing",
+      "title": "Time goes by",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 7,
+      "track_id": 630,
+      "artist": "RCサクセション",
+      "title": "スローバラード",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 1351,
+      "artist": "Alanis Morissette",
+      "title": "Ironic",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 9,
+      "track_id": 1214,
+      "artist": "Ariana Grande",
+      "title": "Into You",
+      "movement": "↓6",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 10,
+      "track_id": 18,
+      "artist": "MONO NO AWARE",
+      "title": "アングル",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    }
+  ]
+}

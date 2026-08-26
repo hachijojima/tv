@@ -1,0 +1,96 @@
+{
+  "date": "2027-07-01",
+  "generated_at": "2027-07-01T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 1327,
+      "artist": "Weezer",
+      "title": "Buddy Holly",
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 7
+    },
+    {
+      "rank": 2,
+      "track_id": 244,
+      "artist": "森は生きている",
+      "title": "煙夜の夢",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 3,
+      "track_id": 1068,
+      "artist": "Simon & Garfunkel",
+      "title": "Bridge Over Troubled Water",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 4,
+      "track_id": 103,
+      "artist": "AAAMYYY",
+      "title": "Leeloo",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 523,
+      "artist": "スピッツ",
+      "title": "渚",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 6,
+      "track_id": 452,
+      "artist": "大黒摩季",
+      "title": "ら・ら・ら",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 7,
+      "track_id": 937,
+      "artist": "Alvvays",
+      "title": "Archie, Marry Me",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 541,
+      "artist": "山崎まさよし",
+      "title": "セロリ",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 1023,
+      "artist": "Carpenters",
+      "title": "(They Long To Be) Close To You",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 11
+    },
+    {
+      "rank": 10,
+      "track_id": 580,
+      "artist": "FIELD OF VIEW",
+      "title": "Last Good-bye",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    }
+  ]
+}

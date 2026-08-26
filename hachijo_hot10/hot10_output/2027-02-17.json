@@ -1,0 +1,96 @@
+{
+  "date": "2027-02-17",
+  "generated_at": "2027-02-17T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 1247,
+      "artist": "Swedish House Mafia",
+      "title": "Don't You Worry Child",
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 9
+    },
+    {
+      "rank": 2,
+      "track_id": 1013,
+      "artist": "The Police",
+      "title": "Every Breath You Take",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 3,
+      "track_id": 647,
+      "artist": "風",
+      "title": "22才の別れ",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 4,
+      "track_id": 734,
+      "artist": "濱田金吾",
+      "title": "Midnight Cruisin'",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 5,
+      "track_id": 1123,
+      "artist": "坂本真綾",
+      "title": "プラチナ",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 6,
+      "track_id": 520,
+      "artist": "T-BOLAN",
+      "title": "じれったい愛",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 7,
+      "track_id": 1091,
+      "artist": "The Cure",
+      "title": "Boys Don’t Cry",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 15
+    },
+    {
+      "rank": 8,
+      "track_id": 903,
+      "artist": "Blur",
+      "title": "Coffee & TV",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 1293,
+      "artist": "IU",
+      "title": "Good Day",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1246,
+      "artist": "David Guetta",
+      "title": "Memories (feat. Kid Cudi)",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    }
+  ]
+}

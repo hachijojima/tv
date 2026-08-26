@@ -1,0 +1,96 @@
+{
+  "date": "2026-12-31",
+  "generated_at": "2026-12-31T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 468,
+      "artist": "X JAPAN",
+      "title": "ENDLESS RAIN",
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 5
+    },
+    {
+      "rank": 2,
+      "track_id": 1109,
+      "artist": "Radiohead",
+      "title": "Everything In Its Right Place",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 3,
+      "track_id": 11,
+      "artist": "MONO NO AWARE",
+      "title": "異邦人",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 12
+    },
+    {
+      "rank": 4,
+      "track_id": 679,
+      "artist": "太田裕美",
+      "title": "木綿のハンカチーフ",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 5,
+      "track_id": 12,
+      "artist": "MIZ",
+      "title": "丘",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 6,
+      "track_id": 1089,
+      "artist": "The Beatles",
+      "title": "Let It Be",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 7,
+      "track_id": 927,
+      "artist": "Swing Out Sister",
+      "title": "Breakout",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 141,
+      "artist": "スカート",
+      "title": "CALL",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 410,
+      "artist": "Syrup16g",
+      "title": "Reborn",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 10,
+      "track_id": 124,
+      "artist": "Tempalay",
+      "title": "そなちね",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    }
+  ]
+}

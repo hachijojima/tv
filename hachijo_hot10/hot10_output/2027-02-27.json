@@ -1,0 +1,96 @@
+{
+  "date": "2027-02-27",
+  "generated_at": "2027-02-27T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 615,
+      "artist": "米米CLUB",
+      "title": "Shake Hip!",
+      "movement": "↑1",
+      "days_at_number_1": 1,
+      "top10_streak": 5
+    },
+    {
+      "rank": 2,
+      "track_id": 7,
+      "artist": "MONO NO AWARE",
+      "title": "ゾッコン",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 10
+    },
+    {
+      "rank": 3,
+      "track_id": 1010,
+      "artist": "Oasis",
+      "title": "Live Forever",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 4,
+      "track_id": 1023,
+      "artist": "Carpenters",
+      "title": "(They Long To Be) Close To You",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 5,
+      "track_id": 1280,
+      "artist": "IVE",
+      "title": "I AM",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 6,
+      "track_id": 762,
+      "artist": "ティン・パン・アレー",
+      "title": "北京ダック",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 7,
+      "track_id": 1247,
+      "artist": "Swedish House Mafia",
+      "title": "Don't You Worry Child",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 1149,
+      "artist": "エレファントカシマシ",
+      "title": "今宵の月のように",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 271,
+      "artist": "PK shampoo",
+      "title": "君の秘密になりたい",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 10,
+      "track_id": 1220,
+      "artist": "Justin Bieber",
+      "title": "Sorry",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 1219,
+      "artist": "Ed Sheeran",
+      "title": "Shape of You",
+      "movement": "→",
+      "days_at_number_1": 5,
+      "top10_streak": 7
+    },
+    {
+      "rank": 2,
+      "track_id": 475,
+      "artist": "ウルフルズ",
+      "title": "バンザイ ～好きでよかった～",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 3,
+      "track_id": 1023,
+      "artist": "Carpenters",
+      "title": "(They Long To Be) Close To You",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 4,
+      "track_id": 596,
+      "artist": "globe",
+      "title": "Can't Stop Fallin' in Love",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 5,
+      "track_id": 734,
+      "artist": "濱田金吾",
+      "title": "Midnight Cruisin'",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 11
+    },
+    {
+      "rank": 6,
+      "track_id": 14,
+      "artist": "MIZ",
+      "title": "とびうおのうた",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 9
+    },
+    {
+      "rank": 7,
+      "track_id": 1333,
+      "artist": "R.E.M.",
+      "title": "Man on the Moon",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 8,
+      "track_id": 1020,
+      "artist": "The Doobie Brothers",
+      "title": "What a Fool Believes",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 9,
+      "track_id": 1021,
+      "artist": "スチャダラパー",
+      "title": "サマージャム’95",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 696,
+      "artist": "小坂忠",
+      "title": "しらけちまうぜ",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    }
+  ]
+}

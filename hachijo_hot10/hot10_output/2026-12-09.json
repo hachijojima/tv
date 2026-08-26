@@ -1,0 +1,96 @@
+{
+  "date": "2026-12-09",
+  "generated_at": "2026-12-09T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 600,
+      "artist": "シャ乱Q",
+      "title": "いいわけ",
+      "movement": "NEW",
+      "days_at_number_1": 1,
+      "top10_streak": 1
+    },
+    {
+      "rank": 2,
+      "track_id": 1286,
+      "artist": "SEVENTEEN",
+      "title": "Super",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 3,
+      "track_id": 1204,
+      "artist": "Rihanna",
+      "title": "We Found Love",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 4,
+      "track_id": 1305,
+      "artist": "鼓童",
+      "title": "凰（おおとり）",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 10
+    },
+    {
+      "rank": 5,
+      "track_id": 109,
+      "artist": "アカシック",
+      "title": "今日から夜は家にいるよ",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 6,
+      "track_id": 2,
+      "artist": "MIZ",
+      "title": "パレード",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 7,
+      "track_id": 379,
+      "artist": "UA",
+      "title": "悲しみジョニー",
+      "movement": "↓6",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
+      "track_id": 434,
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "title": "ソラニン",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 9,
+      "track_id": 1091,
+      "artist": "The Cure",
+      "title": "Boys Don’t Cry",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 10
+    },
+    {
+      "rank": 10,
+      "track_id": 492,
+      "artist": "CHAGE and ASKA",
+      "title": "SAY YES",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    }
+  ]
+}

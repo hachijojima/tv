@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 524,
+      "artist": "サザンオールスターズ",
+      "title": "希望の轍",
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 2
+    },
+    {
+      "rank": 2,
+      "track_id": 1089,
+      "artist": "The Beatles",
+      "title": "Let It Be",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 3,
+      "track_id": 1021,
+      "artist": "スチャダラパー",
+      "title": "サマージャム’95",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 4,
+      "track_id": 1219,
+      "artist": "Ed Sheeran",
+      "title": "Shape of You",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 12
+    },
+    {
+      "rank": 5,
+      "track_id": 1226,
+      "artist": "Imagine Dragons",
+      "title": "Believer",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 6,
+      "track_id": 1285,
+      "artist": "SEVENTEEN",
+      "title": "VERY NICE",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 7,
+      "track_id": 572,
+      "artist": "BEGIN",
+      "title": "恋しくて",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
+      "track_id": 420,
+      "artist": "小沢健二",
+      "title": "今夜はブギー・バック",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 288,
+      "artist": "サニーデイ・サービス",
+      "title": "青春狂走曲",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 633,
+      "artist": "小坂忠",
+      "title": "ほうろう",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    }
+  ]
+}

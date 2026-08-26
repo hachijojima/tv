@@ -1,0 +1,96 @@
+{
+  "date": "2027-06-15",
+  "generated_at": "2027-06-15T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 19,
+      "artist": "MONO NO AWARE",
+      "title": "幽霊船",
+      "movement": "→",
+      "days_at_number_1": 3,
+      "top10_streak": 14
+    },
+    {
+      "rank": 2,
+      "track_id": 568,
+      "artist": "椎名林檎",
+      "title": "本能",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 9
+    },
+    {
+      "rank": 3,
+      "track_id": 415,
+      "artist": "bonobos",
+      "title": "Standing There ～いま、そこに行くよ～",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 4,
+      "track_id": 249,
+      "artist": "キセル",
+      "title": "ビューティフル デイ",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 5,
+      "track_id": 1154,
+      "artist": "たま",
+      "title": "さよなら人類",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 6,
+      "track_id": 1011,
+      "artist": "Underworld",
+      "title": "Born Slippy (Nuxx)",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 16
+    },
+    {
+      "rank": 7,
+      "track_id": 1315,
+      "artist": "Nirvana",
+      "title": "Come As You Are",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
+      "track_id": 1271,
+      "artist": "BLACKPINK",
+      "title": "DDU-DU DDU-DU",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 1061,
+      "artist": "Cyndi Lauper",
+      "title": "Time After Time",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 11
+    },
+    {
+      "rank": 10,
+      "track_id": 1267,
+      "artist": "Eric Prydz",
+      "title": "Call on Me",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    }
+  ]
+}

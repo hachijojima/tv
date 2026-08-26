@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 489,
+      "artist": "小泉今日子",
+      "title": "あなたに会えてよかった",
+      "movement": "→",
+      "days_at_number_1": 3,
+      "top10_streak": 4
+    },
+    {
+      "rank": 2,
+      "track_id": 10,
+      "artist": "MIZ",
+      "title": "パジャマでハイウェイ",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 3,
+      "track_id": 1013,
+      "artist": "The Police",
+      "title": "Every Breath You Take",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 4,
+      "track_id": 1240,
+      "artist": "Pharrell Williams",
+      "title": "Happy",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 10
+    },
+    {
+      "rank": 5,
+      "track_id": 1364,
+      "artist": "Linkin Park",
+      "title": "In the End",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 13
+    },
+    {
+      "rank": 6,
+      "track_id": 1048,
+      "artist": "Ben E. King",
+      "title": "Stand By Me",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 7,
+      "track_id": 482,
+      "artist": "UNICORN",
+      "title": "すばらしい日々",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 1253,
+      "artist": "Martin Garrix",
+      "title": "Animals",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 9,
+      "track_id": 1314,
+      "artist": "U2",
+      "title": "Beautiful Day",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 381,
+      "artist": "My Little Lover",
+      "title": "白いカイト",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    }
+  ]
+}

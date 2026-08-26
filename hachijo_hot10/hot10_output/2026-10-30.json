@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 10,
+      "artist": "MIZ",
+      "title": "パジャマでハイウェイ",
+      "movement": "→",
+      "days_at_number_1": 3,
+      "top10_streak": 10
+    },
+    {
+      "rank": 2,
+      "track_id": 489,
+      "artist": "小泉今日子",
+      "title": "あなたに会えてよかった",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 3,
+      "track_id": 1013,
+      "artist": "The Police",
+      "title": "Every Breath You Take",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 11
+    },
+    {
+      "rank": 4,
+      "track_id": 623,
+      "artist": "細野晴臣",
+      "title": "恋は桃色",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 5,
+      "track_id": 1240,
+      "artist": "Pharrell Williams",
+      "title": "Happy",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 13
+    },
+    {
+      "rank": 6,
+      "track_id": 913,
+      "artist": "Sonic Youth",
+      "title": "Sunday",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 7,
+      "track_id": 1253,
+      "artist": "Martin Garrix",
+      "title": "Animals",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 8,
+      "track_id": 1188,
+      "artist": "スピッツ",
+      "title": "チェリー",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 9,
+      "track_id": 1146,
+      "artist": "TOMOO",
+      "title": "Cinderella",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 10,
+      "track_id": 695,
+      "artist": "矢野顕子",
+      "title": "春咲小紅",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    }
+  ]
+}

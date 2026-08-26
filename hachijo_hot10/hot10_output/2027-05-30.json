@@ -1,0 +1,96 @@
+{
+  "date": "2027-05-30",
+  "generated_at": "2027-05-30T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 1048,
+      "artist": "Ben E. King",
+      "title": "Stand By Me",
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 4
+    },
+    {
+      "rank": 2,
+      "track_id": 601,
+      "artist": "KAN",
+      "title": "言えずのI LOVE YOU",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 3,
+      "track_id": 20,
+      "artist": "MONO NO AWARE",
+      "title": "水が湧いた",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 4,
+      "track_id": 490,
+      "artist": "森高千里",
+      "title": "渡良瀬橋",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 520,
+      "artist": "T-BOLAN",
+      "title": "じれったい愛",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 6,
+      "track_id": 1028,
+      "artist": "Kendrick Lamar",
+      "title": "Alright",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 14
+    },
+    {
+      "rank": 7,
+      "track_id": 1032,
+      "artist": "神聖かまってちゃん",
+      "title": "ロックンロールは鳴り止まないっ",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
+      "track_id": 298,
+      "artist": "BUMP OF CHICKEN",
+      "title": "車輪の唄",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 9,
+      "track_id": 731,
+      "artist": "1986オメガトライブ",
+      "title": "Super Chance",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 452,
+      "artist": "大黒摩季",
+      "title": "ら・ら・ら",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 524,
+      "artist": "サザンオールスターズ",
+      "title": "希望の轍",
+      "movement": "→",
+      "days_at_number_1": 4,
+      "top10_streak": 4
+    },
+    {
+      "rank": 2,
+      "track_id": 1089,
+      "artist": "The Beatles",
+      "title": "Let It Be",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 3,
+      "track_id": 293,
+      "artist": "くるり",
+      "title": "東京",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 4,
+      "track_id": 1021,
+      "artist": "スチャダラパー",
+      "title": "サマージャム’95",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 5,
+      "track_id": 1010,
+      "artist": "Oasis",
+      "title": "Live Forever",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 6,
+      "track_id": 420,
+      "artist": "小沢健二",
+      "title": "今夜はブギー・バック",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 7,
+      "track_id": 1219,
+      "artist": "Ed Sheeran",
+      "title": "Shape of You",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 14
+    },
+    {
+      "rank": 8,
+      "track_id": 572,
+      "artist": "BEGIN",
+      "title": "恋しくて",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 9,
+      "track_id": 1285,
+      "artist": "SEVENTEEN",
+      "title": "VERY NICE",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 10,
+      "track_id": 1364,
+      "artist": "Linkin Park",
+      "title": "In the End",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    }
+  ]
+}

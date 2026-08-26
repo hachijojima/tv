@@ -1,0 +1,96 @@
+{
+  "date": "2027-07-12",
+  "generated_at": "2027-07-12T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 585,
+      "artist": "スピッツ",
+      "title": "楓",
+      "movement": "→",
+      "days_at_number_1": 6,
+      "top10_streak": 11
+    },
+    {
+      "rank": 2,
+      "track_id": 14,
+      "artist": "MIZ",
+      "title": "とびうおのうた",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 3,
+      "track_id": 133,
+      "artist": "iri",
+      "title": "rhythm",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 4,
+      "track_id": 1324,
+      "artist": "Green Day",
+      "title": "Good Riddance (Time of Your Life)",
+      "movement": "↑6",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 341,
+      "artist": "NUMBER GIRL",
+      "title": "OMOIDE IN MY HEAD",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 6,
+      "track_id": 539,
+      "artist": "KAN",
+      "title": "まゆみ",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 7,
+      "track_id": 1110,
+      "artist": "Red Hot Chili Peppers",
+      "title": "Can’t Stop",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 8,
+      "track_id": 1254,
+      "artist": "The Chainsmokers",
+      "title": "Closer (feat. Halsey)",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 1125,
+      "artist": "藤井風",
+      "title": "花",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 541,
+      "artist": "山崎まさよし",
+      "title": "セロリ",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 12
+    }
+  ]
+}

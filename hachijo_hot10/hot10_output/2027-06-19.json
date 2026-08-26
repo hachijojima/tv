@@ -1,0 +1,96 @@
+{
+  "date": "2027-06-19",
+  "generated_at": "2027-06-19T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 459,
+      "artist": "B'z",
+      "title": "ALONE",
+      "movement": "↑2",
+      "days_at_number_1": 1,
+      "top10_streak": 3
+    },
+    {
+      "rank": 2,
+      "track_id": 1245,
+      "artist": "David Guetta",
+      "title": "Titanium (feat. Sia)",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 3,
+      "track_id": 568,
+      "artist": "椎名林檎",
+      "title": "本能",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 13
+    },
+    {
+      "rank": 4,
+      "track_id": 1154,
+      "artist": "たま",
+      "title": "さよなら人類",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 5,
+      "track_id": 1228,
+      "artist": "Maroon 5",
+      "title": "Sugar",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 6,
+      "track_id": 447,
+      "artist": "Spangle call Lilli line",
+      "title": "cast a spell on her",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 7,
+      "track_id": 415,
+      "artist": "bonobos",
+      "title": "Standing There ～いま、そこに行くよ～",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 11
+    },
+    {
+      "rank": 8,
+      "track_id": 429,
+      "artist": "キリンジ",
+      "title": "双子座グラフィティ",
+      "movement": "↓6",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 9,
+      "track_id": 1336,
+      "artist": "Coldplay",
+      "title": "Clocks",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 503,
+      "artist": "hitomi",
+      "title": "LOVE 2000",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    }
+  ]
+}
