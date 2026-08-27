@@ -12,6 +12,7 @@
 
 .public-page #presence-status {
   font-size: 14px;
+  transform: translateY(1px);
 }
 
 @media (max-width: 767px) {
