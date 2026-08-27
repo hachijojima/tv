@@ -69,7 +69,7 @@
   border-top: 1px solid var(--hot10-rule);
 }
 
-.hot10-row:last-child { border-bottom: 1px solid var(--hot10-rule); }
+.hot10-row:first-child { border-top: 0; }
 .hot10-rank-block { display: inline-flex; align-items: baseline; gap: 8px; min-width: 0; }
 .hot10-rank { color: var(--hot10-white); font-size: 15px; font-variant-numeric: tabular-nums; font-weight: 700; letter-spacing: .04em; }
 .hot10-title { min-width: 0; color: var(--hot10-white); font-size: 17px; font-weight: 700; line-height: 1.35; }
