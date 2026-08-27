@@ -58,7 +58,7 @@
 .hot10-month-day { padding-top: 1px; font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif; font-size: clamp(32px, 3.6vw, 43px); font-weight: 900; letter-spacing: -.025em; }
 .hot10-date-meta { display: flex; gap: 8px; padding-top: 5px; color: var(--hot10-gray); font-size: clamp(11px, 1.3vw, 14px); font-weight: 650; letter-spacing: .035em; }
 
-.hot10-list { min-height: 486px; margin-top: 30px; padding: 0; list-style: none; }
+.hot10-list { min-height: 486px; margin-top: 22px; padding: 0; list-style: none; }
 
 .hot10-row {
   display: grid;
@@ -69,7 +69,7 @@
   border-top: 1px solid var(--hot10-rule);
 }
 
-.hot10-row:first-child { border-top: 0; }
+.hot10-row:first-child { padding-top: 8px; border-top: 0; }
 .hot10-rank-block { display: inline-flex; align-items: baseline; gap: 8px; min-width: 0; }
 .hot10-rank { color: var(--hot10-white); font-size: 15px; font-variant-numeric: tabular-nums; font-weight: 700; letter-spacing: .04em; }
 .hot10-title { min-width: 0; color: var(--hot10-white); font-size: 17px; font-weight: 700; line-height: 1.35; }
@@ -219,7 +219,7 @@
   .hot10-name { margin-top: -2px; }
   .hot10-month-day { font-size: clamp(34px, 2.8vw, 40px); }
   .hot10-date { padding-top: 6px; }
-  .hot10-list { min-height: 0; margin-top: 28px; }
+  .hot10-list { min-height: 0; margin-top: 22px; }
 
   .hot10-row {
     grid-template-columns: 68px minmax(0, 1.25fr) minmax(0, .75fr);
@@ -228,7 +228,7 @@
     padding: 20px 0;
   }
 
-  .hot10-row:first-child { padding-top: 9px; }
+  .hot10-row:first-child { padding-top: 8px; }
 
   .hot10-title,
   .hot10-artist {
@@ -280,7 +280,7 @@
   .hot10-month-day { font-size: clamp(29px, 8.7vw, 35px); }
   .hot10-date { justify-self: end; padding-top: 6px; }
   .hot10-date-meta { gap: 7px; padding-top: 4px; font-size: 11px; }
-  .hot10-list { min-height: 610px; margin-top: 28px; }
+  .hot10-list { min-height: 610px; margin-top: 22px; }
   .hot10-row {
     grid-template-columns: 78px minmax(0, 1fr);
     column-gap: 10px;
