@@ -97,8 +97,7 @@
     grid-template-columns: minmax(0, 7fr) minmax(440px, 3fr);
     grid-template-areas:
       "masthead hot10"
-      "main hot10"
-      "note hot10";
+      "main hot10";
     width: 100%;
     max-width: none;
     min-height: 100svh;
@@ -109,8 +108,7 @@
   }
 
   .public-page .masthead,
-  .public-page .tv-main-left,
-  .public-page .note-link {
+  .public-page .tv-main-left {
     width: calc(100% - 64px);
     max-width: none;
     justify-self: center;
@@ -192,9 +190,11 @@
     border-radius: 0 0 9px 9px;
   }
 
-  .public-page .note-link {
-    grid-area: note;
-    margin-top: 14px;
+  .public-page .tv-main-left > .note-link {
+    grid-column: 1 / -1;
+    grid-row: 3;
+    width: 100%;
+    margin-top: 0;
     margin-bottom: 26px;
   }
 
