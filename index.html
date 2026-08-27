@@ -35,7 +35,7 @@
   <link rel="stylesheet" href="public-mobile.css?v=spacing-1">
   <link rel="stylesheet" href="public-shared.css?v=note-label-1">
   <link rel="stylesheet" href="public-header.css?v=spacing-1">
-  <link rel="stylesheet" href="hot10.css?v=13">
+  <link rel="stylesheet" href="hot10.css?v=14">
 </head>
 <body class="public-page">
   <main class="tv-shell">
@@ -50,8 +50,10 @@
           <button id="sound-toggle" type="button" aria-label="音を出す" aria-pressed="false"><svg aria-hidden="true" viewBox="0 0 24 24" focusable="false"><path d="M4 9v6h4l5 4V5L8 9H4Zm12.5 3a4.5 4.5 0 0 0-2.1-3.8v7.6a4.5 4.5 0 0 0 2.1-3.8Z"/></svg><span>音を出す</span></button>
           <button id="fullscreen-toggle" type="button" aria-label="全画面" aria-pressed="false"><svg aria-hidden="true" viewBox="0 0 24 24" focusable="false"><path d="M4 9V5h4V3H3v6h1Zm12-6v2h4v4h2V3h-6ZM4 15H3v6h6v-2H5v-4Zm16 4h-4v2h6v-6h-2v4Z"/></svg><span>全画面</span></button>
         </div>
-        <section class="program-info" aria-live="polite"><p class="kicker"><span class="program-tag">NOW</span><span class="program-start" id="now-start"></span></p><h2 id="now-family">—</h2><p id="now-title"></p></section>
-        <section class="next-info" aria-live="polite"><p id="next-label"><span class="program-tag">NEXT</span><span class="program-start" id="next-start"></span></p><h2 id="next-family">—</h2><p id="next-title"></p></section>
+        <div class="program-pair">
+          <section class="program-info" aria-live="polite"><p class="kicker"><span class="program-tag">NOW</span><span class="program-start" id="now-start"></span></p><h2 id="now-family">—</h2><p id="now-title"></p></section>
+          <section class="next-info" aria-live="polite"><p id="next-label"><span class="program-tag">NEXT</span><span class="program-start" id="next-start"></span></p><h2 id="next-family">—</h2><p id="next-title"></p></section>
+        </div>
       </div>
       <section class="hot10-section" id="hachijo-hot10" aria-labelledby="hot10-heading" aria-busy="true">
         <div class="hot10-inner">
