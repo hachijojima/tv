@@ -194,7 +194,7 @@
 
   .public-page .note-link {
     grid-area: note;
-    margin-top: 0;
+    margin-top: 14px;
     margin-bottom: 26px;
   }
 
