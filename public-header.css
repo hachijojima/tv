@@ -14,6 +14,16 @@
   font-size: 14px;
 }
 
+.public-page .header-meta {
+  display: flex;
+  align-items: flex-end;
+  flex-direction: column;
+}
+
+.public-page .header-note-link {
+  display: none;
+}
+
 @media (max-width: 767px) {
   .public-page .tv-shell {
     padding-top: max(14px, env(safe-area-inset-top));
@@ -21,5 +31,37 @@
 
   .public-page .masthead {
     padding-bottom: 12px;
+  }
+
+  .public-page .brand-logo.brand-wordmark {
+    width: 168px;
+  }
+
+  .public-page .header-meta {
+    gap: 2px;
+  }
+
+  .public-page .header-note-link {
+    display: block;
+    color: #111827;
+    font-size: 11px;
+    font-weight: 650;
+    line-height: 1.1;
+    text-decoration: none;
+  }
+
+  .public-page .header-note-link:hover,
+  .public-page .header-note-link:focus-visible {
+    text-decoration: underline;
+  }
+}
+
+@media (max-width: 374px) {
+  .public-page .brand-logo.brand-wordmark {
+    width: 154px;
+  }
+
+  .public-page #presence-status {
+    font-size: 12px;
   }
 }

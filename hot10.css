@@ -244,6 +244,23 @@
   .public-page .hot10-inner { padding-top: 22px; }
 }
 
+@media (max-width: 1365px) {
+  .public-page .tv-main-layout {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .public-page .tv-main-left {
+    display: contents;
+  }
+
+  .public-page .screen { order: 1; }
+  .public-page .player-controls { order: 2; }
+  .public-page .program-pair { order: 3; }
+  .public-page .hot10-section { order: 4; }
+  .public-page .note-link { order: 5; }
+}
+
 @media (min-width: 1440px) {
   .public-page .hot10-inner { max-width: 1088px; }
 }
