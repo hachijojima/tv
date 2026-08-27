@@ -15,6 +15,17 @@
   color: var(--hot10-white);
 }
 
+/* Keep the two player actions as an intentional full-width control bar on
+   desktop as well as mobile. */
+@media (min-width: 768px) {
+  .public-page .player-controls {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .public-page .player-controls button { width: 100%; }
+}
+
 .public-page .hot10-inner {
   width: calc(100% - 64px);
   max-width: 928px;
