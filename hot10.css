@@ -81,9 +81,9 @@
 .hot10-movement.is-flat { color: var(--hot10-gray); }
 .hot10-loading, .hot10-error { display: flex; min-height: 486px; align-items: center; color: var(--hot10-gray); font-size: 13px; }
 
-/* Split only when the left panel can keep the player at least 1000px wide
-   while leaving the HOT 10 panel about 440px or more. */
-@media (min-width: 1520px) {
+/* Split from 1366px: the player remains about 860px wide while the
+   HOT 10 panel keeps its 440px minimum width. */
+@media (min-width: 1366px) {
   .public-page {
     background: linear-gradient(to right, var(--page-bg) 0 70%, var(--hot10-bg) 70% 100%);
   }
