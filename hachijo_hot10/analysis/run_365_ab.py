@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Non-production F4.1-B annual A/B diagnostics. Never writes production state/output."""
 from __future__ import annotations
-import argparse, csv, json, math, random, statistics, sys
+import argparse, csv, html, json, math, random, statistics, sys
 from collections import defaultdict
 from datetime import date, timedelta
 from pathlib import Path
@@ -77,6 +77,19 @@ def deciles(result, config):
         out.append({'variant':result['variant'],'decile':n+1,'score_min':g[0][0],'score_max':g[-1][0],'tracks':len(g),'ever_charted_rate':sum(x>0 for x in ds)/len(ds),'mean_top10_days':statistics.fmean(ds),'median_top10_days':statistics.median(ds)})
     return out
 
+def comparison_html(a, b):
+    def cell(row): return f"<strong>{html.escape(row['artist'])}</strong><span>{html.escape(row['title'])} · {html.escape(row['movement'])}</span>"
+    sections=[]
+    for index,(ac,bc) in enumerate(zip(a['charts'],b['charts'])):
+        rows=''.join(f"<tr><td>{rank}</td><td>{cell(ac['chart'][rank-1])}</td><td>{cell(bc['chart'][rank-1])}</td></tr>" for rank in range(1,11))
+        open_attr=' open' if index==0 else ''
+        sections.append(f"<details id=\"d-{ac['date']}\"{open_attr}><summary>{ac['date']}</summary><table><thead><tr><th>Rank</th><th>1389 A</th><th>1589 B</th></tr></thead><tbody>{rows}</tbody></table></details>")
+    month_starts={}
+    for chart in a['charts']: month_starts.setdefault(chart['date'][:7],chart['date'])
+    nav=''.join(f'<a href="#d-{day}">{month}</a>' for month,day in month_starts.items())
+    return f'''<!doctype html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>HACHIJO HOT 10 — 1389 A / 1589 B · 365 days</title><style>
+:root{{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:#172033;background:#f4f7fb}}body{{margin:0;padding:32px 18px 56px}}main{{max-width:1120px;margin:auto}}h1{{margin:0;font-size:clamp(24px,4vw,34px)}}p{{color:#5b677a;font-size:14px;margin:8px 0 20px}}nav{{position:sticky;top:0;z-index:1;display:flex;flex-wrap:wrap;gap:6px;padding:10px 0;background:#f4f7fb}}nav a{{padding:5px 8px;border:1px solid #dce3ee;border-radius:6px;background:#fff;color:#334155;font-size:11px;text-decoration:none}}details{{margin:12px 0;background:#fff;border:1px solid #dce3ee;border-radius:12px;overflow:hidden}}summary{{padding:14px 18px;cursor:pointer;font-size:16px;font-weight:700;background:#f8faff}}table{{width:100%;border-collapse:collapse;table-layout:fixed}}th,td{{padding:10px 14px;text-align:left;vertical-align:top;border-top:1px solid #edf0f5}}th{{color:#52617a;font-size:12px}}th:first-child,td:first-child{{width:56px;text-align:center}}th:nth-child(2),td:nth-child(2){{background:#f0f6ff}}th:nth-child(3),td:nth-child(3){{background:#fff7ee}}strong,span{{display:block}}strong{{font-size:14px}}span{{margin-top:3px;color:#48566d;font-size:13px}}@media(max-width:560px){{body{{padding:18px 10px 40px}}th,td{{padding:10px 8px}}strong{{font-size:13px}}span{{font-size:12px}}}}</style></head><body><main><h1>HACHIJO HOT 10 — 1389 A / 1589 B</h1><p>Canonical seed 20260826 · 2026-08-26〜2027-08-25 · 日別TOP 10</p><nav>{nav}</nav>{''.join(sections)}</main></body></html>'''
+
 def main():
     p=argparse.ArgumentParser();p.add_argument('--proposed-master',type=Path,required=True);p.add_argument('--output-dir',type=Path,default=ROOT/'analysis'/'results');a=p.parse_args();out=a.output_dir
     config=hot10.load_config(); A=hot10.load_tracks(hot10.resolve_master_path(config),1389);B=hot10.load_tracks(a.proposed_master,1589)
@@ -105,6 +118,7 @@ def main():
     new=pool(cb,range(1390,1590));oldA,oldB=pool(ca,range(1,1390)),pool(cb,range(1,1390)); diffs=[abs(x['difference']) for x in tracks if x['pool']=='existing'];top=lambda z,n:{i for i,v in z['roll'].items() if v['days'] in []}
     compact=lambda z:{k:v for k,v in z.items() if k not in {'charts','tracks','roll','days'}}
     (out/'hot10_365_AB_results.json').write_text(json.dumps({'start':str(START),'days':DAYS,'seeds':SEEDS,'golden':actual,'canonical':{'A':compact(ca),'B':compact(cb)},'new200':new,'existing':{'A':oldA,'B':oldB}},ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+    (out/'hot10_365_AB_canonical.html').write_text(comparison_html(ca,cb),encoding='utf-8')
     md=['# HACHIJO HOT 10 — 1389 vs 1589 annual A/B','','## 1. 結論','','分析のみ。engine、score、master、本番state/output/Web UIは変更していない。','','## 2. A/B基本指標','','| 指標 | A 1389 | B 1589 | 差 |','|---|---:|---:|---:|']
     for label,key in [('平均日次残留','retention'),('平均日次入替','replacements'),('年間TOP10経験曲数','ever'),('年間TOP10経験率','ever_rate'),('最長#1 streak','n1_streak'),('最長TOP10 streak','top10_streak'),('NEW','new'),('RE','re')]:
         av,bv=ca[key],cb[key];md.append(f'| {label} | {av:.2%}'+' | ' + f'{bv:.2%}' if key=='ever_rate' else f'| {label} | {av} | {bv} | {bv-av:+} |')
