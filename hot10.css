@@ -219,7 +219,7 @@
   .hot10-name { margin-top: -2px; }
   .hot10-month-day { font-size: clamp(34px, 2.8vw, 40px); }
   .hot10-date { padding-top: 6px; }
-  .hot10-list { min-height: 0; margin-top: 22px; }
+  .hot10-list { min-height: 0; }
 
   .hot10-row {
     grid-template-columns: 68px minmax(0, 1.25fr) minmax(0, .75fr);
@@ -227,8 +227,6 @@
     align-items: center;
     padding: 20px 0;
   }
-
-  .hot10-row:first-child { padding-top: 8px; }
 
   .hot10-title,
   .hot10-artist {
@@ -280,7 +278,7 @@
   .hot10-month-day { font-size: clamp(29px, 8.7vw, 35px); }
   .hot10-date { justify-self: end; padding-top: 6px; }
   .hot10-date-meta { gap: 7px; padding-top: 4px; font-size: 11px; }
-  .hot10-list { min-height: 610px; margin-top: 22px; }
+  .hot10-list { min-height: 610px; }
   .hot10-row {
     grid-template-columns: 78px minmax(0, 1fr);
     column-gap: 10px;
