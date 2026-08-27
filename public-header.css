@@ -15,6 +15,12 @@
   transform: translateY(2px);
 }
 
+@media (min-width: 1366px) {
+  .public-page .brand-logo.brand-wordmark {
+    width: 240px;
+  }
+}
+
 @media (max-width: 767px) {
   .public-page .tv-shell {
     padding-top: max(14px, env(safe-area-inset-top));
