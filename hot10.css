@@ -166,6 +166,12 @@
   }
 }
 
+/* On standard desktop widths, lift the ranking panel above the player line
+   so all ten entries remain easier to scan without changing their density. */
+@media (min-width: 1366px) and (max-width: 1919px) {
+  .public-page .hot10-inner { padding-top: 22px; }
+}
+
 @media (min-width: 1440px) {
   .public-page .hot10-inner { max-width: 1088px; }
 }
