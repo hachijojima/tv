@@ -144,6 +144,21 @@
   .public-page .program-pair .next-info {
     min-width: 0;
     margin-top: 0;
+    padding-block: 11px;
+  }
+
+  .public-page .program-pair .program-info h2,
+  .public-page .program-pair .next-info h2 {
+    margin-top: 5px;
+  }
+
+  .public-page .program-pair .program-info p:not(.kicker),
+  .public-page .program-pair .next-info p:last-child {
+    display: block;
+    margin-top: 3px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
   }
 
   .public-page .player-controls {
