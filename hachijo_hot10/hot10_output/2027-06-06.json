@@ -8,20 +8,11 @@
       "artist": "モーニング娘。",
       "title": "LOVEマシーン",
       "movement": "→",
-      "days_at_number_1": 2,
+      "days_at_number_1": 4,
       "top10_streak": 7
     },
     {
       "rank": 2,
-      "track_id": 1011,
-      "artist": "Underworld",
-      "title": "Born Slippy (Nuxx)",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 3,
       "track_id": 686,
       "artist": "細野晴臣",
       "title": "終りの季節",
@@ -30,34 +21,34 @@
       "top10_streak": 2
     },
     {
+      "rank": 3,
+      "track_id": 1011,
+      "artist": "Underworld",
+      "title": "Born Slippy (Nuxx)",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
       "rank": 4,
-      "track_id": 19,
-      "artist": "MONO NO AWARE",
-      "title": "幽霊船",
+      "track_id": 1584,
+      "artist": "Elliott Smith",
+      "title": "Between the Bars",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 5,
+      "track_id": 1231,
+      "artist": "Sabrina Carpenter",
+      "title": "Espresso",
       "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
-      "rank": 5,
-      "track_id": 1061,
-      "artist": "Cyndi Lauper",
-      "title": "Time After Time",
-      "movement": "↑4",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
       "rank": 6,
-      "track_id": 1231,
-      "artist": "Sabrina Carpenter",
-      "title": "Espresso",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 7,
       "track_id": 495,
       "artist": "MISIA",
       "title": "つつみ込むように…",
@@ -66,7 +57,7 @@
       "top10_streak": 1
     },
     {
-      "rank": 8,
+      "rank": 7,
       "track_id": 441,
       "artist": "チャットモンチー",
       "title": "恋愛スピリッツ",
@@ -75,22 +66,31 @@
       "top10_streak": 1
     },
     {
+      "rank": 8,
+      "track_id": 1061,
+      "artist": "Cyndi Lauper",
+      "title": "Time After Time",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
       "rank": 9,
+      "track_id": 19,
+      "artist": "MONO NO AWARE",
+      "title": "幽霊船",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 10,
       "track_id": 1048,
       "artist": "Ben E. King",
       "title": "Stand By Me",
       "movement": "↓5",
       "days_at_number_1": 0,
       "top10_streak": 11
-    },
-    {
-      "rank": 10,
-      "track_id": 563,
-      "artist": "ポルノグラフィティ",
-      "title": "サウダージ",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 3
     }
   ]
 }

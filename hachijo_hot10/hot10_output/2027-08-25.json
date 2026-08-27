@@ -31,66 +31,66 @@
     },
     {
       "rank": 4,
+      "track_id": 1473,
+      "artist": "スチャダラパー",
+      "title": "今夜はブギー・バック (smooth rap)",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 5,
       "track_id": 14,
       "artist": "MIZ",
       "title": "とびうおのうた",
-      "movement": "↑3",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 5,
+      "rank": 6,
       "track_id": 607,
       "artist": "THE BLUE HEARTS",
       "title": "青空",
-      "movement": "↓2",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 9
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "track_id": 1499,
+      "artist": "MUTE BEAT",
+      "title": "Dub No.5",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
       "track_id": 1254,
       "artist": "The Chainsmokers",
       "title": "Closer (feat. Halsey)",
-      "movement": "↑3",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 7,
-      "track_id": 1272,
-      "artist": "BLACKPINK",
-      "title": "How You Like That",
-      "movement": "↑3",
+      "rank": 9,
+      "track_id": 582,
+      "artist": "T-BOLAN",
+      "title": "Bye For Now",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 4
     },
     {
-      "rank": 8,
+      "rank": 10,
       "track_id": 1130,
       "artist": "Billy Joel",
       "title": "Honesty",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
-    },
-    {
-      "rank": 9,
-      "track_id": 482,
-      "artist": "UNICORN",
-      "title": "すばらしい日々",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 10,
-      "track_id": 1357,
-      "artist": "The White Stripes",
-      "title": "Seven Nation Army",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 2
     }
   ]
 }

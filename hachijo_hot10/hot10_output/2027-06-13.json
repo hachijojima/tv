@@ -22,15 +22,24 @@
     },
     {
       "rank": 3,
-      "track_id": 1011,
-      "artist": "Underworld",
-      "title": "Born Slippy (Nuxx)",
-      "movement": "→",
+      "track_id": 1541,
+      "artist": "Cocco",
+      "title": "カウントダウン",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 14
+      "top10_streak": 5
     },
     {
       "rank": 4,
+      "track_id": 1011,
+      "artist": "Underworld",
+      "title": "Born Slippy (Nuxx)",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 11
+    },
+    {
+      "rank": 5,
       "track_id": 1061,
       "artist": "Cyndi Lauper",
       "title": "Time After Time",
@@ -39,7 +48,7 @@
       "top10_streak": 9
     },
     {
-      "rank": 5,
+      "rank": 6,
       "track_id": 10,
       "artist": "MIZ",
       "title": "パジャマでハイウェイ",
@@ -48,20 +57,11 @@
       "top10_streak": 7
     },
     {
-      "rank": 6,
-      "track_id": 415,
-      "artist": "bonobos",
-      "title": "Standing There ～いま、そこに行くよ～",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
       "rank": 7,
       "track_id": 228,
       "artist": "スカート",
       "title": "ストーリー",
-      "movement": "↓3",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
@@ -70,27 +70,27 @@
       "track_id": 1066,
       "artist": "Nujabes",
       "title": "Luv(sic.) pt3 (feat. Shing02)",
-      "movement": "→",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 9,
-      "track_id": 102,
-      "artist": "BREIMEN",
-      "title": "IWBYL",
-      "movement": "→",
+      "track_id": 1507,
+      "artist": "じゃがたら",
+      "title": "タンゴ",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 1315,
-      "artist": "Nirvana",
-      "title": "Come As You Are",
-      "movement": "RE",
+      "track_id": 1589,
+      "artist": "Massive Attack",
+      "title": "Unfinished Sympathy",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     }
   ]
 }

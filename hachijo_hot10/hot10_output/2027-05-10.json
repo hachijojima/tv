@@ -8,20 +8,11 @@
       "artist": "THE BOOM",
       "title": "風になりたい",
       "movement": "→",
-      "days_at_number_1": 2,
+      "days_at_number_1": 3,
       "top10_streak": 6
     },
     {
       "rank": 2,
-      "track_id": 1288,
-      "artist": "BIGBANG",
-      "title": "FANTASTIC BABY",
-      "movement": "↑5",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 3,
       "track_id": 1364,
       "artist": "Linkin Park",
       "title": "In the End",
@@ -30,7 +21,7 @@
       "top10_streak": 1
     },
     {
-      "rank": 4,
+      "rank": 3,
       "track_id": 510,
       "artist": "BEGIN",
       "title": "島人ぬ宝",
@@ -39,22 +30,31 @@
       "top10_streak": 3
     },
     {
-      "rank": 5,
+      "rank": 4,
       "track_id": 547,
       "artist": "JUN SKY WALKER(S)",
       "title": "すてきな夜空",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 4
+    },
+    {
+      "rank": 5,
+      "track_id": 1288,
+      "artist": "BIGBANG",
+      "title": "FANTASTIC BABY",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     },
     {
       "rank": 6,
       "track_id": 20,
       "artist": "MONO NO AWARE",
       "title": "水が湧いた",
-      "movement": "↓4",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 8
+      "top10_streak": 7
     },
     {
       "rank": 7,
@@ -67,28 +67,28 @@
     },
     {
       "rank": 8,
-      "track_id": 1314,
-      "artist": "U2",
-      "title": "Beautiful Day",
-      "movement": "↓3",
+      "track_id": 1205,
+      "artist": "Beyoncé",
+      "title": "Crazy in Love",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 16
+      "top10_streak": 5
     },
     {
       "rank": 9,
-      "track_id": 1023,
-      "artist": "Carpenters",
-      "title": "(They Long To Be) Close To You",
-      "movement": "↓5",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 10,
       "track_id": 239,
       "artist": "さよならポニーテール",
       "title": "光る街へ",
       "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1228,
+      "artist": "Maroon 5",
+      "title": "Sugar",
+      "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

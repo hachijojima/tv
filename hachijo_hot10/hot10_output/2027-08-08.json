@@ -70,7 +70,7 @@
       "track_id": 1252,
       "artist": "Kygo",
       "title": "Stole the Show (feat. Parson James)",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 10
     },
@@ -79,7 +79,7 @@
       "track_id": 293,
       "artist": "くるり",
       "title": "東京",
-      "movement": "↓1",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 4
     },

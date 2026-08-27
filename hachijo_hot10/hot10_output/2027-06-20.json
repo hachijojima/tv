@@ -22,15 +22,24 @@
     },
     {
       "rank": 3,
+      "track_id": 1336,
+      "artist": "Coldplay",
+      "title": "Clocks",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 4,
       "track_id": 1228,
       "artist": "Maroon 5",
       "title": "Sugar",
-      "movement": "↑2",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 4,
+      "rank": 5,
       "track_id": 890,
       "artist": "Clairo",
       "title": "Sofia",
@@ -39,49 +48,40 @@
       "top10_streak": 1
     },
     {
-      "rank": 5,
+      "rank": 6,
       "track_id": 1154,
       "artist": "たま",
       "title": "さよなら人類",
-      "movement": "↓1",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 7
     },
     {
-      "rank": 6,
-      "track_id": 1336,
-      "artist": "Coldplay",
-      "title": "Clocks",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
       "rank": 7,
-      "track_id": 447,
-      "artist": "Spangle call Lilli line",
-      "title": "cast a spell on her",
+      "track_id": 523,
+      "artist": "スピッツ",
+      "title": "渚",
       "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 8,
-      "track_id": 568,
-      "artist": "椎名林檎",
-      "title": "本能",
-      "movement": "↓5",
-      "days_at_number_1": 0,
-      "top10_streak": 14
-    },
-    {
-      "rank": 9,
       "track_id": 1265,
       "artist": "Disclosure",
       "title": "White Noise (feat. AlunaGeorge)",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 447,
+      "artist": "Spangle call Lilli line",
+      "title": "cast a spell on her",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     },
     {
       "rank": 10,

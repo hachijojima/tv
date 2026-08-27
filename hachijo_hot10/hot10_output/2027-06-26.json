@@ -22,6 +22,15 @@
     },
     {
       "rank": 3,
+      "track_id": 1295,
+      "artist": "SHINee",
+      "title": "Ring Ding Dong",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 4,
       "track_id": 1023,
       "artist": "Carpenters",
       "title": "(They Long To Be) Close To You",
@@ -30,22 +39,13 @@
       "top10_streak": 6
     },
     {
-      "rank": 4,
+      "rank": 5,
       "track_id": 425,
       "artist": "サニーデイ・サービス",
       "title": "白い恋人",
-      "movement": "→",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 3
-    },
-    {
-      "rank": 5,
-      "track_id": 1295,
-      "artist": "SHINee",
-      "title": "Ring Ding Dong",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
     },
     {
       "rank": 6,
@@ -58,30 +58,30 @@
     },
     {
       "rank": 7,
-      "track_id": 1273,
-      "artist": "BTS",
-      "title": "Dynamite",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 8,
-      "track_id": 1279,
-      "artist": "IVE",
-      "title": "LOVE DIVE",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 9,
       "track_id": 1154,
       "artist": "たま",
       "title": "さよなら人類",
-      "movement": "↓6",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 13
+    },
+    {
+      "rank": 8,
+      "track_id": 1273,
+      "artist": "BTS",
+      "title": "Dynamite",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 1465,
+      "artist": "GREAT3",
+      "title": "玉突き",
+      "movement": "↓7",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     },
     {
       "rank": 10,

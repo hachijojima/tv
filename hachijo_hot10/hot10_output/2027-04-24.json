@@ -16,12 +16,21 @@
       "track_id": 1073,
       "artist": "東京事変",
       "title": "透明人間",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
       "rank": 3,
+      "track_id": 1542,
+      "artist": "Cocco",
+      "title": "強く儚い者たち",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 4,
       "track_id": 1023,
       "artist": "Carpenters",
       "title": "(They Long To Be) Close To You",
@@ -30,34 +39,34 @@
       "top10_streak": 10
     },
     {
-      "rank": 4,
+      "rank": 5,
       "track_id": 14,
       "artist": "MIZ",
       "title": "とびうおのうた",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 12
     },
     {
-      "rank": 5,
+      "rank": 6,
       "track_id": 541,
       "artist": "山崎まさよし",
       "title": "セロリ",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 6,
-      "track_id": 1021,
-      "artist": "スチャダラパー",
-      "title": "サマージャム’95",
-      "movement": "↑2",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 7,
+      "track_id": 1482,
+      "artist": "ZAZEN BOYS",
+      "title": "半透明少女関係",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
       "track_id": 471,
       "artist": "TRF",
       "title": "寒い夜だから…",
@@ -66,31 +75,22 @@
       "top10_streak": 1
     },
     {
-      "rank": 8,
-      "track_id": 839,
-      "artist": "Awesome City Club",
-      "title": "アウトサイダー",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
       "rank": 9,
-      "track_id": 268,
-      "artist": "リーガルリリー",
-      "title": "ハナヒカリ",
-      "movement": "↓4",
+      "track_id": 1314,
+      "artist": "U2",
+      "title": "Beautiful Day",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 2
     },
     {
       "rank": 10,
-      "track_id": 502,
-      "artist": "Do As Infinity",
-      "title": "深い森",
-      "movement": "NEW",
+      "track_id": 1261,
+      "artist": "Tiësto",
+      "title": "The Business",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     }
   ]
 }

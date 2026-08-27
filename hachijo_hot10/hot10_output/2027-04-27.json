@@ -7,21 +7,12 @@
       "track_id": 1314,
       "artist": "U2",
       "title": "Beautiful Day",
-      "movement": "↑2",
-      "days_at_number_1": 1,
-      "top10_streak": 3
-    },
-    {
-      "rank": 2,
-      "track_id": 1021,
-      "artist": "スチャダラパー",
-      "title": "サマージャム’95",
-      "movement": "↓1",
-      "days_at_number_1": 0,
+      "movement": "→",
+      "days_at_number_1": 2,
       "top10_streak": 5
     },
     {
-      "rank": 3,
+      "rank": 2,
       "track_id": 799,
       "artist": "チャラン・ポ・ランタン",
       "title": "進め、たまに逃げても",
@@ -30,43 +21,61 @@
       "top10_streak": 3
     },
     {
-      "rank": 4,
+      "rank": 3,
       "track_id": 471,
       "artist": "TRF",
       "title": "寒い夜だから…",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 4,
+      "track_id": 1542,
+      "artist": "Cocco",
+      "title": "強く儚い者たち",
       "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
       "rank": 5,
+      "track_id": 1241,
+      "artist": "Avicii",
+      "title": "Wake Me Up",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 6,
       "track_id": 1090,
       "artist": "The Beatles",
       "title": "Strawberry Fields Forever",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 9
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "track_id": 1021,
+      "artist": "スチャダラパー",
+      "title": "サマージャム’95",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
       "track_id": 1073,
       "artist": "東京事変",
       "title": "透明人間",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 7
     },
     {
-      "rank": 7,
-      "track_id": 1241,
-      "artist": "Avicii",
-      "title": "Wake Me Up",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 8,
+      "rank": 9,
       "track_id": 509,
       "artist": "夏川りみ",
       "title": "涙そうそう",
@@ -75,19 +84,10 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
+      "rank": 10,
       "track_id": 1244,
       "artist": "Calvin Harris",
       "title": "Feel So Close",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 10,
-      "track_id": 367,
-      "artist": "スネオヘアー",
-      "title": "逆様ブリッジ",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1

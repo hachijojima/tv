@@ -9,7 +9,7 @@
       "title": "パジャマでハイウェイ",
       "movement": "→",
       "days_at_number_1": 4,
-      "top10_streak": 11
+      "top10_streak": 10
     },
     {
       "rank": 2,
@@ -31,6 +31,15 @@
     },
     {
       "rank": 4,
+      "track_id": 1240,
+      "artist": "Pharrell Williams",
+      "title": "Happy",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 10
+    },
+    {
+      "rank": 5,
       "track_id": 1267,
       "artist": "Eric Prydz",
       "title": "Call on Me",
@@ -39,31 +48,22 @@
       "top10_streak": 1
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "track_id": 623,
+      "artist": "細野晴臣",
+      "title": "恋は桃色",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 7,
       "track_id": 1013,
       "artist": "The Police",
       "title": "Every Breath You Take",
       "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 12
-    },
-    {
-      "rank": 6,
-      "track_id": 695,
-      "artist": "矢野顕子",
-      "title": "春咲小紅",
-      "movement": "↑4",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 7,
-      "track_id": 623,
-      "artist": "細野晴臣",
-      "title": "恋は桃色",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 4
     },
     {
       "rank": 8,
@@ -85,12 +85,12 @@
     },
     {
       "rank": 10,
-      "track_id": 1240,
-      "artist": "Pharrell Williams",
-      "title": "Happy",
-      "movement": "↓5",
+      "track_id": 1394,
+      "artist": "GOING STEADY",
+      "title": "BABY BABY",
+      "movement": "RE",
       "days_at_number_1": 0,
-      "top10_streak": 14
+      "top10_streak": 1
     }
   ]
 }

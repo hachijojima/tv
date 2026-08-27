@@ -27,7 +27,7 @@
       "title": "Born Slippy (Nuxx)",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 10
+      "top10_streak": 7
     },
     {
       "rank": 4,
@@ -85,12 +85,12 @@
     },
     {
       "rank": 10,
-      "track_id": 336,
-      "artist": "My Little Lover",
-      "title": "Man & Woman",
-      "movement": "↓1",
+      "track_id": 1541,
+      "artist": "Cocco",
+      "title": "カウントダウン",
+      "movement": "RE",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
     }
   ]
 }

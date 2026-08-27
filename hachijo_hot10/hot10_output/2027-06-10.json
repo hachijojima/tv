@@ -36,7 +36,7 @@
       "title": "Born Slippy (Nuxx)",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 11
+      "top10_streak": 8
     },
     {
       "rank": 5,
@@ -70,27 +70,27 @@
       "track_id": 1044,
       "artist": "The Jackson 5",
       "title": "I Want You Back",
-      "movement": "RE",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 9,
-      "track_id": 415,
-      "artist": "bonobos",
-      "title": "Standing There ～いま、そこに行くよ～",
-      "movement": "↓3",
+      "track_id": 1541,
+      "artist": "Cocco",
+      "title": "カウントダウン",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 10,
-      "track_id": 500,
-      "artist": "モーニング娘。",
-      "title": "LOVEマシーン",
-      "movement": "↓3",
+      "track_id": 415,
+      "artist": "bonobos",
+      "title": "Standing There ～いま、そこに行くよ～",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 11
+      "top10_streak": 2
     }
   ]
 }

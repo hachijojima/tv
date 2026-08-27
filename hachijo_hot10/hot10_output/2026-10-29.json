@@ -9,10 +9,19 @@
       "title": "パジャマでハイウェイ",
       "movement": "→",
       "days_at_number_1": 2,
-      "top10_streak": 9
+      "top10_streak": 8
     },
     {
       "rank": 2,
+      "track_id": 489,
+      "artist": "小泉今日子",
+      "title": "あなたに会えてよかった",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 3,
       "track_id": 623,
       "artist": "細野晴臣",
       "title": "恋は桃色",
@@ -21,16 +30,25 @@
       "top10_streak": 2
     },
     {
-      "rank": 3,
-      "track_id": 489,
-      "artist": "小泉今日子",
-      "title": "あなたに会えてよかった",
+      "rank": 4,
+      "track_id": 1364,
+      "artist": "Linkin Park",
+      "title": "In the End",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 12
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "track_id": 1240,
+      "artist": "Pharrell Williams",
+      "title": "Happy",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 6,
       "track_id": 1188,
       "artist": "スピッツ",
       "title": "チェリー",
@@ -39,7 +57,7 @@
       "top10_streak": 1
     },
     {
-      "rank": 5,
+      "rank": 7,
       "track_id": 1013,
       "artist": "The Police",
       "title": "Every Breath You Take",
@@ -48,29 +66,11 @@
       "top10_streak": 10
     },
     {
-      "rank": 6,
-      "track_id": 1240,
-      "artist": "Pharrell Williams",
-      "title": "Happy",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 12
-    },
-    {
-      "rank": 7,
-      "track_id": 1364,
-      "artist": "Linkin Park",
-      "title": "In the End",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 15
-    },
-    {
       "rank": 8,
       "track_id": 1253,
       "artist": "Martin Garrix",
       "title": "Animals",
-      "movement": "↑1",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
@@ -85,12 +85,12 @@
     },
     {
       "rank": 10,
-      "track_id": 1345,
-      "artist": "The Cranberries",
-      "title": "Zombie",
-      "movement": "RE",
+      "track_id": 482,
+      "artist": "UNICORN",
+      "title": "すばらしい日々",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 3
     }
   ]
 }

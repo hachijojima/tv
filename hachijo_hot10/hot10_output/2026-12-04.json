@@ -7,25 +7,25 @@
       "track_id": 1257,
       "artist": "Clean Bandit",
       "title": "Rather Be (feat. Jess Glynne)",
-      "movement": "↑2",
-      "days_at_number_1": 1,
-      "top10_streak": 3
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 4
     },
     {
       "rank": 2,
-      "track_id": 1091,
-      "artist": "The Cure",
-      "title": "Boys Don’t Cry",
-      "movement": "↓1",
+      "track_id": 1441,
+      "artist": "BLANKEY JET CITY",
+      "title": "ガソリンの揺れかた",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 9
     },
     {
       "rank": 3,
       "track_id": 1301,
       "artist": "爆風スランプ",
       "title": "旅人よ ～The Longest Journey～",
-      "movement": "↑2",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -49,6 +49,15 @@
     },
     {
       "rank": 6,
+      "track_id": 9,
+      "artist": "MONO NO AWARE",
+      "title": "そこにあったから",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 7,
       "track_id": 1011,
       "artist": "Underworld",
       "title": "Born Slippy (Nuxx)",
@@ -57,31 +66,22 @@
       "top10_streak": 5
     },
     {
-      "rank": 7,
-      "track_id": 937,
-      "artist": "Alvvays",
-      "title": "Archie, Marry Me",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
       "rank": 8,
       "track_id": 1305,
       "artist": "鼓童",
       "title": "凰（おおとり）",
-      "movement": "↑2",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
       "rank": 9,
-      "track_id": 1024,
-      "artist": "SUPER BUTTER DOG",
-      "title": "サヨナラCOLOR",
-      "movement": "↓1",
+      "track_id": 1134,
+      "artist": "Diana Ross",
+      "title": "I’m Coming Out",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 2
     },
     {
       "rank": 10,

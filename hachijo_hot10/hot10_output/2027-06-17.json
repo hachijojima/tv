@@ -13,51 +13,60 @@
     },
     {
       "rank": 2,
-      "track_id": 415,
-      "artist": "bonobos",
-      "title": "Standing There ～いま、そこに行くよ～",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
-      "rank": 3,
-      "track_id": 19,
-      "artist": "MONO NO AWARE",
-      "title": "幽霊船",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 16
-    },
-    {
-      "rank": 4,
       "track_id": 249,
       "artist": "キセル",
       "title": "ビューティフル デイ",
-      "movement": "→",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 5,
+      "rank": 3,
       "track_id": 1106,
       "artist": "New Order",
       "title": "Ceremony",
-      "movement": "→",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
+      "rank": 4,
+      "track_id": 19,
+      "artist": "MONO NO AWARE",
+      "title": "幽霊船",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 16
+    },
+    {
+      "rank": 5,
+      "track_id": 1154,
+      "artist": "たま",
+      "title": "さよなら人類",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
       "rank": 6,
-      "track_id": 429,
-      "artist": "キリンジ",
-      "title": "双子座グラフィティ",
-      "movement": "↑3",
+      "track_id": 1006,
+      "artist": "NewJeans",
+      "title": "Ditto",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 7,
+      "track_id": 429,
+      "artist": "キリンジ",
+      "title": "双子座グラフィティ",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
       "track_id": 459,
       "artist": "B'z",
       "title": "ALONE",
@@ -66,28 +75,19 @@
       "top10_streak": 1
     },
     {
-      "rank": 8,
-      "track_id": 1154,
-      "artist": "たま",
-      "title": "さよなら人類",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
       "rank": 9,
-      "track_id": 1006,
-      "artist": "NewJeans",
-      "title": "Ditto",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 10,
       "track_id": 133,
       "artist": "iri",
       "title": "rhythm",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1336,
+      "artist": "Coldplay",
+      "title": "Clocks",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1

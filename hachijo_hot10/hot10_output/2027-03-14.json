@@ -13,6 +13,15 @@
     },
     {
       "rank": 2,
+      "track_id": 1584,
+      "artist": "Elliott Smith",
+      "title": "Between the Bars",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 9
+    },
+    {
+      "rank": 3,
       "track_id": 998,
       "artist": "Donald Fagen",
       "title": "The Nightfly",
@@ -21,31 +30,22 @@
       "top10_streak": 6
     },
     {
-      "rank": 3,
+      "rank": 4,
       "track_id": 552,
       "artist": "森高千里",
       "title": "雨",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 13
     },
     {
-      "rank": 4,
+      "rank": 5,
       "track_id": 1214,
       "artist": "Ariana Grande",
       "title": "Into You",
       "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 3
-    },
-    {
-      "rank": 5,
-      "track_id": 15,
-      "artist": "MONO NO AWARE",
-      "title": "もうけもん",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 4
     },
     {
       "rank": 6,
@@ -58,15 +58,6 @@
     },
     {
       "rank": 7,
-      "track_id": 1315,
-      "artist": "Nirvana",
-      "title": "Come As You Are",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 11
-    },
-    {
-      "rank": 8,
       "track_id": 579,
       "artist": "ZARD",
       "title": "きっと忘れない",
@@ -75,20 +66,29 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
-      "track_id": 1247,
-      "artist": "Swedish House Mafia",
-      "title": "Don't You Worry Child",
-      "movement": "↑1",
+      "rank": 8,
+      "track_id": 15,
+      "artist": "MONO NO AWARE",
+      "title": "もうけもん",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 4
+    },
+    {
+      "rank": 9,
+      "track_id": 1315,
+      "artist": "Nirvana",
+      "title": "Come As You Are",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 11
     },
     {
       "rank": 10,
       "track_id": 1305,
       "artist": "鼓童",
       "title": "凰（おおとり）",
-      "movement": "↓2",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 11
     }

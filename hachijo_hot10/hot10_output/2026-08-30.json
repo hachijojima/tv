@@ -13,19 +13,19 @@
     },
     {
       "rank": 2,
-      "track_id": 1021,
-      "artist": "スチャダラパー",
-      "title": "サマージャム’95",
-      "movement": "→",
+      "track_id": 1400,
+      "artist": "フジファブリック",
+      "title": "銀河",
+      "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 2
     },
     {
       "rank": 3,
       "track_id": 1330,
       "artist": "Beck",
       "title": "Loser",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -40,6 +40,15 @@
     },
     {
       "rank": 5,
+      "track_id": 1021,
+      "artist": "スチャダラパー",
+      "title": "サマージャム’95",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 6,
       "track_id": 1011,
       "artist": "Underworld",
       "title": "Born Slippy (Nuxx)",
@@ -48,7 +57,7 @@
       "top10_streak": 5
     },
     {
-      "rank": 6,
+      "rank": 7,
       "track_id": 541,
       "artist": "山崎まさよし",
       "title": "セロリ",
@@ -57,7 +66,7 @@
       "top10_streak": 1
     },
     {
-      "rank": 7,
+      "rank": 8,
       "track_id": 1247,
       "artist": "Swedish House Mafia",
       "title": "Don't You Worry Child",
@@ -66,7 +75,7 @@
       "top10_streak": 1
     },
     {
-      "rank": 8,
+      "rank": 9,
       "track_id": 501,
       "artist": "ポルノグラフィティ",
       "title": "アポロ",
@@ -75,20 +84,11 @@
       "top10_streak": 2
     },
     {
-      "rank": 9,
-      "track_id": 1048,
-      "artist": "Ben E. King",
-      "title": "Stand By Me",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
       "rank": 10,
       "track_id": 1028,
       "artist": "Kendrick Lamar",
       "title": "Alright",
-      "movement": "↓3",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 3
     }

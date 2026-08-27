@@ -7,12 +7,21 @@
       "track_id": 1280,
       "artist": "IVE",
       "title": "I AM",
-      "movement": "→",
-      "days_at_number_1": 2,
+      "movement": "↑1",
+      "days_at_number_1": 1,
       "top10_streak": 3
     },
     {
       "rank": 2,
+      "track_id": 1475,
+      "artist": "スチャダラパー",
+      "title": "ゲームボーイズ",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 3,
       "track_id": 16,
       "artist": "MIZ",
       "title": "暑中見舞い",
@@ -21,20 +30,11 @@
       "top10_streak": 3
     },
     {
-      "rank": 3,
+      "rank": 4,
       "track_id": 1028,
       "artist": "Kendrick Lamar",
       "title": "Alright",
-      "movement": "↑5",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 4,
-      "track_id": 1030,
-      "artist": "Radiohead",
-      "title": "Creep",
-      "movement": "↑6",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -49,24 +49,33 @@
     },
     {
       "rank": 6,
-      "track_id": 15,
-      "artist": "MONO NO AWARE",
-      "title": "もうけもん",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 7,
       "track_id": 541,
       "artist": "山崎まさよし",
       "title": "セロリ",
-      "movement": "↓5",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 9
     },
     {
+      "rank": 7,
+      "track_id": 1030,
+      "artist": "Radiohead",
+      "title": "Creep",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
       "rank": 8,
+      "track_id": 15,
+      "artist": "MONO NO AWARE",
+      "title": "もうけもん",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 9,
       "track_id": 1358,
       "artist": "The White Stripes",
       "title": "Fell in Love with a Girl",
@@ -75,22 +84,13 @@
       "top10_streak": 6
     },
     {
-      "rank": 9,
+      "rank": 10,
       "track_id": 1040,
       "artist": "METAFIVE",
       "title": "環境と心理",
       "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 10
-    },
-    {
-      "rank": 10,
-      "track_id": 1125,
-      "artist": "藤井風",
-      "title": "花",
-      "movement": "↓5",
-      "days_at_number_1": 0,
-      "top10_streak": 5
     }
   ]
 }

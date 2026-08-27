@@ -16,7 +16,7 @@
       "track_id": 1061,
       "artist": "Cyndi Lauper",
       "title": "Time After Time",
-      "movement": "↑1",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
@@ -27,14 +27,14 @@
       "title": "Born Slippy (Nuxx)",
       "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 9
+      "top10_streak": 6
     },
     {
       "rank": 4,
       "track_id": 568,
       "artist": "椎名林檎",
       "title": "本能",
-      "movement": "↑4",
+      "movement": "↑5",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -43,7 +43,7 @@
       "track_id": 500,
       "artist": "モーニング娘。",
       "title": "LOVEマシーン",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 9
     },
@@ -88,7 +88,7 @@
       "track_id": 686,
       "artist": "細野晴臣",
       "title": "終りの季節",
-      "movement": "↓5",
+      "movement": "↓7",
       "days_at_number_1": 0,
       "top10_streak": 4
     }

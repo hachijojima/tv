@@ -34,27 +34,27 @@
       "track_id": 451,
       "artist": "WANDS",
       "title": "時の扉",
-      "movement": "↑3",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
       "rank": 5,
-      "track_id": 634,
-      "artist": "吉田美奈子",
-      "title": "夢で逢えたら",
-      "movement": "↓1",
+      "track_id": 1325,
+      "artist": "Green Day",
+      "title": "American Idiot",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 6,
-      "track_id": 1247,
-      "artist": "Swedish House Mafia",
-      "title": "Don't You Worry Child",
-      "movement": "↓1",
+      "track_id": 634,
+      "artist": "吉田美奈子",
+      "title": "夢で逢えたら",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 2
     },
     {
       "rank": 7,
@@ -67,12 +67,12 @@
     },
     {
       "rank": 8,
-      "track_id": 1325,
-      "artist": "Green Day",
-      "title": "American Idiot",
-      "movement": "↓2",
+      "track_id": 1584,
+      "artist": "Elliott Smith",
+      "title": "Between the Bars",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 12
     },
     {
       "rank": 9,

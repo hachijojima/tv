@@ -7,21 +7,30 @@
       "track_id": 1219,
       "artist": "Ed Sheeran",
       "title": "Shape of You",
-      "movement": "→",
-      "days_at_number_1": 3,
+      "movement": "↑1",
+      "days_at_number_1": 1,
       "top10_streak": 5
     },
     {
       "rank": 2,
+      "track_id": 1394,
+      "artist": "GOING STEADY",
+      "title": "BABY BABY",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 14
+    },
+    {
+      "rank": 3,
       "track_id": 14,
       "artist": "MIZ",
       "title": "とびうおのうた",
-      "movement": "↑1",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 7
     },
     {
-      "rank": 3,
+      "rank": 4,
       "track_id": 596,
       "artist": "globe",
       "title": "Can't Stop Fallin' in Love",
@@ -30,16 +39,16 @@
       "top10_streak": 3
     },
     {
-      "rank": 4,
-      "track_id": 734,
-      "artist": "濱田金吾",
-      "title": "Midnight Cruisin'",
+      "rank": 5,
+      "track_id": 1544,
+      "artist": "Cocco",
+      "title": "樹海の糸",
       "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 9
+      "top10_streak": 3
     },
     {
-      "rank": 5,
+      "rank": 6,
       "track_id": 696,
       "artist": "小坂忠",
       "title": "しらけちまうぜ",
@@ -48,49 +57,40 @@
       "top10_streak": 1
     },
     {
-      "rank": 6,
-      "track_id": 1333,
-      "artist": "R.E.M.",
-      "title": "Man on the Moon",
-      "movement": "↑4",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
       "rank": 7,
-      "track_id": 334,
-      "artist": "UA",
-      "title": "甘い運命",
-      "movement": "↓3",
+      "track_id": 734,
+      "artist": "濱田金吾",
+      "title": "Midnight Cruisin'",
+      "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 9
     },
     {
       "rank": 8,
-      "track_id": 1013,
-      "artist": "The Police",
-      "title": "Every Breath You Take",
-      "movement": "↑1",
+      "track_id": 334,
+      "artist": "UA",
+      "title": "甘い運命",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 2
     },
     {
       "rank": 9,
-      "track_id": 1026,
-      "artist": "Björk",
-      "title": "Hyper-ballad",
-      "movement": "↓4",
+      "track_id": 1023,
+      "artist": "Carpenters",
+      "title": "(They Long To Be) Close To You",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 945,
-      "artist": "Oasis",
-      "title": "Don't Look Back in Anger",
-      "movement": "↓4",
+      "track_id": 452,
+      "artist": "大黒摩季",
+      "title": "ら・ら・ら",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 9
+      "top10_streak": 1
     }
   ]
 }

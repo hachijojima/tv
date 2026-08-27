@@ -31,15 +31,6 @@
     },
     {
       "rank": 4,
-      "track_id": 18,
-      "artist": "MONO NO AWARE",
-      "title": "アングル",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 5,
       "track_id": 341,
       "artist": "NUMBER GIRL",
       "title": "OMOIDE IN MY HEAD",
@@ -48,40 +39,49 @@
       "top10_streak": 1
     },
     {
-      "rank": 6,
-      "track_id": 4,
-      "artist": "MIZ",
-      "title": "空砲",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 7,
+      "rank": 5,
       "track_id": 473,
       "artist": "Every Little Thing",
       "title": "Time goes by",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 4
+    },
+    {
+      "rank": 6,
+      "track_id": 18,
+      "artist": "MONO NO AWARE",
+      "title": "アングル",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 7,
+      "track_id": 1396,
+      "artist": "GOING STEADY",
+      "title": "東京少年",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     },
     {
       "rank": 8,
       "track_id": 1028,
       "artist": "Kendrick Lamar",
       "title": "Alright",
-      "movement": "↑1",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 9,
-      "track_id": 1100,
-      "artist": "Bon Jovi",
-      "title": "Livin’ On A Prayer",
-      "movement": "↓2",
+      "track_id": 1578,
+      "artist": "Pixies",
+      "title": "Here Comes Your Man",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 1
     },
     {
       "rank": 10,

@@ -8,7 +8,7 @@
       "artist": "The Doobie Brothers",
       "title": "What a Fool Believes",
       "movement": "→",
-      "days_at_number_1": 3,
+      "days_at_number_1": 4,
       "top10_streak": 8
     },
     {
@@ -18,37 +18,28 @@
       "title": "東京は夜の七時",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 5
     },
     {
       "rank": 3,
-      "track_id": 1023,
-      "artist": "Carpenters",
-      "title": "(They Long To Be) Close To You",
-      "movement": "↑5",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 4,
-      "track_id": 12,
-      "artist": "MIZ",
-      "title": "丘",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 11
-    },
-    {
-      "rank": 5,
       "track_id": 325,
       "artist": "SAKEROCK",
       "title": "慰安旅行",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 9
     },
     {
-      "rank": 6,
+      "rank": 4,
+      "track_id": 1584,
+      "artist": "Elliott Smith",
+      "title": "Between the Bars",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 5,
       "track_id": 1134,
       "artist": "Diana Ross",
       "title": "I’m Coming Out",
@@ -57,16 +48,16 @@
       "top10_streak": 1
     },
     {
-      "rank": 7,
-      "track_id": 738,
-      "artist": "松田聖子",
-      "title": "瑠璃色の地球",
-      "movement": "→",
+      "rank": 6,
+      "track_id": 495,
+      "artist": "MISIA",
+      "title": "つつみ込むように…",
+      "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 7
     },
     {
-      "rank": 8,
+      "rank": 7,
       "track_id": 1359,
       "artist": "Franz Ferdinand",
       "title": "Take Me Out",
@@ -75,7 +66,7 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
+      "rank": 8,
       "track_id": 1241,
       "artist": "Avicii",
       "title": "Wake Me Up",
@@ -84,13 +75,22 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
-      "track_id": 7,
-      "artist": "MONO NO AWARE",
-      "title": "ゾッコン",
-      "movement": "↓1",
+      "rank": 9,
+      "track_id": 12,
+      "artist": "MIZ",
+      "title": "丘",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 16
+    },
+    {
+      "rank": 10,
+      "track_id": 374,
+      "artist": "Cornelius",
+      "title": "If You're Here",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }

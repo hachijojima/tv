@@ -22,15 +22,24 @@
     },
     {
       "rank": 3,
-      "track_id": 1010,
-      "artist": "Oasis",
-      "title": "Live Forever",
-      "movement": "→",
+      "track_id": 1394,
+      "artist": "GOING STEADY",
+      "title": "BABY BABY",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 4,
+      "track_id": 1542,
+      "artist": "Cocco",
+      "title": "強く儚い者たち",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 4,
+      "rank": 5,
       "track_id": 293,
       "artist": "くるり",
       "title": "東京",
@@ -39,47 +48,38 @@
       "top10_streak": 4
     },
     {
-      "rank": 5,
-      "track_id": 1021,
-      "artist": "スチャダラパー",
-      "title": "サマージャム’95",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 10
-    },
-    {
       "rank": 6,
-      "track_id": 1205,
-      "artist": "Beyoncé",
-      "title": "Crazy in Love",
-      "movement": "↓1",
+      "track_id": 1515,
+      "artist": "戸川純",
+      "title": "レーダーマン",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
     },
     {
       "rank": 7,
-      "track_id": 1364,
-      "artist": "Linkin Park",
-      "title": "In the End",
-      "movement": "↑1",
+      "track_id": 1021,
+      "artist": "スチャダラパー",
+      "title": "サマージャム’95",
+      "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 9
     },
     {
       "rank": 8,
-      "track_id": 1285,
-      "artist": "SEVENTEEN",
-      "title": "VERY NICE",
+      "track_id": 1205,
+      "artist": "Beyoncé",
+      "title": "Crazy in Love",
       "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 2
     },
     {
       "rank": 9,
       "track_id": 572,
       "artist": "BEGIN",
       "title": "恋しくて",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 7
     },
@@ -88,7 +88,7 @@
       "track_id": 1219,
       "artist": "Ed Sheeran",
       "title": "Shape of You",
-      "movement": "↓1",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 16
     }

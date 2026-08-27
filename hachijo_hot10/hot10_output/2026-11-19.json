@@ -7,9 +7,9 @@
       "track_id": 1061,
       "artist": "Cyndi Lauper",
       "title": "Time After Time",
-      "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 5
+      "movement": "↑1",
+      "days_at_number_1": 1,
+      "top10_streak": 4
     },
     {
       "rank": 2,
@@ -25,7 +25,7 @@
       "track_id": 1028,
       "artist": "Kendrick Lamar",
       "title": "Alright",
-      "movement": "↓1",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 12
     },
@@ -34,7 +34,7 @@
       "track_id": 1257,
       "artist": "Clean Bandit",
       "title": "Rather Be (feat. Jess Glynne)",
-      "movement": "↑4",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -88,7 +88,7 @@
       "track_id": 1191,
       "artist": "宇多田ヒカル",
       "title": "Beautiful World",
-      "movement": "↓3",
+      "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 2
     }

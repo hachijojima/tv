@@ -49,19 +49,19 @@
     },
     {
       "rank": 6,
-      "track_id": 641,
-      "artist": "佐野元春",
-      "title": "SOMEDAY",
-      "movement": "→",
+      "track_id": 1541,
+      "artist": "Cocco",
+      "title": "カウントダウン",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 1
     },
     {
       "rank": 7,
       "track_id": 492,
       "artist": "CHAGE and ASKA",
       "title": "SAY YES",
-      "movement": "↑2",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -70,7 +70,7 @@
       "track_id": 725,
       "artist": "カルメン・マキ",
       "title": "山羊にひかれて",
-      "movement": "↑2",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -79,7 +79,7 @@
       "track_id": 541,
       "artist": "山崎まさよし",
       "title": "セロリ",
-      "movement": "↓2",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
@@ -88,7 +88,7 @@
       "track_id": 660,
       "artist": "岡林信康",
       "title": "山谷ブルース",
-      "movement": "↓2",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 3
     }

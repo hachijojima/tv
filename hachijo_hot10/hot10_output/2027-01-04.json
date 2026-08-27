@@ -8,15 +8,15 @@
       "artist": "MIZ",
       "title": "丘",
       "movement": "→",
-      "days_at_number_1": 3,
-      "top10_streak": 5
+      "days_at_number_1": 5,
+      "top10_streak": 10
     },
     {
       "rank": 2,
       "track_id": 468,
       "artist": "X JAPAN",
       "title": "ENDLESS RAIN",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 9
     },
@@ -25,7 +25,7 @@
       "track_id": 325,
       "artist": "SAKEROCK",
       "title": "慰安旅行",
-      "movement": "↑3",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
@@ -34,7 +34,7 @@
       "track_id": 728,
       "artist": "角松敏生",
       "title": "If You Wanna Dance",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
@@ -43,7 +43,7 @@
       "track_id": 1020,
       "artist": "The Doobie Brothers",
       "title": "What a Fool Believes",
-      "movement": "→",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -52,30 +52,21 @@
       "track_id": 1220,
       "artist": "Justin Bieber",
       "title": "Sorry",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
       "rank": 7,
-      "track_id": 11,
-      "artist": "MONO NO AWARE",
-      "title": "異邦人",
-      "movement": "↑2",
+      "track_id": 481,
+      "artist": "奥田民生",
+      "title": "愛のために",
+      "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 16
+      "top10_streak": 2
     },
     {
       "rank": 8,
-      "track_id": 410,
-      "artist": "Syrup16g",
-      "title": "Reborn",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 9,
       "track_id": 1079,
       "artist": "Elton John",
       "title": "Your Song",
@@ -84,11 +75,20 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
+      "rank": 9,
       "track_id": 495,
       "artist": "MISIA",
       "title": "つつみ込むように…",
       "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 15,
+      "artist": "MONO NO AWARE",
+      "title": "もうけもん",
+      "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

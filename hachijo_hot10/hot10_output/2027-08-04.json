@@ -22,33 +22,42 @@
     },
     {
       "rank": 3,
-      "track_id": 471,
-      "artist": "TRF",
-      "title": "寒い夜だから…",
+      "track_id": 1535,
+      "artist": "大瀧詠一",
+      "title": "雨のウェンズデイ",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 8
+      "top10_streak": 3
     },
     {
       "rank": 4,
       "track_id": 1206,
       "artist": "Beyoncé",
       "title": "Single Ladies (Put a Ring on It)",
-      "movement": "↑4",
+      "movement": "↑5",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 5,
+      "track_id": 1569,
+      "artist": "My Bloody Valentine",
+      "title": "You Made Me Realise",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 6,
       "track_id": 768,
       "artist": "小沢健二",
       "title": "いちょう並木のセレナーデ",
-      "movement": "↓2",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 14
     },
     {
-      "rank": 6,
+      "rank": 7,
       "track_id": 1023,
       "artist": "Carpenters",
       "title": "(They Long To Be) Close To You",
@@ -57,22 +66,13 @@
       "top10_streak": 1
     },
     {
-      "rank": 7,
+      "rank": 8,
       "track_id": 663,
       "artist": "カルメン・マキ",
       "title": "時には母のない子のように",
-      "movement": "↓2",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 3
-    },
-    {
-      "rank": 8,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 8
     },
     {
       "rank": 9,
@@ -85,12 +85,12 @@
     },
     {
       "rank": 10,
-      "track_id": 1305,
-      "artist": "鼓童",
-      "title": "凰（おおとり）",
-      "movement": "RE",
+      "track_id": 14,
+      "artist": "MIZ",
+      "title": "とびうおのうた",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 8
     }
   ]
 }

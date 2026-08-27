@@ -13,12 +13,12 @@
     },
     {
       "rank": 2,
-      "track_id": 11,
-      "artist": "MONO NO AWARE",
-      "title": "異邦人",
-      "movement": "↓1",
+      "track_id": 12,
+      "artist": "MIZ",
+      "title": "丘",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 11
+      "top10_streak": 5
     },
     {
       "rank": 3,
@@ -31,21 +31,21 @@
     },
     {
       "rank": 4,
-      "track_id": 1089,
-      "artist": "The Beatles",
-      "title": "Let It Be",
-      "movement": "→",
+      "track_id": 11,
+      "artist": "MONO NO AWARE",
+      "title": "異邦人",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 11
     },
     {
       "rank": 5,
-      "track_id": 10,
-      "artist": "MIZ",
-      "title": "パジャマでハイウェイ",
-      "movement": "↓2",
+      "track_id": 1089,
+      "artist": "The Beatles",
+      "title": "Let It Be",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 5
     },
     {
       "rank": 6,
@@ -76,18 +76,18 @@
     },
     {
       "rank": 9,
-      "track_id": 563,
-      "artist": "ポルノグラフィティ",
-      "title": "サウダージ",
-      "movement": "NEW",
+      "track_id": 1508,
+      "artist": "RCサクセション",
+      "title": "多摩蘭坂",
+      "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 410,
-      "artist": "Syrup16g",
-      "title": "Reborn",
+      "track_id": 563,
+      "artist": "ポルノグラフィティ",
+      "title": "サウダージ",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1

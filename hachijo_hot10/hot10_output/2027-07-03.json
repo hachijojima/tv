@@ -7,12 +7,21 @@
       "track_id": 1068,
       "artist": "Simon & Garfunkel",
       "title": "Bridge Over Troubled Water",
-      "movement": "↑2",
+      "movement": "↑3",
       "days_at_number_1": 1,
       "top10_streak": 6
     },
     {
       "rank": 2,
+      "track_id": 1395,
+      "artist": "GOING STEADY",
+      "title": "銀河鉄道の夜",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 3,
       "track_id": 1327,
       "artist": "Weezer",
       "title": "Buddy Holly",
@@ -21,7 +30,7 @@
       "top10_streak": 9
     },
     {
-      "rank": 3,
+      "rank": 4,
       "track_id": 585,
       "artist": "スピッツ",
       "title": "楓",
@@ -30,7 +39,7 @@
       "top10_streak": 2
     },
     {
-      "rank": 4,
+      "rank": 5,
       "track_id": 701,
       "artist": "シュガー・ベイブ",
       "title": "今日はなんだか",
@@ -39,7 +48,7 @@
       "top10_streak": 2
     },
     {
-      "rank": 5,
+      "rank": 6,
       "track_id": 552,
       "artist": "森高千里",
       "title": "雨",
@@ -48,22 +57,13 @@
       "top10_streak": 1
     },
     {
-      "rank": 6,
+      "rank": 7,
       "track_id": 810,
       "artist": "サカナクション",
       "title": "新宝島",
       "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 2
-    },
-    {
-      "rank": 7,
-      "track_id": 541,
-      "artist": "山崎まさよし",
-      "title": "セロリ",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
     },
     {
       "rank": 8,
@@ -76,19 +76,19 @@
     },
     {
       "rank": 9,
+      "track_id": 541,
+      "artist": "山崎まさよし",
+      "title": "セロリ",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 10,
       "track_id": 1381,
       "artist": "Metallica",
       "title": "Enter Sandman",
       "movement": "↓5",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 10,
-      "track_id": 454,
-      "artist": "爆風スランプ",
-      "title": "Runner",
-      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 2
     }

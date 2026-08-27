@@ -8,7 +8,7 @@
       "artist": "Ed Sheeran",
       "title": "Shape of You",
       "movement": "→",
-      "days_at_number_1": 6,
+      "days_at_number_1": 4,
       "top10_streak": 8
     },
     {
@@ -27,7 +27,7 @@
       "title": "(They Long To Be) Close To You",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 4
     },
     {
       "rank": 4,
@@ -40,10 +40,10 @@
     },
     {
       "rank": 5,
-      "track_id": 1021,
-      "artist": "スチャダラパー",
-      "title": "サマージャム’95",
-      "movement": "↑4",
+      "track_id": 1534,
+      "artist": "大瀧詠一",
+      "title": "恋するカレン",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -52,30 +52,21 @@
       "track_id": 14,
       "artist": "MIZ",
       "title": "とびうおのうた",
-      "movement": "→",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 10
     },
     {
       "rank": 7,
-      "track_id": 734,
-      "artist": "濱田金吾",
-      "title": "Midnight Cruisin'",
-      "movement": "↓2",
+      "track_id": 1021,
+      "artist": "スチャダラパー",
+      "title": "サマージャム’95",
+      "movement": "RE",
       "days_at_number_1": 0,
-      "top10_streak": 12
+      "top10_streak": 1
     },
     {
       "rank": 8,
-      "track_id": 1333,
-      "artist": "R.E.M.",
-      "title": "Man on the Moon",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 9,
       "track_id": 1365,
       "artist": "Linkin Park",
       "title": "Numb",
@@ -84,13 +75,22 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
-      "track_id": 1020,
-      "artist": "The Doobie Brothers",
-      "title": "What a Fool Believes",
-      "movement": "↓2",
+      "rank": 9,
+      "track_id": 734,
+      "artist": "濱田金吾",
+      "title": "Midnight Cruisin'",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 12
+    },
+    {
+      "rank": 10,
+      "track_id": 1010,
+      "artist": "Oasis",
+      "title": "Live Forever",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }

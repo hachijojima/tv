@@ -4,51 +4,60 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 533,
-      "artist": "TRF",
-      "title": "survival dAnce ～no no cry more～",
-      "movement": "→",
-      "days_at_number_1": 3,
-      "top10_streak": 8
-    },
-    {
-      "rank": 2,
       "track_id": 1043,
       "artist": "Television",
       "title": "Marquee Moon",
       "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 7
+    },
+    {
+      "rank": 2,
+      "track_id": 1541,
+      "artist": "Cocco",
+      "title": "カウントダウン",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 8
+      "top10_streak": 9
     },
     {
       "rank": 3,
-      "track_id": 601,
-      "artist": "KAN",
-      "title": "言えずのI LOVE YOU",
-      "movement": "↑7",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 4,
-      "track_id": 4,
-      "artist": "MIZ",
-      "title": "空砲",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 5,
-      "track_id": 1035,
-      "artist": "Queen",
-      "title": "Don’t Stop Me Now",
+      "track_id": 533,
+      "artist": "TRF",
+      "title": "survival dAnce ～no no cry more～",
       "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
+      "rank": 4,
+      "track_id": 1035,
+      "artist": "Queen",
+      "title": "Don’t Stop Me Now",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 5,
+      "track_id": 4,
+      "artist": "MIZ",
+      "title": "空砲",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
       "rank": 6,
+      "track_id": 601,
+      "artist": "KAN",
+      "title": "言えずのI LOVE YOU",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 7,
       "track_id": 742,
       "artist": "キャンディーズ",
       "title": "やさしい悪魔",
@@ -57,7 +66,7 @@
       "top10_streak": 2
     },
     {
-      "rank": 7,
+      "rank": 8,
       "track_id": 1028,
       "artist": "Kendrick Lamar",
       "title": "Alright",
@@ -66,7 +75,7 @@
       "top10_streak": 10
     },
     {
-      "rank": 8,
+      "rank": 9,
       "track_id": 116,
       "artist": "ラッキーオールドサン",
       "title": "坂の多い町と退屈",
@@ -75,22 +84,13 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
+      "rank": 10,
       "track_id": 1046,
       "artist": "星野源",
       "title": "不思議",
       "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 4
-    },
-    {
-      "rank": 10,
-      "track_id": 20,
-      "artist": "MONO NO AWARE",
-      "title": "水が湧いた",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
     }
   ]
 }

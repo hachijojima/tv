@@ -7,7 +7,7 @@
       "track_id": 1076,
       "artist": "Alicia Keys",
       "title": "If I Ain’t Got You",
-      "movement": "↑3",
+      "movement": "↑2",
       "days_at_number_1": 1,
       "top10_streak": 2
     },
@@ -31,15 +31,6 @@
     },
     {
       "rank": 4,
-      "track_id": 1242,
-      "artist": "Avicii",
-      "title": "Levels",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 5,
       "track_id": 533,
       "artist": "TRF",
       "title": "survival dAnce ～no no cry more～",
@@ -48,7 +39,7 @@
       "top10_streak": 1
     },
     {
-      "rank": 6,
+      "rank": 5,
       "track_id": 1291,
       "artist": "KARA",
       "title": "Mister",
@@ -57,20 +48,29 @@
       "top10_streak": 5
     },
     {
-      "rank": 7,
+      "rank": 6,
       "track_id": 1286,
       "artist": "SEVENTEEN",
       "title": "Super",
-      "movement": "↓6",
+      "movement": "↓5",
       "days_at_number_1": 0,
       "top10_streak": 6
+    },
+    {
+      "rank": 7,
+      "track_id": 1242,
+      "artist": "Avicii",
+      "title": "Levels",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     },
     {
       "rank": 8,
       "track_id": 1269,
       "artist": "LMFAO",
       "title": "Party Rock Anthem",
-      "movement": "→",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },

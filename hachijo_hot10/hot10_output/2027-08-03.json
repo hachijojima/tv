@@ -13,12 +13,12 @@
     },
     {
       "rank": 2,
-      "track_id": 471,
-      "artist": "TRF",
-      "title": "寒い夜だから…",
+      "track_id": 1535,
+      "artist": "大瀧詠一",
+      "title": "雨のウェンズデイ",
       "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 2
     },
     {
       "rank": 3,
@@ -43,7 +43,7 @@
       "track_id": 663,
       "artist": "カルメン・マキ",
       "title": "時には母のない子のように",
-      "movement": "↑3",
+      "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -67,6 +67,15 @@
     },
     {
       "rank": 8,
+      "track_id": 1569,
+      "artist": "My Bloody Valentine",
+      "title": "You Made Me Realise",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
       "track_id": 1206,
       "artist": "Beyoncé",
       "title": "Single Ladies (Put a Ring on It)",
@@ -75,22 +84,13 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
+      "rank": 10,
       "track_id": 379,
       "artist": "UA",
       "title": "悲しみジョニー",
-      "movement": "→",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 3
-    },
-    {
-      "rank": 10,
-      "track_id": 147,
-      "artist": "mei ehara",
-      "title": "蓋なしの彼",
-      "movement": "↓6",
-      "days_at_number_1": 0,
-      "top10_streak": 5
     }
   ]
 }

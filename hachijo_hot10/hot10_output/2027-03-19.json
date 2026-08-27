@@ -49,6 +49,15 @@
     },
     {
       "rank": 6,
+      "track_id": 1584,
+      "artist": "Elliott Smith",
+      "title": "Between the Bars",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 14
+    },
+    {
+      "rank": 7,
       "track_id": 1241,
       "artist": "Avicii",
       "title": "Wake Me Up",
@@ -57,31 +66,22 @@
       "top10_streak": 1
     },
     {
-      "rank": 7,
+      "rank": 8,
       "track_id": 762,
       "artist": "ティン・パン・アレー",
       "title": "北京ダック",
-      "movement": "↓1",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 14
     },
     {
-      "rank": 8,
-      "track_id": 20,
-      "artist": "MONO NO AWARE",
-      "title": "水が湧いた",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
       "rank": 9,
-      "track_id": 1247,
-      "artist": "Swedish House Mafia",
-      "title": "Don't You Worry Child",
-      "movement": "↓1",
+      "track_id": 839,
+      "artist": "Awesome City Club",
+      "title": "アウトサイダー",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 2
     },
     {
       "rank": 10,

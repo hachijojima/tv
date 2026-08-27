@@ -31,39 +31,39 @@
     },
     {
       "rank": 4,
-      "track_id": 842,
-      "artist": "離婚伝説",
-      "title": "本日のおすすめ",
-      "movement": "↑2",
+      "track_id": 1301,
+      "artist": "爆風スランプ",
+      "title": "旅人よ ～The Longest Journey～",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 5
     },
     {
       "rank": 5,
+      "track_id": 1589,
+      "artist": "Massive Attack",
+      "title": "Unfinished Sympathy",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 6,
+      "track_id": 449,
+      "artist": "ROUND TABLE",
+      "title": "Bossa Rossa",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 7,
       "track_id": 1252,
       "artist": "Kygo",
       "title": "Stole the Show (feat. Parson James)",
       "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 3
-    },
-    {
-      "rank": 6,
-      "track_id": 544,
-      "artist": "UNICORN",
-      "title": "大迷惑",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 7,
-      "track_id": 449,
-      "artist": "ROUND TABLE",
-      "title": "Bossa Rossa",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 2
     },
     {
       "rank": 8,

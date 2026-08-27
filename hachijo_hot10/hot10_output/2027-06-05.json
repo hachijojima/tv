@@ -7,21 +7,12 @@
       "track_id": 500,
       "artist": "モーニング娘。",
       "title": "LOVEマシーン",
-      "movement": "↑1",
-      "days_at_number_1": 1,
+      "movement": "→",
+      "days_at_number_1": 3,
       "top10_streak": 6
     },
     {
       "rank": 2,
-      "track_id": 1011,
-      "artist": "Underworld",
-      "title": "Born Slippy (Nuxx)",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 3,
       "track_id": 686,
       "artist": "細野晴臣",
       "title": "終りの季節",
@@ -30,16 +21,34 @@
       "top10_streak": 1
     },
     {
+      "rank": 3,
+      "track_id": 1011,
+      "artist": "Underworld",
+      "title": "Born Slippy (Nuxx)",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
       "rank": 4,
+      "track_id": 1584,
+      "artist": "Elliott Smith",
+      "title": "Between the Bars",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 5,
       "track_id": 1048,
       "artist": "Ben E. King",
       "title": "Stand By Me",
-      "movement": "↓1",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 10
     },
     {
-      "rank": 5,
+      "rank": 6,
       "track_id": 520,
       "artist": "T-BOLAN",
       "title": "じれったい愛",
@@ -48,31 +57,22 @@
       "top10_streak": 7
     },
     {
-      "rank": 6,
-      "track_id": 19,
-      "artist": "MONO NO AWARE",
-      "title": "幽霊船",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
       "rank": 7,
       "track_id": 1231,
       "artist": "Sabrina Carpenter",
       "title": "Espresso",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
       "rank": 8,
-      "track_id": 563,
-      "artist": "ポルノグラフィティ",
-      "title": "サウダージ",
+      "track_id": 19,
+      "artist": "MONO NO AWARE",
+      "title": "幽霊船",
       "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 4
     },
     {
       "rank": 9,
@@ -88,7 +88,7 @@
       "track_id": 459,
       "artist": "B'z",
       "title": "ALONE",
-      "movement": "↓4",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 4
     }

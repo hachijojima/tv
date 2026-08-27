@@ -7,45 +7,45 @@
       "track_id": 1048,
       "artist": "Ben E. King",
       "title": "Stand By Me",
-      "movement": "↑1",
-      "days_at_number_1": 1,
+      "movement": "→",
+      "days_at_number_1": 2,
       "top10_streak": 3
     },
     {
       "rank": 2,
-      "track_id": 601,
-      "artist": "KAN",
-      "title": "言えずのI LOVE YOU",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 3,
-      "track_id": 20,
-      "artist": "MONO NO AWARE",
-      "title": "水が湧いた",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 4,
       "track_id": 1032,
       "artist": "神聖かまってちゃん",
       "title": "ロックンロールは鳴り止まないっ",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 5,
+      "rank": 3,
       "track_id": 298,
       "artist": "BUMP OF CHICKEN",
       "title": "車輪の唄",
       "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 3
+    },
+    {
+      "rank": 4,
+      "track_id": 1541,
+      "artist": "Cocco",
+      "title": "カウントダウン",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 12
+    },
+    {
+      "rank": 5,
+      "track_id": 601,
+      "artist": "KAN",
+      "title": "言えずのI LOVE YOU",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
     },
     {
       "rank": 6,
@@ -76,21 +76,21 @@
     },
     {
       "rank": 9,
-      "track_id": 1028,
-      "artist": "Kendrick Lamar",
-      "title": "Alright",
+      "track_id": 20,
+      "artist": "MONO NO AWARE",
+      "title": "水が湧いた",
       "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 13
+      "top10_streak": 3
     },
     {
       "rank": 10,
-      "track_id": 275,
-      "artist": "BREIMEN",
-      "title": "yonaki",
-      "movement": "RE",
+      "track_id": 1028,
+      "artist": "Kendrick Lamar",
+      "title": "Alright",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 13
     }
   ]
 }

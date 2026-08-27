@@ -34,7 +34,7 @@
       "track_id": 1091,
       "artist": "The Cure",
       "title": "Boys Don’t Cry",
-      "movement": "↑1",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
@@ -67,15 +67,6 @@
     },
     {
       "rank": 8,
-      "track_id": 1261,
-      "artist": "Tiësto",
-      "title": "The Business",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 9,
       "track_id": 1254,
       "artist": "The Chainsmokers",
       "title": "Closer (feat. Halsey)",
@@ -84,13 +75,22 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
-      "track_id": 1272,
-      "artist": "BLACKPINK",
-      "title": "How You Like That",
+      "rank": 9,
+      "track_id": 1261,
+      "artist": "Tiësto",
+      "title": "The Business",
       "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 2
+    },
+    {
+      "rank": 10,
+      "track_id": 582,
+      "artist": "T-BOLAN",
+      "title": "Bye For Now",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     }
   ]
 }

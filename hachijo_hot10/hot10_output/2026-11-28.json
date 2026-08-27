@@ -4,15 +4,24 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 4,
-      "artist": "MIZ",
-      "title": "空砲",
-      "movement": "↑1",
+      "track_id": 1441,
+      "artist": "BLANKEY JET CITY",
+      "title": "ガソリンの揺れかた",
+      "movement": "↑3",
       "days_at_number_1": 1,
-      "top10_streak": 6
+      "top10_streak": 3
     },
     {
       "rank": 2,
+      "track_id": 4,
+      "artist": "MIZ",
+      "title": "空砲",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 3,
       "track_id": 19,
       "artist": "MONO NO AWARE",
       "title": "幽霊船",
@@ -21,7 +30,7 @@
       "top10_streak": 12
     },
     {
-      "rank": 3,
+      "rank": 4,
       "track_id": 937,
       "artist": "Alvvays",
       "title": "Archie, Marry Me",
@@ -30,16 +39,16 @@
       "top10_streak": 1
     },
     {
-      "rank": 4,
+      "rank": 5,
       "track_id": 299,
       "artist": "ハナレグミ",
       "title": "家族の風景",
-      "movement": "↓1",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 5,
+      "rank": 6,
       "track_id": 707,
       "artist": "チューリップ",
       "title": "心の旅",
@@ -48,25 +57,7 @@
       "top10_streak": 5
     },
     {
-      "rank": 6,
-      "track_id": 494,
-      "artist": "久保田利伸",
-      "title": "LA・LA・LA LOVE SONG",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
       "rank": 7,
-      "track_id": 1257,
-      "artist": "Clean Bandit",
-      "title": "Rather Be (feat. Jess Glynne)",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 11
-    },
-    {
-      "rank": 8,
       "track_id": 500,
       "artist": "モーニング娘。",
       "title": "LOVEマシーン",
@@ -75,22 +66,31 @@
       "top10_streak": 1
     },
     {
+      "rank": 8,
+      "track_id": 494,
+      "artist": "久保田利伸",
+      "title": "LA・LA・LA LOVE SONG",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
       "rank": 9,
+      "track_id": 1257,
+      "artist": "Clean Bandit",
+      "title": "Rather Be (feat. Jess Glynne)",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 11
+    },
+    {
+      "rank": 10,
       "track_id": 381,
       "artist": "My Little Lover",
       "title": "白いカイト",
       "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 4
-    },
-    {
-      "rank": 10,
-      "track_id": 1058,
-      "artist": "ランカ・リー=中島愛",
-      "title": "星間飛行",
-      "movement": "↓6",
-      "days_at_number_1": 0,
-      "top10_streak": 10
     }
   ]
 }

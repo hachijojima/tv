@@ -18,7 +18,7 @@
       "title": "Don't You Worry Child",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 10
+      "top10_streak": 8
     },
     {
       "rank": 3,
@@ -40,21 +40,21 @@
     },
     {
       "rank": 5,
-      "track_id": 520,
-      "artist": "T-BOLAN",
-      "title": "じれったい愛",
-      "movement": "↑1",
+      "track_id": 1533,
+      "artist": "大瀧詠一",
+      "title": "指切り",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 9
     },
     {
       "rank": 6,
-      "track_id": 7,
-      "artist": "MONO NO AWARE",
-      "title": "ゾッコン",
-      "movement": "RE",
+      "track_id": 520,
+      "artist": "T-BOLAN",
+      "title": "じれったい愛",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     },
     {
       "rank": 7,
@@ -67,12 +67,12 @@
     },
     {
       "rank": 8,
-      "track_id": 647,
-      "artist": "風",
-      "title": "22才の別れ",
-      "movement": "↓5",
+      "track_id": 7,
+      "artist": "MONO NO AWARE",
+      "title": "ゾッコン",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 1
     },
     {
       "rank": 9,
@@ -85,12 +85,12 @@
     },
     {
       "rank": 10,
-      "track_id": 1246,
-      "artist": "David Guetta",
-      "title": "Memories (feat. Kid Cudi)",
-      "movement": "→",
+      "track_id": 647,
+      "artist": "風",
+      "title": "22才の別れ",
+      "movement": "↓6",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 3
     }
   ]
 }

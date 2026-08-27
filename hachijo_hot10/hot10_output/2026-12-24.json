@@ -16,48 +16,57 @@
       "track_id": 481,
       "artist": "奥田民生",
       "title": "愛のために",
-      "movement": "↑4",
+      "movement": "↑5",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 3,
-      "track_id": 11,
-      "artist": "MONO NO AWARE",
-      "title": "異邦人",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 4,
       "track_id": 1207,
       "artist": "Bruno Mars",
       "title": "Just the Way You Are",
-      "movement": "→",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 4
+    },
+    {
+      "rank": 4,
+      "track_id": 11,
+      "artist": "MONO NO AWARE",
+      "title": "異邦人",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
     },
     {
       "rank": 5,
       "track_id": 533,
       "artist": "TRF",
       "title": "survival dAnce ～no no cry more～",
-      "movement": "↓2",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 11
     },
     {
       "rank": 6,
+      "track_id": 1584,
+      "artist": "Elliott Smith",
+      "title": "Between the Bars",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 7,
       "track_id": 1259,
       "artist": "DJ Snake",
       "title": "Turn Down for What (with Lil Jon)",
-      "movement": "↑3",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 7
     },
     {
-      "rank": 7,
+      "rank": 8,
       "track_id": 1128,
       "artist": "Big Thief",
       "title": "Simulation Swarm",
@@ -66,22 +75,13 @@
       "top10_streak": 1
     },
     {
-      "rank": 8,
+      "rank": 9,
       "track_id": 1371,
       "artist": "The Killers",
       "title": "When You Were Young",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
-    },
-    {
-      "rank": 9,
-      "track_id": 539,
-      "artist": "KAN",
-      "title": "まゆみ",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 14
     },
     {
       "rank": 10,

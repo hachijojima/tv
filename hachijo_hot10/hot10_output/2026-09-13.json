@@ -4,15 +4,33 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 641,
-      "artist": "佐野元春",
-      "title": "SOMEDAY",
-      "movement": "↑1",
-      "days_at_number_1": 1,
-      "top10_streak": 12
+      "track_id": 1394,
+      "artist": "GOING STEADY",
+      "title": "BABY BABY",
+      "movement": "→",
+      "days_at_number_1": 6,
+      "top10_streak": 8
     },
     {
       "rank": 2,
+      "track_id": 1541,
+      "artist": "Cocco",
+      "title": "カウントダウン",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 10
+    },
+    {
+      "rank": 3,
+      "track_id": 1288,
+      "artist": "BIGBANG",
+      "title": "FANTASTIC BABY",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 4,
       "track_id": 660,
       "artist": "岡林信康",
       "title": "山谷ブルース",
@@ -21,49 +39,31 @@
       "top10_streak": 12
     },
     {
-      "rank": 3,
-      "track_id": 1288,
-      "artist": "BIGBANG",
-      "title": "FANTASTIC BABY",
+      "rank": 5,
+      "track_id": 641,
+      "artist": "佐野元春",
+      "title": "SOMEDAY",
       "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 4
     },
     {
-      "rank": 4,
+      "rank": 6,
       "track_id": 1043,
       "artist": "Television",
       "title": "Marquee Moon",
-      "movement": "↓1",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 5,
+      "rank": 7,
       "track_id": 1021,
       "artist": "スチャダラパー",
       "title": "サマージャム’95",
       "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 6
-    },
-    {
-      "rank": 6,
-      "track_id": 1001,
-      "artist": "Earth, Wind & Fire",
-      "title": "September",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 7,
-      "track_id": 1002,
-      "artist": "Jamiroquai",
-      "title": "Virtual Insanity",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 9
     },
     {
       "rank": 8,
@@ -76,21 +76,21 @@
     },
     {
       "rank": 9,
+      "track_id": 1001,
+      "artist": "Earth, Wind & Fire",
+      "title": "September",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 10,
       "track_id": 384,
       "artist": "フジファブリック",
       "title": "赤黄色の金木犀",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
-    },
-    {
-      "rank": 10,
-      "track_id": 356,
-      "artist": "ROUND TABLE",
-      "title": "Chocolate",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 2
     }
   ]
 }

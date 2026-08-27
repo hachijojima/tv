@@ -13,15 +13,33 @@
     },
     {
       "rank": 2,
+      "track_id": 1394,
+      "artist": "GOING STEADY",
+      "title": "BABY BABY",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 3,
+      "track_id": 1446,
+      "artist": "Thee Michelle Gun Elephant",
+      "title": "G.W.D",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 4,
       "track_id": 1141,
       "artist": "The Beatles",
       "title": "Something",
-      "movement": "↑2",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 3,
+      "rank": 5,
       "track_id": 601,
       "artist": "KAN",
       "title": "言えずのI LOVE YOU",
@@ -30,40 +48,22 @@
       "top10_streak": 1
     },
     {
-      "rank": 4,
+      "rank": 6,
       "track_id": 734,
       "artist": "濱田金吾",
       "title": "Midnight Cruisin'",
-      "movement": "↑4",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 5,
+      "rank": 7,
       "track_id": 14,
       "artist": "MIZ",
       "title": "とびうおのうた",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
-    },
-    {
-      "rank": 6,
-      "track_id": 1,
-      "artist": "MONO NO AWARE",
-      "title": "東京",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 7,
-      "track_id": 548,
-      "artist": "REBECCA",
-      "title": "RASPBERRY DREAM",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 10
     },
     {
       "rank": 8,
@@ -76,21 +76,21 @@
     },
     {
       "rank": 9,
-      "track_id": 268,
-      "artist": "リーガルリリー",
-      "title": "ハナヒカリ",
-      "movement": "↓2",
+      "track_id": 548,
+      "artist": "REBECCA",
+      "title": "RASPBERRY DREAM",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 10
     },
     {
       "rank": 10,
-      "track_id": 348,
-      "artist": "レミオロメン",
-      "title": "電話",
-      "movement": "↓4",
+      "track_id": 268,
+      "artist": "リーガルリリー",
+      "title": "ハナヒカリ",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 11
+      "top10_streak": 4
     }
   ]
 }

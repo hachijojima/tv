@@ -58,21 +58,21 @@
     },
     {
       "rank": 7,
-      "track_id": 287,
-      "artist": "Fishmans",
-      "title": "いかれたBaby",
-      "movement": "→",
+      "track_id": 1584,
+      "artist": "Elliott Smith",
+      "title": "Between the Bars",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 13
     },
     {
       "rank": 8,
-      "track_id": 1247,
-      "artist": "Swedish House Mafia",
-      "title": "Don't You Worry Child",
-      "movement": "↓2",
+      "track_id": 287,
+      "artist": "Fishmans",
+      "title": "いかれたBaby",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 3
     },
     {
       "rank": 9,
@@ -85,12 +85,12 @@
     },
     {
       "rank": 10,
-      "track_id": 634,
-      "artist": "吉田美奈子",
-      "title": "夢で逢えたら",
-      "movement": "↓5",
+      "track_id": 839,
+      "artist": "Awesome City Club",
+      "title": "アウトサイダー",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 1
     }
   ]
 }

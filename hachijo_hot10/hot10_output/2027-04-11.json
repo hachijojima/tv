@@ -22,21 +22,21 @@
     },
     {
       "rank": 3,
-      "track_id": 1265,
-      "artist": "Disclosure",
-      "title": "White Noise (feat. AlunaGeorge)",
-      "movement": "↓1",
+      "track_id": 588,
+      "artist": "THE YELLOW MONKEY",
+      "title": "LOVE LOVE SHOW",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 5
     },
     {
       "rank": 4,
-      "track_id": 541,
-      "artist": "山崎まさよし",
-      "title": "セロリ",
-      "movement": "↑3",
+      "track_id": 1265,
+      "artist": "Disclosure",
+      "title": "White Noise (feat. AlunaGeorge)",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 3
     },
     {
       "rank": 5,
@@ -49,46 +49,46 @@
     },
     {
       "rank": 6,
-      "track_id": 1375,
-      "artist": "Soundgarden",
-      "title": "Black Hole Sun",
+      "track_id": 541,
+      "artist": "山崎まさよし",
+      "title": "セロリ",
       "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 6
     },
     {
       "rank": 7,
-      "track_id": 588,
-      "artist": "THE YELLOW MONKEY",
-      "title": "LOVE LOVE SHOW",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 8,
       "track_id": 13,
       "artist": "MONO NO AWARE",
       "title": "孤独になってみたい",
-      "movement": "↑2",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 9,
+      "rank": 8,
       "track_id": 1072,
       "artist": "坂本龍一",
       "title": "Thousand Knives",
-      "movement": "↓4",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 7
     },
     {
-      "rank": 10,
+      "rank": 9,
       "track_id": 819,
       "artist": "ずっと真夜中でいいのに。",
       "title": "正しくなれない",
       "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1375,
+      "artist": "Soundgarden",
+      "title": "Black Hole Sun",
+      "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

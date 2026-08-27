@@ -7,18 +7,18 @@
       "track_id": 1068,
       "artist": "Simon & Garfunkel",
       "title": "Bridge Over Troubled Water",
-      "movement": "↑1",
-      "days_at_number_1": 1,
+      "movement": "→",
+      "days_at_number_1": 2,
       "top10_streak": 6
     },
     {
       "rank": 2,
-      "track_id": 1023,
-      "artist": "Carpenters",
-      "title": "(They Long To Be) Close To You",
-      "movement": "↓1",
+      "track_id": 1394,
+      "artist": "GOING STEADY",
+      "title": "BABY BABY",
+      "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 3
     },
     {
       "rank": 3,
@@ -31,66 +31,66 @@
     },
     {
       "rank": 4,
-      "track_id": 699,
-      "artist": "鈴木茂",
-      "title": "八月の匂い",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 5,
-      "track_id": 146,
-      "artist": "青葉市子",
-      "title": "Porcelain",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 6,
-      "track_id": 566,
-      "artist": "the brilliant green",
-      "title": "冷たい花",
-      "movement": "↑3",
+      "track_id": 784,
+      "artist": "緑黄色社会",
+      "title": "Mela!",
+      "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
+      "rank": 5,
+      "track_id": 566,
+      "artist": "the brilliant green",
+      "title": "冷たい花",
+      "movement": "↑5",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 6,
+      "track_id": 466,
+      "artist": "GLAY",
+      "title": "BELOVED",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 10
+    },
+    {
       "rank": 7,
-      "track_id": 784,
-      "artist": "緑黄色社会",
-      "title": "Mela!",
+      "track_id": 1023,
+      "artist": "Carpenters",
+      "title": "(They Long To Be) Close To You",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 15
+    },
+    {
+      "rank": 8,
+      "track_id": 146,
+      "artist": "青葉市子",
+      "title": "Porcelain",
       "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 8,
-      "track_id": 466,
-      "artist": "GLAY",
-      "title": "BELOVED",
+      "rank": 9,
+      "track_id": 1473,
+      "artist": "スチャダラパー",
+      "title": "今夜はブギー・バック (smooth rap)",
       "movement": "↓5",
       "days_at_number_1": 0,
-      "top10_streak": 10
+      "top10_streak": 16
     },
     {
-      "rank": 9,
+      "rank": 10,
       "track_id": 603,
       "artist": "山崎まさよし",
       "title": "僕はここにいる",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
-    },
-    {
-      "rank": 10,
-      "track_id": 1296,
-      "artist": "Super Junior",
-      "title": "Sorry, Sorry",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 3
     }
   ]
 }

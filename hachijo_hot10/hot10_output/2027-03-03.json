@@ -4,30 +4,30 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 7,
-      "artist": "MONO NO AWARE",
-      "title": "ゾッコン",
-      "movement": "↑1",
-      "days_at_number_1": 1,
-      "top10_streak": 14
-    },
-    {
-      "rank": 2,
       "track_id": 1280,
       "artist": "IVE",
       "title": "I AM",
-      "movement": "↑4",
-      "days_at_number_1": 0,
+      "movement": "↑3",
+      "days_at_number_1": 1,
       "top10_streak": 7
     },
     {
-      "rank": 3,
-      "track_id": 1247,
-      "artist": "Swedish House Mafia",
-      "title": "Don't You Worry Child",
-      "movement": "↑1",
+      "rank": 2,
+      "track_id": 7,
+      "artist": "MONO NO AWARE",
+      "title": "ゾッコン",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 14
+    },
+    {
+      "rank": 3,
+      "track_id": 1542,
+      "artist": "Cocco",
+      "title": "強く儚い者たち",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     },
     {
       "rank": 4,
@@ -36,25 +36,25 @@
       "title": "Live Forever",
       "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 5
     },
     {
       "rank": 5,
-      "track_id": 1023,
-      "artist": "Carpenters",
-      "title": "(They Long To Be) Close To You",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 6,
       "track_id": 552,
       "artist": "森高千里",
       "title": "雨",
-      "movement": "↑3",
+      "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 2
+    },
+    {
+      "rank": 6,
+      "track_id": 615,
+      "artist": "米米CLUB",
+      "title": "Shake Hip!",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 9
     },
     {
       "rank": 7,
@@ -76,21 +76,21 @@
     },
     {
       "rank": 9,
-      "track_id": 615,
-      "artist": "米米CLUB",
-      "title": "Shake Hip!",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
-      "rank": 10,
       "track_id": 762,
       "artist": "ティン・パン・アレー",
       "title": "北京ダック",
       "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 10
+    },
+    {
+      "rank": 10,
+      "track_id": 1291,
+      "artist": "KARA",
+      "title": "Mister",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }

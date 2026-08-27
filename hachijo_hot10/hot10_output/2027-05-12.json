@@ -25,7 +25,7 @@
       "track_id": 239,
       "artist": "さよならポニーテール",
       "title": "光る街へ",
-      "movement": "↑3",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
@@ -34,27 +34,27 @@
       "track_id": 20,
       "artist": "MONO NO AWARE",
       "title": "水が湧いた",
-      "movement": "↑1",
+      "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 10
+      "top10_streak": 9
     },
     {
       "rank": 5,
-      "track_id": 1253,
-      "artist": "Martin Garrix",
-      "title": "Animals",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 6,
       "track_id": 1257,
       "artist": "Clean Bandit",
       "title": "Rather Be (feat. Jess Glynne)",
       "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 3
+    },
+    {
+      "rank": 6,
+      "track_id": 1253,
+      "artist": "Martin Garrix",
+      "title": "Animals",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     },
     {
       "rank": 7,
@@ -76,21 +76,21 @@
     },
     {
       "rank": 9,
+      "track_id": 1481,
+      "artist": "ZAZEN BOYS",
+      "title": "HIMITSU GIRL'S TOP SECRET",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
       "track_id": 1288,
       "artist": "BIGBANG",
       "title": "FANTASTIC BABY",
       "movement": "↓6",
       "days_at_number_1": 0,
       "top10_streak": 4
-    },
-    {
-      "rank": 10,
-      "track_id": 510,
-      "artist": "BEGIN",
-      "title": "島人ぬ宝",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 5
     }
   ]
 }

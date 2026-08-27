@@ -4,24 +4,33 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1013,
-      "artist": "The Police",
-      "title": "Every Breath You Take",
-      "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 12
-    },
-    {
-      "rank": 2,
       "track_id": 7,
       "artist": "MONO NO AWARE",
       "title": "ゾッコン",
-      "movement": "→",
-      "days_at_number_1": 0,
+      "movement": "↑1",
+      "days_at_number_1": 1,
       "top10_streak": 4
     },
     {
+      "rank": 2,
+      "track_id": 1013,
+      "artist": "The Police",
+      "title": "Every Breath You Take",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 12
+    },
+    {
       "rank": 3,
+      "track_id": 1247,
+      "artist": "Swedish House Mafia",
+      "title": "Don't You Worry Child",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 11
+    },
+    {
+      "rank": 4,
       "track_id": 519,
       "artist": "DEEN",
       "title": "瞳そらさないで",
@@ -30,7 +39,7 @@
       "top10_streak": 4
     },
     {
-      "rank": 4,
+      "rank": 5,
       "track_id": 16,
       "artist": "MIZ",
       "title": "暑中見舞い",
@@ -39,58 +48,49 @@
       "top10_streak": 1
     },
     {
-      "rank": 5,
-      "track_id": 1247,
-      "artist": "Swedish House Mafia",
-      "title": "Don't You Worry Child",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 13
-    },
-    {
       "rank": 6,
-      "track_id": 1011,
-      "artist": "Underworld",
-      "title": "Born Slippy (Nuxx)",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 7,
       "track_id": 1242,
       "artist": "Avicii",
       "title": "Levels",
-      "movement": "→",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 8,
-      "track_id": 46,
-      "artist": "iri",
-      "title": "Wonderland",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 9,
-      "track_id": 1267,
-      "artist": "Eric Prydz",
-      "title": "Call on Me",
-      "movement": "↓3",
+      "rank": 7,
+      "track_id": 1011,
+      "artist": "Underworld",
+      "title": "Born Slippy (Nuxx)",
+      "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 10,
-      "track_id": 1275,
-      "artist": "TWICE",
-      "title": "TT",
-      "movement": "RE",
+      "rank": 8,
+      "track_id": 1516,
+      "artist": "戸川純",
+      "title": "蛹化の女",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 46,
+      "artist": "iri",
+      "title": "Wonderland",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 10,
+      "track_id": 1267,
+      "artist": "Eric Prydz",
+      "title": "Call on Me",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 4
     }
   ]
 }

@@ -7,7 +7,7 @@
       "track_id": 11,
       "artist": "MONO NO AWARE",
       "title": "異邦人",
-      "movement": "↑2",
+      "movement": "↑3",
       "days_at_number_1": 1,
       "top10_streak": 6
     },
@@ -25,7 +25,7 @@
       "track_id": 1371,
       "artist": "The Killers",
       "title": "When You Were Young",
-      "movement": "↑5",
+      "movement": "↑6",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -40,15 +40,6 @@
     },
     {
       "rank": 5,
-      "track_id": 1259,
-      "artist": "DJ Snake",
-      "title": "Turn Down for What (with Lil Jon)",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 6,
       "track_id": 148,
       "artist": "角銅真実",
       "title": "December 13",
@@ -57,22 +48,31 @@
       "top10_streak": 1
     },
     {
+      "rank": 6,
+      "track_id": 1259,
+      "artist": "DJ Snake",
+      "title": "Turn Down for What (with Lil Jon)",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
       "rank": 7,
       "track_id": 1207,
       "artist": "Bruno Mars",
       "title": "Just the Way You Are",
-      "movement": "↓3",
+      "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
       "rank": 8,
-      "track_id": 10,
-      "artist": "MIZ",
-      "title": "パジャマでハイウェイ",
-      "movement": "RE",
+      "track_id": 1584,
+      "artist": "Elliott Smith",
+      "title": "Between the Bars",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 7
     },
     {
       "rank": 9,

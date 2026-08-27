@@ -40,15 +40,6 @@
     },
     {
       "rank": 5,
-      "track_id": 454,
-      "artist": "爆風スランプ",
-      "title": "Runner",
-      "movement": "↑4",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 6,
       "track_id": 1275,
       "artist": "TWICE",
       "title": "TT",
@@ -57,22 +48,31 @@
       "top10_streak": 1
     },
     {
-      "rank": 7,
+      "rank": 6,
       "track_id": 239,
       "artist": "さよならポニーテール",
       "title": "光る街へ",
-      "movement": "↓3",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
-      "rank": 8,
+      "rank": 7,
       "track_id": 573,
       "artist": "THE BOOM",
       "title": "風になりたい",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 10
+    },
+    {
+      "rank": 8,
+      "track_id": 454,
+      "artist": "爆風スランプ",
+      "title": "Runner",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     },
     {
       "rank": 9,
@@ -85,12 +85,12 @@
     },
     {
       "rank": 10,
-      "track_id": 510,
-      "artist": "BEGIN",
-      "title": "島人ぬ宝",
+      "track_id": 1257,
+      "artist": "Clean Bandit",
+      "title": "Rather Be (feat. Jess Glynne)",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 5
     }
   ]
 }

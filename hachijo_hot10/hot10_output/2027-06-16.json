@@ -13,24 +13,15 @@
     },
     {
       "rank": 2,
-      "track_id": 415,
-      "artist": "bonobos",
-      "title": "Standing There ～いま、そこに行くよ～",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 3,
       "track_id": 19,
       "artist": "MONO NO AWARE",
       "title": "幽霊船",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 15
     },
     {
-      "rank": 4,
+      "rank": 3,
       "track_id": 249,
       "artist": "キセル",
       "title": "ビューティフル デイ",
@@ -39,7 +30,7 @@
       "top10_streak": 2
     },
     {
-      "rank": 5,
+      "rank": 4,
       "track_id": 1106,
       "artist": "New Order",
       "title": "Ceremony",
@@ -48,16 +39,16 @@
       "top10_streak": 1
     },
     {
-      "rank": 6,
+      "rank": 5,
       "track_id": 1154,
       "artist": "たま",
       "title": "さよなら人類",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 7,
+      "rank": 6,
       "track_id": 1006,
       "artist": "NewJeans",
       "title": "Ditto",
@@ -66,11 +57,20 @@
       "top10_streak": 1
     },
     {
+      "rank": 7,
+      "track_id": 1011,
+      "artist": "Underworld",
+      "title": "Born Slippy (Nuxx)",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 14
+    },
+    {
       "rank": 8,
-      "track_id": 1315,
-      "artist": "Nirvana",
-      "title": "Come As You Are",
-      "movement": "↓1",
+      "track_id": 1507,
+      "artist": "じゃがたら",
+      "title": "タンゴ",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
@@ -85,12 +85,12 @@
     },
     {
       "rank": 10,
-      "track_id": 523,
-      "artist": "スピッツ",
-      "title": "渚",
-      "movement": "NEW",
+      "track_id": 1315,
+      "artist": "Nirvana",
+      "title": "Come As You Are",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 3
     }
   ]
 }

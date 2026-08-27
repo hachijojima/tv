@@ -22,42 +22,33 @@
     },
     {
       "rank": 3,
-      "track_id": 1240,
-      "artist": "Pharrell Williams",
-      "title": "Happy",
-      "movement": "→",
+      "track_id": 1364,
+      "artist": "Linkin Park",
+      "title": "In the End",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 8
     },
     {
       "rank": 4,
-      "track_id": 1364,
-      "artist": "Linkin Park",
-      "title": "In the End",
-      "movement": "↓3",
+      "track_id": 1240,
+      "artist": "Pharrell Williams",
+      "title": "Happy",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 11
+      "top10_streak": 4
     },
     {
       "rank": 5,
       "track_id": 10,
       "artist": "MIZ",
       "title": "パジャマでハイウェイ",
-      "movement": "→",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 4
     },
     {
       "rank": 6,
-      "track_id": 1048,
-      "artist": "Ben E. King",
-      "title": "Stand By Me",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 7,
       "track_id": 381,
       "artist": "My Little Lover",
       "title": "白いカイト",
@@ -66,13 +57,22 @@
       "top10_streak": 3
     },
     {
-      "rank": 8,
+      "rank": 7,
       "track_id": 1089,
       "artist": "The Beatles",
       "title": "Let It Be",
       "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 16
+    },
+    {
+      "rank": 8,
+      "track_id": 1048,
+      "artist": "Ben E. King",
+      "title": "Stand By Me",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     },
     {
       "rank": 9,
@@ -85,12 +85,12 @@
     },
     {
       "rank": 10,
-      "track_id": 457,
-      "artist": "DEEN",
-      "title": "このまま君だけを奪い去りたい",
-      "movement": "↓1",
+      "track_id": 1589,
+      "artist": "Massive Attack",
+      "title": "Unfinished Sympathy",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
     }
   ]
 }

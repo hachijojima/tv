@@ -4,12 +4,12 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
+      "track_id": 1534,
+      "artist": "大瀧詠一",
+      "title": "恋するカレン",
       "movement": "↑1",
       "days_at_number_1": 1,
-      "top10_streak": 7
+      "top10_streak": 4
     },
     {
       "rank": 2,
@@ -18,19 +18,28 @@
       "title": "Bye For Now",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 9
     },
     {
       "rank": 3,
-      "track_id": 1364,
-      "artist": "Linkin Park",
-      "title": "In the End",
-      "movement": "→",
+      "track_id": 14,
+      "artist": "MIZ",
+      "title": "とびうおのうた",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 7
     },
     {
       "rank": 4,
+      "track_id": 1364,
+      "artist": "Linkin Park",
+      "title": "In the End",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 5,
       "track_id": 500,
       "artist": "モーニング娘。",
       "title": "LOVEマシーン",
@@ -39,7 +48,7 @@
       "top10_streak": 9
     },
     {
-      "rank": 5,
+      "rank": 6,
       "track_id": 1091,
       "artist": "The Cure",
       "title": "Boys Don’t Cry",
@@ -48,16 +57,25 @@
       "top10_streak": 9
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "track_id": 1543,
+      "artist": "Cocco",
+      "title": "Raining",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
       "track_id": 330,
       "artist": "カヒミ・カリィ",
       "title": "Mike Alway's Diary",
-      "movement": "↓1",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 10
     },
     {
-      "rank": 7,
+      "rank": 9,
       "track_id": 496,
       "artist": "宇多田ヒカル",
       "title": "Automatic",
@@ -66,31 +84,13 @@
       "top10_streak": 1
     },
     {
-      "rank": 8,
+      "rank": 10,
       "track_id": 1242,
       "artist": "Avicii",
       "title": "Levels",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 3
-    },
-    {
-      "rank": 9,
-      "track_id": 451,
-      "artist": "WANDS",
-      "title": "時の扉",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 10,
-      "track_id": 883,
-      "artist": "Vampire Weekend",
-      "title": "A-Punk",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
     }
   ]
 }

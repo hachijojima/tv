@@ -67,15 +67,6 @@
     },
     {
       "rank": 8,
-      "track_id": 541,
-      "artist": "山崎まさよし",
-      "title": "セロリ",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 9,
       "track_id": 473,
       "artist": "Every Little Thing",
       "title": "Time goes by",
@@ -84,13 +75,22 @@
       "top10_streak": 7
     },
     {
-      "rank": 10,
-      "track_id": 1375,
-      "artist": "Soundgarden",
-      "title": "Black Hole Sun",
-      "movement": "RE",
+      "rank": 9,
+      "track_id": 541,
+      "artist": "山崎まさよし",
+      "title": "セロリ",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 3
+    },
+    {
+      "rank": 10,
+      "track_id": 588,
+      "artist": "THE YELLOW MONKEY",
+      "title": "LOVE LOVE SHOW",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     }
   ]
 }

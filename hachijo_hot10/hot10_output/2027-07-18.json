@@ -31,30 +31,30 @@
     },
     {
       "rank": 4,
-      "track_id": 1254,
-      "artist": "The Chainsmokers",
-      "title": "Closer (feat. Halsey)",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 5,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 11
-    },
-    {
-      "rank": 6,
       "track_id": 759,
       "artist": "吉田美奈子",
       "title": "TOWN",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 5,
+      "track_id": 14,
+      "artist": "MIZ",
+      "title": "とびうおのうた",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 11
+    },
+    {
+      "rank": 6,
+      "track_id": 402,
+      "artist": "ROUND TABLE",
+      "title": "Every Every Every",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 5
     },
     {
       "rank": 7,
@@ -67,30 +67,30 @@
     },
     {
       "rank": 8,
-      "track_id": 402,
-      "artist": "ROUND TABLE",
-      "title": "Every Every Every",
-      "movement": "↓3",
+      "track_id": 1301,
+      "artist": "爆風スランプ",
+      "title": "旅人よ ～The Longest Journey～",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 2
     },
     {
       "rank": 9,
-      "track_id": 1011,
-      "artist": "Underworld",
-      "title": "Born Slippy (Nuxx)",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 10,
       "track_id": 1368,
       "artist": "Muse",
       "title": "Starlight",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1584,
+      "artist": "Elliott Smith",
+      "title": "Between the Bars",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 7
     }
   ]
 }

@@ -16,7 +16,7 @@
       "track_id": 1206,
       "artist": "Beyoncé",
       "title": "Single Ladies (Put a Ring on It)",
-      "movement": "↑4",
+      "movement": "↑5",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
@@ -58,6 +58,15 @@
     },
     {
       "rank": 7,
+      "track_id": 293,
+      "artist": "くるり",
+      "title": "東京",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
       "track_id": 1252,
       "artist": "Kygo",
       "title": "Stole the Show (feat. Parson James)",
@@ -66,29 +75,20 @@
       "top10_streak": 9
     },
     {
-      "rank": 8,
-      "track_id": 293,
-      "artist": "くるり",
-      "title": "東京",
-      "movement": "↓5",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
       "rank": 9,
       "track_id": 1231,
       "artist": "Sabrina Carpenter",
       "title": "Espresso",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 10,
-      "track_id": 906,
-      "artist": "Radiohead",
-      "title": "Fake Plastic Trees",
-      "movement": "NEW",
+      "track_id": 1305,
+      "artist": "鼓童",
+      "title": "凰（おおとり）",
+      "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

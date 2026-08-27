@@ -4,24 +4,42 @@
   "chart": [
     {
       "rank": 1,
+      "track_id": 1473,
+      "artist": "スチャダラパー",
+      "title": "今夜はブギー・バック (smooth rap)",
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 9
+    },
+    {
+      "rank": 2,
+      "track_id": 1023,
+      "artist": "Carpenters",
+      "title": "(They Long To Be) Close To You",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 3,
       "track_id": 945,
       "artist": "Oasis",
       "title": "Don't Look Back in Anger",
       "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 2
-    },
-    {
-      "rank": 2,
-      "track_id": 124,
-      "artist": "Tempalay",
-      "title": "そなちね",
-      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "track_id": 124,
+      "artist": "Tempalay",
+      "title": "そなちね",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
       "track_id": 612,
       "artist": "渡辺美里",
       "title": "サマータイム ブルース",
@@ -30,16 +48,16 @@
       "top10_streak": 1
     },
     {
-      "rank": 4,
-      "track_id": 466,
-      "artist": "GLAY",
-      "title": "BELOVED",
-      "movement": "↑2",
+      "rank": 6,
+      "track_id": 1542,
+      "artist": "Cocco",
+      "title": "強く儚い者たち",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 10
     },
     {
-      "rank": 5,
+      "rank": 7,
       "track_id": 369,
       "artist": "bonobos",
       "title": "Beautiful",
@@ -48,49 +66,31 @@
       "top10_streak": 2
     },
     {
-      "rank": 6,
+      "rank": 8,
+      "track_id": 466,
+      "artist": "GLAY",
+      "title": "BELOVED",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 9,
       "track_id": 489,
       "artist": "小泉今日子",
       "title": "あなたに会えてよかった",
-      "movement": "↓4",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
     {
-      "rank": 7,
+      "rank": 10,
       "track_id": 1085,
       "artist": "Procol Harum",
       "title": "A Whiter Shade of Pale",
-      "movement": "↓2",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 2
-    },
-    {
-      "rank": 8,
-      "track_id": 1024,
-      "artist": "SUPER BUTTER DOG",
-      "title": "サヨナラCOLOR",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 9,
-      "track_id": 1253,
-      "artist": "Martin Garrix",
-      "title": "Animals",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 10,
-      "track_id": 1222,
-      "artist": "Billie Eilish",
-      "title": "BIRDS OF A FEATHER",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
     }
   ]
 }

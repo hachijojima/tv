@@ -4,42 +4,51 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 998,
-      "artist": "Donald Fagen",
-      "title": "The Nightfly",
-      "movement": "↑1",
-      "days_at_number_1": 1,
-      "top10_streak": 7
-    },
-    {
-      "rank": 2,
       "track_id": 259,
       "artist": "ドミコ",
       "title": "ペーパーロールスター",
       "movement": "NEW",
-      "days_at_number_1": 0,
+      "days_at_number_1": 1,
       "top10_streak": 1
     },
     {
-      "rank": 3,
+      "rank": 2,
       "track_id": 762,
       "artist": "ティン・パン・アレー",
       "title": "北京ダック",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 10
+    },
+    {
+      "rank": 3,
+      "track_id": 998,
+      "artist": "Donald Fagen",
+      "title": "The Nightfly",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 4,
+      "track_id": 1584,
+      "artist": "Elliott Smith",
+      "title": "Between the Bars",
       "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 10
     },
     {
-      "rank": 4,
-      "track_id": 1247,
-      "artist": "Swedish House Mafia",
-      "title": "Don't You Worry Child",
-      "movement": "↑5",
+      "rank": 5,
+      "track_id": 451,
+      "artist": "WANDS",
+      "title": "時の扉",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 2
     },
     {
-      "rank": 5,
+      "rank": 6,
       "track_id": 552,
       "artist": "森高千里",
       "title": "雨",
@@ -48,47 +57,38 @@
       "top10_streak": 14
     },
     {
-      "rank": 6,
-      "track_id": 451,
-      "artist": "WANDS",
-      "title": "時の扉",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
       "rank": 7,
-      "track_id": 15,
-      "artist": "MONO NO AWARE",
-      "title": "もうけもん",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 8,
       "track_id": 1214,
       "artist": "Ariana Grande",
       "title": "Into You",
-      "movement": "↓4",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
+      "rank": 8,
+      "track_id": 15,
+      "artist": "MONO NO AWARE",
+      "title": "もうけもん",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
       "rank": 9,
-      "track_id": 1344,
-      "artist": "The Cranberries",
-      "title": "Linger",
-      "movement": "NEW",
+      "track_id": 1247,
+      "artist": "Swedish House Mafia",
+      "title": "Don't You Worry Child",
+      "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 568,
-      "artist": "椎名林檎",
-      "title": "本能",
-      "movement": "RE",
+      "track_id": 1344,
+      "artist": "The Cranberries",
+      "title": "Linger",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

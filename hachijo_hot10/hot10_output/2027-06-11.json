@@ -27,7 +27,7 @@
       "title": "Born Slippy (Nuxx)",
       "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 12
+      "top10_streak": 9
     },
     {
       "rank": 4,
@@ -49,15 +49,24 @@
     },
     {
       "rank": 6,
+      "track_id": 1541,
+      "artist": "Cocco",
+      "title": "カウントダウン",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 7,
       "track_id": 10,
       "artist": "MIZ",
       "title": "パジャマでハイウェイ",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
-      "rank": 7,
+      "rank": 8,
       "track_id": 1066,
       "artist": "Nujabes",
       "title": "Luv(sic.) pt3 (feat. Shing02)",
@@ -66,31 +75,22 @@
       "top10_streak": 1
     },
     {
-      "rank": 8,
+      "rank": 9,
       "track_id": 1306,
       "artist": "鼓童",
       "title": "族",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 9,
-      "track_id": 1044,
-      "artist": "The Jackson 5",
-      "title": "I Want You Back",
-      "movement": "↓1",
+      "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 10,
-      "track_id": 415,
-      "artist": "bonobos",
-      "title": "Standing There ～いま、そこに行くよ～",
-      "movement": "↓1",
+      "track_id": 1044,
+      "artist": "The Jackson 5",
+      "title": "I Want You Back",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 2
     }
   ]
 }

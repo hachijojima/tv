@@ -4,37 +4,37 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 585,
-      "artist": "スピッツ",
-      "title": "楓",
-      "movement": "↑4",
-      "days_at_number_1": 1,
-      "top10_streak": 15
-    },
-    {
-      "rank": 2,
-      "track_id": 1254,
-      "artist": "The Chainsmokers",
-      "title": "Closer (feat. Halsey)",
+      "track_id": 1584,
+      "artist": "Elliott Smith",
+      "title": "Between the Bars",
       "movement": "→",
-      "days_at_number_1": 0,
+      "days_at_number_1": 2,
       "top10_streak": 5
     },
     {
-      "rank": 3,
-      "track_id": 1024,
-      "artist": "SUPER BUTTER DOG",
-      "title": "サヨナラCOLOR",
-      "movement": "↑3",
+      "rank": 2,
+      "track_id": 585,
+      "artist": "スピッツ",
+      "title": "楓",
+      "movement": "↑7",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 15
+    },
+    {
+      "rank": 3,
+      "track_id": 1476,
+      "artist": "スチャダラパー",
+      "title": "大人になっても",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 11
     },
     {
       "rank": 4,
       "track_id": 402,
       "artist": "ROUND TABLE",
       "title": "Every Every Every",
-      "movement": "→",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
@@ -43,12 +43,21 @@
       "track_id": 707,
       "artist": "チューリップ",
       "title": "心の旅",
-      "movement": "↓4",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
       "rank": 6,
+      "track_id": 1240,
+      "artist": "Pharrell Williams",
+      "title": "Happy",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 9
+    },
+    {
+      "rank": 7,
       "track_id": 14,
       "artist": "MIZ",
       "title": "とびうおのうた",
@@ -57,16 +66,16 @@
       "top10_streak": 9
     },
     {
-      "rank": 7,
-      "track_id": 1011,
-      "artist": "Underworld",
-      "title": "Born Slippy (Nuxx)",
+      "rank": 8,
+      "track_id": 1024,
+      "artist": "SUPER BUTTER DOG",
+      "title": "サヨナラCOLOR",
       "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 4
     },
     {
-      "rank": 8,
+      "rank": 9,
       "track_id": 1246,
       "artist": "David Guetta",
       "title": "Memories (feat. Kid Cudi)",
@@ -75,22 +84,13 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
-      "track_id": 1019,
-      "artist": "Radiohead",
-      "title": "High and Dry",
+      "rank": 10,
+      "track_id": 1589,
+      "artist": "Massive Attack",
+      "title": "Unfinished Sympathy",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
-    },
-    {
-      "rank": 10,
-      "track_id": 428,
-      "artist": "My Little Lover",
-      "title": "DESTINY",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 2
     }
   ]
 }

@@ -33,10 +33,11 @@ class Hot10ProductionTests(unittest.TestCase):
     def setUpClass(cls):
         cls.config = hot10.load_config()
         cls.tracks = hot10.load_tracks(hot10.resolve_master_path(cls.config))
+        cls.legacy_tracks = hot10.load_tracks(hot10.ROOT / "HACHIJO_HOT10_master_1389_F41_input.csv", 1389)
 
     def test_master_schema_and_ids(self):
-        self.assertEqual(len(self.tracks), 1389)
-        self.assertEqual({track["track_id"] for track in self.tracks}, set(range(1, 1390)))
+        self.assertEqual(len(self.tracks), 1589)
+        self.assertEqual({track["track_id"] for track in self.tracks}, set(range(1, 1590)))
         self.assertTrue(all(track["enabled"] in (0, 1) for track in self.tracks))
         self.assertTrue(all(0 <= track[field] <= 100 for track in self.tracks for field in hot10.SCORE_COLUMNS))
 
@@ -60,7 +61,7 @@ class Hot10ProductionTests(unittest.TestCase):
         self.assertEqual(hot10.movement_for(prior, 7, labels), "↓3")
 
     def test_seeded_14_day_golden_summary_and_chart(self):
-        charts = hot10.simulate(14, 20260826, self.tracks, self.config, datetime(2026, 8, 26).date())
+        charts = hot10.simulate(14, 20260826, self.legacy_tracks, self.config, datetime(2026, 8, 26).date())
         actual = summary(charts)
         self.assertEqual(actual["replacements_by_day"], [1, 3, 3, 1, 2, 1, 3, 2, 1, 2, 2, 2, 3])
         self.assertEqual((actual["unique"], actual["new"], actual["re"], actual["max1"], actual["maxtop"]), (35, 35, 1, 3, 12))
@@ -69,7 +70,7 @@ class Hot10ProductionTests(unittest.TestCase):
         self.assertEqual(hashlib.sha256(canonical).hexdigest(), "e6c47bac2549e277422bdd308401fa6b76145f5d3d24851c7299a6efcebbf766")
 
     def test_five_seed_reference_summary(self):
-        charts = [hot10.simulate(30, seed, self.tracks, self.config, datetime(2026, 8, 26).date()) for seed in (20260826, 12345, 20260901, 777, 424242)]
+        charts = [hot10.simulate(30, seed, self.legacy_tracks, self.config, datetime(2026, 8, 26).date()) for seed in (20260826, 12345, 20260901, 777, 424242)]
         values = [summary(run) for run in charts]
         self.assertAlmostEqual(sum(item["retention"] for item in values) / 5, 7.9724137931)
         self.assertAlmostEqual(sum(item["replacements"] for item in values) / 5, 2.0275862069)

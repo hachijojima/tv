@@ -22,19 +22,19 @@
     },
     {
       "rank": 3,
-      "track_id": 10,
+      "track_id": 12,
       "artist": "MIZ",
-      "title": "パジャマでハイウェイ",
-      "movement": "↓1",
+      "title": "丘",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 4
     },
     {
       "rank": 4,
       "track_id": 1089,
       "artist": "The Beatles",
       "title": "Let It Be",
-      "movement": "↓1",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 4
     },

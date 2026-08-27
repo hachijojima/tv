@@ -4,12 +4,12 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1091,
-      "artist": "The Cure",
-      "title": "Boys Don’t Cry",
+      "track_id": 1257,
+      "artist": "Clean Bandit",
+      "title": "Rather Be (feat. Jess Glynne)",
       "movement": "↑2",
       "days_at_number_1": 1,
-      "top10_streak": 4
+      "top10_streak": 3
     },
     {
       "rank": 2,
@@ -22,24 +22,15 @@
     },
     {
       "rank": 3,
-      "track_id": 1257,
-      "artist": "Clean Bandit",
-      "title": "Rather Be (feat. Jess Glynne)",
-      "movement": "↑6",
+      "track_id": 1441,
+      "artist": "BLANKEY JET CITY",
+      "title": "ガソリンの揺れかた",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 8
     },
     {
       "rank": 4,
-      "track_id": 1011,
-      "artist": "Underworld",
-      "title": "Born Slippy (Nuxx)",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 5,
       "track_id": 1301,
       "artist": "爆風スランプ",
       "title": "旅人よ ～The Longest Journey～",
@@ -48,49 +39,58 @@
       "top10_streak": 1
     },
     {
-      "rank": 6,
-      "track_id": 19,
-      "artist": "MONO NO AWARE",
-      "title": "幽霊船",
-      "movement": "↓2",
+      "rank": 5,
+      "track_id": 1011,
+      "artist": "Underworld",
+      "title": "Born Slippy (Nuxx)",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 17
+      "top10_streak": 4
     },
     {
-      "rank": 7,
+      "rank": 6,
       "track_id": 1225,
       "artist": "Sia",
       "title": "Chandelier",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
+    },
+    {
+      "rank": 7,
+      "track_id": 9,
+      "artist": "MONO NO AWARE",
+      "title": "そこにあったから",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     },
     {
       "rank": 8,
-      "track_id": 1024,
-      "artist": "SUPER BUTTER DOG",
-      "title": "サヨナラCOLOR",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 9,
-      "track_id": 937,
-      "artist": "Alvvays",
-      "title": "Archie, Marry Me",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 10,
       "track_id": 1305,
       "artist": "鼓童",
       "title": "凰（おおとり）",
-      "movement": "↓5",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 4
+    },
+    {
+      "rank": 9,
+      "track_id": 1134,
+      "artist": "Diana Ross",
+      "title": "I’m Coming Out",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1246,
+      "artist": "David Guetta",
+      "title": "Memories (feat. Kid Cudi)",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }

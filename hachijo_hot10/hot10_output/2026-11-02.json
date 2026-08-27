@@ -31,21 +31,21 @@
     },
     {
       "rank": 4,
-      "track_id": 1046,
-      "artist": "星野源",
-      "title": "不思議",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 5,
       "track_id": 10,
       "artist": "MIZ",
       "title": "パジャマでハイウェイ",
-      "movement": "↓3",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 13
+      "top10_streak": 12
+    },
+    {
+      "rank": 5,
+      "track_id": 1046,
+      "artist": "星野源",
+      "title": "不思議",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     },
     {
       "rank": 6,
@@ -67,30 +67,30 @@
     },
     {
       "rank": 8,
+      "track_id": 1240,
+      "artist": "Pharrell Williams",
+      "title": "Happy",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 12
+    },
+    {
+      "rank": 9,
       "track_id": 1267,
       "artist": "Eric Prydz",
       "title": "Call on Me",
-      "movement": "↓5",
+      "movement": "↓6",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 9,
+      "rank": 10,
       "track_id": 541,
       "artist": "山崎まさよし",
       "title": "セロリ",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
-    },
-    {
-      "rank": 10,
-      "track_id": 1249,
-      "artist": "Zedd",
-      "title": "Clarity (feat. Foxes)",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
     }
   ]
 }

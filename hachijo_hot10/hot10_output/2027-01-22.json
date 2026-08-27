@@ -13,15 +13,33 @@
     },
     {
       "rank": 2,
-      "track_id": 1048,
-      "artist": "Ben E. King",
-      "title": "Stand By Me",
-      "movement": "→",
+      "track_id": 1473,
+      "artist": "スチャダラパー",
+      "title": "今夜はブギー・バック (smooth rap)",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 8
+      "top10_streak": 6
     },
     {
       "rank": 3,
+      "track_id": 1023,
+      "artist": "Carpenters",
+      "title": "(They Long To Be) Close To You",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 4,
+      "track_id": 1542,
+      "artist": "Cocco",
+      "title": "強く儚い者たち",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 5,
       "track_id": 459,
       "artist": "B'z",
       "title": "ALONE",
@@ -30,16 +48,16 @@
       "top10_streak": 8
     },
     {
-      "rank": 4,
-      "track_id": 489,
-      "artist": "小泉今日子",
-      "title": "あなたに会えてよかった",
-      "movement": "→",
+      "rank": 6,
+      "track_id": 1048,
+      "artist": "Ben E. King",
+      "title": "Stand By Me",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 8
     },
     {
-      "rank": 5,
+      "rank": 7,
       "track_id": 1010,
       "artist": "Oasis",
       "title": "Live Forever",
@@ -48,25 +66,16 @@
       "top10_streak": 2
     },
     {
-      "rank": 6,
-      "track_id": 432,
-      "artist": "SUPERCAR",
-      "title": "cream soda",
+      "rank": 8,
+      "track_id": 489,
+      "artist": "小泉今日子",
+      "title": "あなたに会えてよかった",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 8
+      "top10_streak": 3
     },
     {
-      "rank": 7,
-      "track_id": 1023,
-      "artist": "Carpenters",
-      "title": "(They Long To Be) Close To You",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 18
-    },
-    {
-      "rank": 8,
+      "rank": 9,
       "track_id": 1097,
       "artist": "大澤誉志幸",
       "title": "そして僕は途方に暮れる",
@@ -75,22 +84,13 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
-      "track_id": 79,
-      "artist": "奇妙礼太郎",
-      "title": "君が誰かの彼女になりくさっても",
-      "movement": "↓6",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
       "rank": 10,
-      "track_id": 441,
-      "artist": "チャットモンチー",
-      "title": "恋愛スピリッツ",
-      "movement": "→",
+      "track_id": 1445,
+      "artist": "Thee Michelle Gun Elephant",
+      "title": "バードメン",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 6
     }
   ]
 }

@@ -22,6 +22,15 @@
     },
     {
       "rank": 3,
+      "track_id": 1542,
+      "artist": "Cocco",
+      "title": "強く儚い者たち",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 4,
       "track_id": 552,
       "artist": "森高千里",
       "title": "雨",
@@ -30,22 +39,13 @@
       "top10_streak": 5
     },
     {
-      "rank": 4,
+      "rank": 5,
       "track_id": 1280,
       "artist": "IVE",
       "title": "I AM",
       "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 10
-    },
-    {
-      "rank": 5,
-      "track_id": 7,
-      "artist": "MONO NO AWARE",
-      "title": "ゾッコン",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 17
     },
     {
       "rank": 6,
@@ -58,6 +58,15 @@
     },
     {
       "rank": 7,
+      "track_id": 7,
+      "artist": "MONO NO AWARE",
+      "title": "ゾッコン",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 17
+    },
+    {
+      "rank": 8,
       "track_id": 1315,
       "artist": "Nirvana",
       "title": "Come As You Are",
@@ -66,7 +75,7 @@
       "top10_streak": 3
     },
     {
-      "rank": 8,
+      "rank": 9,
       "track_id": 1231,
       "artist": "Sabrina Carpenter",
       "title": "Espresso",
@@ -75,19 +84,10 @@
       "top10_streak": 3
     },
     {
-      "rank": 9,
-      "track_id": 459,
-      "artist": "B'z",
-      "title": "ALONE",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
       "rank": 10,
-      "track_id": 1125,
-      "artist": "藤井風",
-      "title": "花",
+      "track_id": 1584,
+      "artist": "Elliott Smith",
+      "title": "Between the Bars",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1

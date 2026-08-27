@@ -7,27 +7,27 @@
       "track_id": 1023,
       "artist": "Carpenters",
       "title": "(They Long To Be) Close To You",
-      "movement": "↑2",
-      "days_at_number_1": 1,
-      "top10_streak": 2
+      "movement": "→",
+      "days_at_number_1": 3,
+      "top10_streak": 11
     },
     {
       "rank": 2,
-      "track_id": 466,
-      "artist": "GLAY",
-      "title": "BELOVED",
-      "movement": "↓1",
+      "track_id": 1473,
+      "artist": "スチャダラパー",
+      "title": "今夜はブギー・バック (smooth rap)",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 12
     },
     {
       "rank": 3,
-      "track_id": 369,
-      "artist": "bonobos",
-      "title": "Beautiful",
-      "movement": "↓1",
+      "track_id": 466,
+      "artist": "GLAY",
+      "title": "BELOVED",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 6
     },
     {
       "rank": 4,
@@ -40,27 +40,27 @@
     },
     {
       "rank": 5,
-      "track_id": 699,
-      "artist": "鈴木茂",
-      "title": "八月の匂い",
-      "movement": "→",
+      "track_id": 369,
+      "artist": "bonobos",
+      "title": "Beautiful",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 5
     },
     {
       "rank": 6,
-      "track_id": 1068,
-      "artist": "Simon & Garfunkel",
-      "title": "Bridge Over Troubled Water",
-      "movement": "↑3",
+      "track_id": 1588,
+      "artist": "Portishead",
+      "title": "Sour Times",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 7,
-      "track_id": 412,
-      "artist": "フラワーカンパニーズ",
-      "title": "吐きたくなるほど愛されたい",
+      "track_id": 1068,
+      "artist": "Simon & Garfunkel",
+      "title": "Bridge Over Troubled Water",
       "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2

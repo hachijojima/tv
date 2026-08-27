@@ -4,30 +4,30 @@
   "chart": [
     {
       "rank": 1,
+      "track_id": 1441,
+      "artist": "BLANKEY JET CITY",
+      "title": "ガソリンの揺れかた",
+      "movement": "→",
+      "days_at_number_1": 4,
+      "top10_streak": 6
+    },
+    {
+      "rank": 2,
       "track_id": 4,
       "artist": "MIZ",
       "title": "空砲",
       "movement": "↑1",
-      "days_at_number_1": 1,
+      "days_at_number_1": 0,
       "top10_streak": 9
     },
     {
-      "rank": 2,
+      "rank": 3,
       "track_id": 1205,
       "artist": "Beyoncé",
       "title": "Crazy in Love",
       "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
-    },
-    {
-      "rank": 3,
-      "track_id": 19,
-      "artist": "MONO NO AWARE",
-      "title": "幽霊船",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 15
     },
     {
       "rank": 4,
@@ -40,6 +40,15 @@
     },
     {
       "rank": 5,
+      "track_id": 19,
+      "artist": "MONO NO AWARE",
+      "title": "幽霊船",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 15
+    },
+    {
+      "rank": 6,
       "track_id": 937,
       "artist": "Alvvays",
       "title": "Archie, Marry Me",
@@ -48,47 +57,38 @@
       "top10_streak": 4
     },
     {
-      "rank": 6,
-      "track_id": 1091,
-      "artist": "The Cure",
-      "title": "Boys Don’t Cry",
-      "movement": "↑4",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
       "rank": 7,
       "track_id": 1011,
       "artist": "Underworld",
       "title": "Born Slippy (Nuxx)",
-      "movement": "↑2",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 8,
-      "track_id": 494,
-      "artist": "久保田利伸",
-      "title": "LA・LA・LA LOVE SONG",
-      "movement": "↓2",
+      "track_id": 1353,
+      "artist": "Manic Street Preachers",
+      "title": "If You Tolerate This Your Children Will Be Next",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 10
+      "top10_streak": 1
     },
     {
       "rank": 9,
       "track_id": 718,
       "artist": "友部正人",
       "title": "夕日は昇る",
-      "movement": "↓6",
+      "movement": "↓5",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 10,
-      "track_id": 1353,
-      "artist": "Manic Street Preachers",
-      "title": "If You Tolerate This Your Children Will Be Next",
-      "movement": "NEW",
+      "track_id": 1257,
+      "artist": "Clean Bandit",
+      "title": "Rather Be (feat. Jess Glynne)",
+      "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

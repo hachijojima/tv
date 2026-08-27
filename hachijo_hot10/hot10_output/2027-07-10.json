@@ -8,11 +8,29 @@
       "artist": "スピッツ",
       "title": "楓",
       "movement": "→",
-      "days_at_number_1": 4,
+      "days_at_number_1": 3,
       "top10_streak": 9
     },
     {
       "rank": 2,
+      "track_id": 1476,
+      "artist": "スチャダラパー",
+      "title": "大人になっても",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 3,
+      "track_id": 1395,
+      "artist": "GOING STEADY",
+      "title": "銀河鉄道の夜",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 10
+    },
+    {
+      "rank": 4,
       "track_id": 14,
       "artist": "MIZ",
       "title": "とびうおのうた",
@@ -21,7 +39,7 @@
       "top10_streak": 3
     },
     {
-      "rank": 3,
+      "rank": 5,
       "track_id": 539,
       "artist": "KAN",
       "title": "まゆみ",
@@ -30,34 +48,25 @@
       "top10_streak": 1
     },
     {
-      "rank": 4,
-      "track_id": 541,
-      "artist": "山崎まさよし",
-      "title": "セロリ",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 10
-    },
-    {
-      "rank": 5,
+      "rank": 6,
       "track_id": 1110,
       "artist": "Red Hot Chili Peppers",
       "title": "Can’t Stop",
-      "movement": "↑2",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 6,
-      "track_id": 613,
-      "artist": "小泉今日子",
-      "title": "優しい雨",
-      "movement": "↓2",
+      "rank": 7,
+      "track_id": 541,
+      "artist": "山崎まさよし",
+      "title": "セロリ",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 10
     },
     {
-      "rank": 7,
+      "rank": 8,
       "track_id": 341,
       "artist": "NUMBER GIRL",
       "title": "OMOIDE IN MY HEAD",
@@ -66,7 +75,7 @@
       "top10_streak": 1
     },
     {
-      "rank": 8,
+      "rank": 9,
       "track_id": 552,
       "artist": "森高千里",
       "title": "雨",
@@ -75,22 +84,13 @@
       "top10_streak": 8
     },
     {
-      "rank": 9,
-      "track_id": 644,
-      "artist": "オフコース",
-      "title": "さよなら",
-      "movement": "↓3",
+      "rank": 10,
+      "track_id": 1240,
+      "artist": "Pharrell Williams",
+      "title": "Happy",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 3
-    },
-    {
-      "rank": 10,
-      "track_id": 133,
-      "artist": "iri",
-      "title": "rhythm",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
     }
   ]
 }

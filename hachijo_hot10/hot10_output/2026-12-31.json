@@ -4,30 +4,30 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 468,
-      "artist": "X JAPAN",
-      "title": "ENDLESS RAIN",
-      "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 5
+      "track_id": 12,
+      "artist": "MIZ",
+      "title": "丘",
+      "movement": "↑1",
+      "days_at_number_1": 1,
+      "top10_streak": 6
     },
     {
       "rank": 2,
-      "track_id": 1109,
-      "artist": "Radiohead",
-      "title": "Everything In Its Right Place",
-      "movement": "↑1",
+      "track_id": 468,
+      "artist": "X JAPAN",
+      "title": "ENDLESS RAIN",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 5
     },
     {
       "rank": 3,
-      "track_id": 11,
-      "artist": "MONO NO AWARE",
-      "title": "異邦人",
-      "movement": "↓1",
+      "track_id": 1109,
+      "artist": "Radiohead",
+      "title": "Everything In Its Right Place",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 12
+      "top10_streak": 2
     },
     {
       "rank": 4,
@@ -40,30 +40,30 @@
     },
     {
       "rank": 5,
-      "track_id": 12,
-      "artist": "MIZ",
-      "title": "丘",
-      "movement": "RE",
+      "track_id": 11,
+      "artist": "MONO NO AWARE",
+      "title": "異邦人",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 12
     },
     {
       "rank": 6,
-      "track_id": 1089,
-      "artist": "The Beatles",
-      "title": "Let It Be",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 7,
       "track_id": 927,
       "artist": "Swing Out Sister",
       "title": "Breakout",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 7,
+      "track_id": 1089,
+      "artist": "The Beatles",
+      "title": "Let It Be",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 6
     },
     {
       "rank": 8,
@@ -76,10 +76,10 @@
     },
     {
       "rank": 9,
-      "track_id": 410,
-      "artist": "Syrup16g",
-      "title": "Reborn",
-      "movement": "↑1",
+      "track_id": 1508,
+      "artist": "RCサクセション",
+      "title": "多摩蘭坂",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
     },

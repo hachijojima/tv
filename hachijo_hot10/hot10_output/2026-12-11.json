@@ -58,39 +58,39 @@
     },
     {
       "rank": 7,
-      "track_id": 2,
-      "artist": "MIZ",
-      "title": "パレード",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 8,
       "track_id": 600,
       "artist": "シャ乱Q",
       "title": "いいわけ",
-      "movement": "↓5",
+      "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 9,
-      "track_id": 1242,
-      "artist": "Avicii",
-      "title": "Levels",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 10,
+      "rank": 8,
       "track_id": 1305,
       "artist": "鼓童",
       "title": "凰（おおとり）",
-      "movement": "↓4",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 12
+    },
+    {
+      "rank": 9,
+      "track_id": 1508,
+      "artist": "RCサクセション",
+      "title": "多摩蘭坂",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 10,
+      "track_id": 488,
+      "artist": "渡辺美里",
+      "title": "My Revolution",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }

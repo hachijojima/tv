@@ -22,42 +22,51 @@
     },
     {
       "rank": 3,
-      "track_id": 459,
-      "artist": "B'z",
-      "title": "ALONE",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 4,
-      "track_id": 1023,
-      "artist": "Carpenters",
-      "title": "(They Long To Be) Close To You",
+      "track_id": 1473,
+      "artist": "スチャダラパー",
+      "title": "今夜はブギー・バック (smooth rap)",
       "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 14
-    },
-    {
-      "rank": 5,
-      "track_id": 95,
-      "artist": "リーガルリリー",
-      "title": "リッケンバッカー",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 6,
-      "track_id": 2,
-      "artist": "MIZ",
-      "title": "パレード",
-      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
+      "rank": 4,
+      "track_id": 1542,
+      "artist": "Cocco",
+      "title": "強く儚い者たち",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 5,
+      "track_id": 459,
+      "artist": "B'z",
+      "title": "ALONE",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 6,
+      "track_id": 1533,
+      "artist": "大瀧詠一",
+      "title": "指切り",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
       "rank": 7,
+      "track_id": 1445,
+      "artist": "Thee Michelle Gun Elephant",
+      "title": "バードメン",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
       "track_id": 658,
       "artist": "遠藤賢司",
       "title": "カレーライス",
@@ -66,29 +75,20 @@
       "top10_streak": 1
     },
     {
-      "rank": 8,
-      "track_id": 1134,
-      "artist": "Diana Ross",
-      "title": "I’m Coming Out",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
       "rank": 9,
-      "track_id": 1245,
-      "artist": "David Guetta",
-      "title": "Titanium (feat. Sia)",
-      "movement": "↓5",
+      "track_id": 2,
+      "artist": "MIZ",
+      "title": "パレード",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 2
     },
     {
       "rank": 10,
-      "track_id": 842,
-      "artist": "離婚伝説",
-      "title": "本日のおすすめ",
-      "movement": "NEW",
+      "track_id": 1023,
+      "artist": "Carpenters",
+      "title": "(They Long To Be) Close To You",
+      "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

@@ -4,15 +4,24 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1280,
-      "artist": "IVE",
-      "title": "I AM",
-      "movement": "↑1",
+      "track_id": 1542,
+      "artist": "Cocco",
+      "title": "強く儚い者たち",
+      "movement": "↑2",
       "days_at_number_1": 1,
-      "top10_streak": 8
+      "top10_streak": 3
     },
     {
       "rank": 2,
+      "track_id": 1280,
+      "artist": "IVE",
+      "title": "I AM",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 3,
       "track_id": 7,
       "artist": "MONO NO AWARE",
       "title": "ゾッコン",
@@ -21,31 +30,22 @@
       "top10_streak": 15
     },
     {
-      "rank": 3,
+      "rank": 4,
       "track_id": 459,
       "artist": "B'z",
       "title": "ALONE",
-      "movement": "↑5",
+      "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 4,
+      "rank": 5,
       "track_id": 552,
       "artist": "森高千里",
       "title": "雨",
-      "movement": "↑2",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 3
-    },
-    {
-      "rank": 5,
-      "track_id": 1247,
-      "artist": "Swedish House Mafia",
-      "title": "Don't You Worry Child",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 7
     },
     {
       "rank": 6,
@@ -58,15 +58,6 @@
     },
     {
       "rank": 7,
-      "track_id": 1023,
-      "artist": "Carpenters",
-      "title": "(They Long To Be) Close To You",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 8,
       "track_id": 1231,
       "artist": "Sabrina Carpenter",
       "title": "Espresso",
@@ -75,13 +66,22 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
+      "rank": 8,
       "track_id": 1305,
       "artist": "鼓童",
       "title": "凰（おおとり）",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 615,
+      "artist": "米米CLUB",
+      "title": "Shake Hip!",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 10
     },
     {
       "rank": 10,

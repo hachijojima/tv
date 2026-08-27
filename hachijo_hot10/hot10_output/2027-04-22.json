@@ -49,6 +49,15 @@
     },
     {
       "rank": 6,
+      "track_id": 369,
+      "artist": "bonobos",
+      "title": "Beautiful",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 7,
       "track_id": 1090,
       "artist": "The Beatles",
       "title": "Strawberry Fields Forever",
@@ -57,31 +66,22 @@
       "top10_streak": 4
     },
     {
-      "rank": 7,
-      "track_id": 369,
-      "artist": "bonobos",
-      "title": "Beautiful",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
       "rank": 8,
-      "track_id": 488,
-      "artist": "渡辺美里",
-      "title": "My Revolution",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 9,
       "track_id": 706,
       "artist": "オフコース",
       "title": "秋の気配",
       "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 2
+    },
+    {
+      "rank": 9,
+      "track_id": 488,
+      "artist": "渡辺美里",
+      "title": "My Revolution",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     },
     {
       "rank": 10,

@@ -16,21 +16,12 @@
       "track_id": 1028,
       "artist": "Kendrick Lamar",
       "title": "Alright",
-      "movement": "→",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 3,
-      "track_id": 454,
-      "artist": "爆風スランプ",
-      "title": "Runner",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 4,
       "track_id": 1248,
       "artist": "Swedish House Mafia",
       "title": "Save the World",
@@ -39,13 +30,22 @@
       "top10_streak": 3
     },
     {
-      "rank": 5,
+      "rank": 4,
       "track_id": 1068,
       "artist": "Simon & Garfunkel",
       "title": "Bridge Over Troubled Water",
       "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 7
+    },
+    {
+      "rank": 5,
+      "track_id": 454,
+      "artist": "爆風スランプ",
+      "title": "Runner",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 6
     },
     {
       "rank": 6,
@@ -58,39 +58,39 @@
     },
     {
       "rank": 7,
-      "track_id": 1379,
-      "artist": "Blink-182",
-      "title": "All the Small Things",
-      "movement": "↓1",
+      "track_id": 1475,
+      "artist": "スチャダラパー",
+      "title": "ゲームボーイズ",
+      "movement": "↓5",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 8,
-      "track_id": 742,
-      "artist": "キャンディーズ",
-      "title": "やさしい悪魔",
-      "movement": "↑1",
+      "track_id": 1541,
+      "artist": "Cocco",
+      "title": "カウントダウン",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 9,
-      "track_id": 533,
-      "artist": "TRF",
-      "title": "survival dAnce ～no no cry more～",
-      "movement": "RE",
+      "track_id": 1379,
+      "artist": "Blink-182",
+      "title": "All the Small Things",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 3
     },
     {
       "rank": 10,
-      "track_id": 1043,
-      "artist": "Television",
-      "title": "Marquee Moon",
-      "movement": "RE",
+      "track_id": 742,
+      "artist": "キャンディーズ",
+      "title": "やさしい悪魔",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     }
   ]
 }

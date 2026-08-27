@@ -58,21 +58,21 @@
     },
     {
       "rank": 7,
-      "track_id": 1090,
-      "artist": "The Beatles",
-      "title": "Strawberry Fields Forever",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 8,
       "track_id": 706,
       "artist": "オフコース",
       "title": "秋の気配",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 1090,
+      "artist": "The Beatles",
+      "title": "Strawberry Fields Forever",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     },
     {
       "rank": 9,

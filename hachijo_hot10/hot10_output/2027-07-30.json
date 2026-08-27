@@ -4,46 +4,46 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "↑2",
-      "days_at_number_1": 1,
-      "top10_streak": 3
-    },
-    {
-      "rank": 2,
-      "track_id": 768,
-      "artist": "小沢健二",
-      "title": "いちょう並木のセレナーデ",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
-      "rank": 3,
       "track_id": 147,
       "artist": "mei ehara",
       "title": "蓋なしの彼",
-      "movement": "RE",
-      "days_at_number_1": 0,
+      "movement": "NEW",
+      "days_at_number_1": 1,
       "top10_streak": 1
     },
     {
-      "rank": 4,
-      "track_id": 471,
-      "artist": "TRF",
-      "title": "寒い夜だから…",
-      "movement": "↑3",
+      "rank": 2,
+      "track_id": 1450,
+      "artist": "ゆらゆら帝国",
+      "title": "発光体",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 3,
+      "track_id": 14,
+      "artist": "MIZ",
+      "title": "とびうおのうた",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 3
+    },
+    {
+      "rank": 4,
+      "track_id": 768,
+      "artist": "小沢健二",
+      "title": "いちょう並木のセレナーデ",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 9
     },
     {
       "rank": 5,
       "track_id": 476,
       "artist": "シャ乱Q",
       "title": "シングルベッド",
-      "movement": "↓3",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
@@ -52,7 +52,7 @@
       "track_id": 1214,
       "artist": "Ariana Grande",
       "title": "Into You",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 7
     },
@@ -67,15 +67,6 @@
     },
     {
       "rank": 8,
-      "track_id": 701,
-      "artist": "シュガー・ベイブ",
-      "title": "今日はなんだか",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 9,
       "track_id": 500,
       "artist": "モーニング娘。",
       "title": "LOVEマシーン",
@@ -84,13 +75,22 @@
       "top10_streak": 2
     },
     {
-      "rank": 10,
-      "track_id": 1219,
-      "artist": "Ed Sheeran",
-      "title": "Shape of You",
-      "movement": "↓6",
+      "rank": 9,
+      "track_id": 701,
+      "artist": "シュガー・ベイブ",
+      "title": "今日はなんだか",
+      "movement": "RE",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1542,
+      "artist": "Cocco",
+      "title": "強く儚い者たち",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }

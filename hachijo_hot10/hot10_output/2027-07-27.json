@@ -4,15 +4,24 @@
   "chart": [
     {
       "rank": 1,
+      "track_id": 1450,
+      "artist": "ゆらゆら帝国",
+      "title": "発光体",
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 2
+    },
+    {
+      "rank": 2,
       "track_id": 768,
       "artist": "小沢健二",
       "title": "いちょう並木のセレナーデ",
       "movement": "→",
-      "days_at_number_1": 2,
+      "days_at_number_1": 0,
       "top10_streak": 6
     },
     {
-      "rank": 2,
+      "rank": 3,
       "track_id": 1219,
       "artist": "Ed Sheeran",
       "title": "Shape of You",
@@ -21,7 +30,7 @@
       "top10_streak": 3
     },
     {
-      "rank": 3,
+      "rank": 4,
       "track_id": 476,
       "artist": "シャ乱Q",
       "title": "シングルベッド",
@@ -30,22 +39,13 @@
       "top10_streak": 1
     },
     {
-      "rank": 4,
-      "track_id": 544,
-      "artist": "UNICORN",
-      "title": "大迷惑",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
       "rank": 5,
-      "track_id": 1214,
-      "artist": "Ariana Grande",
-      "title": "Into You",
+      "track_id": 1589,
+      "artist": "Massive Attack",
+      "title": "Unfinished Sympathy",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 7
     },
     {
       "rank": 6,
@@ -58,39 +58,39 @@
     },
     {
       "rank": 7,
-      "track_id": 813,
-      "artist": "Official髭男dism",
-      "title": "Pretender",
+      "track_id": 1214,
+      "artist": "Ariana Grande",
+      "title": "Into You",
       "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 8,
+      "track_id": 544,
+      "artist": "UNICORN",
+      "title": "大迷惑",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 8,
-      "track_id": 842,
-      "artist": "離婚伝説",
-      "title": "本日のおすすめ",
-      "movement": "↓1",
+      "rank": 9,
+      "track_id": 813,
+      "artist": "Official髭男dism",
+      "title": "Pretender",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 9
+      "top10_streak": 3
     },
     {
-      "rank": 9,
+      "rank": 10,
       "track_id": 553,
       "artist": "米米CLUB",
       "title": "君がいるだけで",
       "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 7
-    },
-    {
-      "rank": 10,
-      "track_id": 519,
-      "artist": "DEEN",
-      "title": "瞳そらさないで",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 2
     }
   ]
 }

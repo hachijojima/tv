@@ -4,33 +4,42 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 660,
-      "artist": "岡林信康",
-      "title": "山谷ブルース",
+      "track_id": 1394,
+      "artist": "GOING STEADY",
+      "title": "BABY BABY",
       "movement": "→",
-      "days_at_number_1": 4,
-      "top10_streak": 11
+      "days_at_number_1": 5,
+      "top10_streak": 7
     },
     {
       "rank": 2,
-      "track_id": 641,
-      "artist": "佐野元春",
-      "title": "SOMEDAY",
-      "movement": "→",
+      "track_id": 1541,
+      "artist": "Cocco",
+      "title": "カウントダウン",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 9
+    },
+    {
+      "rank": 3,
+      "track_id": 660,
+      "artist": "岡林信康",
+      "title": "山谷ブルース",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 11
     },
     {
-      "rank": 3,
+      "rank": 4,
       "track_id": 1043,
       "artist": "Television",
       "title": "Marquee Moon",
-      "movement": "↑2",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 4,
+      "rank": 5,
       "track_id": 1288,
       "artist": "BIGBANG",
       "title": "FANTASTIC BABY",
@@ -39,43 +48,25 @@
       "top10_streak": 2
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "track_id": 641,
+      "artist": "佐野元春",
+      "title": "SOMEDAY",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 7,
       "track_id": 1021,
       "artist": "スチャダラパー",
       "title": "サマージャム’95",
-      "movement": "↓2",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
-      "rank": 6,
-      "track_id": 1001,
-      "artist": "Earth, Wind & Fire",
-      "title": "September",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 7,
-      "track_id": 1002,
-      "artist": "Jamiroquai",
-      "title": "Virtual Insanity",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
       "rank": 8,
-      "track_id": 703,
-      "artist": "杉真理",
-      "title": "いとしのテラ",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 9,
       "track_id": 247,
       "artist": "思い出野郎Aチーム",
       "title": "楽しく暮らそう",
@@ -84,13 +75,22 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
-      "track_id": 356,
-      "artist": "ROUND TABLE",
-      "title": "Chocolate",
-      "movement": "NEW",
+      "rank": 9,
+      "track_id": 703,
+      "artist": "杉真理",
+      "title": "いとしのテラ",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
+    },
+    {
+      "rank": 10,
+      "track_id": 1001,
+      "artist": "Earth, Wind & Fire",
+      "title": "September",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 7
     }
   ]
 }

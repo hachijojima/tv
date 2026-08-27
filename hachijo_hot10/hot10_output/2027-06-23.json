@@ -22,75 +22,75 @@
     },
     {
       "rank": 3,
+      "track_id": 1545,
+      "artist": "Cocco",
+      "title": "水鏡",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 4,
       "track_id": 1245,
       "artist": "David Guetta",
       "title": "Titanium (feat. Sia)",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "track_id": 1581,
+      "artist": "Sonic Youth",
+      "title": "Sugar Kane",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 6,
       "track_id": 459,
       "artist": "B'z",
       "title": "ALONE",
-      "movement": "→",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 7
     },
     {
-      "rank": 5,
+      "rank": 7,
       "track_id": 1154,
       "artist": "たま",
       "title": "さよなら人類",
-      "movement": "↑2",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 10
     },
     {
-      "rank": 6,
+      "rank": 8,
       "track_id": 820,
       "artist": "YOASOBI",
       "title": "群青",
-      "movement": "↑2",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 7,
-      "track_id": 615,
-      "artist": "米米CLUB",
-      "title": "Shake Hip!",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 8,
+      "rank": 9,
       "track_id": 1228,
       "artist": "Maroon 5",
       "title": "Sugar",
-      "movement": "↓3",
+      "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
-      "rank": 9,
-      "track_id": 585,
-      "artist": "スピッツ",
-      "title": "楓",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
       "rank": 10,
-      "track_id": 1033,
-      "artist": "Billy Joel",
-      "title": "Just the Way You Are",
-      "movement": "NEW",
+      "track_id": 615,
+      "artist": "米米CLUB",
+      "title": "Shake Hip!",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     }
   ]
 }

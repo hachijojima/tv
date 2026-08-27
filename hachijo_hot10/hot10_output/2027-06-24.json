@@ -13,15 +13,33 @@
     },
     {
       "rank": 2,
+      "track_id": 1545,
+      "artist": "Cocco",
+      "title": "水鏡",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 3,
       "track_id": 1333,
       "artist": "R.E.M.",
       "title": "Man on the Moon",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "track_id": 1465,
+      "artist": "GREAT3",
+      "title": "玉突き",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 5,
       "track_id": 1154,
       "artist": "たま",
       "title": "さよなら人類",
@@ -30,65 +48,47 @@
       "top10_streak": 11
     },
     {
-      "rank": 4,
-      "track_id": 820,
-      "artist": "YOASOBI",
-      "title": "群青",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 5,
-      "track_id": 425,
-      "artist": "サニーデイ・サービス",
-      "title": "白い恋人",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
       "rank": 6,
-      "track_id": 1245,
-      "artist": "David Guetta",
-      "title": "Titanium (feat. Sia)",
-      "movement": "↓3",
+      "track_id": 1581,
+      "artist": "Sonic Youth",
+      "title": "Sugar Kane",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 2
     },
     {
       "rank": 7,
-      "track_id": 1318,
-      "artist": "Pearl Jam",
-      "title": "Alive",
+      "track_id": 425,
+      "artist": "サニーデイ・サービス",
+      "title": "白い恋人",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 8,
-      "track_id": 1279,
-      "artist": "IVE",
-      "title": "LOVE DIVE",
-      "movement": "NEW",
+      "track_id": 820,
+      "artist": "YOASOBI",
+      "title": "群青",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 3
     },
     {
       "rank": 9,
-      "track_id": 1228,
-      "artist": "Maroon 5",
-      "title": "Sugar",
-      "movement": "↓1",
+      "track_id": 1245,
+      "artist": "David Guetta",
+      "title": "Titanium (feat. Sia)",
+      "movement": "↓5",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
     {
       "rank": 10,
-      "track_id": 1024,
-      "artist": "SUPER BUTTER DOG",
-      "title": "サヨナラCOLOR",
-      "movement": "RE",
+      "track_id": 1318,
+      "artist": "Pearl Jam",
+      "title": "Alive",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

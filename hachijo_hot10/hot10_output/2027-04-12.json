@@ -16,36 +16,36 @@
       "track_id": 541,
       "artist": "山崎まさよし",
       "title": "セロリ",
-      "movement": "↑2",
+      "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 7
     },
     {
       "rank": 3,
-      "track_id": 1375,
-      "artist": "Soundgarden",
-      "title": "Black Hole Sun",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 4,
-      "track_id": 1011,
-      "artist": "Underworld",
-      "title": "Born Slippy (Nuxx)",
-      "movement": "↓2",
+      "track_id": 588,
+      "artist": "THE YELLOW MONKEY",
+      "title": "LOVE LOVE SHOW",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
     {
-      "rank": 5,
+      "rank": 4,
       "track_id": 1364,
       "artist": "Linkin Park",
       "title": "In the End",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 5,
+      "track_id": 1011,
+      "artist": "Underworld",
+      "title": "Born Slippy (Nuxx)",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 6
     },
     {
       "rank": 6,
@@ -58,12 +58,12 @@
     },
     {
       "rank": 7,
-      "track_id": 588,
-      "artist": "THE YELLOW MONKEY",
-      "title": "LOVE LOVE SHOW",
-      "movement": "→",
+      "track_id": 1375,
+      "artist": "Soundgarden",
+      "title": "Black Hole Sun",
+      "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 2
     },
     {
       "rank": 8,
@@ -79,7 +79,7 @@
       "track_id": 1072,
       "artist": "坂本龍一",
       "title": "Thousand Knives",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 8
     },
@@ -88,7 +88,7 @@
       "track_id": 13,
       "artist": "MONO NO AWARE",
       "title": "孤独になってみたい",
-      "movement": "↓2",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 3
     }

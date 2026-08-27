@@ -22,15 +22,6 @@
     },
     {
       "rank": 3,
-      "track_id": 415,
-      "artist": "bonobos",
-      "title": "Standing There ～いま、そこに行くよ～",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 4,
       "track_id": 249,
       "artist": "キセル",
       "title": "ビューティフル デイ",
@@ -39,34 +30,34 @@
       "top10_streak": 1
     },
     {
+      "rank": 4,
+      "track_id": 1011,
+      "artist": "Underworld",
+      "title": "Born Slippy (Nuxx)",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 13
+    },
+    {
       "rank": 5,
       "track_id": 1154,
       "artist": "たま",
       "title": "さよなら人類",
-      "movement": "↑3",
+      "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 6,
-      "track_id": 1011,
-      "artist": "Underworld",
-      "title": "Born Slippy (Nuxx)",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 16
-    },
-    {
-      "rank": 7,
-      "track_id": 1315,
-      "artist": "Nirvana",
-      "title": "Come As You Are",
-      "movement": "→",
+      "track_id": 1507,
+      "artist": "じゃがたら",
+      "title": "タンゴ",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 8,
+      "rank": 7,
       "track_id": 1271,
       "artist": "BLACKPINK",
       "title": "DDU-DU DDU-DU",
@@ -75,22 +66,31 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
-      "track_id": 1061,
-      "artist": "Cyndi Lauper",
-      "title": "Time After Time",
-      "movement": "↓4",
+      "rank": 8,
+      "track_id": 1315,
+      "artist": "Nirvana",
+      "title": "Come As You Are",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 11
+      "top10_streak": 2
+    },
+    {
+      "rank": 9,
+      "track_id": 1541,
+      "artist": "Cocco",
+      "title": "カウントダウン",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 7
     },
     {
       "rank": 10,
-      "track_id": 1267,
-      "artist": "Eric Prydz",
-      "title": "Call on Me",
-      "movement": "RE",
+      "track_id": 1589,
+      "artist": "Massive Attack",
+      "title": "Unfinished Sympathy",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 4
     }
   ]
 }

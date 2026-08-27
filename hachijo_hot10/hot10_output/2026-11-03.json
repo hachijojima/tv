@@ -34,7 +34,7 @@
       "track_id": 541,
       "artist": "山崎まさよし",
       "title": "セロリ",
-      "movement": "↑5",
+      "movement": "↑6",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
@@ -43,7 +43,7 @@
       "track_id": 1046,
       "artist": "星野源",
       "title": "不思議",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
@@ -67,6 +67,15 @@
     },
     {
       "rank": 8,
+      "track_id": 10,
+      "artist": "MIZ",
+      "title": "パジャマでハイウェイ",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 13
+    },
+    {
+      "rank": 9,
       "track_id": 1309,
       "artist": "Red Hot Chili Peppers",
       "title": "Under the Bridge",
@@ -75,22 +84,13 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
-      "track_id": 10,
-      "artist": "MIZ",
-      "title": "パジャマでハイウェイ",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 14
-    },
-    {
       "rank": 10,
-      "track_id": 1249,
-      "artist": "Zedd",
-      "title": "Clarity (feat. Foxes)",
-      "movement": "→",
+      "track_id": 1475,
+      "artist": "スチャダラパー",
+      "title": "ゲームボーイズ",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
     }
   ]
 }

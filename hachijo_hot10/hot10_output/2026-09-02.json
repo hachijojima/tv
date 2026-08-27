@@ -7,7 +7,7 @@
       "track_id": 541,
       "artist": "山崎まさよし",
       "title": "セロリ",
-      "movement": "↑1",
+      "movement": "↑2",
       "days_at_number_1": 1,
       "top10_streak": 4
     },
@@ -34,27 +34,27 @@
       "track_id": 1028,
       "artist": "Kendrick Lamar",
       "title": "Alright",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
     {
       "rank": 5,
-      "track_id": 1011,
-      "artist": "Underworld",
-      "title": "Born Slippy (Nuxx)",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 6,
       "track_id": 1288,
       "artist": "BIGBANG",
       "title": "FANTASTIC BABY",
       "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 3
+    },
+    {
+      "rank": 6,
+      "track_id": 1011,
+      "artist": "Underworld",
+      "title": "Born Slippy (Nuxx)",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 8
     },
     {
       "rank": 7,
@@ -76,21 +76,21 @@
     },
     {
       "rank": 9,
-      "track_id": 1345,
-      "artist": "The Cranberries",
-      "title": "Zombie",
-      "movement": "↓1",
+      "track_id": 776,
+      "artist": "Vaundy",
+      "title": "東京フラッシュ",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 2
     },
     {
       "rank": 10,
-      "track_id": 641,
-      "artist": "佐野元春",
-      "title": "SOMEDAY",
-      "movement": "NEW",
+      "track_id": 1400,
+      "artist": "フジファブリック",
+      "title": "銀河",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 5
     }
   ]
 }

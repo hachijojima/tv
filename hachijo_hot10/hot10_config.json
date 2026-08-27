@@ -1,6 +1,6 @@
 {
   "version": "F4.1-B",
-  "master_path": "HACHIJO_HOT10_master_1389_F41_input.csv",
+  "master_path": "HACHIJO_HOT10_master_1589_F41_MICROTUNE.csv",
   "top_n": 10,
   "timezone": "Asia/Tokyo",
   "chart_boundary_hour": 3,

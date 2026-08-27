@@ -4,39 +4,39 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1348,
-      "artist": "No Doubt",
-      "title": "Don't Speak",
-      "movement": "→",
-      "days_at_number_1": 3,
-      "top10_streak": 3
+      "track_id": 1543,
+      "artist": "Cocco",
+      "title": "Raining",
+      "movement": "↑1",
+      "days_at_number_1": 1,
+      "top10_streak": 4
     },
     {
       "rank": 2,
+      "track_id": 1348,
+      "artist": "No Doubt",
+      "title": "Don't Speak",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 3,
+      "track_id": 459,
+      "artist": "B'z",
+      "title": "ALONE",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 4,
       "track_id": 1204,
       "artist": "Rihanna",
       "title": "We Found Love",
       "movement": "↑5",
       "days_at_number_1": 0,
       "top10_streak": 2
-    },
-    {
-      "rank": 3,
-      "track_id": 1241,
-      "artist": "Avicii",
-      "title": "Wake Me Up",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 4,
-      "track_id": 348,
-      "artist": "レミオロメン",
-      "title": "電話",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 4
     },
     {
       "rank": 5,
@@ -49,15 +49,6 @@
     },
     {
       "rank": 6,
-      "track_id": 18,
-      "artist": "MONO NO AWARE",
-      "title": "アングル",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 7,
       "track_id": 541,
       "artist": "山崎まさよし",
       "title": "セロリ",
@@ -66,31 +57,40 @@
       "top10_streak": 1
     },
     {
-      "rank": 8,
-      "track_id": 489,
-      "artist": "小泉今日子",
-      "title": "あなたに会えてよかった",
+      "rank": 7,
+      "track_id": 348,
+      "artist": "レミオロメン",
+      "title": "電話",
       "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 4
+    },
+    {
+      "rank": 8,
+      "track_id": 1241,
+      "artist": "Avicii",
+      "title": "Wake Me Up",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 6
     },
     {
       "rank": 9,
-      "track_id": 459,
-      "artist": "B'z",
-      "title": "ALONE",
-      "movement": "↑1",
+      "track_id": 18,
+      "artist": "MONO NO AWARE",
+      "title": "アングル",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 1275,
-      "artist": "TWICE",
-      "title": "TT",
-      "movement": "RE",
+      "track_id": 489,
+      "artist": "小泉今日子",
+      "title": "あなたに会えてよかった",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 5
     }
   ]
 }

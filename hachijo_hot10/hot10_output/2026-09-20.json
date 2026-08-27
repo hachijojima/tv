@@ -13,15 +13,6 @@
     },
     {
       "rank": 2,
-      "track_id": 1040,
-      "artist": "METAFIVE",
-      "title": "環境と心理",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 3,
       "track_id": 1208,
       "artist": "Bruno Mars",
       "title": "24K Magic",
@@ -30,16 +21,7 @@
       "top10_streak": 2
     },
     {
-      "rank": 4,
-      "track_id": 12,
-      "artist": "MIZ",
-      "title": "丘",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 5,
+      "rank": 3,
       "track_id": 361,
       "artist": "ACIDMAN",
       "title": "造花が笑う",
@@ -48,20 +30,38 @@
       "top10_streak": 1
     },
     {
-      "rank": 6,
+      "rank": 4,
       "track_id": 1383,
       "artist": "Bon Jovi",
       "title": "It's My Life",
-      "movement": "↓3",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 7
+    },
+    {
+      "rank": 5,
+      "track_id": 1040,
+      "artist": "METAFIVE",
+      "title": "環境と心理",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 6,
+      "track_id": 12,
+      "artist": "MIZ",
+      "title": "丘",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 8
     },
     {
       "rank": 7,
       "track_id": 858,
       "artist": "ずっと真夜中でいいのに。",
       "title": "あいつら全員同窓会",
-      "movement": "↓2",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -76,12 +76,12 @@
     },
     {
       "rank": 9,
-      "track_id": 7,
-      "artist": "MONO NO AWARE",
-      "title": "ゾッコン",
-      "movement": "→",
+      "track_id": 641,
+      "artist": "佐野元春",
+      "title": "SOMEDAY",
+      "movement": "↓6",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 11
     },
     {
       "rank": 10,

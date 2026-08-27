@@ -25,7 +25,7 @@
       "track_id": 541,
       "artist": "山崎まさよし",
       "title": "セロリ",
-      "movement": "↓1",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 10
     },
@@ -40,24 +40,15 @@
     },
     {
       "rank": 5,
-      "track_id": 1011,
-      "artist": "Underworld",
-      "title": "Born Slippy (Nuxx)",
-      "movement": "↑1",
+      "track_id": 377,
+      "artist": "Fishmans",
+      "title": "ナイトクルージング",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 9
+      "top10_streak": 3
     },
     {
       "rank": 6,
-      "track_id": 1375,
-      "artist": "Soundgarden",
-      "title": "Black Hole Sun",
-      "movement": "↓5",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 7,
       "track_id": 524,
       "artist": "サザンオールスターズ",
       "title": "希望の轍",
@@ -66,16 +57,16 @@
       "top10_streak": 1
     },
     {
-      "rank": 8,
-      "track_id": 377,
-      "artist": "Fishmans",
-      "title": "ナイトクルージング",
-      "movement": "↓5",
+      "rank": 7,
+      "track_id": 1011,
+      "artist": "Underworld",
+      "title": "Born Slippy (Nuxx)",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 9
     },
     {
-      "rank": 9,
+      "rank": 8,
       "track_id": 1023,
       "artist": "Carpenters",
       "title": "(They Long To Be) Close To You",
@@ -84,11 +75,20 @@
       "top10_streak": 1
     },
     {
+      "rank": 9,
+      "track_id": 1375,
+      "artist": "Soundgarden",
+      "title": "Black Hole Sun",
+      "movement": "↓6",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
       "rank": 10,
       "track_id": 1229,
       "artist": "Harry Styles",
       "title": "As It Was",
-      "movement": "↓5",
+      "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 3
     }

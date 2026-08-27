@@ -22,33 +22,24 @@
     },
     {
       "rank": 3,
-      "track_id": 459,
-      "artist": "B'z",
-      "title": "ALONE",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
-      "rank": 4,
       "track_id": 552,
       "artist": "森高千里",
       "title": "雨",
-      "movement": "→",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 10
     },
     {
-      "rank": 5,
+      "rank": 4,
       "track_id": 998,
       "artist": "Donald Fagen",
       "title": "The Nightfly",
-      "movement": "↑2",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 6,
+      "rank": 5,
       "track_id": 15,
       "artist": "MONO NO AWARE",
       "title": "もうけもん",
@@ -57,16 +48,16 @@
       "top10_streak": 1
     },
     {
-      "rank": 7,
-      "track_id": 10,
-      "artist": "MIZ",
-      "title": "パジャマでハイウェイ",
-      "movement": "↑1",
+      "rank": 6,
+      "track_id": 1584,
+      "artist": "Elliott Smith",
+      "title": "Between the Bars",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 6
     },
     {
-      "rank": 8,
+      "rank": 7,
       "track_id": 1003,
       "artist": "The Beach Boys",
       "title": "Wouldn’t It Be Nice",
@@ -75,20 +66,29 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
+      "rank": 8,
       "track_id": 1305,
       "artist": "鼓童",
       "title": "凰（おおとり）",
-      "movement": "↓4",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 8
     },
     {
+      "rank": 9,
+      "track_id": 1043,
+      "artist": "Television",
+      "title": "Marquee Moon",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
       "rank": 10,
-      "track_id": 1061,
-      "artist": "Cyndi Lauper",
-      "title": "Time After Time",
-      "movement": "→",
+      "track_id": 1515,
+      "artist": "戸川純",
+      "title": "レーダーマン",
+      "movement": "↓7",
       "days_at_number_1": 0,
       "top10_streak": 2
     }

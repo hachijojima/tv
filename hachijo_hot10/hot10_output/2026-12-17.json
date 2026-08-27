@@ -25,7 +25,7 @@
       "track_id": 1332,
       "artist": "R.E.M.",
       "title": "Everybody Hurts",
-      "movement": "↑1",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
@@ -34,21 +34,12 @@
       "track_id": 533,
       "artist": "TRF",
       "title": "survival dAnce ～no no cry more～",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
       "rank": 5,
-      "track_id": 779,
-      "artist": "ヨルシカ",
-      "title": "ただ君に晴れ",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 6,
       "track_id": 1108,
       "artist": "Portishead",
       "title": "Glory Box",
@@ -57,16 +48,34 @@
       "top10_streak": 1
     },
     {
-      "rank": 7,
+      "rank": 6,
       "track_id": 1222,
       "artist": "Billie Eilish",
       "title": "BIRDS OF A FEATHER",
-      "movement": "↓4",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
+      "rank": 7,
+      "track_id": 779,
+      "artist": "ヨルシカ",
+      "title": "ただ君に晴れ",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
       "rank": 8,
+      "track_id": 1251,
+      "artist": "Kygo",
+      "title": "Firestone (feat. Conrad Sewell)",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
       "track_id": 190,
       "artist": "AAAMYYY",
       "title": "HOME",
@@ -75,22 +84,13 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
-      "track_id": 1076,
-      "artist": "Alicia Keys",
-      "title": "If I Ain’t Got You",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
       "rank": 10,
-      "track_id": 1251,
-      "artist": "Kygo",
-      "title": "Firestone (feat. Conrad Sewell)",
-      "movement": "RE",
+      "track_id": 1553,
+      "artist": "BONNIE PINK",
+      "title": "Forget Me Not",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     }
   ]
 }

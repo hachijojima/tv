@@ -22,6 +22,15 @@
     },
     {
       "rank": 3,
+      "track_id": 1508,
+      "artist": "RCサクセション",
+      "title": "多摩蘭坂",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 4,
       "track_id": 1204,
       "artist": "Rihanna",
       "title": "We Found Love",
@@ -30,16 +39,16 @@
       "top10_streak": 1
     },
     {
-      "rank": 4,
+      "rank": 5,
       "track_id": 1305,
       "artist": "鼓童",
       "title": "凰（おおとり）",
-      "movement": "↓2",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 10
     },
     {
-      "rank": 5,
+      "rank": 6,
       "track_id": 109,
       "artist": "アカシック",
       "title": "今日から夜は家にいるよ",
@@ -48,25 +57,7 @@
       "top10_streak": 1
     },
     {
-      "rank": 6,
-      "track_id": 2,
-      "artist": "MIZ",
-      "title": "パレード",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
       "rank": 7,
-      "track_id": 379,
-      "artist": "UA",
-      "title": "悲しみジョニー",
-      "movement": "↓6",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 8,
       "track_id": 434,
       "artist": "ASIAN KUNG-FU GENERATION",
       "title": "ソラニン",
@@ -75,22 +66,31 @@
       "top10_streak": 2
     },
     {
-      "rank": 9,
-      "track_id": 1091,
-      "artist": "The Cure",
-      "title": "Boys Don’t Cry",
-      "movement": "↓4",
+      "rank": 8,
+      "track_id": 379,
+      "artist": "UA",
+      "title": "悲しみジョニー",
+      "movement": "↓7",
       "days_at_number_1": 0,
-      "top10_streak": 10
+      "top10_streak": 3
+    },
+    {
+      "rank": 9,
+      "track_id": 1134,
+      "artist": "Diana Ross",
+      "title": "I’m Coming Out",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 7
     },
     {
       "rank": 10,
-      "track_id": 492,
-      "artist": "CHAGE and ASKA",
-      "title": "SAY YES",
-      "movement": "RE",
+      "track_id": 2,
+      "artist": "MIZ",
+      "title": "パレード",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 4
     }
   ]
 }

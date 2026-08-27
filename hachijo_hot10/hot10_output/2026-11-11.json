@@ -7,27 +7,27 @@
       "track_id": 1280,
       "artist": "IVE",
       "title": "I AM",
-      "movement": "→",
-      "days_at_number_1": 4,
+      "movement": "↑1",
+      "days_at_number_1": 1,
       "top10_streak": 5
     },
     {
       "rank": 2,
+      "track_id": 1475,
+      "artist": "スチャダラパー",
+      "title": "ゲームボーイズ",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 9
+    },
+    {
+      "rank": 3,
       "track_id": 16,
       "artist": "MIZ",
       "title": "暑中見舞い",
       "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 5
-    },
-    {
-      "rank": 3,
-      "track_id": 1028,
-      "artist": "Kendrick Lamar",
-      "title": "Alright",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 4
     },
     {
       "rank": 4,
@@ -40,6 +40,15 @@
     },
     {
       "rank": 5,
+      "track_id": 1028,
+      "artist": "Kendrick Lamar",
+      "title": "Alright",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 6,
       "track_id": 784,
       "artist": "緑黄色社会",
       "title": "Mela!",
@@ -48,7 +57,7 @@
       "top10_streak": 7
     },
     {
-      "rank": 6,
+      "rank": 7,
       "track_id": 612,
       "artist": "渡辺美里",
       "title": "サマータイム ブルース",
@@ -57,7 +66,7 @@
       "top10_streak": 2
     },
     {
-      "rank": 7,
+      "rank": 8,
       "track_id": 467,
       "artist": "LUNA SEA",
       "title": "ROSIER",
@@ -66,31 +75,22 @@
       "top10_streak": 2
     },
     {
-      "rank": 8,
+      "rank": 9,
       "track_id": 1030,
       "artist": "Radiohead",
       "title": "Creep",
       "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 3
     },
     {
-      "rank": 9,
+      "rank": 10,
       "track_id": 541,
       "artist": "山崎まさよし",
       "title": "セロリ",
       "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 11
-    },
-    {
-      "rank": 10,
-      "track_id": 533,
-      "artist": "TRF",
-      "title": "survival dAnce ～no no cry more～",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 2
     }
   ]
 }

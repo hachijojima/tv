@@ -13,30 +13,30 @@
     },
     {
       "rank": 2,
-      "track_id": 11,
-      "artist": "MONO NO AWARE",
-      "title": "異邦人",
-      "movement": "↑3",
+      "track_id": 1043,
+      "artist": "Television",
+      "title": "Marquee Moon",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
       "rank": 3,
-      "track_id": 1043,
-      "artist": "Television",
-      "title": "Marquee Moon",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 4,
       "track_id": 852,
       "artist": "Official髭男dism",
       "title": "宿命",
-      "movement": "→",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
+    },
+    {
+      "rank": 4,
+      "track_id": 11,
+      "artist": "MONO NO AWARE",
+      "title": "異邦人",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
     },
     {
       "rank": 5,

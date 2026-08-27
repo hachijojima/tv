@@ -7,7 +7,7 @@
       "track_id": 1241,
       "artist": "Avicii",
       "title": "Wake Me Up",
-      "movement": "↑5",
+      "movement": "↑6",
       "days_at_number_1": 1,
       "top10_streak": 2
     },
@@ -31,51 +31,42 @@
     },
     {
       "rank": 4,
-      "track_id": 1247,
-      "artist": "Swedish House Mafia",
-      "title": "Don't You Worry Child",
-      "movement": "↑5",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 5,
-      "track_id": 20,
-      "artist": "MONO NO AWARE",
-      "title": "水が湧いた",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 6,
       "track_id": 604,
       "artist": "斉藤和義",
       "title": "彼女",
-      "movement": "↓4",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
-      "rank": 7,
+      "rank": 5,
       "track_id": 1240,
       "artist": "Pharrell Williams",
       "title": "Happy",
-      "movement": "↓6",
+      "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 8,
-      "track_id": 2,
-      "artist": "MIZ",
-      "title": "パレード",
-      "movement": "↓5",
+      "rank": 6,
+      "track_id": 839,
+      "artist": "Awesome City Club",
+      "title": "アウトサイダー",
+      "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 3
     },
     {
-      "rank": 9,
+      "rank": 7,
+      "track_id": 1584,
+      "artist": "Elliott Smith",
+      "title": "Between the Bars",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 15
+    },
+    {
+      "rank": 8,
       "track_id": 489,
       "artist": "小泉今日子",
       "title": "あなたに会えてよかった",
@@ -84,11 +75,20 @@
       "top10_streak": 1
     },
     {
+      "rank": 9,
+      "track_id": 2,
+      "artist": "MIZ",
+      "title": "パレード",
+      "movement": "↓6",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
       "rank": 10,
-      "track_id": 543,
-      "artist": "奥田民生",
-      "title": "さすらい",
-      "movement": "NEW",
+      "track_id": 459,
+      "artist": "B'z",
+      "title": "ALONE",
+      "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

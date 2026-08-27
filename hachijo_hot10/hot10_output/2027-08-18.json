@@ -31,66 +31,66 @@
     },
     {
       "rank": 4,
-      "track_id": 1346,
-      "artist": "Garbage",
-      "title": "Stupid Girl",
+      "track_id": 607,
+      "artist": "THE BLUE HEARTS",
+      "title": "青空",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 20,
+      "artist": "MONO NO AWARE",
+      "title": "水が湧いた",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 6,
+      "track_id": 1091,
+      "artist": "The Cure",
+      "title": "Boys Don’t Cry",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 7,
+      "track_id": 563,
+      "artist": "ポルノグラフィティ",
+      "title": "サウダージ",
       "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 5,
-      "track_id": 607,
-      "artist": "THE BLUE HEARTS",
-      "title": "青空",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 6,
-      "track_id": 20,
-      "artist": "MONO NO AWARE",
-      "title": "水が湧いた",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 7,
-      "track_id": 1091,
-      "artist": "The Cure",
-      "title": "Boys Don’t Cry",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
       "rank": 8,
-      "track_id": 563,
-      "artist": "ポルノグラフィティ",
-      "title": "サウダージ",
+      "track_id": 1347,
+      "artist": "Garbage",
+      "title": "Only Happy When It Rains",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 3
     },
     {
       "rank": 9,
       "track_id": 1215,
       "artist": "Taylor Swift",
       "title": "Shake It Off",
-      "movement": "→",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 10,
-      "track_id": 565,
-      "artist": "hitomi",
-      "title": "CANDY GIRL",
-      "movement": "NEW",
+      "track_id": 471,
+      "artist": "TRF",
+      "title": "寒い夜だから…",
+      "movement": "↓7",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 6
     }
   ]
 }

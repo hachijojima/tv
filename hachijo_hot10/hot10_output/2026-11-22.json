@@ -54,7 +54,7 @@
       "title": "Time After Time",
       "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 8
+      "top10_streak": 7
     },
     {
       "rank": 7,
@@ -76,21 +76,21 @@
     },
     {
       "rank": 9,
-      "track_id": 1011,
-      "artist": "Underworld",
-      "title": "Born Slippy (Nuxx)",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 10,
       "track_id": 494,
       "artist": "久保田利伸",
       "title": "LA・LA・LA LOVE SONG",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1011,
+      "artist": "Underworld",
+      "title": "Born Slippy (Nuxx)",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     }
   ]
 }

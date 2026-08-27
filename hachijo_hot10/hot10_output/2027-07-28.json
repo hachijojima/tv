@@ -4,15 +4,24 @@
   "chart": [
     {
       "rank": 1,
+      "track_id": 1450,
+      "artist": "ゆらゆら帝国",
+      "title": "発光体",
+      "movement": "→",
+      "days_at_number_1": 3,
+      "top10_streak": 3
+    },
+    {
+      "rank": 2,
       "track_id": 476,
       "artist": "シャ乱Q",
       "title": "シングルベッド",
       "movement": "↑2",
-      "days_at_number_1": 1,
+      "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 2,
+      "rank": 3,
       "track_id": 768,
       "artist": "小沢健二",
       "title": "いちょう並木のセレナーデ",
@@ -21,7 +30,7 @@
       "top10_streak": 7
     },
     {
-      "rank": 3,
+      "rank": 4,
       "track_id": 1219,
       "artist": "Ed Sheeran",
       "title": "Shape of You",
@@ -30,34 +39,34 @@
       "top10_streak": 4
     },
     {
-      "rank": 4,
+      "rank": 5,
       "track_id": 1214,
       "artist": "Ariana Grande",
       "title": "Into You",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 5,
-      "track_id": 1242,
-      "artist": "Avicii",
-      "title": "Levels",
-      "movement": "↑1",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
       "rank": 6,
-      "track_id": 544,
-      "artist": "UNICORN",
-      "title": "大迷惑",
-      "movement": "↓2",
+      "track_id": 1242,
+      "artist": "Avicii",
+      "title": "Levels",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 10
+      "top10_streak": 5
     },
     {
       "rank": 7,
+      "track_id": 1589,
+      "artist": "Massive Attack",
+      "title": "Unfinished Sympathy",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 8,
       "track_id": 14,
       "artist": "MIZ",
       "title": "とびうおのうた",
@@ -66,20 +75,11 @@
       "top10_streak": 1
     },
     {
-      "rank": 8,
+      "rank": 9,
       "track_id": 155,
       "artist": "パスピエ",
       "title": "MATATABISTEP",
       "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 9,
-      "track_id": 471,
-      "artist": "TRF",
-      "title": "寒い夜だから…",
-      "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     },

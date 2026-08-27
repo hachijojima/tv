@@ -22,6 +22,15 @@
     },
     {
       "rank": 3,
+      "track_id": 471,
+      "artist": "TRF",
+      "title": "寒い夜だから…",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 4,
       "track_id": 901,
       "artist": "R.E.M.",
       "title": "Nightswimming",
@@ -30,29 +39,20 @@
       "top10_streak": 1
     },
     {
-      "rank": 4,
-      "track_id": 487,
-      "artist": "PRINCESS PRINCESS",
-      "title": "M",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 12
-    },
-    {
       "rank": 5,
-      "track_id": 548,
-      "artist": "REBECCA",
-      "title": "RASPBERRY DREAM",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 6,
       "track_id": 1072,
       "artist": "坂本龍一",
       "title": "Thousand Knives",
-      "movement": "↑1",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 6,
+      "track_id": 548,
+      "artist": "REBECCA",
+      "title": "RASPBERRY DREAM",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -67,30 +67,30 @@
     },
     {
       "rank": 8,
-      "track_id": 1346,
+      "track_id": 1347,
       "artist": "Garbage",
-      "title": "Stupid Girl",
-      "movement": "→",
+      "title": "Only Happy When It Rains",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
     },
     {
       "rank": 9,
-      "track_id": 563,
-      "artist": "ポルノグラフィティ",
-      "title": "サウダージ",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 10,
       "track_id": 12,
       "artist": "MIZ",
       "title": "丘",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 563,
+      "artist": "ポルノグラフィティ",
+      "title": "サウダージ",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     }
   ]
 }

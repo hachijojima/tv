@@ -4,24 +4,15 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1023,
-      "artist": "Carpenters",
-      "title": "(They Long To Be) Close To You",
-      "movement": "↑2",
-      "days_at_number_1": 1,
-      "top10_streak": 7
-    },
-    {
-      "rank": 2,
       "track_id": 1020,
       "artist": "The Doobie Brothers",
       "title": "What a Fool Believes",
-      "movement": "↓1",
-      "days_at_number_1": 0,
+      "movement": "→",
+      "days_at_number_1": 5,
       "top10_streak": 9
     },
     {
-      "rank": 3,
+      "rank": 2,
       "track_id": 1134,
       "artist": "Diana Ross",
       "title": "I’m Coming Out",
@@ -30,7 +21,7 @@
       "top10_streak": 2
     },
     {
-      "rank": 4,
+      "rank": 3,
       "track_id": 1241,
       "artist": "Avicii",
       "title": "Wake Me Up",
@@ -39,7 +30,25 @@
       "top10_streak": 2
     },
     {
+      "rank": 4,
+      "track_id": 1584,
+      "artist": "Elliott Smith",
+      "title": "Between the Bars",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
       "rank": 5,
+      "track_id": 495,
+      "artist": "MISIA",
+      "title": "つつみ込むように…",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 6,
       "track_id": 1028,
       "artist": "Kendrick Lamar",
       "title": "Alright",
@@ -48,49 +57,40 @@
       "top10_streak": 1
     },
     {
-      "rank": 6,
+      "rank": 7,
       "track_id": 1359,
       "artist": "Franz Ferdinand",
       "title": "Take Me Out",
-      "movement": "↑2",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
-    },
-    {
-      "rank": 7,
-      "track_id": 281,
-      "artist": "ピチカート・ファイヴ",
-      "title": "東京は夜の七時",
-      "movement": "↓5",
-      "days_at_number_1": 0,
-      "top10_streak": 7
     },
     {
       "rank": 8,
       "track_id": 325,
       "artist": "SAKEROCK",
       "title": "慰安旅行",
-      "movement": "↓3",
+      "movement": "↓5",
       "days_at_number_1": 0,
       "top10_streak": 10
     },
     {
       "rank": 9,
+      "track_id": 281,
+      "artist": "ピチカート・ファイヴ",
+      "title": "東京は夜の七時",
+      "movement": "↓7",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 10,
       "track_id": 1205,
       "artist": "Beyoncé",
       "title": "Crazy in Love",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
-    },
-    {
-      "rank": 10,
-      "track_id": 738,
-      "artist": "松田聖子",
-      "title": "瑠璃色の地球",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 6
     }
   ]
 }

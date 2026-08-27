@@ -16,7 +16,7 @@
       "track_id": 259,
       "artist": "ドミコ",
       "title": "ペーパーロールスター",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -25,7 +25,7 @@
       "track_id": 762,
       "artist": "ティン・パン・アレー",
       "title": "北京ダック",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 11
     },
@@ -40,15 +40,6 @@
     },
     {
       "rank": 5,
-      "track_id": 1247,
-      "artist": "Swedish House Mafia",
-      "title": "Don't You Worry Child",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 6,
       "track_id": 1325,
       "artist": "Green Day",
       "title": "American Idiot",
@@ -57,13 +48,22 @@
       "top10_streak": 1
     },
     {
-      "rank": 7,
+      "rank": 6,
       "track_id": 451,
       "artist": "WANDS",
       "title": "時の扉",
       "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 3
+    },
+    {
+      "rank": 7,
+      "track_id": 1584,
+      "artist": "Elliott Smith",
+      "title": "Between the Bars",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 11
     },
     {
       "rank": 8,
@@ -76,18 +76,18 @@
     },
     {
       "rank": 9,
-      "track_id": 998,
-      "artist": "Donald Fagen",
-      "title": "The Nightfly",
-      "movement": "↓8",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 10,
       "track_id": 1344,
       "artist": "The Cranberries",
       "title": "Linger",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 10,
+      "track_id": 1247,
+      "artist": "Swedish House Mafia",
+      "title": "Don't You Worry Child",
       "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 2

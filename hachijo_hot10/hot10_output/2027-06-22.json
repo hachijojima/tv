@@ -7,7 +7,7 @@
       "track_id": 1023,
       "artist": "Carpenters",
       "title": "(They Long To Be) Close To You",
-      "movement": "↑4",
+      "movement": "↑6",
       "days_at_number_1": 1,
       "top10_streak": 2
     },
@@ -16,7 +16,7 @@
       "track_id": 1333,
       "artist": "R.E.M.",
       "title": "Man on the Moon",
-      "movement": "RE",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
@@ -43,25 +43,25 @@
       "track_id": 1228,
       "artist": "Maroon 5",
       "title": "Sugar",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
       "rank": 6,
-      "track_id": 585,
-      "artist": "スピッツ",
-      "title": "楓",
-      "movement": "↑3",
+      "track_id": 1336,
+      "artist": "Coldplay",
+      "title": "Clocks",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 6
     },
     {
       "rank": 7,
       "track_id": 1154,
       "artist": "たま",
       "title": "さよなら人類",
-      "movement": "↓1",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 9
     },
@@ -76,21 +76,21 @@
     },
     {
       "rank": 9,
+      "track_id": 523,
+      "artist": "スピッツ",
+      "title": "渚",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 10,
       "track_id": 615,
       "artist": "米米CLUB",
       "title": "Shake Hip!",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
-    },
-    {
-      "rank": 10,
-      "track_id": 1336,
-      "artist": "Coldplay",
-      "title": "Clocks",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 4
     }
   ]
 }

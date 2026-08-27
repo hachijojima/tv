@@ -13,6 +13,15 @@
     },
     {
       "rank": 2,
+      "track_id": 1068,
+      "artist": "Simon & Garfunkel",
+      "title": "Bridge Over Troubled Water",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 3,
       "track_id": 1327,
       "artist": "Weezer",
       "title": "Buddy Holly",
@@ -21,20 +30,11 @@
       "top10_streak": 11
     },
     {
-      "rank": 3,
-      "track_id": 1068,
-      "artist": "Simon & Garfunkel",
-      "title": "Bridge Over Troubled Water",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
       "rank": 4,
       "track_id": 552,
       "artist": "森高千里",
       "title": "雨",
-      "movement": "→",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
@@ -43,24 +43,24 @@
       "track_id": 541,
       "artist": "山崎まさよし",
       "title": "セロリ",
-      "movement": "↑2",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
       "rank": 6,
-      "track_id": 613,
-      "artist": "小泉今日子",
-      "title": "優しい雨",
-      "movement": "↑3",
+      "track_id": 1395,
+      "artist": "GOING STEADY",
+      "title": "銀河鉄道の夜",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 5
     },
     {
       "rank": 7,
-      "track_id": 502,
-      "artist": "Do As Infinity",
-      "title": "深い森",
+      "track_id": 1535,
+      "artist": "大瀧詠一",
+      "title": "雨のウェンズデイ",
       "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
@@ -70,7 +70,7 @@
       "track_id": 1237,
       "artist": "ROSÉ",
       "title": "APT. (with Bruno Mars)",
-      "movement": "↓3",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
@@ -79,7 +79,7 @@
       "track_id": 701,
       "artist": "シュガー・ベイブ",
       "title": "今日はなんだか",
-      "movement": "↓3",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 4
     },

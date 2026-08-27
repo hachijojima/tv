@@ -4,15 +4,24 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1280,
-      "artist": "IVE",
-      "title": "I AM",
-      "movement": "→",
-      "days_at_number_1": 3,
-      "top10_streak": 9
+      "track_id": 1475,
+      "artist": "スチャダラパー",
+      "title": "ゲームボーイズ",
+      "movement": "↑1",
+      "days_at_number_1": 1,
+      "top10_streak": 13
     },
     {
       "rank": 2,
+      "track_id": 1280,
+      "artist": "IVE",
+      "title": "I AM",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 9
+    },
+    {
+      "rank": 3,
       "track_id": 1028,
       "artist": "Kendrick Lamar",
       "title": "Alright",
@@ -21,7 +30,7 @@
       "top10_streak": 8
     },
     {
-      "rank": 3,
+      "rank": 4,
       "track_id": 1145,
       "artist": "tofubeats",
       "title": "水星 (feat. オノマトペ大臣)",
@@ -30,16 +39,16 @@
       "top10_streak": 3
     },
     {
-      "rank": 4,
-      "track_id": 568,
-      "artist": "椎名林檎",
-      "title": "本能",
-      "movement": "→",
+      "rank": 5,
+      "track_id": 1514,
+      "artist": "戸川純",
+      "title": "玉姫様",
+      "movement": "↑4",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 2
     },
     {
-      "rank": 5,
+      "rank": 6,
       "track_id": 470,
       "artist": "TM NETWORK",
       "title": "Get Wild",
@@ -48,7 +57,16 @@
       "top10_streak": 1
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "track_id": 568,
+      "artist": "椎名林檎",
+      "title": "本能",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 8,
       "track_id": 585,
       "artist": "スピッツ",
       "title": "楓",
@@ -57,7 +75,7 @@
       "top10_streak": 1
     },
     {
-      "rank": 7,
+      "rank": 9,
       "track_id": 473,
       "artist": "Every Little Thing",
       "title": "Time goes by",
@@ -66,31 +84,13 @@
       "top10_streak": 1
     },
     {
-      "rank": 8,
+      "rank": 10,
       "track_id": 56,
       "artist": "折坂悠太",
       "title": "朝顔",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
-    },
-    {
-      "rank": 9,
-      "track_id": 1061,
-      "artist": "Cyndi Lauper",
-      "title": "Time After Time",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 10,
-      "track_id": 1228,
-      "artist": "Maroon 5",
-      "title": "Sugar",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
     }
   ]
 }

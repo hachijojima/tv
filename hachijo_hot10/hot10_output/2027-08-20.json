@@ -34,25 +34,25 @@
       "track_id": 901,
       "artist": "R.E.M.",
       "title": "Nightswimming",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
       "rank": 5,
-      "track_id": 1346,
+      "track_id": 1347,
       "artist": "Garbage",
-      "title": "Stupid Girl",
-      "movement": "↓2",
+      "title": "Only Happy When It Rains",
+      "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 5
     },
     {
       "rank": 6,
       "track_id": 607,
       "artist": "THE BLUE HEARTS",
       "title": "青空",
-      "movement": "→",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
@@ -61,7 +61,7 @@
       "track_id": 24,
       "artist": "シャムキャッツ",
       "title": "Four O’clock Flower",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -79,7 +79,7 @@
       "track_id": 563,
       "artist": "ポルノグラフィティ",
       "title": "サウダージ",
-      "movement": "↓1",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 6
     },

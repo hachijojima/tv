@@ -8,7 +8,7 @@
       "artist": "MONO NO AWARE",
       "title": "ゾッコン",
       "movement": "→",
-      "days_at_number_1": 5,
+      "days_at_number_1": 6,
       "top10_streak": 9
     },
     {
@@ -22,33 +22,51 @@
     },
     {
       "rank": 3,
+      "track_id": 1474,
+      "artist": "スチャダラパー",
+      "title": "GET UP AND DANCE",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 4,
       "track_id": 1023,
       "artist": "Carpenters",
       "title": "(They Long To Be) Close To You",
-      "movement": "↑2",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 4,
+      "rank": 5,
       "track_id": 762,
       "artist": "ティン・パン・アレー",
       "title": "北京ダック",
-      "movement": "→",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
-      "rank": 5,
-      "track_id": 1280,
-      "artist": "IVE",
-      "title": "I AM",
-      "movement": "↑3",
+      "rank": 6,
+      "track_id": 1560,
+      "artist": "Mr.Children",
+      "title": "innocent world",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "track_id": 1247,
+      "artist": "Swedish House Mafia",
+      "title": "Don't You Worry Child",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 16
+    },
+    {
+      "rank": 8,
       "track_id": 1220,
       "artist": "Justin Bieber",
       "title": "Sorry",
@@ -57,40 +75,22 @@
       "top10_streak": 1
     },
     {
-      "rank": 7,
-      "track_id": 1010,
-      "artist": "Oasis",
-      "title": "Live Forever",
-      "movement": "↑2",
+      "rank": 9,
+      "track_id": 1280,
+      "artist": "IVE",
+      "title": "I AM",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 8,
-      "track_id": 16,
-      "artist": "MIZ",
-      "title": "暑中見舞い",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 9,
-      "track_id": 271,
-      "artist": "PK shampoo",
-      "title": "君の秘密になりたい",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
       "rank": 10,
-      "track_id": 1247,
-      "artist": "Swedish House Mafia",
-      "title": "Don't You Worry Child",
-      "movement": "RE",
+      "track_id": 701,
+      "artist": "シュガー・ベイブ",
+      "title": "今日はなんだか",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     }
   ]
 }

@@ -22,19 +22,19 @@
     },
     {
       "rank": 3,
-      "track_id": 459,
-      "artist": "B'z",
-      "title": "ALONE",
-      "movement": "→",
+      "track_id": 1515,
+      "artist": "戸川純",
+      "title": "レーダーマン",
+      "movement": "RE",
       "days_at_number_1": 0,
-      "top10_streak": 8
+      "top10_streak": 1
     },
     {
       "rank": 4,
       "track_id": 552,
       "artist": "森高千里",
       "title": "雨",
-      "movement": "↑2",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 9
     },
@@ -43,36 +43,36 @@
       "track_id": 1305,
       "artist": "鼓童",
       "title": "凰（おおとり）",
-      "movement": "↓1",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 7
     },
     {
       "rank": 6,
-      "track_id": 19,
-      "artist": "MONO NO AWARE",
-      "title": "幽霊船",
-      "movement": "↓1",
+      "track_id": 1584,
+      "artist": "Elliott Smith",
+      "title": "Between the Bars",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 5
     },
     {
       "rank": 7,
       "track_id": 998,
       "artist": "Donald Fagen",
       "title": "The Nightfly",
-      "movement": "↑2",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 8,
-      "track_id": 10,
-      "artist": "MIZ",
-      "title": "パジャマでハイウェイ",
-      "movement": "→",
+      "track_id": 1542,
+      "artist": "Cocco",
+      "title": "強く儚い者たち",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 9
     },
     {
       "rank": 9,
@@ -85,10 +85,10 @@
     },
     {
       "rank": 10,
-      "track_id": 1061,
-      "artist": "Cyndi Lauper",
-      "title": "Time After Time",
-      "movement": "RE",
+      "track_id": 20,
+      "artist": "MONO NO AWARE",
+      "title": "水が湧いた",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

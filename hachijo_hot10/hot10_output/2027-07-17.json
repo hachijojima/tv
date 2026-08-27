@@ -16,7 +16,7 @@
       "track_id": 585,
       "artist": "スピッツ",
       "title": "楓",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 16
     },
@@ -25,57 +25,48 @@
       "track_id": 1246,
       "artist": "David Guetta",
       "title": "Memories (feat. Kid Cudi)",
-      "movement": "↑5",
+      "movement": "↑6",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 4,
-      "track_id": 1254,
-      "artist": "The Chainsmokers",
-      "title": "Closer (feat. Halsey)",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 5,
       "track_id": 402,
       "artist": "ROUND TABLE",
       "title": "Every Every Every",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 6,
-      "track_id": 1011,
-      "artist": "Underworld",
-      "title": "Born Slippy (Nuxx)",
-      "movement": "↑1",
+      "rank": 5,
+      "track_id": 1584,
+      "artist": "Elliott Smith",
+      "title": "Between the Bars",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 6
+    },
+    {
+      "rank": 6,
+      "track_id": 1476,
+      "artist": "スチャダラパー",
+      "title": "大人になっても",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 12
     },
     {
       "rank": 7,
-      "track_id": 1024,
-      "artist": "SUPER BUTTER DOG",
-      "title": "サヨナラCOLOR",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 8,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "↓2",
+      "track_id": 1240,
+      "artist": "Pharrell Williams",
+      "title": "Happy",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 10
     },
     {
-      "rank": 9,
+      "rank": 8,
       "track_id": 1301,
       "artist": "爆風スランプ",
       "title": "旅人よ ～The Longest Journey～",
@@ -84,13 +75,22 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
-      "track_id": 688,
-      "artist": "荒井由実",
-      "title": "海を見ていた午後",
-      "movement": "NEW",
+      "rank": 9,
+      "track_id": 14,
+      "artist": "MIZ",
+      "title": "とびうおのうた",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 10
+    },
+    {
+      "rank": 10,
+      "track_id": 1589,
+      "artist": "Massive Attack",
+      "title": "Unfinished Sympathy",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     }
   ]
 }

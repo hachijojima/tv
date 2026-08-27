@@ -4,12 +4,12 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1324,
-      "artist": "Green Day",
-      "title": "Good Riddance (Time of Your Life)",
-      "movement": "↑3",
+      "track_id": 1476,
+      "artist": "スチャダラパー",
+      "title": "大人になっても",
+      "movement": "↑1",
       "days_at_number_1": 1,
-      "top10_streak": 3
+      "top10_streak": 8
     },
     {
       "rank": 2,
@@ -22,6 +22,15 @@
     },
     {
       "rank": 3,
+      "track_id": 1324,
+      "artist": "Green Day",
+      "title": "Good Riddance (Time of Your Life)",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 4,
       "track_id": 707,
       "artist": "チューリップ",
       "title": "心の旅",
@@ -30,64 +39,55 @@
       "top10_streak": 1
     },
     {
-      "rank": 4,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
       "rank": 5,
-      "track_id": 1254,
-      "artist": "The Chainsmokers",
-      "title": "Closer (feat. Halsey)",
-      "movement": "↑3",
+      "track_id": 1584,
+      "artist": "Elliott Smith",
+      "title": "Between the Bars",
+      "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 6,
-      "track_id": 341,
-      "artist": "NUMBER GIRL",
-      "title": "OMOIDE IN MY HEAD",
-      "movement": "↓1",
+      "track_id": 14,
+      "artist": "MIZ",
+      "title": "とびうおのうた",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 6
     },
     {
       "rank": 7,
-      "track_id": 133,
-      "artist": "iri",
-      "title": "rhythm",
-      "movement": "↓4",
+      "track_id": 1240,
+      "artist": "Pharrell Williams",
+      "title": "Happy",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 6
     },
     {
       "rank": 8,
-      "track_id": 1267,
-      "artist": "Eric Prydz",
-      "title": "Call on Me",
-      "movement": "RE",
+      "track_id": 1395,
+      "artist": "GOING STEADY",
+      "title": "銀河鉄道の夜",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 13
+    },
+    {
+      "rank": 9,
+      "track_id": 1024,
+      "artist": "SUPER BUTTER DOG",
+      "title": "サヨナラCOLOR",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 9,
-      "track_id": 1110,
-      "artist": "Red Hot Chili Peppers",
-      "title": "Can’t Stop",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
       "rank": 10,
-      "track_id": 1024,
-      "artist": "SUPER BUTTER DOG",
-      "title": "サヨナラCOLOR",
+      "track_id": 1267,
+      "artist": "Eric Prydz",
+      "title": "Call on Me",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1

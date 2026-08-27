@@ -9,7 +9,7 @@
       "title": "In the End",
       "movement": "→",
       "days_at_number_1": 2,
-      "top10_streak": 10
+      "top10_streak": 7
     },
     {
       "rank": 2,
@@ -25,9 +25,9 @@
       "track_id": 1240,
       "artist": "Pharrell Williams",
       "title": "Happy",
-      "movement": "↓1",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 3
     },
     {
       "rank": 4,
@@ -40,39 +40,39 @@
     },
     {
       "rank": 5,
-      "track_id": 10,
-      "artist": "MIZ",
-      "title": "パジャマでハイウェイ",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 6,
       "track_id": 1089,
       "artist": "The Beatles",
       "title": "Let It Be",
-      "movement": "↓2",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 15
     },
     {
-      "rank": 7,
+      "rank": 6,
       "track_id": 381,
       "artist": "My Little Lover",
       "title": "白いカイト",
-      "movement": "→",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 8,
-      "track_id": 1048,
-      "artist": "Ben E. King",
-      "title": "Stand By Me",
-      "movement": "→",
+      "rank": 7,
+      "track_id": 10,
+      "artist": "MIZ",
+      "title": "パジャマでハイウェイ",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
+      "track_id": 1544,
+      "artist": "Cocco",
+      "title": "樹海の糸",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 7
     },
     {
       "rank": 9,
@@ -85,12 +85,12 @@
     },
     {
       "rank": 10,
-      "track_id": 425,
-      "artist": "サニーデイ・サービス",
-      "title": "白い恋人",
-      "movement": "↓1",
+      "track_id": 1048,
+      "artist": "Ben E. King",
+      "title": "Stand By Me",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 2
     }
   ]
 }

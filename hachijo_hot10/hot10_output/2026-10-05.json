@@ -4,30 +4,30 @@
   "chart": [
     {
       "rank": 1,
+      "track_id": 1394,
+      "artist": "GOING STEADY",
+      "title": "BABY BABY",
+      "movement": "→",
+      "days_at_number_1": 5,
+      "top10_streak": 13
+    },
+    {
+      "rank": 2,
       "track_id": 1219,
       "artist": "Ed Sheeran",
       "title": "Shape of You",
       "movement": "→",
-      "days_at_number_1": 2,
+      "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 2,
+      "rank": 3,
       "track_id": 596,
       "artist": "globe",
       "title": "Can't Stop Fallin' in Love",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
-    },
-    {
-      "rank": 3,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 6
     },
     {
       "rank": 4,
@@ -40,6 +40,15 @@
     },
     {
       "rank": 5,
+      "track_id": 14,
+      "artist": "MIZ",
+      "title": "とびうおのうた",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 6,
       "track_id": 1026,
       "artist": "Björk",
       "title": "Hyper-ballad",
@@ -48,7 +57,7 @@
       "top10_streak": 2
     },
     {
-      "rank": 6,
+      "rank": 7,
       "track_id": 945,
       "artist": "Oasis",
       "title": "Don't Look Back in Anger",
@@ -57,16 +66,16 @@
       "top10_streak": 8
     },
     {
-      "rank": 7,
-      "track_id": 734,
-      "artist": "濱田金吾",
-      "title": "Midnight Cruisin'",
-      "movement": "→",
+      "rank": 8,
+      "track_id": 1544,
+      "artist": "Cocco",
+      "title": "樹海の糸",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 8
+      "top10_streak": 2
     },
     {
-      "rank": 8,
+      "rank": 9,
       "track_id": 1212,
       "artist": "Dua Lipa",
       "title": "Levitating",
@@ -75,22 +84,13 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
-      "track_id": 1013,
-      "artist": "The Police",
-      "title": "Every Breath You Take",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
       "rank": 10,
-      "track_id": 1333,
-      "artist": "R.E.M.",
-      "title": "Man on the Moon",
-      "movement": "NEW",
+      "track_id": 734,
+      "artist": "濱田金吾",
+      "title": "Midnight Cruisin'",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 8
     }
   ]
 }

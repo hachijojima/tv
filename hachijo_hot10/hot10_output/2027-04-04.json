@@ -31,66 +31,66 @@
     },
     {
       "rank": 4,
-      "track_id": 18,
-      "artist": "MONO NO AWARE",
-      "title": "アングル",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 5,
       "track_id": 221,
       "artist": "yonawo",
       "title": "good job",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
-      "rank": 6,
+      "rank": 5,
       "track_id": 473,
       "artist": "Every Little Thing",
       "title": "Time goes by",
-      "movement": "↑1",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
+      "rank": 6,
+      "track_id": 1407,
+      "artist": "SUPERCAR",
+      "title": "Sunday People",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
       "rank": 7,
-      "track_id": 1100,
-      "artist": "Bon Jovi",
-      "title": "Livin’ On A Prayer",
-      "movement": "↑3",
+      "track_id": 18,
+      "artist": "MONO NO AWARE",
+      "title": "アングル",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 8,
-      "track_id": 4,
-      "artist": "MIZ",
-      "title": "空砲",
-      "movement": "RE",
+      "track_id": 1100,
+      "artist": "Bon Jovi",
+      "title": "Livin’ On A Prayer",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     },
     {
       "rank": 9,
+      "track_id": 1474,
+      "artist": "スチャダラパー",
+      "title": "GET UP AND DANCE",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 10
+    },
+    {
+      "rank": 10,
       "track_id": 1028,
       "artist": "Kendrick Lamar",
       "title": "Alright",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
-    },
-    {
-      "rank": 10,
-      "track_id": 1351,
-      "artist": "Alanis Morissette",
-      "title": "Ironic",
-      "movement": "↓6",
-      "days_at_number_1": 0,
-      "top10_streak": 6
     }
   ]
 }

@@ -13,15 +13,24 @@
     },
     {
       "rank": 2,
+      "track_id": 1394,
+      "artist": "GOING STEADY",
+      "title": "BABY BABY",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 3,
       "track_id": 348,
       "artist": "レミオロメン",
       "title": "電話",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 8
     },
     {
-      "rank": 3,
+      "rank": 4,
       "track_id": 268,
       "artist": "リーガルリリー",
       "title": "ハナヒカリ",
@@ -30,16 +39,16 @@
       "top10_streak": 1
     },
     {
-      "rank": 4,
+      "rank": 5,
       "track_id": 548,
       "artist": "REBECCA",
       "title": "RASPBERRY DREAM",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 7
     },
     {
-      "rank": 5,
+      "rank": 6,
       "track_id": 530,
       "artist": "X JAPAN",
       "title": "Rusty Nail",
@@ -48,7 +57,16 @@
       "top10_streak": 1
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "track_id": 1505,
+      "artist": "じゃがたら",
+      "title": "都市生活者の夜",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
       "track_id": 636,
       "artist": "鈴木茂",
       "title": "砂の女",
@@ -57,40 +75,22 @@
       "top10_streak": 12
     },
     {
-      "rank": 7,
+      "rank": 9,
+      "track_id": 1510,
+      "artist": "たま",
+      "title": "オゾンのダンス",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
       "track_id": 576,
       "artist": "大黒摩季",
       "title": "あなただけ見つめてる",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
-    },
-    {
-      "rank": 8,
-      "track_id": 1,
-      "artist": "MONO NO AWARE",
-      "title": "東京",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 9,
-      "track_id": 572,
-      "artist": "BEGIN",
-      "title": "恋しくて",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 10,
-      "track_id": 500,
-      "artist": "モーニング娘。",
-      "title": "LOVEマシーン",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
     }
   ]
 }

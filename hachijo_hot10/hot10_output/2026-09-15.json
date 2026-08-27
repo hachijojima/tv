@@ -4,91 +4,91 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1383,
-      "artist": "Bon Jovi",
-      "title": "It's My Life",
-      "movement": "↑6",
+      "track_id": 1541,
+      "artist": "Cocco",
+      "title": "カウントダウン",
+      "movement": "↑2",
       "days_at_number_1": 1,
-      "top10_streak": 2
+      "top10_streak": 12
     },
     {
       "rank": 2,
-      "track_id": 1043,
-      "artist": "Television",
-      "title": "Marquee Moon",
-      "movement": "→",
+      "track_id": 641,
+      "artist": "佐野元春",
+      "title": "SOMEDAY",
+      "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 6
     },
     {
       "rank": 3,
-      "track_id": 1288,
-      "artist": "BIGBANG",
-      "title": "FANTASTIC BABY",
-      "movement": "↓2",
+      "track_id": 1043,
+      "artist": "Television",
+      "title": "Marquee Moon",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
       "rank": 4,
-      "track_id": 1021,
-      "artist": "スチャダラパー",
-      "title": "サマージャム’95",
-      "movement": "→",
+      "track_id": 1288,
+      "artist": "BIGBANG",
+      "title": "FANTASTIC BABY",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 8
+      "top10_streak": 5
     },
     {
       "rank": 5,
-      "track_id": 641,
-      "artist": "佐野元春",
-      "title": "SOMEDAY",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 14
-    },
-    {
-      "rank": 6,
-      "track_id": 1191,
-      "artist": "宇多田ヒカル",
-      "title": "Beautiful World",
-      "movement": "↑2",
+      "track_id": 1383,
+      "artist": "Bon Jovi",
+      "title": "It's My Life",
+      "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 7,
-      "track_id": 12,
-      "artist": "MIZ",
-      "title": "丘",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 8,
-      "track_id": 1389,
-      "artist": "Fishmans",
-      "title": "ひこうき",
+      "rank": 6,
+      "track_id": 1476,
+      "artist": "スチャダラパー",
+      "title": "大人になっても",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 9,
-      "track_id": 660,
-      "artist": "岡林信康",
-      "title": "山谷ブルース",
-      "movement": "↓4",
+      "rank": 7,
+      "track_id": 1191,
+      "artist": "宇多田ヒカル",
+      "title": "Beautiful World",
+      "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 14
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 12,
+      "artist": "MIZ",
+      "title": "丘",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 9,
+      "track_id": 1394,
+      "artist": "GOING STEADY",
+      "title": "BABY BABY",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 10
     },
     {
       "rank": 10,
-      "track_id": 1040,
-      "artist": "METAFIVE",
-      "title": "環境と心理",
-      "movement": "RE",
+      "track_id": 1389,
+      "artist": "Fishmans",
+      "title": "ひこうき",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

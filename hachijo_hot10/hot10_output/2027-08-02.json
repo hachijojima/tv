@@ -22,12 +22,12 @@
     },
     {
       "rank": 3,
-      "track_id": 471,
-      "artist": "TRF",
-      "title": "寒い夜だから…",
-      "movement": "↑1",
+      "track_id": 1535,
+      "artist": "大瀧詠一",
+      "title": "雨のウェンズデイ",
+      "movement": "RE",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 1
     },
     {
       "rank": 4,
@@ -52,7 +52,7 @@
       "track_id": 14,
       "artist": "MIZ",
       "title": "とびうおのうた",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
@@ -61,21 +61,12 @@
       "track_id": 701,
       "artist": "シュガー・ベイブ",
       "title": "今日はなんだか",
-      "movement": "↓2",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
       "rank": 8,
-      "track_id": 663,
-      "artist": "カルメン・マキ",
-      "title": "時には母のない子のように",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 9,
       "track_id": 379,
       "artist": "UA",
       "title": "悲しみジョニー",
@@ -84,13 +75,22 @@
       "top10_streak": 2
     },
     {
-      "rank": 10,
-      "track_id": 1090,
-      "artist": "The Beatles",
-      "title": "Strawberry Fields Forever",
-      "movement": "RE",
+      "rank": 9,
+      "track_id": 663,
+      "artist": "カルメン・マキ",
+      "title": "時には母のない子のように",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 476,
+      "artist": "シャ乱Q",
+      "title": "シングルベッド",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 7
     }
   ]
 }
