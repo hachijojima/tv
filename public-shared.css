@@ -108,3 +108,20 @@
     padding: 14px 0 0;
   }
 }
+
+@media (max-width: 1365px) {
+  .public-page .program-info,
+  .public-page .next-info {
+    padding-block: 14px;
+  }
+
+  .public-page .program-info h2,
+  .public-page .next-info h2 {
+    margin-top: 8px;
+  }
+
+  .public-page .program-info p:not(.kicker),
+  .public-page .next-info p:last-child {
+    margin-top: 3px;
+  }
+}
