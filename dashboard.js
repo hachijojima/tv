@@ -8,7 +8,7 @@ const sourceUrl=x=>x?.source_url||x?.youtube_url||x?.youtube_id?`https://www.you
 const external=(url,label)=>url?`<a class="source-link" href="${esc(url)}" target="_blank" rel="noopener noreferrer">${label} ↗</a>`:esc(label);
 const rightsValue=x=>x.rights_cleared===true?'true':x.rights_cleared===false?'false':'';
 const rightsMark=x=>x.rights_cleared===true?'✓':x.rights_cleared===false?'—':'?';
-const jstParts=(value=new Date())=>Object.fromEntries(new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Tokyo',year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',hourCycle:'h23'}).formatToParts(value).map(x=>[x.type,x.value]));
+const jstParts=(value=new Date())=>Object.fromEntries(new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Tokyo',year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',hourCycle:'h23'}).formatToParts(new Date(value)).map(x=>[x.type,x.value]));
 const jstKey=value=>{const p=jstParts(value);return `${p.year}-${p.month}-${p.day}`};
 const jstDate=value=>new Intl.DateTimeFormat('ja-JP',{timeZone:'Asia/Tokyo',month:'numeric',day:'numeric',weekday:'short'}).format(new Date(value));
 const jstTime=value=>new Intl.DateTimeFormat('ja-JP',{timeZone:'Asia/Tokyo',hour:'2-digit',minute:'2-digit',hourCycle:'h23'}).format(new Date(value));
