@@ -121,19 +121,48 @@
     margin-top: 20px;
   }
 
-  .public-page .tv-main-left { grid-area: main; min-width: 0; }
+  .public-page .tv-main-left {
+    grid-area: main;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 148px;
+    gap: 14px;
+    min-width: 0;
+  }
+
+  .public-page .tv-main-left > .screen { grid-column: 1 / -1; }
 
   .public-page .program-pair {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 14px;
-    margin-top: 14px;
+    grid-column: 1;
+    grid-row: 2;
+    margin-top: 0;
   }
 
   .public-page .program-pair .program-info,
   .public-page .program-pair .next-info {
     min-width: 0;
     margin-top: 0;
+  }
+
+  .public-page .player-controls {
+    display: grid;
+    grid-column: 2;
+    grid-row: 2;
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(2, minmax(44px, 1fr));
+    align-self: stretch;
+    gap: 10px;
+    margin: 0;
+    padding: 0;
+  }
+
+  .public-page .player-controls button {
+    width: 100%;
+    min-width: 0;
+    padding: 0 10px;
+    white-space: nowrap;
   }
 
   .public-page .note-link {
