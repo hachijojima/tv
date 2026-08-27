@@ -219,7 +219,7 @@
   .hot10-name { margin-top: -2px; }
   .hot10-month-day { font-size: clamp(34px, 2.8vw, 40px); }
   .hot10-date { padding-top: 6px; }
-  .hot10-list { min-height: 0; margin-top: 30px; }
+  .hot10-list { min-height: 0; margin-top: 28px; }
 
   .hot10-row {
     grid-template-columns: 68px minmax(0, 1.25fr) minmax(0, .75fr);
@@ -228,7 +228,7 @@
     padding: 20px 0;
   }
 
-  .hot10-row:first-child { padding-top: 12px; }
+  .hot10-row:first-child { padding-top: 9px; }
 
   .hot10-title,
   .hot10-artist {
