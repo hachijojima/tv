@@ -1,96 +1,96 @@
 {
-  "date": "2026-08-27",
-  "generated_at": "2026-08-27T04:37:55.548385+09:00",
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T11:03:29.994105+09:00",
   "chart": [
     {
       "rank": 1,
-      "track_id": 299,
-      "artist": "ハナレグミ",
-      "title": "家族の風景",
-      "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 2
-    },
-    {
-      "rank": 2,
-      "track_id": 1363,
-      "artist": "Arctic Monkeys",
-      "title": "Do I Wanna Know?",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 3,
       "track_id": 19,
       "artist": "MONO NO AWARE",
       "title": "幽霊船",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
+      "movement": "↑2",
+      "days_at_number_1": 1,
+      "top10_streak": 3
     },
     {
-      "rank": 4,
+      "rank": 2,
       "track_id": 1021,
       "artist": "スチャダラパー",
       "title": "サマージャム’95",
-      "movement": "↑5",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 3
     },
     {
-      "rank": 5,
+      "rank": 3,
+      "track_id": 299,
+      "artist": "ハナレグミ",
+      "title": "家族の風景",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 4,
       "track_id": 1061,
       "artist": "Cyndi Lauper",
       "title": "Time After Time",
-      "movement": "→",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 5,
+      "track_id": 1149,
+      "artist": "エレファントカシマシ",
+      "title": "今宵の月のように",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 6,
-      "track_id": 346,
-      "artist": "椎名林檎",
-      "title": "茎(STEM)～大名遊ビ編～",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 7,
       "track_id": 1011,
       "artist": "Underworld",
       "title": "Born Slippy (Nuxx)",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 7,
+      "track_id": 115,
+      "artist": "トリプルファイヤー",
+      "title": "トラックに轢かれた",
       "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 8,
-      "track_id": 1149,
-      "artist": "エレファントカシマシ",
-      "title": "今宵の月のように",
+      "track_id": 1028,
+      "artist": "Kendrick Lamar",
+      "title": "Alright",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 9,
-      "track_id": 1020,
-      "artist": "The Doobie Brothers",
-      "title": "What a Fool Believes",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 10,
-      "track_id": 115,
-      "artist": "トリプルファイヤー",
-      "title": "トラックに轢かれた",
+      "track_id": 1048,
+      "artist": "Ben E. King",
+      "title": "Stand By Me",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 346,
+      "artist": "椎名林檎",
+      "title": "茎(STEM)～大名遊ビ編～",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     }
   ]
 }
