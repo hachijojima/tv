@@ -68,7 +68,7 @@ if (requestForm) requestForm.addEventListener('submit', async event => {
     error.hidden = false;
   } finally {
     button.disabled = false;
-    button.textContent = 'リクエスト';
+    button.textContent = 'リクエストする';
   }
 });
 if (new URLSearchParams(location.search).get('request') === 'sent') {
