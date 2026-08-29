@@ -1,0 +1,96 @@
+{
+  "date": "2027-09-04",
+  "generated_at": "2027-09-04T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 1364,
+      "artist": "Linkin Park",
+      "title": "In the End",
+      "movement": "→",
+      "days_at_number_1": 3,
+      "top10_streak": 9
+    },
+    {
+      "rank": 2,
+      "track_id": 1543,
+      "artist": "Cocco",
+      "title": "Raining",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 3,
+      "track_id": 591,
+      "artist": "LUNA SEA",
+      "title": "I for You",
+      "movement": "↑5",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 4,
+      "track_id": 582,
+      "artist": "T-BOLAN",
+      "title": "Bye For Now",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 14
+    },
+    {
+      "rank": 5,
+      "track_id": 1534,
+      "artist": "大瀧詠一",
+      "title": "恋するカレン",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 9
+    },
+    {
+      "rank": 6,
+      "track_id": 1032,
+      "artist": "神聖かまってちゃん",
+      "title": "ロックンロールは鳴り止まないっ",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 7,
+      "track_id": 496,
+      "artist": "宇多田ヒカル",
+      "title": "Automatic",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 8,
+      "track_id": 482,
+      "artist": "UNICORN",
+      "title": "すばらしい日々",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 9,
+      "track_id": 565,
+      "artist": "hitomi",
+      "title": "CANDY GIRL",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 813,
+      "artist": "Official髭男dism",
+      "title": "Pretender",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    }
+  ]
+}
