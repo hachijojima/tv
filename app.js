@@ -48,7 +48,29 @@ $('#audio-unmute-overlay').addEventListener('click', () => enableAudio({ remembe
 $('#fullscreen-toggle').addEventListener('click', fullscreen); ['fullscreenchange', 'webkitfullscreenchange'].forEach(type => document.addEventListener(type, () => { const active = Boolean(document.fullscreenElement || document.webkitFullscreenElement); if (!active) unlockOrientation(); fullscreenLabel(active); trackEvent('fullscreen_toggle', { fullscreen_state: active ? 'open' : 'close' }); }));
 $('.note-link').addEventListener('click', () => trackEvent('note_outbound_click', { link_destination: 'note' }));
 const requestForm = $('.hot10-request');
-if (requestForm) requestForm.addEventListener('submit', () => trackEvent('hot10_request_submit'));
+if (requestForm) requestForm.addEventListener('submit', async event => {
+  event.preventDefault();
+  const button = requestForm.querySelector('button[type="submit"]');
+  const success = $('#hot10-request-success');
+  const error = $('#hot10-request-error');
+  button.disabled = true;
+  button.textContent = '送信中…';
+  success.hidden = true;
+  error.hidden = true;
+  try {
+    const response = await fetch('https://formsubmit.co/ajax/ritolab8@gmail.com', { method: 'POST', headers: { Accept: 'application/json' }, body: new FormData(requestForm) });
+    if (!response.ok) throw new Error(`Request submit failed: ${response.status}`);
+    requestForm.querySelector('[name="request"]').value = '';
+    success.hidden = false;
+    trackEvent('hot10_request_submit');
+  } catch (submitError) {
+    console.error('Unable to submit HOT10 request', submitError);
+    error.hidden = false;
+  } finally {
+    button.disabled = false;
+    button.textContent = 'リクエスト';
+  }
+});
 if (new URLSearchParams(location.search).get('request') === 'sent') {
   const notice = $('#hot10-request-success');
   if (notice) notice.hidden = false;

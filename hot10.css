@@ -92,7 +92,9 @@
 .hot10-request button { flex: 0 0 auto; padding: 0 16px; background: var(--hot10-white); color: var(--hot10-bg); font-size: 13px; font-weight: 700; cursor: pointer; }
 .hot10-request button:hover { background: var(--hot10-gold); }
 .hot10-request-honey { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
-.hot10-request-success { margin: 8px 0 0; color: var(--hot10-gold); font-size: 13px; }
+.hot10-request-success, .hot10-request-error { margin: 8px 0 0; font-size: 13px; }
+.hot10-request-success { color: var(--hot10-gold); }
+.hot10-request-error { color: #ee8d8d; }
 
 /* Split from 1366px: the player remains about 860px wide while the
    HOT 10 panel keeps its 440px minimum width. */
