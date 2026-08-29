@@ -110,6 +110,7 @@
   .public-page .tv-shell {
     display: grid;
     grid-template-columns: minmax(0, 7fr) minmax(440px, 3fr);
+    grid-template-rows: 74px auto;
     grid-template-areas:
       "masthead hot10"
       "main hot10";
