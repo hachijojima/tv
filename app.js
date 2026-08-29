@@ -47,4 +47,13 @@ $('#sound-toggle').addEventListener('click', () => { if (state.soundOn) disableA
 $('#audio-unmute-overlay').addEventListener('click', () => enableAudio({ remember: true, source: 'overlay' }));
 $('#fullscreen-toggle').addEventListener('click', fullscreen); ['fullscreenchange', 'webkitfullscreenchange'].forEach(type => document.addEventListener(type, () => { const active = Boolean(document.fullscreenElement || document.webkitFullscreenElement); if (!active) unlockOrientation(); fullscreenLabel(active); trackEvent('fullscreen_toggle', { fullscreen_state: active ? 'open' : 'close' }); }));
 $('.note-link').addEventListener('click', () => trackEvent('note_outbound_click', { link_destination: 'note' }));
+const requestForm = $('.hot10-request');
+if (requestForm) requestForm.addEventListener('submit', () => trackEvent('hot10_request_submit'));
+if (new URLSearchParams(location.search).get('request') === 'sent') {
+  const notice = $('#hot10-request-success');
+  if (notice) notice.hidden = false;
+  const url = new URL(location.href);
+  url.searchParams.delete('request');
+  history.replaceState({}, '', url);
+}
 window.addEventListener('resize', soundLabel); soundLabel(); recordAccess(); loadHot10(); scheduleHot10BoundaryRefresh();

@@ -42,7 +42,7 @@
   <link rel="stylesheet" href="public-mobile.css?v=clean-5">
   <link rel="stylesheet" href="public-shared.css?v=cards-compact-3">
   <link rel="stylesheet" href="public-header.css?v=desktop-logo-6">
-  <link rel="stylesheet" href="hot10.css?v=clean-31">
+  <link rel="stylesheet" href="hot10.css?v=request-1">
 </head>
 <body class="public-page">
   <main class="tv-shell">
@@ -70,6 +70,19 @@
             <p class="hot10-date" id="hot10-date" aria-label="ランキング日付"><span class="hot10-month-day">—</span><span class="hot10-date-meta"><span class="hot10-weekday">—</span><span class="hot10-year">—</span></span></p>
           </header>
           <ol class="hot10-list" id="hot10-list" aria-live="polite"><li class="hot10-loading">ランキングを読み込み中です</li></ol>
+          <form class="hot10-request" action="https://formsubmit.co/ritolab8@gmail.com" method="POST">
+            <input type="hidden" name="_subject" value="FM八丈島 TV｜HOT10 リクエスト">
+            <input type="hidden" name="_captcha" value="false">
+            <input type="hidden" name="_template" value="table">
+            <input type="hidden" name="_next" value="https://tv.hachijojima.jp/?request=sent">
+            <input class="hot10-request-honey" type="text" name="_honey" tabindex="-1" autocomplete="off">
+            <label class="hot10-request-label" for="hot10-request-input">曲をリクエスト</label>
+            <div class="hot10-request-controls">
+              <input id="hot10-request-input" name="request" type="text" maxlength="160" placeholder="Mrs. GREEN APPLEの夏" required>
+              <button type="submit">送信</button>
+            </div>
+            <p class="hot10-request-success" id="hot10-request-success" role="status" hidden>リクエストを送信しました。</p>
+          </form>
         </div>
       </section>
     </div>
@@ -77,6 +90,6 @@
   <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
   <script src="supabase-config.js"></script>
   <script src="https://www.youtube.com/iframe_api"></script>
-  <script src="app.js?v=audio-overlay-1"></script>
+  <script src="app.js?v=request-1"></script>
 </body>
 </html>

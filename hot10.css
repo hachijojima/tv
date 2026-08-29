@@ -81,6 +81,18 @@
 .hot10-movement.is-flat { color: var(--hot10-gray); }
 .hot10-loading, .hot10-error { display: flex; min-height: 486px; align-items: center; color: var(--hot10-gray); font-size: 13px; }
 
+.hot10-request { margin-top: 18px; }
+.hot10-request-label { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+.hot10-request-controls { display: flex; gap: 8px; }
+.hot10-request input:not(.hot10-request-honey),
+.hot10-request button { height: 40px; border: 1px solid var(--hot10-rule); border-radius: 5px; font: inherit; }
+.hot10-request input:not(.hot10-request-honey) { flex: 1 1 auto; min-width: 0; padding: 0 12px; background: rgba(255, 255, 255, .06); color: var(--hot10-white); font-size: 14px; }
+.hot10-request input::placeholder { color: var(--hot10-gray); opacity: 1; }
+.hot10-request button { flex: 0 0 auto; padding: 0 16px; background: var(--hot10-white); color: var(--hot10-bg); font-size: 13px; font-weight: 700; cursor: pointer; }
+.hot10-request button:hover { background: var(--hot10-gold); }
+.hot10-request-honey { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
+.hot10-request-success { margin: 8px 0 0; color: var(--hot10-gold); font-size: 13px; }
+
 /* Split from 1366px: the player remains about 860px wide while the
    HOT 10 panel keeps its 440px minimum width. */
 @media (min-width: 1366px) {
@@ -220,6 +232,7 @@
   .hot10-month-day { font-size: clamp(34px, 2.8vw, 40px); }
   .hot10-date { padding-top: 6px; }
   .hot10-list { min-height: 0; }
+  .hot10-request { margin-top: 20px; }
 
   .hot10-row {
     grid-template-columns: 68px minmax(0, 1.25fr) minmax(0, .75fr);
@@ -292,6 +305,10 @@
   .hot10-artist { grid-column: 2; font-size: 13px; }
   .hot10-movement { padding-top: 1px; font-size: 11px; }
   .hot10-loading, .hot10-error { min-height: 610px; }
+  .hot10-request { margin-top: 16px; }
+  .hot10-request-controls { gap: 6px; }
+  .hot10-request input:not(.hot10-request-honey) { padding: 0 10px; font-size: 13px; }
+  .hot10-request button { padding: 0 14px; }
 }
 
 @media (max-width: 340px) {
