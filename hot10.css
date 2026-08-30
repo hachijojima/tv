@@ -281,7 +281,6 @@
 }
 
 @media (max-width: 767px) {
-  .public-page .hot10-section { margin-top: 26px; }
   .public-page .hot10-inner { width: calc(100% - 64px); padding: 24px 0 32px; }
   .hot10-header {
     display: grid;
