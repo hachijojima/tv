@@ -103,7 +103,7 @@
   line-height: 1;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 1366px) {
   .public-page .player-controls {
     padding: 14px 0 0;
   }

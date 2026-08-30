@@ -1,4 +1,6 @@
-@media (max-width: 767px) {
+/* Keep the controls identical from phone through standard desktop widths.
+   The dedicated vertical action column starts only with the 1366px layout. */
+@media (max-width: 1365px) {
   .public-page .player-controls {
     display: grid;
     grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
@@ -17,6 +19,9 @@
 
   .public-page .player-controls button:first-child { border-radius: 10px 0 0 10px; }
   .public-page .player-controls button:last-child { border-radius: 0 10px 10px 0; }
+}
+
+@media (max-width: 767px) {
   .public-page .program-info h2, .public-page .next-info h2 { font-size: 16px; }
   .public-page .program-info p:not(.kicker), .public-page .next-info p:last-child { display: block; margin-top: 3px; overflow: hidden; font-size: 13px; text-overflow: ellipsis; white-space: nowrap; }
   .public-page.ios-immersive { overflow: hidden; }
