@@ -86,10 +86,10 @@
 .hot10-request-controls { display: flex; gap: 8px; }
 .hot10-request input:not(.hot10-request-honey),
 .hot10-request button { height: 40px; border: 1px solid var(--hot10-rule); border-radius: 5px; font: inherit; }
-.hot10-request input:not(.hot10-request-honey) { flex: 1 1 auto; min-width: 0; padding: 0 12px; background: rgba(255, 255, 255, .06); color: var(--hot10-white); font-size: 17px; }
+.hot10-request input:not(.hot10-request-honey) { flex: 1 1 auto; min-width: 0; padding: 0 12px; background: rgba(255, 255, 255, .06); color: var(--hot10-white); font-size: 14px; }
 .hot10-request input::placeholder { color: var(--hot10-gray); opacity: 1; }
 .hot10-request input:focus::placeholder { color: transparent; }
-.hot10-request button { flex: 0 0 auto; padding: 0 16px; background: var(--hot10-white); color: var(--hot10-bg); font-size: 17px; font-weight: 500; cursor: pointer; }
+.hot10-request button { flex: 0 0 auto; padding: 0 16px; background: var(--hot10-white); color: var(--hot10-bg); font-size: 13px; font-weight: 700; cursor: pointer; }
 .hot10-request button:hover { background: var(--hot10-gold); }
 .hot10-request-honey { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
 .hot10-request-success, .hot10-request-error { margin: 8px 0 0; font-size: 13px; }
@@ -311,7 +311,7 @@
   .hot10-request { margin-top: 16px; }
   .hot10-request-controls { gap: 6px; }
   .hot10-request input:not(.hot10-request-honey) { padding: 0 10px; font-size: 13px; }
-  .hot10-request button { padding: 0 14px; font-size: 13px; }
+  .hot10-request button { padding: 0 14px; }
 }
 
 @media (max-width: 340px) {
