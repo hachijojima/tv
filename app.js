@@ -48,7 +48,7 @@ $('#audio-unmute-overlay').addEventListener('click', () => enableAudio({ remembe
 $('#fullscreen-toggle').addEventListener('click', fullscreen); ['fullscreenchange', 'webkitfullscreenchange'].forEach(type => document.addEventListener(type, () => { const active = Boolean(document.fullscreenElement || document.webkitFullscreenElement); if (!active) unlockOrientation(); fullscreenLabel(active); trackEvent('fullscreen_toggle', { fullscreen_state: active ? 'open' : 'close' }); }));
 $('.note-link').addEventListener('click', () => trackEvent('note_outbound_click', { link_destination: 'note' }));
 const requestForm = $('.hot10-request');
-const hot10RequestExamples = ['Adoの唱', 'マツケンサンバ', 'ゆずの夏色', 'ミセスの青と夏', 'スピッツのチェリー', 'サザンの真夏の果実', 'B’zのultra soul', 'Vaundyの怪獣の花唄', 'あいみょんのマリーゴールド', 'いきものがかりのYELL', '奥山熊雄のいもめとてがめ', '石投げ踊り', '50Aのインドの牛乳屋さん'];
+const hot10RequestExamples = ['Adoの唱', 'マツケンサンバ', 'ゆずの夏色', 'ミセスの青と夏', 'スピッツのチェリー', 'サザンの真夏の果実', 'B’zのultra soul', 'Vaundyの怪獣の花唄', 'あいみょんのマリーゴールド', 'いきものがかりのYELL', '奥山熊雄のいもめとてがめ', '石投げ踊り', '50Aのインドの牛乳屋さん', '畑中葉子のカナダからの手紙'];
 const requestInput = $('#hot10-request-input');
 if (requestInput) requestInput.placeholder = hot10RequestExamples[Math.floor(Math.random() * hot10RequestExamples.length)];
 if (requestForm) requestForm.addEventListener('submit', async event => {
