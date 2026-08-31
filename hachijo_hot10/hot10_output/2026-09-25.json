@@ -8,7 +8,7 @@
       "artist": "福島弘和",
       "title": "吹奏楽のための「おじゃれ」",
       "movement": "→",
-      "days_at_number_1": 5,
+      "days_at_number_1": 6,
       "top10_streak": 7
     },
     {
@@ -18,37 +18,28 @@
       "title": "とびうおのうた",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 5
     },
     {
       "rank": 3,
-      "track_id": 1394,
-      "artist": "GOING STEADY",
-      "title": "BABY BABY",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 4,
       "track_id": 348,
       "artist": "レミオロメン",
       "title": "電話",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
-      "rank": 5,
-      "track_id": 548,
-      "artist": "REBECCA",
-      "title": "RASPBERRY DREAM",
-      "movement": "↑4",
+      "rank": 4,
+      "track_id": 1394,
+      "artist": "GOING STEADY",
+      "title": "BABY BABY",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 2
     },
     {
-      "rank": 6,
+      "rank": 5,
       "track_id": 1040,
       "artist": "METAFIVE",
       "title": "環境と心理",
@@ -57,7 +48,7 @@
       "top10_streak": 10
     },
     {
-      "rank": 7,
+      "rank": 6,
       "track_id": 636,
       "artist": "鈴木茂",
       "title": "砂の女",
@@ -66,13 +57,22 @@
       "top10_streak": 10
     },
     {
-      "rank": 8,
+      "rank": 7,
       "track_id": 361,
       "artist": "ACIDMAN",
       "title": "造花が笑う",
-      "movement": "→",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 6
+    },
+    {
+      "rank": 8,
+      "track_id": 548,
+      "artist": "REBECCA",
+      "title": "RASPBERRY DREAM",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 4
     },
     {
       "rank": 9,
@@ -85,12 +85,12 @@
     },
     {
       "rank": 10,
-      "track_id": 580,
-      "artist": "FIELD OF VIEW",
-      "title": "Last Good-bye",
+      "track_id": 1686,
+      "artist": "有頂天",
+      "title": "BYE-BYE",
       "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 6
     }
   ]
 }

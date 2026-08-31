@@ -16,12 +16,30 @@
       "track_id": 1364,
       "artist": "Linkin Park",
       "title": "In the End",
-      "movement": "↑2",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 3,
+      "track_id": 1288,
+      "artist": "BIGBANG",
+      "title": "FANTASTIC BABY",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 4,
+      "track_id": 1257,
+      "artist": "Clean Bandit",
+      "title": "Rather Be (feat. Jess Glynne)",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
       "track_id": 573,
       "artist": "THE BOOM",
       "title": "風になりたい",
@@ -30,43 +48,16 @@
       "top10_streak": 7
     },
     {
-      "rank": 4,
-      "track_id": 1288,
-      "artist": "BIGBANG",
-      "title": "FANTASTIC BABY",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 5,
-      "track_id": 1257,
-      "artist": "Clean Bandit",
-      "title": "Rather Be (feat. Jess Glynne)",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
       "rank": 6,
       "track_id": 239,
       "artist": "さよならポニーテール",
       "title": "光る街へ",
-      "movement": "↑2",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 3
     },
     {
       "rank": 7,
-      "track_id": 547,
-      "artist": "JUN SKY WALKER(S)",
-      "title": "すてきな夜空",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 8,
       "track_id": 528,
       "artist": "GLAY",
       "title": "HOWEVER",
@@ -75,7 +66,7 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
+      "rank": 8,
       "track_id": 441,
       "artist": "チャットモンチー",
       "title": "恋愛スピリッツ",
@@ -84,11 +75,20 @@
       "top10_streak": 1
     },
     {
+      "rank": 9,
+      "track_id": 1228,
+      "artist": "Maroon 5",
+      "title": "Sugar",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
       "rank": 10,
       "track_id": 510,
       "artist": "BEGIN",
       "title": "島人ぬ宝",
-      "movement": "↓4",
+      "movement": "↓5",
       "days_at_number_1": 0,
       "top10_streak": 4
     }

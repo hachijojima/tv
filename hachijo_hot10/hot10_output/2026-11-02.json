@@ -8,7 +8,7 @@
       "artist": "Simon & Garfunkel",
       "title": "Bridge Over Troubled Water",
       "movement": "→",
-      "days_at_number_1": 3,
+      "days_at_number_1": 2,
       "top10_streak": 3
     },
     {
@@ -22,21 +22,21 @@
     },
     {
       "rank": 3,
-      "track_id": 591,
-      "artist": "LUNA SEA",
-      "title": "I for You",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 4,
       "track_id": 1046,
       "artist": "星野源",
       "title": "不思議",
       "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
+    },
+    {
+      "rank": 4,
+      "track_id": 10,
+      "artist": "MIZ",
+      "title": "パジャマでハイウェイ",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 6
     },
     {
       "rank": 5,
@@ -49,48 +49,48 @@
     },
     {
       "rank": 6,
-      "track_id": 10,
-      "artist": "MIZ",
-      "title": "パジャマでハイウェイ",
-      "movement": "↓3",
+      "track_id": 1040,
+      "artist": "METAFIVE",
+      "title": "環境と心理",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 3
     },
     {
       "rank": 7,
-      "track_id": 1240,
-      "artist": "Pharrell Williams",
-      "title": "Happy",
-      "movement": "↓2",
+      "track_id": 591,
+      "artist": "LUNA SEA",
+      "title": "I for You",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 12
+      "top10_streak": 3
     },
     {
       "rank": 8,
       "track_id": 1267,
       "artist": "Eric Prydz",
       "title": "Call on Me",
-      "movement": "↓6",
+      "movement": "↓5",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 9,
-      "track_id": 1040,
-      "artist": "METAFIVE",
-      "title": "環境と心理",
-      "movement": "→",
+      "track_id": 1629,
+      "artist": "Boris",
+      "title": "Farewell",
+      "movement": "↓5",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 4
     },
     {
       "rank": 10,
-      "track_id": 541,
-      "artist": "山崎まさよし",
-      "title": "セロリ",
-      "movement": "→",
+      "track_id": 1240,
+      "artist": "Pharrell Williams",
+      "title": "Happy",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 13
     }
   ]
 }

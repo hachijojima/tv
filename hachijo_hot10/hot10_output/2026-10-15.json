@@ -7,8 +7,8 @@
       "track_id": 524,
       "artist": "サザンオールスターズ",
       "title": "希望の轍",
-      "movement": "→",
-      "days_at_number_1": 4,
+      "movement": "↑1",
+      "days_at_number_1": 1,
       "top10_streak": 4
     },
     {
@@ -16,12 +16,21 @@
       "track_id": 1089,
       "artist": "The Beatles",
       "title": "Let It Be",
-      "movement": "→",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
     {
       "rank": 3,
+      "track_id": 1717,
+      "artist": "Chari Chari",
+      "title": "Across the Universe",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 4,
       "track_id": 293,
       "artist": "くるり",
       "title": "東京",
@@ -30,65 +39,56 @@
       "top10_streak": 2
     },
     {
-      "rank": 4,
-      "track_id": 1021,
-      "artist": "スチャダラパー",
-      "title": "サマージャム’95",
+      "rank": 5,
+      "track_id": 1718,
+      "artist": "Calm",
+      "title": "Light Years",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 5,
-      "track_id": 1219,
-      "artist": "Ed Sheeran",
-      "title": "Shape of You",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 13
+      "top10_streak": 3
     },
     {
       "rank": 6,
       "track_id": 1542,
-      "artist": "Cocco",
-      "title": "強く儚い者たち",
-      "movement": "↑3",
+      "artist": "COALTAR OF THE DEEPERS",
+      "title": "My Speedy Sarah",
+      "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 7,
+      "track_id": 1021,
+      "artist": "スチャダラパー",
+      "title": "サマージャム’95",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 8,
       "track_id": 420,
       "artist": "小沢健二",
       "title": "今夜はブギー・バック",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 8,
-      "track_id": 572,
-      "artist": "BEGIN",
-      "title": "恋しくて",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
       "rank": 9,
-      "track_id": 1285,
-      "artist": "SEVENTEEN",
-      "title": "VERY NICE",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 10,
       "track_id": 1394,
       "artist": "GOING STEADY",
       "title": "BABY BABY",
       "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1593,
+      "artist": "天田トメノ",
+      "title": "ショメ節",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

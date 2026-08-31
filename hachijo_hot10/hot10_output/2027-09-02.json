@@ -14,8 +14,8 @@
     {
       "rank": 2,
       "track_id": 1543,
-      "artist": "Cocco",
-      "title": "Raining",
+      "artist": "PEALOUT",
+      "title": "爆裂世界 ～世界に追い越されても～",
       "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 4
@@ -49,45 +49,45 @@
     },
     {
       "rank": 6,
-      "track_id": 496,
-      "artist": "宇多田ヒカル",
-      "title": "Automatic",
-      "movement": "↓1",
+      "track_id": 1626,
+      "artist": "イルリメ",
+      "title": "元気でやってるのかい？",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
       "rank": 7,
+      "track_id": 582,
+      "artist": "T-BOLAN",
+      "title": "Bye For Now",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 8,
       "track_id": 102,
       "artist": "BREIMEN",
       "title": "IWBYL",
-      "movement": "RE",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 8,
-      "track_id": 582,
-      "artist": "T-BOLAN",
-      "title": "Bye For Now",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 12
-    },
-    {
       "rank": 9,
-      "track_id": 482,
-      "artist": "UNICORN",
-      "title": "すばらしい日々",
-      "movement": "↓1",
+      "track_id": 1250,
+      "artist": "Zedd",
+      "title": "Stay (with Alessia Cara)",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 2
     },
     {
       "rank": 10,
       "track_id": 500,
       "artist": "モーニング娘。",
-      "title": "LOVEマシーン",
+      "title": "Memory 青春の光",
       "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 12

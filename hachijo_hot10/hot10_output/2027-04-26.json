@@ -4,39 +4,39 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1314,
-      "artist": "U2",
-      "title": "Beautiful Day",
-      "movement": "↑3",
-      "days_at_number_1": 1,
-      "top10_streak": 4
-    },
-    {
-      "rank": 2,
       "track_id": 1021,
       "artist": "スチャダラパー",
       "title": "サマージャム’95",
       "movement": "↑1",
-      "days_at_number_1": 0,
+      "days_at_number_1": 1,
       "top10_streak": 5
     },
     {
-      "rank": 3,
-      "track_id": 1542,
-      "artist": "Cocco",
-      "title": "強く儚い者たち",
-      "movement": "↓1",
+      "rank": 2,
+      "track_id": 1314,
+      "artist": "U2",
+      "title": "Beautiful Day",
+      "movement": "↑4",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 2
     },
     {
-      "rank": 4,
+      "rank": 3,
       "track_id": 799,
       "artist": "チャラン・ポ・ランタン",
       "title": "進め、たまに逃げても",
-      "movement": "↑3",
+      "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 2
+    },
+    {
+      "rank": 4,
+      "track_id": 1542,
+      "artist": "COALTAR OF THE DEEPERS",
+      "title": "My Speedy Sarah",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     },
     {
       "rank": 5,
@@ -49,48 +49,48 @@
     },
     {
       "rank": 6,
-      "track_id": 1241,
-      "artist": "Avicii",
-      "title": "Wake Me Up",
-      "movement": "↑4",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 7,
-      "track_id": 1073,
-      "artist": "東京事変",
-      "title": "透明人間",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 8,
-      "track_id": 1023,
-      "artist": "Carpenters",
-      "title": "(They Long To Be) Close To You",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 12
-    },
-    {
-      "rank": 9,
-      "track_id": 1510,
-      "artist": "たま",
-      "title": "オゾンのダンス",
-      "movement": "RE",
+      "track_id": 1665,
+      "artist": "Guitar Wolf",
+      "title": "Jet Generation",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 10,
-      "track_id": 541,
-      "artist": "山崎まさよし",
-      "title": "セロリ",
-      "movement": "↓5",
+      "rank": 7,
+      "track_id": 1241,
+      "artist": "Avicii",
+      "title": "Wake Me Up",
+      "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 1073,
+      "artist": "東京事変",
+      "title": "透明人間",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 9,
+      "track_id": 1023,
+      "artist": "Carpenters",
+      "title": "(They Long To Be) Close To You",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 12
+    },
+    {
+      "rank": 10,
+      "track_id": 1711,
+      "artist": "Sonic Coaster Pop",
+      "title": "Super Speed Pop Star",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }

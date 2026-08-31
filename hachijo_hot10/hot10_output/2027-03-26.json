@@ -14,83 +14,83 @@
     {
       "rank": 2,
       "track_id": 1543,
-      "artist": "Cocco",
-      "title": "Raining",
+      "artist": "PEALOUT",
+      "title": "爆裂世界 ～世界に追い越されても～",
       "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
     {
       "rank": 3,
-      "track_id": 541,
-      "artist": "山崎まさよし",
-      "title": "セロリ",
-      "movement": "↓1",
+      "track_id": 1275,
+      "artist": "TWICE",
+      "title": "TT",
+      "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 4,
-      "track_id": 489,
-      "artist": "小泉今日子",
-      "title": "あなたに会えてよかった",
-      "movement": "↑4",
+      "track_id": 541,
+      "artist": "山崎まさよし",
+      "title": "セロリ",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 3
     },
     {
       "rank": 5,
-      "track_id": 18,
-      "artist": "MONO NO AWARE",
-      "title": "アングル",
-      "movement": "↑2",
+      "track_id": 1635,
+      "artist": "MIC JACK PRODUCTION",
+      "title": "Seven Seas Voyage",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 18
     },
     {
       "rank": 6,
-      "track_id": 458,
-      "artist": "T-BOLAN",
-      "title": "離したくはない",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 7,
-      "track_id": 459,
-      "artist": "B'z",
-      "title": "ALONE",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 8,
       "track_id": 348,
       "artist": "レミオロメン",
       "title": "電話",
-      "movement": "↓2",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
     {
-      "rank": 9,
+      "rank": 7,
+      "track_id": 18,
+      "artist": "MONO NO AWARE",
+      "title": "アングル",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
       "track_id": 1204,
       "artist": "Rihanna",
       "title": "We Found Love",
-      "movement": "↓6",
+      "movement": "↓5",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 10,
-      "track_id": 1275,
-      "artist": "TWICE",
-      "title": "TT",
-      "movement": "RE",
+      "rank": 9,
+      "track_id": 458,
+      "artist": "T-BOLAN",
+      "title": "すれ違いの純情",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 3
+    },
+    {
+      "rank": 10,
+      "track_id": 1061,
+      "artist": "Cyndi Lauper",
+      "title": "Time After Time",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     }
   ]
 }

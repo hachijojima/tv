@@ -6,7 +6,7 @@
       "rank": 1,
       "track_id": 500,
       "artist": "モーニング娘。",
-      "title": "LOVEマシーン",
+      "title": "Memory 青春の光",
       "movement": "↑1",
       "days_at_number_1": 1,
       "top10_streak": 3
@@ -22,15 +22,6 @@
     },
     {
       "rank": 3,
-      "track_id": 607,
-      "artist": "THE BLUE HEARTS",
-      "title": "青空",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 4,
       "track_id": 1091,
       "artist": "The Cure",
       "title": "Boys Don’t Cry",
@@ -39,7 +30,7 @@
       "top10_streak": 3
     },
     {
-      "rank": 5,
+      "rank": 4,
       "track_id": 901,
       "artist": "R.E.M.",
       "title": "Nightswimming",
@@ -48,7 +39,7 @@
       "top10_streak": 9
     },
     {
-      "rank": 6,
+      "rank": 5,
       "track_id": 1357,
       "artist": "The White Stripes",
       "title": "Seven Nation Army",
@@ -57,13 +48,22 @@
       "top10_streak": 1
     },
     {
-      "rank": 7,
-      "track_id": 1261,
-      "artist": "Tiësto",
-      "title": "The Business",
-      "movement": "→",
+      "rank": 6,
+      "track_id": 1678,
+      "artist": "LITE",
+      "title": "Ef",
+      "movement": "↑4",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 5
+    },
+    {
+      "rank": 7,
+      "track_id": 331,
+      "artist": "ORIGINAL LOVE",
+      "title": "朝日のあたる道 AS TIME GOES BY",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 8
     },
     {
       "rank": 8,
@@ -76,12 +76,12 @@
     },
     {
       "rank": 9,
-      "track_id": 582,
-      "artist": "T-BOLAN",
-      "title": "Bye For Now",
-      "movement": "↑1",
+      "track_id": 1261,
+      "artist": "Tiësto",
+      "title": "The Business",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 2
     },
     {
       "rank": 10,

@@ -34,12 +34,21 @@
       "track_id": 1068,
       "artist": "Simon & Garfunkel",
       "title": "Bridge Over Troubled Water",
-      "movement": "→",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
       "rank": 5,
+      "track_id": 1603,
+      "artist": "ROVO",
+      "title": "SINO DUB",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 6,
       "track_id": 1381,
       "artist": "Metallica",
       "title": "Enter Sandman",
@@ -48,7 +57,7 @@
       "top10_streak": 1
     },
     {
-      "rank": 6,
+      "rank": 7,
       "track_id": 810,
       "artist": "サカナクション",
       "title": "新宝島",
@@ -57,31 +66,22 @@
       "top10_streak": 1
     },
     {
-      "rank": 7,
+      "rank": 8,
       "track_id": 1462,
       "artist": "Buffalo Daughter",
       "title": "Cyclic",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 8,
+      "rank": 9,
       "track_id": 585,
       "artist": "スピッツ",
       "title": "楓",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
-    },
-    {
-      "rank": 9,
-      "track_id": 541,
-      "artist": "山崎まさよし",
-      "title": "セロリ",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
     },
     {
       "rank": 10,

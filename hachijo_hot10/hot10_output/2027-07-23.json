@@ -9,7 +9,7 @@
       "title": "Unfinished Sympathy",
       "movement": "↑1",
       "days_at_number_1": 1,
-      "top10_streak": 3
+      "top10_streak": 10
     },
     {
       "rank": 2,
@@ -85,12 +85,12 @@
     },
     {
       "rank": 10,
-      "track_id": 588,
-      "artist": "THE YELLOW MONKEY",
-      "title": "LOVE LOVE SHOW",
-      "movement": "→",
+      "track_id": 291,
+      "artist": "My Little Lover",
+      "title": "Hello, Again ～昔からある場所～",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
     }
   ]
 }

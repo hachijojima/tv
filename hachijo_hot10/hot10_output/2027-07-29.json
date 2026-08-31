@@ -24,7 +24,7 @@
       "rank": 3,
       "track_id": 476,
       "artist": "シャ乱Q",
-      "title": "シングルベッド",
+      "title": "上・京・物・語",
       "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 3
@@ -34,7 +34,7 @@
       "track_id": 14,
       "artist": "MIZ",
       "title": "とびうおのうた",
-      "movement": "↑4",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -58,39 +58,39 @@
     },
     {
       "rank": 7,
-      "track_id": 515,
-      "artist": "LINDBERG",
-      "title": "BELIEVE IN LOVE",
-      "movement": "↑3",
+      "track_id": 155,
+      "artist": "パスピエ",
+      "title": "MATATABISTEP",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 8,
-      "track_id": 576,
-      "artist": "大黒摩季",
-      "title": "あなただけ見つめてる",
-      "movement": "NEW",
+      "track_id": 1678,
+      "artist": "LITE",
+      "title": "Ef",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     },
     {
       "rank": 9,
-      "track_id": 500,
-      "artist": "モーニング娘。",
-      "title": "LOVEマシーン",
-      "movement": "RE",
+      "track_id": 1242,
+      "artist": "Avicii",
+      "title": "Levels",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 6
     },
     {
       "rank": 10,
-      "track_id": 155,
-      "artist": "パスピエ",
-      "title": "MATATABISTEP",
-      "movement": "↓1",
+      "track_id": 1542,
+      "artist": "COALTAR OF THE DEEPERS",
+      "title": "My Speedy Sarah",
+      "movement": "RE",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
     }
   ]
 }

@@ -7,12 +7,30 @@
       "track_id": 1010,
       "artist": "Oasis",
       "title": "Live Forever",
-      "movement": "↑1",
-      "days_at_number_1": 1,
+      "movement": "→",
+      "days_at_number_1": 2,
       "top10_streak": 4
     },
     {
       "rank": 2,
+      "track_id": 7,
+      "artist": "MONO NO AWARE",
+      "title": "ゾッコン",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 11
+    },
+    {
+      "rank": 3,
+      "track_id": 552,
+      "artist": "森高千里",
+      "title": "雨",
+      "movement": "↑6",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 4,
       "track_id": 615,
       "artist": "米米CLUB",
       "title": "Shake Hip!",
@@ -21,28 +39,10 @@
       "top10_streak": 8
     },
     {
-      "rank": 3,
-      "track_id": 7,
-      "artist": "MONO NO AWARE",
-      "title": "ゾッコン",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 11
-    },
-    {
-      "rank": 4,
-      "track_id": 1280,
-      "artist": "IVE",
-      "title": "I AM",
-      "movement": "↑4",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
       "rank": 5,
       "track_id": 1542,
-      "artist": "Cocco",
-      "title": "強く儚い者たち",
+      "artist": "COALTAR OF THE DEEPERS",
+      "title": "My Speedy Sarah",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
@@ -58,15 +58,6 @@
     },
     {
       "rank": 7,
-      "track_id": 762,
-      "artist": "ティン・パン・アレー",
-      "title": "北京ダック",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
-      "rank": 8,
       "track_id": 1474,
       "artist": "スチャダラパー",
       "title": "GET UP AND DANCE",
@@ -75,22 +66,31 @@
       "top10_streak": 5
     },
     {
-      "rank": 9,
-      "track_id": 552,
-      "artist": "森高千里",
-      "title": "雨",
-      "movement": "NEW",
+      "rank": 8,
+      "track_id": 762,
+      "artist": "ティン・パン・アレー",
+      "title": "北京ダック",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 9
     },
     {
-      "rank": 10,
+      "rank": 9,
       "track_id": 228,
       "artist": "スカート",
       "title": "ストーリー",
-      "movement": "↓5",
+      "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 3
+    },
+    {
+      "rank": 10,
+      "track_id": 1134,
+      "artist": "Diana Ross",
+      "title": "I’m Coming Out",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }

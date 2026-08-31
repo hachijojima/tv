@@ -6,9 +6,9 @@
       "rank": 1,
       "track_id": 500,
       "artist": "モーニング娘。",
-      "title": "LOVEマシーン",
+      "title": "Memory 青春の光",
       "movement": "→",
-      "days_at_number_1": 4,
+      "days_at_number_1": 3,
       "top10_streak": 7
     },
     {
@@ -16,7 +16,7 @@
       "track_id": 686,
       "artist": "細野晴臣",
       "title": "終りの季節",
-      "movement": "→",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -25,7 +25,7 @@
       "track_id": 1590,
       "artist": "奥山熊雄",
       "title": "色のついたシャバタキ・すがる",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -34,27 +34,27 @@
       "track_id": 1011,
       "artist": "Underworld",
       "title": "Born Slippy (Nuxx)",
-      "movement": "→",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 3
     },
     {
       "rank": 5,
       "track_id": 1584,
       "artist": "Elliott Smith",
       "title": "Between the Bars",
-      "movement": "→",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 8
+      "top10_streak": 7
     },
     {
       "rank": 6,
-      "track_id": 495,
-      "artist": "MISIA",
-      "title": "つつみ込むように…",
-      "movement": "RE",
+      "track_id": 1647,
+      "artist": "YMCK",
+      "title": "Magical 8bit Tour",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 8
     },
     {
       "rank": 7,
@@ -67,15 +67,6 @@
     },
     {
       "rank": 8,
-      "track_id": 1231,
-      "artist": "Sabrina Carpenter",
-      "title": "Espresso",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 9,
       "track_id": 1061,
       "artist": "Cyndi Lauper",
       "title": "Time After Time",
@@ -84,13 +75,22 @@
       "top10_streak": 2
     },
     {
-      "rank": 10,
-      "track_id": 1048,
-      "artist": "Ben E. King",
-      "title": "Stand By Me",
-      "movement": "↓4",
+      "rank": 9,
+      "track_id": 495,
+      "artist": "MISIA",
+      "title": "つつみ込むように…",
+      "movement": "RE",
       "days_at_number_1": 0,
-      "top10_streak": 11
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1231,
+      "artist": "Sabrina Carpenter",
+      "title": "Espresso",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 4
     }
   ]
 }

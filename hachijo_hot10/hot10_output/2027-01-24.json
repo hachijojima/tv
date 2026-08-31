@@ -7,21 +7,12 @@
       "track_id": 1473,
       "artist": "スチャダラパー",
       "title": "今夜はブギー・バック (smooth rap)",
-      "movement": "↑2",
+      "movement": "↑1",
       "days_at_number_1": 1,
-      "top10_streak": 8
+      "top10_streak": 10
     },
     {
       "rank": 2,
-      "track_id": 1023,
-      "artist": "Carpenters",
-      "title": "(They Long To Be) Close To You",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 3,
       "track_id": 945,
       "artist": "Oasis",
       "title": "Don't Look Back in Anger",
@@ -30,58 +21,67 @@
       "top10_streak": 1
     },
     {
-      "rank": 4,
+      "rank": 3,
       "track_id": 124,
       "artist": "Tempalay",
       "title": "そなちね",
-      "movement": "RE",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 5,
+      "rank": 4,
       "track_id": 1542,
-      "artist": "Cocco",
-      "title": "強く儚い者たち",
+      "artist": "COALTAR OF THE DEEPERS",
+      "title": "My Speedy Sarah",
       "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 9
     },
     {
-      "rank": 6,
-      "track_id": 489,
-      "artist": "小泉今日子",
-      "title": "あなたに会えてよかった",
-      "movement": "→",
+      "rank": 5,
+      "track_id": 1023,
+      "artist": "Carpenters",
+      "title": "(They Long To Be) Close To You",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 2
+    },
+    {
+      "rank": 6,
+      "track_id": 1674,
+      "artist": "Pasteboard",
+      "title": "Flipper",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 9
     },
     {
       "rank": 7,
-      "track_id": 1085,
-      "artist": "Procol Harum",
-      "title": "A Whiter Shade of Pale",
-      "movement": "NEW",
+      "track_id": 489,
+      "artist": "小泉今日子",
+      "title": "Fade Out",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 5
     },
     {
       "rank": 8,
       "track_id": 1095,
       "artist": "サニーデイ・サービス",
       "title": "春の風",
-      "movement": "↓3",
+      "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 9,
-      "track_id": 466,
-      "artist": "GLAY",
-      "title": "BELOVED",
-      "movement": "→",
+      "track_id": 1085,
+      "artist": "Procol Harum",
+      "title": "A Whiter Shade of Pale",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
     },
     {
       "rank": 10,

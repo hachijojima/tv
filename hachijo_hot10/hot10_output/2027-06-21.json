@@ -6,9 +6,9 @@
       "rank": 1,
       "track_id": 459,
       "artist": "B'z",
-      "title": "ALONE",
+      "title": "MOTEL",
       "movement": "→",
-      "days_at_number_1": 3,
+      "days_at_number_1": 2,
       "top10_streak": 5
     },
     {
@@ -49,15 +49,6 @@
     },
     {
       "rank": 6,
-      "track_id": 523,
-      "artist": "スピッツ",
-      "title": "渚",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 7,
       "track_id": 1023,
       "artist": "Carpenters",
       "title": "(They Long To Be) Close To You",
@@ -66,13 +57,22 @@
       "top10_streak": 1
     },
     {
-      "rank": 8,
+      "rank": 7,
       "track_id": 1154,
       "artist": "たま",
       "title": "さよなら人類",
       "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 8
+    },
+    {
+      "rank": 8,
+      "track_id": 523,
+      "artist": "スピッツ",
+      "title": "渚",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 4
     },
     {
       "rank": 9,
@@ -88,7 +88,7 @@
       "track_id": 1265,
       "artist": "Disclosure",
       "title": "White Noise (feat. AlunaGeorge)",
-      "movement": "↓1",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 2
     }

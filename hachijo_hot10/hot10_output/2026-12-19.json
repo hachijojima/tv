@@ -4,21 +4,21 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 539,
-      "artist": "KAN",
-      "title": "まゆみ",
-      "movement": "→",
-      "days_at_number_1": 5,
-      "top10_streak": 9
-    },
-    {
-      "rank": 2,
       "track_id": 1584,
       "artist": "Elliott Smith",
       "title": "Between the Bars",
       "movement": "NEW",
-      "days_at_number_1": 0,
+      "days_at_number_1": 1,
       "top10_streak": 1
+    },
+    {
+      "rank": 2,
+      "track_id": 539,
+      "artist": "KAN",
+      "title": "まゆみ",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
     },
     {
       "rank": 3,

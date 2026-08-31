@@ -40,15 +40,24 @@
     },
     {
       "rank": 5,
+      "track_id": 1242,
+      "artist": "Avicii",
+      "title": "Levels",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 6,
       "track_id": 1508,
       "artist": "RCサクセション",
       "title": "多摩蘭坂",
-      "movement": "↑3",
+      "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 7
     },
     {
-      "rank": 6,
+      "rank": 7,
       "track_id": 1019,
       "artist": "Radiohead",
       "title": "High and Dry",
@@ -57,22 +66,13 @@
       "top10_streak": 1
     },
     {
-      "rank": 7,
-      "track_id": 1242,
-      "artist": "Avicii",
-      "title": "Levels",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
       "rank": 8,
-      "track_id": 539,
-      "artist": "KAN",
-      "title": "まゆみ",
-      "movement": "↓1",
+      "track_id": 1305,
+      "artist": "鼓童",
+      "title": "凰（おおとり）",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 13
     },
     {
       "rank": 9,

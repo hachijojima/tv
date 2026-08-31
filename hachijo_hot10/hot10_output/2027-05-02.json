@@ -16,7 +16,7 @@
       "track_id": 1048,
       "artist": "Ben E. King",
       "title": "Stand By Me",
-      "movement": "↑2",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
@@ -27,14 +27,14 @@
       "title": "Beautiful Day",
       "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 10
+      "top10_streak": 8
     },
     {
       "rank": 4,
       "track_id": 1241,
       "artist": "Avicii",
       "title": "Wake Me Up",
-      "movement": "↑3",
+      "movement": "↑5",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -42,13 +42,31 @@
       "rank": 5,
       "track_id": 470,
       "artist": "TM NETWORK",
-      "title": "Get Wild",
-      "movement": "→",
+      "title": "69/99",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
       "rank": 6,
+      "track_id": 1542,
+      "artist": "COALTAR OF THE DEEPERS",
+      "title": "My Speedy Sarah",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 9
+    },
+    {
+      "rank": 7,
+      "track_id": 10,
+      "artist": "MIZ",
+      "title": "パジャマでハイウェイ",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 8,
       "track_id": 603,
       "artist": "山崎まさよし",
       "title": "僕はここにいる",
@@ -57,40 +75,22 @@
       "top10_streak": 3
     },
     {
-      "rank": 7,
-      "track_id": 533,
-      "artist": "TRF",
-      "title": "survival dAnce ～no no cry more～",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 8,
-      "track_id": 10,
-      "artist": "MIZ",
-      "title": "パジャマでハイウェイ",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
       "rank": 9,
-      "track_id": 504,
-      "artist": "the brilliant green",
-      "title": "There will be love there -愛のある場所-",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 10,
       "track_id": 1262,
       "artist": "Tiësto",
       "title": "Red Lights",
-      "movement": "↓2",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 4
+    },
+    {
+      "rank": 10,
+      "track_id": 1613,
+      "artist": "WINO",
+      "title": "Devil's own",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }

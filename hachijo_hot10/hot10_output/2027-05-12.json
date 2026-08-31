@@ -13,6 +13,24 @@
     },
     {
       "rank": 2,
+      "track_id": 1364,
+      "artist": "Linkin Park",
+      "title": "In the End",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 3,
+      "track_id": 239,
+      "artist": "さよならポニーテール",
+      "title": "光る街へ",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 4,
       "track_id": 573,
       "artist": "THE BOOM",
       "title": "風になりたい",
@@ -21,29 +39,11 @@
       "top10_streak": 8
     },
     {
-      "rank": 3,
-      "track_id": 1364,
-      "artist": "Linkin Park",
-      "title": "In the End",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 4,
-      "track_id": 239,
-      "artist": "さよならポニーテール",
-      "title": "光る街へ",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
       "rank": 5,
       "track_id": 441,
       "artist": "チャットモンチー",
       "title": "恋愛スピリッツ",
-      "movement": "↑4",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -58,21 +58,21 @@
     },
     {
       "rank": 7,
-      "track_id": 528,
-      "artist": "GLAY",
-      "title": "HOWEVER",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 8,
       "track_id": 1257,
       "artist": "Clean Bandit",
       "title": "Rather Be (feat. Jess Glynne)",
       "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 3
+    },
+    {
+      "rank": 8,
+      "track_id": 528,
+      "artist": "GLAY",
+      "title": "HOWEVER",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     },
     {
       "rank": 9,
@@ -88,9 +88,9 @@
       "track_id": 1288,
       "artist": "BIGBANG",
       "title": "FANTASTIC BABY",
-      "movement": "↓6",
+      "movement": "↓7",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 5
     }
   ]
 }

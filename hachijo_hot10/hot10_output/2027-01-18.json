@@ -4,51 +4,60 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1048,
-      "artist": "Ben E. King",
-      "title": "Stand By Me",
-      "movement": "→",
-      "days_at_number_1": 2,
+      "track_id": 1473,
+      "artist": "スチャダラパー",
+      "title": "今夜はブギー・バック (smooth rap)",
+      "movement": "↑2",
+      "days_at_number_1": 1,
       "top10_streak": 4
     },
     {
       "rank": 2,
-      "track_id": 432,
-      "artist": "SUPERCAR",
-      "title": "cream soda",
-      "movement": "↑1",
+      "track_id": 1048,
+      "artist": "Ben E. King",
+      "title": "Stand By Me",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
       "rank": 3,
-      "track_id": 1473,
-      "artist": "スチャダラパー",
-      "title": "今夜はブギー・バック (smooth rap)",
-      "movement": "↑3",
+      "track_id": 432,
+      "artist": "SUPERCAR",
+      "title": "cream soda",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 4
     },
     {
       "rank": 4,
-      "track_id": 1542,
-      "artist": "Cocco",
-      "title": "強く儚い者たち",
-      "movement": "↑1",
+      "track_id": 1674,
+      "artist": "Pasteboard",
+      "title": "Flipper",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 5,
+      "track_id": 1542,
+      "artist": "COALTAR OF THE DEEPERS",
+      "title": "My Speedy Sarah",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 6,
       "track_id": 459,
       "artist": "B'z",
-      "title": "ALONE",
-      "movement": "↓3",
+      "title": "MOTEL",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 6,
+      "rank": 7,
       "track_id": 1533,
       "artist": "大瀧詠一",
       "title": "指切り",
@@ -57,16 +66,16 @@
       "top10_streak": 1
     },
     {
-      "rank": 7,
-      "track_id": 1445,
-      "artist": "Thee Michelle Gun Elephant",
-      "title": "バードメン",
-      "movement": "↑3",
+      "rank": 8,
+      "track_id": 1719,
+      "artist": "Kaoru Inoue",
+      "title": "The Invisible Eclipse",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 8,
+      "rank": 9,
       "track_id": 658,
       "artist": "遠藤賢司",
       "title": "カレーライス",
@@ -75,22 +84,13 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
-      "track_id": 1023,
-      "artist": "Carpenters",
-      "title": "(They Long To Be) Close To You",
-      "movement": "RE",
+      "rank": 10,
+      "track_id": 1659,
+      "artist": "fOUL",
+      "title": "枯槁",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
-    },
-    {
-      "rank": 10,
-      "track_id": 1245,
-      "artist": "David Guetta",
-      "title": "Titanium (feat. Sia)",
-      "movement": "↓6",
-      "days_at_number_1": 0,
-      "top10_streak": 3
     }
   ]
 }

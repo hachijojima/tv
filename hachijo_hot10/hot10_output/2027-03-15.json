@@ -4,24 +4,15 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 259,
-      "artist": "ドミコ",
-      "title": "ペーパーロールスター",
-      "movement": "NEW",
+      "track_id": 1635,
+      "artist": "MIC JACK PRODUCTION",
+      "title": "Seven Seas Voyage",
+      "movement": "↑2",
       "days_at_number_1": 1,
-      "top10_streak": 1
+      "top10_streak": 7
     },
     {
       "rank": 2,
-      "track_id": 762,
-      "artist": "ティン・パン・アレー",
-      "title": "北京ダック",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 10
-    },
-    {
-      "rank": 3,
       "track_id": 998,
       "artist": "Donald Fagen",
       "title": "The Nightfly",
@@ -30,16 +21,16 @@
       "top10_streak": 7
     },
     {
-      "rank": 4,
-      "track_id": 1247,
-      "artist": "Swedish House Mafia",
-      "title": "Don't You Worry Child",
-      "movement": "↑4",
+      "rank": 3,
+      "track_id": 259,
+      "artist": "ドミコ",
+      "title": "ペーパーロールスター",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 1
     },
     {
-      "rank": 5,
+      "rank": 4,
       "track_id": 1584,
       "artist": "Elliott Smith",
       "title": "Between the Bars",
@@ -48,49 +39,58 @@
       "top10_streak": 10
     },
     {
-      "rank": 6,
+      "rank": 5,
       "track_id": 451,
       "artist": "WANDS",
-      "title": "時の扉",
-      "movement": "→",
+      "title": "Secret Night ～It's My Treat～",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 7,
-      "track_id": 552,
-      "artist": "森高千里",
-      "title": "雨",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 14
-    },
-    {
-      "rank": 8,
+      "rank": 6,
       "track_id": 1214,
       "artist": "Ariana Grande",
       "title": "Into You",
-      "movement": "↓3",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
+      "rank": 7,
+      "track_id": 1247,
+      "artist": "Swedish House Mafia",
+      "title": "Don't You Worry Child",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 714,
+      "artist": "松山千春",
+      "title": "恋",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
       "rank": 9,
+      "track_id": 1315,
+      "artist": "Nirvana",
+      "title": "Come As You Are",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 9
+    },
+    {
+      "rank": 10,
       "track_id": 1344,
       "artist": "The Cranberries",
       "title": "Linger",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
-    },
-    {
-      "rank": 10,
-      "track_id": 1305,
-      "artist": "鼓童",
-      "title": "凰（おおとり）",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 12
     }
   ]
 }

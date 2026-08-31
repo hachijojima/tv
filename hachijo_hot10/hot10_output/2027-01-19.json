@@ -7,8 +7,8 @@
       "track_id": 1048,
       "artist": "Ben E. King",
       "title": "Stand By Me",
-      "movement": "→",
-      "days_at_number_1": 3,
+      "movement": "↑1",
+      "days_at_number_1": 1,
       "top10_streak": 5
     },
     {
@@ -16,21 +16,30 @@
       "track_id": 1473,
       "artist": "スチャダラパー",
       "title": "今夜はブギー・バック (smooth rap)",
-      "movement": "↑1",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 5
     },
     {
       "rank": 3,
       "track_id": 1542,
-      "artist": "Cocco",
-      "title": "強く儚い者たち",
-      "movement": "↑1",
+      "artist": "COALTAR OF THE DEEPERS",
+      "title": "My Speedy Sarah",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
       "rank": 4,
+      "track_id": 1674,
+      "artist": "Pasteboard",
+      "title": "Flipper",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 5,
       "track_id": 432,
       "artist": "SUPERCAR",
       "title": "cream soda",
@@ -39,22 +48,13 @@
       "top10_streak": 5
     },
     {
-      "rank": 5,
+      "rank": 6,
       "track_id": 563,
       "artist": "ポルノグラフィティ",
       "title": "サウダージ",
-      "movement": "RE",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
-    },
-    {
-      "rank": 6,
-      "track_id": 1445,
-      "artist": "Thee Michelle Gun Elephant",
-      "title": "バードメン",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
     },
     {
       "rank": 7,
@@ -67,30 +67,30 @@
     },
     {
       "rank": 8,
-      "track_id": 1023,
-      "artist": "Carpenters",
-      "title": "(They Long To Be) Close To You",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 9,
       "track_id": 459,
       "artist": "B'z",
-      "title": "ALONE",
-      "movement": "↓4",
+      "title": "MOTEL",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
-      "rank": 10,
+      "rank": 9,
       "track_id": 1533,
       "artist": "大瀧詠一",
       "title": "指切り",
-      "movement": "↓4",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 2
+    },
+    {
+      "rank": 10,
+      "track_id": 1386,
+      "artist": "Fishmans",
+      "title": "新しい人",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }

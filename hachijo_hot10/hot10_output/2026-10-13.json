@@ -13,57 +13,57 @@
     },
     {
       "rank": 2,
+      "track_id": 1717,
+      "artist": "Chari Chari",
+      "title": "Across the Universe",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 3,
       "track_id": 1089,
       "artist": "The Beatles",
       "title": "Let It Be",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 3,
+      "rank": 4,
       "track_id": 1021,
       "artist": "スチャダラパー",
       "title": "サマージャム’95",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
     {
-      "rank": 4,
+      "rank": 5,
       "track_id": 1219,
       "artist": "Ed Sheeran",
       "title": "Shape of You",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 11
-    },
-    {
-      "rank": 5,
-      "track_id": 1226,
-      "artist": "Imagine Dragons",
-      "title": "Believer",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 12
     },
     {
       "rank": 6,
       "track_id": 1285,
       "artist": "SEVENTEEN",
       "title": "VERY NICE",
-      "movement": "↑2",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 7,
-      "track_id": 572,
-      "artist": "BEGIN",
-      "title": "恋しくて",
+      "track_id": 1226,
+      "artist": "Imagine Dragons",
+      "title": "Believer",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 2
     },
     {
       "rank": 8,
@@ -85,12 +85,12 @@
     },
     {
       "rank": 10,
-      "track_id": 816,
-      "artist": "藤井風",
-      "title": "優しさ",
-      "movement": "→",
+      "track_id": 1718,
+      "artist": "Calm",
+      "title": "Light Years",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 1
     }
   ]
 }

@@ -7,30 +7,21 @@
       "track_id": 636,
       "artist": "鈴木茂",
       "title": "砂の女",
-      "movement": "↑6",
+      "movement": "↑8",
       "days_at_number_1": 1,
       "top10_streak": 2
     },
     {
       "rank": 2,
-      "track_id": 641,
-      "artist": "佐野元春",
-      "title": "SOMEDAY",
+      "track_id": 1474,
+      "artist": "スチャダラパー",
+      "title": "GET UP AND DANCE",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 8
+      "top10_streak": 2
     },
     {
       "rank": 3,
-      "track_id": 1541,
-      "artist": "Cocco",
-      "title": "カウントダウン",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 14
-    },
-    {
-      "rank": 4,
       "track_id": 413,
       "artist": "スネオヘアー",
       "title": "ストライク",
@@ -39,40 +30,49 @@
       "top10_streak": 2
     },
     {
-      "rank": 5,
-      "track_id": 1474,
-      "artist": "スチャダラパー",
-      "title": "GET UP AND DANCE",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "track_id": 1040,
       "artist": "METAFIVE",
       "title": "環境と心理",
-      "movement": "↑4",
+      "movement": "↑6",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 7,
+      "rank": 5,
       "track_id": 12,
       "artist": "MIZ",
       "title": "丘",
-      "movement": "↑2",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
-      "rank": 8,
+      "rank": 6,
       "track_id": 1043,
       "artist": "Television",
       "title": "Marquee Moon",
-      "movement": "↓4",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 7
+    },
+    {
+      "rank": 7,
+      "track_id": 1541,
+      "artist": "Cocco",
+      "title": "カウントダウン",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 14
+    },
+    {
+      "rank": 8,
+      "track_id": 641,
+      "artist": "佐野元春",
+      "title": "SOMEDAY",
+      "movement": "↓6",
+      "days_at_number_1": 0,
+      "top10_streak": 15
     },
     {
       "rank": 9,
@@ -85,9 +85,9 @@
     },
     {
       "rank": 10,
-      "track_id": 1601,
-      "artist": "福島弘和",
-      "title": "吹奏楽のための「おじゃれ」",
+      "track_id": 1634,
+      "artist": "THA BLUE HERB",
+      "title": "未来は俺等の手の中",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1

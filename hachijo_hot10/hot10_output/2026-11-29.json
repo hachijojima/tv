@@ -22,12 +22,12 @@
     },
     {
       "rank": 3,
-      "track_id": 4,
+      "track_id": 12,
       "artist": "MIZ",
-      "title": "空砲",
-      "movement": "→",
+      "title": "丘",
+      "movement": "RE",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 1
     },
     {
       "rank": 4,
@@ -40,15 +40,6 @@
     },
     {
       "rank": 5,
-      "track_id": 19,
-      "artist": "MONO NO AWARE",
-      "title": "幽霊船",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 13
-    },
-    {
-      "rank": 6,
       "track_id": 718,
       "artist": "友部正人",
       "title": "夕日は昇る",
@@ -57,13 +48,22 @@
       "top10_streak": 1
     },
     {
-      "rank": 7,
-      "track_id": 500,
-      "artist": "モーニング娘。",
-      "title": "LOVEマシーン",
-      "movement": "→",
+      "rank": 6,
+      "track_id": 1718,
+      "artist": "Calm",
+      "title": "Light Years",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 11
+    },
+    {
+      "rank": 7,
+      "track_id": 19,
+      "artist": "MONO NO AWARE",
+      "title": "幽霊船",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 13
     },
     {
       "rank": 8,
@@ -76,21 +76,21 @@
     },
     {
       "rank": 9,
-      "track_id": 299,
-      "artist": "ハナレグミ",
-      "title": "家族の風景",
-      "movement": "↓4",
+      "track_id": 1651,
+      "artist": "Oorutaichi",
+      "title": "Hamihadarigeri",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
       "rank": 10,
-      "track_id": 494,
-      "artist": "久保田利伸",
-      "title": "LA・LA・LA LOVE SONG",
+      "track_id": 500,
+      "artist": "モーニング娘。",
+      "title": "Memory 青春の光",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 8
+      "top10_streak": 2
     }
   ]
 }

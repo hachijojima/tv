@@ -16,7 +16,7 @@
       "track_id": 1476,
       "artist": "スチャダラパー",
       "title": "大人になっても",
-      "movement": "↑2",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
@@ -34,7 +34,7 @@
       "track_id": 14,
       "artist": "MIZ",
       "title": "とびうおのうた",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
@@ -49,24 +49,6 @@
     },
     {
       "rank": 6,
-      "track_id": 1110,
-      "artist": "Red Hot Chili Peppers",
-      "title": "Can’t Stop",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 7,
-      "track_id": 541,
-      "artist": "山崎まさよし",
-      "title": "セロリ",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 10
-    },
-    {
-      "rank": 8,
       "track_id": 341,
       "artist": "NUMBER GIRL",
       "title": "OMOIDE IN MY HEAD",
@@ -75,22 +57,40 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
-      "track_id": 552,
-      "artist": "森高千里",
-      "title": "雨",
-      "movement": "↓3",
+      "rank": 7,
+      "track_id": 541,
+      "artist": "山崎まさよし",
+      "title": "セロリ",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 8
+      "top10_streak": 6
     },
     {
-      "rank": 10,
-      "track_id": 1240,
-      "artist": "Pharrell Williams",
-      "title": "Happy",
+      "rank": 8,
+      "track_id": 644,
+      "artist": "オフコース",
+      "title": "さよなら",
       "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 3
+    },
+    {
+      "rank": 9,
+      "track_id": 1645,
+      "artist": "CO-FUSION",
+      "title": "Material to Digital",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 133,
+      "artist": "iri",
+      "title": "rhythm",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }

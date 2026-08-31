@@ -22,21 +22,21 @@
     },
     {
       "rank": 3,
+      "track_id": 1590,
+      "artist": "奥山熊雄",
+      "title": "色のついたシャバタキ・すがる",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 4,
       "track_id": 1241,
       "artist": "Avicii",
       "title": "Wake Me Up",
       "movement": "↑5",
       "days_at_number_1": 0,
       "top10_streak": 2
-    },
-    {
-      "rank": 4,
-      "track_id": 1590,
-      "artist": "奥山熊雄",
-      "title": "色のついたシャバタキ・すがる",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 7
     },
     {
       "rank": 5,

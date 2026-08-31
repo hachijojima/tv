@@ -63,16 +63,16 @@
       "title": "幽霊船",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 9
+      "top10_streak": 8
     },
     {
       "rank": 8,
-      "track_id": 1058,
-      "artist": "ランカ・リー=中島愛",
-      "title": "星間飛行",
-      "movement": "↓1",
+      "track_id": 1543,
+      "artist": "PEALOUT",
+      "title": "爆裂世界 ～世界に追い越されても～",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 2
     },
     {
       "rank": 9,
@@ -88,7 +88,7 @@
       "track_id": 1350,
       "artist": "Alanis Morissette",
       "title": "You Oughta Know",
-      "movement": "↓2",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 3
     }

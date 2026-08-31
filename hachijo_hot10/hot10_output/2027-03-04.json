@@ -5,65 +5,65 @@
     {
       "rank": 1,
       "track_id": 1542,
-      "artist": "Cocco",
-      "title": "強く儚い者たち",
+      "artist": "COALTAR OF THE DEEPERS",
+      "title": "My Speedy Sarah",
       "movement": "↑1",
       "days_at_number_1": 1,
       "top10_streak": 3
     },
     {
       "rank": 2,
-      "track_id": 1280,
-      "artist": "IVE",
-      "title": "I AM",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 3,
       "track_id": 7,
       "artist": "MONO NO AWARE",
       "title": "ゾッコン",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 13
     },
     {
-      "rank": 4,
-      "track_id": 459,
-      "artist": "B'z",
-      "title": "ALONE",
-      "movement": "↑4",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 5,
+      "rank": 3,
       "track_id": 552,
       "artist": "森高千里",
       "title": "雨",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 5
     },
     {
-      "rank": 6,
-      "track_id": 1014,
-      "artist": "Nirvana",
-      "title": "Smells Like Teen Spirit",
-      "movement": "↑1",
+      "rank": 4,
+      "track_id": 459,
+      "artist": "B'z",
+      "title": "MOTEL",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 7,
+      "rank": 5,
+      "track_id": 1014,
+      "artist": "Nirvana",
+      "title": "Smells Like Teen Spirit",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 6,
       "track_id": 1231,
       "artist": "Sabrina Carpenter",
       "title": "Espresso",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 7,
+      "track_id": 762,
+      "artist": "ティン・パン・アレー",
+      "title": "北京ダック",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 11
     },
     {
       "rank": 8,
@@ -76,18 +76,18 @@
     },
     {
       "rank": 9,
-      "track_id": 615,
-      "artist": "米米CLUB",
-      "title": "Shake Hip!",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 10
-    },
-    {
-      "rank": 10,
       "track_id": 1240,
       "artist": "Pharrell Williams",
       "title": "Happy",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1280,
+      "artist": "IVE",
+      "title": "I AM",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1

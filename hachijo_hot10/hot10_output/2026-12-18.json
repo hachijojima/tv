@@ -8,8 +8,8 @@
       "artist": "KAN",
       "title": "まゆみ",
       "movement": "→",
-      "days_at_number_1": 4,
-      "top10_streak": 8
+      "days_at_number_1": 2,
+      "top10_streak": 4
     },
     {
       "rank": 2,
@@ -25,7 +25,7 @@
       "track_id": 1108,
       "artist": "Portishead",
       "title": "Glory Box",
-      "movement": "↑3",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -52,7 +52,7 @@
       "track_id": 1251,
       "artist": "Kygo",
       "title": "Firestone (feat. Conrad Sewell)",
-      "movement": "↑2",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -76,21 +76,21 @@
     },
     {
       "rank": 9,
-      "track_id": 779,
-      "artist": "ヨルシカ",
-      "title": "ただ君に晴れ",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 10,
       "track_id": 863,
       "artist": "Saucy Dog",
       "title": "結",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 779,
+      "artist": "ヨルシカ",
+      "title": "ただ君に晴れ",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 4
     }
   ]
 }

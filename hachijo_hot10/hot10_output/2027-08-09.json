@@ -13,21 +13,21 @@
     },
     {
       "rank": 2,
-      "track_id": 1043,
-      "artist": "Television",
-      "title": "Marquee Moon",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 3,
       "track_id": 852,
       "artist": "Official髭男dism",
       "title": "宿命",
-      "movement": "↑1",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
+    },
+    {
+      "rank": 3,
+      "track_id": 1043,
+      "artist": "Television",
+      "title": "Marquee Moon",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     },
     {
       "rank": 4,
@@ -40,15 +40,6 @@
     },
     {
       "rank": 5,
-      "track_id": 541,
-      "artist": "山崎まさよし",
-      "title": "セロリ",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 6,
       "track_id": 11,
       "artist": "MONO NO AWARE",
       "title": "異邦人",
@@ -57,16 +48,16 @@
       "top10_streak": 4
     },
     {
-      "rank": 7,
-      "track_id": 487,
-      "artist": "PRINCESS PRINCESS",
-      "title": "M",
+      "rank": 6,
+      "track_id": 541,
+      "artist": "山崎まさよし",
+      "title": "セロリ",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 6
     },
     {
-      "rank": 8,
+      "rank": 7,
       "track_id": 1252,
       "artist": "Kygo",
       "title": "Stole the Show (feat. Parson James)",
@@ -75,19 +66,28 @@
       "top10_streak": 11
     },
     {
-      "rank": 9,
-      "track_id": 283,
-      "artist": "小沢健二",
-      "title": "ぼくらが旅に出る理由",
-      "movement": "NEW",
+      "rank": 8,
+      "track_id": 1705,
+      "artist": "大友良英 NEW JAZZ ENSEMBLE",
+      "title": "Eureka",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
+    },
+    {
+      "rank": 9,
+      "track_id": 1593,
+      "artist": "天田トメノ",
+      "title": "ショメ節",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     },
     {
       "rank": 10,
-      "track_id": 162,
-      "artist": "キセル",
-      "title": "くちなしの丘",
+      "track_id": 283,
+      "artist": "小沢健二",
+      "title": "ぼくらが旅に出る理由",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1

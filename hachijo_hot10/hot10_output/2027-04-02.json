@@ -8,8 +8,8 @@
       "artist": "Cyndi Lauper",
       "title": "Time After Time",
       "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 7
+      "days_at_number_1": 3,
+      "top10_streak": 9
     },
     {
       "rank": 2,
@@ -49,15 +49,33 @@
     },
     {
       "rank": 6,
+      "track_id": 1642,
+      "artist": "Jazztronik",
+      "title": "Samurai",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 7,
+      "track_id": 1678,
+      "artist": "LITE",
+      "title": "Ef",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
       "track_id": 473,
       "artist": "Every Little Thing",
-      "title": "Time goes by",
+      "title": "Shapes Of Love",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 7,
+      "rank": 9,
       "track_id": 630,
       "artist": "RCサクセション",
       "title": "スローバラード",
@@ -66,31 +84,13 @@
       "top10_streak": 1
     },
     {
-      "rank": 8,
-      "track_id": 1543,
-      "artist": "Cocco",
-      "title": "Raining",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 13
-    },
-    {
-      "rank": 9,
+      "rank": 10,
       "track_id": 1351,
       "artist": "Alanis Morissette",
       "title": "Ironic",
-      "movement": "↓1",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 4
-    },
-    {
-      "rank": 10,
-      "track_id": 1214,
-      "artist": "Ariana Grande",
-      "title": "Into You",
-      "movement": "↓6",
-      "days_at_number_1": 0,
-      "top10_streak": 7
     }
   ]
 }

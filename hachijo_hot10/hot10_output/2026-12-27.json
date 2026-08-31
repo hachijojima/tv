@@ -4,15 +4,24 @@
   "chart": [
     {
       "rank": 1,
+      "track_id": 1663,
+      "artist": "MAD3",
+      "title": "Jack the Violence",
+      "movement": "→",
+      "days_at_number_1": 3,
+      "top10_streak": 3
+    },
+    {
+      "rank": 2,
       "track_id": 11,
       "artist": "MONO NO AWARE",
       "title": "異邦人",
       "movement": "↑4",
-      "days_at_number_1": 1,
+      "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 2,
+      "rank": 3,
       "track_id": 275,
       "artist": "BREIMEN",
       "title": "yonaki",
@@ -21,58 +30,49 @@
       "top10_streak": 2
     },
     {
-      "rank": 3,
+      "rank": 4,
       "track_id": 481,
       "artist": "奥田民生",
       "title": "愛のために",
       "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 4,
-      "track_id": 1371,
-      "artist": "The Killers",
-      "title": "When You Were Young",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 6
     },
     {
       "rank": 5,
       "track_id": 1089,
       "artist": "The Beatles",
       "title": "Let It Be",
-      "movement": "RE",
+      "movement": "↑5",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     },
     {
       "rank": 6,
-      "track_id": 468,
-      "artist": "X JAPAN",
-      "title": "ENDLESS RAIN",
-      "movement": "NEW",
+      "track_id": 1371,
+      "artist": "The Killers",
+      "title": "When You Were Young",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 4
     },
     {
       "rank": 7,
-      "track_id": 12,
-      "artist": "MIZ",
-      "title": "丘",
-      "movement": "RE",
+      "track_id": 679,
+      "artist": "太田裕美",
+      "title": "木綿のハンカチーフ",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     },
     {
       "rank": 8,
-      "track_id": 738,
-      "artist": "松田聖子",
-      "title": "瑠璃色の地球",
-      "movement": "↓2",
+      "track_id": 468,
+      "artist": "X JAPAN",
+      "title": "DAHLIA",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 1
     },
     {
       "rank": 9,
@@ -85,12 +85,12 @@
     },
     {
       "rank": 10,
-      "track_id": 679,
-      "artist": "太田裕美",
-      "title": "木綿のハンカチーフ",
-      "movement": "↓1",
+      "track_id": 12,
+      "artist": "MIZ",
+      "title": "丘",
+      "movement": "RE",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
     }
   ]
 }

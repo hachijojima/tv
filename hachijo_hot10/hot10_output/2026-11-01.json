@@ -7,48 +7,39 @@
       "track_id": 1068,
       "artist": "Simon & Garfunkel",
       "title": "Bridge Over Troubled Water",
-      "movement": "→",
-      "days_at_number_1": 2,
+      "movement": "↑1",
+      "days_at_number_1": 1,
       "top10_streak": 2
     },
     {
       "rank": 2,
-      "track_id": 1267,
-      "artist": "Eric Prydz",
-      "title": "Call on Me",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 3,
       "track_id": 10,
       "artist": "MIZ",
       "title": "パジャマでハイウェイ",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 5
     },
     {
-      "rank": 4,
-      "track_id": 591,
-      "artist": "LUNA SEA",
-      "title": "I for You",
-      "movement": "→",
+      "rank": 3,
+      "track_id": 1267,
+      "artist": "Eric Prydz",
+      "title": "Call on Me",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 5,
-      "track_id": 1240,
-      "artist": "Pharrell Williams",
-      "title": "Happy",
-      "movement": "↓2",
+      "rank": 4,
+      "track_id": 1629,
+      "artist": "Boris",
+      "title": "Farewell",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 11
+      "top10_streak": 3
     },
     {
-      "rank": 6,
+      "rank": 5,
       "track_id": 1046,
       "artist": "星野源",
       "title": "不思議",
@@ -57,16 +48,34 @@
       "top10_streak": 1
     },
     {
+      "rank": 6,
+      "track_id": 1240,
+      "artist": "Pharrell Williams",
+      "title": "Happy",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 12
+    },
+    {
       "rank": 7,
-      "track_id": 695,
-      "artist": "矢野顕子",
-      "title": "春咲小紅",
+      "track_id": 591,
+      "artist": "LUNA SEA",
+      "title": "I for You",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 2
     },
     {
       "rank": 8,
+      "track_id": 1040,
+      "artist": "METAFIVE",
+      "title": "環境と心理",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 9,
       "track_id": 1013,
       "artist": "The Police",
       "title": "Every Breath You Take",
@@ -75,22 +84,13 @@
       "top10_streak": 13
     },
     {
-      "rank": 9,
-      "track_id": 1040,
-      "artist": "METAFIVE",
-      "title": "環境と心理",
-      "movement": "↑1",
+      "rank": 10,
+      "track_id": 1394,
+      "artist": "GOING STEADY",
+      "title": "BABY BABY",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
-    },
-    {
-      "rank": 10,
-      "track_id": 541,
-      "artist": "山崎まさよし",
-      "title": "セロリ",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
     }
   ]
 }

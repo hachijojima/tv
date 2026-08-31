@@ -9,7 +9,7 @@
       "title": "とびうおのうた",
       "movement": "→",
       "days_at_number_1": 3,
-      "top10_streak": 9
+      "top10_streak": 10
     },
     {
       "rank": 2,
@@ -34,7 +34,7 @@
       "track_id": 1073,
       "artist": "東京事変",
       "title": "透明人間",
-      "movement": "↑5",
+      "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -67,21 +67,21 @@
     },
     {
       "rank": 8,
-      "track_id": 488,
-      "artist": "渡辺美里",
-      "title": "My Revolution",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 9,
       "track_id": 679,
       "artist": "太田裕美",
       "title": "木綿のハンカチーフ",
-      "movement": "↓4",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 5
+    },
+    {
+      "rank": 9,
+      "track_id": 488,
+      "artist": "渡辺美里",
+      "title": "BELIEVE",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     },
     {
       "rank": 10,

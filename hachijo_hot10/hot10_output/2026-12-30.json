@@ -4,15 +4,24 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 468,
-      "artist": "X JAPAN",
-      "title": "ENDLESS RAIN",
+      "track_id": 1663,
+      "artist": "MAD3",
+      "title": "Jack the Violence",
       "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 4
+      "days_at_number_1": 6,
+      "top10_streak": 6
     },
     {
       "rank": 2,
+      "track_id": 468,
+      "artist": "X JAPAN",
+      "title": "DAHLIA",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 3,
       "track_id": 12,
       "artist": "MIZ",
       "title": "丘",
@@ -21,7 +30,7 @@
       "top10_streak": 4
     },
     {
-      "rank": 3,
+      "rank": 4,
       "track_id": 1109,
       "artist": "Radiohead",
       "title": "Everything In Its Right Place",
@@ -30,40 +39,31 @@
       "top10_streak": 1
     },
     {
-      "rank": 4,
+      "rank": 5,
       "track_id": 11,
       "artist": "MONO NO AWARE",
       "title": "異邦人",
-      "movement": "↓2",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
-      "rank": 5,
+      "rank": 6,
       "track_id": 1089,
       "artist": "The Beatles",
       "title": "Let It Be",
       "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 5
     },
     {
-      "rank": 6,
+      "rank": 7,
       "track_id": 541,
       "artist": "山崎まさよし",
       "title": "セロリ",
       "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
-    },
-    {
-      "rank": 7,
-      "track_id": 457,
-      "artist": "DEEN",
-      "title": "このまま君だけを奪い去りたい",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 3
     },
     {
       "rank": 8,
@@ -76,18 +76,18 @@
     },
     {
       "rank": 9,
-      "track_id": 1543,
-      "artist": "Cocco",
-      "title": "Raining",
-      "movement": "↓2",
+      "track_id": 457,
+      "artist": "DEEN",
+      "title": "翼を広げて",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 10,
-      "track_id": 563,
-      "artist": "ポルノグラフィティ",
-      "title": "サウダージ",
+      "track_id": 1639,
+      "artist": "Ametsub",
+      "title": "The Nothings of The North",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1

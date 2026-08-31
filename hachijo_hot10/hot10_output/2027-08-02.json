@@ -49,15 +49,6 @@
     },
     {
       "rank": 6,
-      "track_id": 701,
-      "artist": "シュガー・ベイブ",
-      "title": "今日はなんだか",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 7,
       "track_id": 379,
       "artist": "UA",
       "title": "悲しみジョニー",
@@ -66,16 +57,16 @@
       "top10_streak": 2
     },
     {
-      "rank": 8,
-      "track_id": 663,
-      "artist": "カルメン・マキ",
-      "title": "時には母のない子のように",
-      "movement": "NEW",
+      "rank": 7,
+      "track_id": 701,
+      "artist": "シュガー・ベイブ",
+      "title": "今日はなんだか",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 4
     },
     {
-      "rank": 9,
+      "rank": 8,
       "track_id": 14,
       "artist": "MIZ",
       "title": "とびうおのうた",
@@ -84,13 +75,22 @@
       "top10_streak": 6
     },
     {
-      "rank": 10,
-      "track_id": 476,
-      "artist": "シャ乱Q",
-      "title": "シングルベッド",
-      "movement": "↓4",
+      "rank": 9,
+      "track_id": 663,
+      "artist": "カルメン・マキ",
+      "title": "時には母のない子のように",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1090,
+      "artist": "The Beatles",
+      "title": "Strawberry Fields Forever",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }

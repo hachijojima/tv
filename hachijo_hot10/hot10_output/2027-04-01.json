@@ -7,16 +7,16 @@
       "track_id": 1061,
       "artist": "Cyndi Lauper",
       "title": "Time After Time",
-      "movement": "↑1",
-      "days_at_number_1": 1,
-      "top10_streak": 6
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 8
     },
     {
       "rank": 2,
       "track_id": 1474,
       "artist": "スチャダラパー",
       "title": "GET UP AND DANCE",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 7
     },
@@ -54,7 +54,7 @@
       "title": "TT",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 9
     },
     {
       "rank": 7,
@@ -76,21 +76,21 @@
     },
     {
       "rank": 9,
-      "track_id": 1543,
-      "artist": "Cocco",
-      "title": "Raining",
-      "movement": "→",
+      "track_id": 1642,
+      "artist": "Jazztronik",
+      "title": "Samurai",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 12
+      "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 11,
-      "artist": "MONO NO AWARE",
-      "title": "異邦人",
-      "movement": "↓6",
+      "track_id": 1543,
+      "artist": "PEALOUT",
+      "title": "爆裂世界 ～世界に追い越されても～",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 12
     }
   ]
 }

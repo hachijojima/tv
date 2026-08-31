@@ -34,48 +34,30 @@
       "track_id": 1046,
       "artist": "星野源",
       "title": "不思議",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 5,
-      "track_id": 541,
-      "artist": "山崎まさよし",
-      "title": "セロリ",
-      "movement": "↑5",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 6,
-      "track_id": 591,
-      "artist": "LUNA SEA",
-      "title": "I for You",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 7,
       "track_id": 1040,
       "artist": "METAFIVE",
       "title": "環境と心理",
-      "movement": "↑2",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 8,
+      "rank": 6,
       "track_id": 10,
       "artist": "MIZ",
       "title": "パジャマでハイウェイ",
       "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 7
     },
     {
-      "rank": 9,
+      "rank": 7,
       "track_id": 1309,
       "artist": "Red Hot Chili Peppers",
       "title": "Under the Bridge",
@@ -84,11 +66,29 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
+      "rank": 8,
       "track_id": 1475,
       "artist": "スチャダラパー",
       "title": "ゲームボーイズ",
       "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 591,
+      "artist": "LUNA SEA",
+      "title": "I for You",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 10,
+      "track_id": 541,
+      "artist": "山崎まさよし",
+      "title": "セロリ",
+      "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

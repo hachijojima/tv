@@ -7,54 +7,54 @@
       "track_id": 1023,
       "artist": "Carpenters",
       "title": "(They Long To Be) Close To You",
-      "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 10
+      "movement": "↑1",
+      "days_at_number_1": 1,
+      "top10_streak": 5
     },
     {
       "rank": 2,
       "track_id": 1473,
       "artist": "スチャダラパー",
       "title": "今夜はブギー・バック (smooth rap)",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 11
+      "top10_streak": 13
     },
     {
       "rank": 3,
-      "track_id": 466,
-      "artist": "GLAY",
-      "title": "BELOVED",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 4,
       "track_id": 369,
       "artist": "bonobos",
       "title": "Beautiful",
-      "movement": "↑1",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
+      "rank": 4,
+      "track_id": 466,
+      "artist": "GLAY",
+      "title": "Freeze My Love",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
       "rank": 5,
+      "track_id": 436,
+      "artist": "ハナレグミ",
+      "title": "光と影",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 6,
       "track_id": 1588,
       "artist": "Portishead",
       "title": "Sour Times",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
-    },
-    {
-      "rank": 6,
-      "track_id": 489,
-      "artist": "小泉今日子",
-      "title": "あなたに会えてよかった",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 8
     },
     {
       "rank": 7,
@@ -67,28 +67,28 @@
     },
     {
       "rank": 8,
-      "track_id": 436,
-      "artist": "ハナレグミ",
-      "title": "光と影",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 9,
-      "track_id": 612,
-      "artist": "渡辺美里",
-      "title": "サマータイム ブルース",
-      "movement": "↓5",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 10,
       "track_id": 1068,
       "artist": "Simon & Garfunkel",
       "title": "Bridge Over Troubled Water",
       "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 412,
+      "artist": "フラワーカンパニーズ",
+      "title": "吐きたくなるほど愛されたい",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1694,
+      "artist": "ソウル・フラワー・モノノケ・サミット",
+      "title": "アリラン",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

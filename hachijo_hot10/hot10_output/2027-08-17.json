@@ -25,30 +25,39 @@
       "track_id": 1601,
       "artist": "福島弘和",
       "title": "吹奏楽のための「おじゃれ」",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
       "rank": 4,
-      "track_id": 548,
-      "artist": "REBECCA",
-      "title": "RASPBERRY DREAM",
+      "track_id": 1634,
+      "artist": "THA BLUE HERB",
+      "title": "未来は俺等の手の中",
       "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 2
     },
     {
       "rank": 5,
-      "track_id": 1091,
-      "artist": "The Cure",
-      "title": "Boys Don’t Cry",
-      "movement": "↓2",
+      "track_id": 1705,
+      "artist": "大友良英 NEW JAZZ ENSEMBLE",
+      "title": "Eureka",
+      "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
       "rank": 6,
+      "track_id": 1091,
+      "artist": "The Cure",
+      "title": "Boys Don’t Cry",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 7,
       "track_id": 20,
       "artist": "MONO NO AWARE",
       "title": "水が湧いた",
@@ -57,37 +66,28 @@
       "top10_streak": 3
     },
     {
-      "rank": 7,
-      "track_id": 607,
-      "artist": "THE BLUE HEARTS",
-      "title": "青空",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
       "rank": 8,
-      "track_id": 1347,
-      "artist": "Garbage",
-      "title": "Only Happy When It Rains",
-      "movement": "↑1",
+      "track_id": 548,
+      "artist": "REBECCA",
+      "title": "RASPBERRY DREAM",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 3
     },
     {
       "rank": 9,
-      "track_id": 1215,
-      "artist": "Taylor Swift",
-      "title": "Shake It Off",
+      "track_id": 1624,
+      "artist": "Love Tambourines",
+      "title": "Midnight Parade",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 1048,
-      "artist": "Ben E. King",
-      "title": "Stand By Me",
+      "track_id": 1215,
+      "artist": "Taylor Swift",
+      "title": "Shake It Off",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1

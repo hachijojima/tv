@@ -4,21 +4,21 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1474,
-      "artist": "スチャダラパー",
-      "title": "GET UP AND DANCE",
-      "movement": "→",
-      "days_at_number_1": 6,
-      "top10_streak": 6
-    },
-    {
-      "rank": 2,
       "track_id": 1061,
       "artist": "Cyndi Lauper",
       "title": "Time After Time",
-      "movement": "→",
+      "movement": "↑1",
+      "days_at_number_1": 1,
+      "top10_streak": 7
+    },
+    {
+      "rank": 2,
+      "track_id": 1474,
+      "artist": "スチャダラパー",
+      "title": "GET UP AND DANCE",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 6
     },
     {
       "rank": 3,
@@ -54,7 +54,7 @@
       "title": "TT",
       "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 8
     },
     {
       "rank": 7,
@@ -77,8 +77,8 @@
     {
       "rank": 9,
       "track_id": 1543,
-      "artist": "Cocco",
-      "title": "Raining",
+      "artist": "PEALOUT",
+      "title": "爆裂世界 ～世界に追い越されても～",
       "movement": "↓5",
       "days_at_number_1": 0,
       "top10_streak": 11

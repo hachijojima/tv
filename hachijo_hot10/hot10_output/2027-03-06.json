@@ -7,9 +7,9 @@
       "track_id": 762,
       "artist": "ティン・パン・アレー",
       "title": "北京ダック",
-      "movement": "RE",
+      "movement": "↑6",
       "days_at_number_1": 1,
-      "top10_streak": 1
+      "top10_streak": 13
     },
     {
       "rank": 2,
@@ -23,8 +23,8 @@
     {
       "rank": 3,
       "track_id": 1542,
-      "artist": "Cocco",
-      "title": "強く儚い者たち",
+      "artist": "COALTAR OF THE DEEPERS",
+      "title": "My Speedy Sarah",
       "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 5
@@ -34,9 +34,9 @@
       "track_id": 552,
       "artist": "森高千里",
       "title": "雨",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 7
     },
     {
       "rank": 5,
@@ -49,19 +49,19 @@
     },
     {
       "rank": 6,
-      "track_id": 1280,
-      "artist": "IVE",
-      "title": "I AM",
-      "movement": "↓3",
+      "track_id": 1672,
+      "artist": "Hartfield",
+      "title": "Today Forever",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 10
+      "top10_streak": 1
     },
     {
       "rank": 7,
       "track_id": 7,
       "artist": "MONO NO AWARE",
       "title": "ゾッコン",
-      "movement": "↓1",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 15
     },
@@ -70,7 +70,7 @@
       "track_id": 1231,
       "artist": "Sabrina Carpenter",
       "title": "Espresso",
-      "movement": "↓3",
+      "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
@@ -85,12 +85,12 @@
     },
     {
       "rank": 10,
-      "track_id": 459,
-      "artist": "B'z",
-      "title": "ALONE",
+      "track_id": 1240,
+      "artist": "Pharrell Williams",
+      "title": "Happy",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 3
     }
   ]
 }

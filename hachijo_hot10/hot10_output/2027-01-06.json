@@ -24,7 +24,7 @@
       "rank": 3,
       "track_id": 468,
       "artist": "X JAPAN",
-      "title": "ENDLESS RAIN",
+      "title": "DAHLIA",
       "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 11
@@ -49,24 +49,6 @@
     },
     {
       "rank": 6,
-      "track_id": 481,
-      "artist": "奥田民生",
-      "title": "愛のために",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 7,
-      "track_id": 495,
-      "artist": "MISIA",
-      "title": "つつみ込むように…",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 8,
       "track_id": 281,
       "artist": "ピチカート・ファイヴ",
       "title": "東京は夜の七時",
@@ -75,22 +57,40 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
-      "track_id": 15,
+      "rank": 7,
+      "track_id": 11,
       "artist": "MONO NO AWARE",
-      "title": "もうけもん",
-      "movement": "NEW",
+      "title": "異邦人",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 12
     },
     {
-      "rank": 10,
+      "rank": 8,
+      "track_id": 495,
+      "artist": "MISIA",
+      "title": "つつみ込むように…",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 9,
       "track_id": 1590,
       "artist": "奥山熊雄",
       "title": "色のついたシャバタキ・すがる",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
+    },
+    {
+      "rank": 10,
+      "track_id": 1441,
+      "artist": "BLANKEY JET CITY",
+      "title": "ガソリンの揺れかた",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }

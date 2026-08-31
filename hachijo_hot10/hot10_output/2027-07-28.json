@@ -15,7 +15,7 @@
       "rank": 2,
       "track_id": 476,
       "artist": "シャ乱Q",
-      "title": "シングルベッド",
+      "title": "上・京・物・語",
       "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
@@ -43,7 +43,7 @@
       "track_id": 1214,
       "artist": "Ariana Grande",
       "title": "Into You",
-      "movement": "↑2",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
@@ -58,15 +58,6 @@
     },
     {
       "rank": 7,
-      "track_id": 1589,
-      "artist": "Massive Attack",
-      "title": "Unfinished Sympathy",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 8,
       "track_id": 14,
       "artist": "MIZ",
       "title": "とびうおのうた",
@@ -75,7 +66,7 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
+      "rank": 8,
       "track_id": 155,
       "artist": "パスピエ",
       "title": "MATATABISTEP",
@@ -84,11 +75,20 @@
       "top10_streak": 1
     },
     {
+      "rank": 9,
+      "track_id": 1678,
+      "artist": "LITE",
+      "title": "Ef",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
       "rank": 10,
-      "track_id": 515,
-      "artist": "LINDBERG",
-      "title": "BELIEVE IN LOVE",
-      "movement": "NEW",
+      "track_id": 1543,
+      "artist": "PEALOUT",
+      "title": "爆裂世界 ～世界に追い越されても～",
+      "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

@@ -25,39 +25,57 @@
       "track_id": 1544,
       "artist": "Cocco",
       "title": "樹海の糸",
-      "movement": "↑2",
+      "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 4,
-      "track_id": 1364,
-      "artist": "Linkin Park",
-      "title": "In the End",
-      "movement": "↑5",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 5,
       "track_id": 1394,
       "artist": "GOING STEADY",
       "title": "BABY BABY",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
-      "rank": 6,
+      "rank": 5,
       "track_id": 1021,
       "artist": "スチャダラパー",
       "title": "サマージャム’95",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 12
     },
     {
+      "rank": 6,
+      "track_id": 1275,
+      "artist": "TWICE",
+      "title": "TT",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
       "rank": 7,
+      "track_id": 655,
+      "artist": "山崎ハコ",
+      "title": "呪い",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 1364,
+      "artist": "Linkin Park",
+      "title": "In the End",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
       "track_id": 585,
       "artist": "スピッツ",
       "title": "楓",
@@ -66,31 +84,13 @@
       "top10_streak": 1
     },
     {
-      "rank": 8,
-      "track_id": 655,
-      "artist": "山崎ハコ",
-      "title": "呪い",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 9,
+      "rank": 10,
       "track_id": 1515,
       "artist": "戸川純",
       "title": "レーダーマン",
       "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 3
-    },
-    {
-      "rank": 10,
-      "track_id": 1275,
-      "artist": "TWICE",
-      "title": "TT",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 2
     }
   ]
 }

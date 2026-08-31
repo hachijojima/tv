@@ -13,21 +13,21 @@
     },
     {
       "rank": 2,
-      "track_id": 585,
-      "artist": "スピッツ",
-      "title": "楓",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 3,
       "track_id": 1395,
       "artist": "GOING STEADY",
       "title": "銀河鉄道の夜",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 4
+    },
+    {
+      "rank": 3,
+      "track_id": 585,
+      "artist": "スピッツ",
+      "title": "楓",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     },
     {
       "rank": 4,
@@ -40,19 +40,19 @@
     },
     {
       "rank": 5,
-      "track_id": 552,
-      "artist": "森高千里",
-      "title": "雨",
-      "movement": "↑1",
+      "track_id": 1237,
+      "artist": "ROSÉ",
+      "title": "APT. (with Bruno Mars)",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 6,
-      "track_id": 1237,
-      "artist": "ROSÉ",
-      "title": "APT. (with Bruno Mars)",
-      "movement": "↑2",
+      "track_id": 552,
+      "artist": "森高千里",
+      "title": "雨",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -67,30 +67,30 @@
     },
     {
       "rank": 8,
-      "track_id": 541,
-      "artist": "山崎まさよし",
-      "title": "セロリ",
-      "movement": "↑1",
+      "track_id": 1603,
+      "artist": "ROVO",
+      "title": "SINO DUB",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 8
     },
     {
       "rank": 9,
-      "track_id": 810,
-      "artist": "サカナクション",
-      "title": "新宝島",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 10,
       "track_id": 1535,
       "artist": "大瀧詠一",
       "title": "雨のウェンズデイ",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 810,
+      "artist": "サカナクション",
+      "title": "新宝島",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     }
   ]
 }

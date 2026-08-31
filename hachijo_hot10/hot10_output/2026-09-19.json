@@ -13,21 +13,21 @@
     },
     {
       "rank": 2,
-      "track_id": 1383,
-      "artist": "Bon Jovi",
-      "title": "It's My Life",
-      "movement": "↑2",
+      "track_id": 1702,
+      "artist": "Maher Shalal Hash Baz",
+      "title": "Unknown Happiness",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 2
     },
     {
       "rank": 3,
-      "track_id": 641,
-      "artist": "佐野元春",
-      "title": "SOMEDAY",
+      "track_id": 1383,
+      "artist": "Bon Jovi",
+      "title": "It's My Life",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 10
+      "top10_streak": 6
     },
     {
       "rank": 4,
@@ -43,7 +43,7 @@
       "track_id": 1040,
       "artist": "METAFIVE",
       "title": "環境と心理",
-      "movement": "↑2",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
@@ -58,6 +58,15 @@
     },
     {
       "rank": 7,
+      "track_id": 1601,
+      "artist": "福島弘和",
+      "title": "吹奏楽のための「おじゃれ」",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
       "track_id": 366,
       "artist": "フラワーカンパニーズ",
       "title": "東京タワー",
@@ -66,31 +75,22 @@
       "top10_streak": 1
     },
     {
-      "rank": 8,
-      "track_id": 1601,
-      "artist": "福島弘和",
-      "title": "吹奏楽のための「おじゃれ」",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
       "rank": 9,
-      "track_id": 1541,
-      "artist": "Cocco",
-      "title": "カウントダウン",
-      "movement": "↓7",
+      "track_id": 1634,
+      "artist": "THA BLUE HERB",
+      "title": "未来は俺等の手の中",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 16
+      "top10_streak": 3
     },
     {
       "rank": 10,
-      "track_id": 1582,
-      "artist": "Galaxie 500",
-      "title": "Blue Thunder",
-      "movement": "↓5",
+      "track_id": 1685,
+      "artist": "BOaT",
+      "title": "ALL",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
     }
   ]
 }

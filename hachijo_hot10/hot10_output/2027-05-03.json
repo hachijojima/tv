@@ -27,25 +27,25 @@
       "title": "Beautiful Day",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 11
+      "top10_streak": 9
     },
     {
       "rank": 4,
-      "track_id": 470,
-      "artist": "TM NETWORK",
-      "title": "Get Wild",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 5,
       "track_id": 1048,
       "artist": "Ben E. King",
       "title": "Stand By Me",
-      "movement": "↓3",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 4
+    },
+    {
+      "rank": 5,
+      "track_id": 470,
+      "artist": "TM NETWORK",
+      "title": "69/99",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 6
     },
     {
       "rank": 6,
@@ -58,15 +58,6 @@
     },
     {
       "rank": 7,
-      "track_id": 533,
-      "artist": "TRF",
-      "title": "survival dAnce ～no no cry more～",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 8,
       "track_id": 764,
       "artist": "EPO",
       "title": "土曜の夜はパラダイス",
@@ -75,7 +66,7 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
+      "rank": 8,
       "track_id": 1594,
       "artist": "團伊玖磨",
       "title": "オリンピック序曲",
@@ -84,13 +75,22 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
-      "track_id": 603,
-      "artist": "山崎まさよし",
-      "title": "僕はここにいる",
-      "movement": "↓4",
+      "rank": 9,
+      "track_id": 790,
+      "artist": "Mrs. GREEN APPLE",
+      "title": "青と夏",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1262,
+      "artist": "Tiësto",
+      "title": "Red Lights",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
     }
   ]
 }

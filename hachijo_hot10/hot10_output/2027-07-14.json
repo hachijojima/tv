@@ -4,93 +4,93 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1476,
-      "artist": "スチャダラパー",
-      "title": "大人になっても",
-      "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 9
-    },
-    {
-      "rank": 2,
       "track_id": 707,
       "artist": "チューリップ",
       "title": "心の旅",
       "movement": "↑2",
-      "days_at_number_1": 0,
+      "days_at_number_1": 1,
       "top10_streak": 2
     },
     {
-      "rank": 3,
-      "track_id": 1584,
-      "artist": "Elliott Smith",
-      "title": "Between the Bars",
-      "movement": "↑2",
+      "rank": 2,
+      "track_id": 1476,
+      "artist": "スチャダラパー",
+      "title": "大人になっても",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 9
     },
     {
-      "rank": 4,
+      "rank": 3,
       "track_id": 1324,
       "artist": "Green Day",
       "title": "Good Riddance (Time of Your Life)",
       "movement": "↓1",
       "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 4,
+      "track_id": 1584,
+      "artist": "Elliott Smith",
+      "title": "Between the Bars",
+      "movement": "↑1",
+      "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 5,
-      "track_id": 1240,
-      "artist": "Pharrell Williams",
-      "title": "Happy",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 6,
       "track_id": 1591,
       "artist": "稲田カエ",
       "title": "八丈太鼓囃し",
-      "movement": "↑3",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
+    },
+    {
+      "rank": 6,
+      "track_id": 1650,
+      "artist": "Cokiyu",
+      "title": "Mirror Flake",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     },
     {
       "rank": 7,
       "track_id": 1254,
       "artist": "The Chainsmokers",
       "title": "Closer (feat. Halsey)",
-      "movement": "RE",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 8,
-      "track_id": 1024,
-      "artist": "SUPER BUTTER DOG",
-      "title": "サヨナラCOLOR",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 9,
-      "track_id": 585,
-      "artist": "スピッツ",
-      "title": "楓",
-      "movement": "↓7",
-      "days_at_number_1": 0,
-      "top10_streak": 13
-    },
-    {
-      "rank": 10,
       "track_id": 14,
       "artist": "MIZ",
       "title": "とびうおのうた",
-      "movement": "↓2",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 7
+    },
+    {
+      "rank": 9,
+      "track_id": 1589,
+      "artist": "Massive Attack",
+      "title": "Unfinished Sympathy",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 402,
+      "artist": "ROUND TABLE",
+      "title": "Every Every Every",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }

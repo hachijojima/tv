@@ -16,7 +16,7 @@
       "track_id": 1475,
       "artist": "スチャダラパー",
       "title": "ゲームボーイズ",
-      "movement": "↑8",
+      "movement": "↑6",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -31,30 +31,30 @@
     },
     {
       "rank": 4,
-      "track_id": 541,
-      "artist": "山崎まさよし",
-      "title": "セロリ",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 5,
       "track_id": 1068,
       "artist": "Simon & Garfunkel",
       "title": "Bridge Over Troubled Water",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
-      "rank": 6,
+      "rank": 5,
       "track_id": 1046,
       "artist": "星野源",
       "title": "不思議",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 4
+    },
+    {
+      "rank": 6,
+      "track_id": 1040,
+      "artist": "METAFIVE",
+      "title": "環境と心理",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
     },
     {
       "rank": 7,
@@ -67,30 +67,30 @@
     },
     {
       "rank": 8,
-      "track_id": 1040,
-      "artist": "METAFIVE",
-      "title": "環境と心理",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 9,
       "track_id": 10,
       "artist": "MIZ",
       "title": "パジャマでハイウェイ",
-      "movement": "↓1",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 8
     },
     {
-      "rank": 10,
+      "rank": 9,
       "track_id": 1295,
       "artist": "SHINee",
       "title": "Ring Ding Dong",
-      "movement": "↓8",
+      "movement": "↓7",
       "days_at_number_1": 0,
       "top10_streak": 3
+    },
+    {
+      "rank": 10,
+      "track_id": 541,
+      "artist": "山崎まさよし",
+      "title": "セロリ",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     }
   ]
 }

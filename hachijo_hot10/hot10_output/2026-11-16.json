@@ -67,15 +67,6 @@
     },
     {
       "rank": 8,
-      "track_id": 470,
-      "artist": "TM NETWORK",
-      "title": "Get Wild",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 9,
       "track_id": 1125,
       "artist": "藤井風",
       "title": "花",
@@ -84,10 +75,19 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
+      "rank": 9,
       "track_id": 1245,
       "artist": "David Guetta",
       "title": "Titanium (feat. Sia)",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1215,
+      "artist": "Taylor Swift",
+      "title": "Shake It Off",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1

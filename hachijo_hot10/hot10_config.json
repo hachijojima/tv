@@ -1,6 +1,6 @@
 {
   "version": "F4.1-B",
-  "master_path": "HACHIJO_HOT10_master_1601_F41_MONO4_HACHIJOBOOST1_FUKUSHIMA_MINUS1.csv",
+  "master_path": "HACHIJO_HOT10_master_1726_F41_EDGE125_90S00S_FULL.csv",
   "top_n": 10,
   "timezone": "Asia/Tokyo",
   "chart_boundary_hour": 3,

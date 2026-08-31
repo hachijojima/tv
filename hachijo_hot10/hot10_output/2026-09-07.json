@@ -22,30 +22,30 @@
     },
     {
       "rank": 3,
-      "track_id": 1541,
-      "artist": "Cocco",
-      "title": "カウントダウン",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 4,
       "track_id": 1394,
       "artist": "GOING STEADY",
       "title": "BABY BABY",
-      "movement": "↑4",
+      "movement": "↑6",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 5,
-      "track_id": 1247,
-      "artist": "Swedish House Mafia",
-      "title": "Don't You Worry Child",
-      "movement": "→",
+      "rank": 4,
+      "track_id": 1541,
+      "artist": "Cocco",
+      "title": "カウントダウン",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 9
+      "top10_streak": 4
+    },
+    {
+      "rank": 5,
+      "track_id": 1709,
+      "artist": "Satanicpornocultshop",
+      "title": "Anorexia Gas Balloon",
+      "movement": "↑5",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     },
     {
       "rank": 6,
@@ -58,28 +58,28 @@
     },
     {
       "rank": 7,
-      "track_id": 1001,
-      "artist": "Earth, Wind & Fire",
-      "title": "September",
-      "movement": "↑2",
+      "track_id": 1247,
+      "artist": "Swedish House Mafia",
+      "title": "Don't You Worry Child",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 9
     },
     {
       "rank": 8,
-      "track_id": 580,
-      "artist": "FIELD OF VIEW",
-      "title": "Last Good-bye",
-      "movement": "↑2",
+      "track_id": 641,
+      "artist": "佐野元春",
+      "title": "SOMEDAY",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 5
     },
     {
       "rank": 9,
       "track_id": 660,
       "artist": "岡林信康",
       "title": "山谷ブルース",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
@@ -88,7 +88,7 @@
       "track_id": 680,
       "artist": "キャンディーズ",
       "title": "春一番",
-      "movement": "↓4",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 5
     }

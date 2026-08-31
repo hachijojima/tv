@@ -4,30 +4,30 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 452,
-      "artist": "大黒摩季",
-      "title": "ら・ら・ら",
-      "movement": "↑1",
-      "days_at_number_1": 1,
-      "top10_streak": 3
-    },
-    {
-      "rank": 2,
       "track_id": 1023,
       "artist": "Carpenters",
       "title": "(They Long To Be) Close To You",
-      "movement": "↑2",
-      "days_at_number_1": 0,
+      "movement": "↑3",
+      "days_at_number_1": 1,
       "top10_streak": 8
     },
     {
-      "rank": 3,
+      "rank": 2,
       "track_id": 1333,
       "artist": "R.E.M.",
       "title": "Man on the Moon",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 7
+    },
+    {
+      "rank": 3,
+      "track_id": 452,
+      "artist": "大黒摩季",
+      "title": "Harlem Night",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     },
     {
       "rank": 4,
@@ -49,21 +49,21 @@
     },
     {
       "rank": 6,
-      "track_id": 1295,
-      "artist": "SHINee",
-      "title": "Ring Ding Dong",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 7,
-      "track_id": 1283,
-      "artist": "Stray Kids",
-      "title": "God's Menu",
+      "track_id": 1603,
+      "artist": "ROVO",
+      "title": "SINO DUB",
       "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
+    },
+    {
+      "rank": 7,
+      "track_id": 1295,
+      "artist": "SHINee",
+      "title": "Ring Ding Dong",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     },
     {
       "rank": 8,
@@ -76,18 +76,18 @@
     },
     {
       "rank": 9,
-      "track_id": 810,
-      "artist": "サカナクション",
-      "title": "新宝島",
+      "track_id": 1606,
+      "artist": "audio active",
+      "title": "Mammoth Galactica",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 395,
-      "artist": "GO!GO!7188",
-      "title": "C7",
+      "track_id": 1283,
+      "artist": "Stray Kids",
+      "title": "God's Menu",
       "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2

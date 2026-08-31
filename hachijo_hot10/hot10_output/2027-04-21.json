@@ -9,7 +9,7 @@
       "title": "とびうおのうた",
       "movement": "→",
       "days_at_number_1": 2,
-      "top10_streak": 8
+      "top10_streak": 9
     },
     {
       "rank": 2,
@@ -67,15 +67,6 @@
     },
     {
       "rank": 8,
-      "track_id": 524,
-      "artist": "サザンオールスターズ",
-      "title": "希望の轍",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 9,
       "track_id": 1073,
       "artist": "東京事変",
       "title": "透明人間",
@@ -84,13 +75,22 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
+      "rank": 9,
       "track_id": 1045,
       "artist": "YELLOW MAGIC ORCHESTRA",
       "title": "RYDEEN",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 524,
+      "artist": "サザンオールスターズ",
+      "title": "希望の轍",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 7
     }
   ]
 }

@@ -4,28 +4,28 @@
   "chart": [
     {
       "rank": 1,
+      "track_id": 1058,
+      "artist": "ランカ・リー=中島愛",
+      "title": "星間飛行",
+      "movement": "→",
+      "days_at_number_1": 3,
+      "top10_streak": 6
+    },
+    {
+      "rank": 2,
       "track_id": 1601,
       "artist": "福島弘和",
       "title": "吹奏楽のための「おじゃれ」",
       "movement": "↑1",
-      "days_at_number_1": 1,
-      "top10_streak": 7
-    },
-    {
-      "rank": 2,
-      "track_id": 1058,
-      "artist": "ランカ・リー=中島愛",
-      "title": "星間飛行",
-      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 7
     },
     {
       "rank": 3,
       "track_id": 19,
       "artist": "MONO NO AWARE",
       "title": "幽霊船",
-      "movement": "↑1",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 8
     },
@@ -40,21 +40,21 @@
     },
     {
       "rank": 5,
-      "track_id": 1113,
-      "artist": "The Beatles",
-      "title": "Blackbird",
-      "movement": "↑4",
+      "track_id": 1718,
+      "artist": "Calm",
+      "title": "Light Years",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 6
     },
     {
       "rank": 6,
-      "track_id": 1280,
-      "artist": "IVE",
-      "title": "I AM",
-      "movement": "↑1",
+      "track_id": 1113,
+      "artist": "The Beatles",
+      "title": "Blackbird",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 2
     },
     {
       "rank": 7,
@@ -67,30 +67,30 @@
     },
     {
       "rank": 8,
-      "track_id": 494,
-      "artist": "久保田利伸",
-      "title": "LA・LA・LA LOVE SONG",
-      "movement": "→",
+      "track_id": 1219,
+      "artist": "Ed Sheeran",
+      "title": "Shape of You",
+      "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 9,
-      "track_id": 4,
-      "artist": "MIZ",
-      "title": "空砲",
+      "track_id": 1655,
+      "artist": "モーモールルギャバン",
+      "title": "サイケな恋人",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 1257,
-      "artist": "Clean Bandit",
-      "title": "Rather Be (feat. Jess Glynne)",
-      "movement": "↓5",
+      "track_id": 494,
+      "artist": "久保田利伸",
+      "title": "流星のサドル",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 3
     }
   ]
 }

@@ -18,37 +18,46 @@
       "title": "Born Slippy (Nuxx)",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 6
     },
     {
       "rank": 3,
+      "track_id": 19,
+      "artist": "MONO NO AWARE",
+      "title": "幽霊船",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 4,
       "track_id": 568,
-      "artist": "椎名林檎",
-      "title": "本能",
+      "artist": "54-71",
+      "title": "Life",
       "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 4,
-      "track_id": 19,
-      "artist": "MONO NO AWARE",
-      "title": "幽霊船",
-      "movement": "↑5",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
       "rank": 5,
-      "track_id": 500,
-      "artist": "モーニング娘。",
-      "title": "LOVEマシーン",
-      "movement": "↓1",
+      "track_id": 1647,
+      "artist": "YMCK",
+      "title": "Magical 8bit Tour",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 10
+      "top10_streak": 11
     },
     {
       "rank": 6,
+      "track_id": 415,
+      "artist": "bonobos",
+      "title": "Standing There ～いま、そこに行くよ～",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 7,
       "track_id": 441,
       "artist": "チャットモンチー",
       "title": "恋愛スピリッツ",
@@ -57,25 +66,7 @@
       "top10_streak": 4
     },
     {
-      "rank": 7,
-      "track_id": 415,
-      "artist": "bonobos",
-      "title": "Standing There ～いま、そこに行くよ～",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
       "rank": 8,
-      "track_id": 1013,
-      "artist": "The Police",
-      "title": "Every Breath You Take",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 9,
       "track_id": 1221,
       "artist": "Billie Eilish",
       "title": "bad guy",
@@ -84,13 +75,22 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
-      "track_id": 686,
-      "artist": "細野晴臣",
-      "title": "終りの季節",
-      "movement": "↓4",
+      "rank": 9,
+      "track_id": 500,
+      "artist": "モーニング娘。",
+      "title": "Memory 青春の光",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 10
+    },
+    {
+      "rank": 10,
+      "track_id": 1677,
+      "artist": "te'",
+      "title": "言葉を用いて奏でる者は才能に在らず、ただの記憶に『過』ぎぬ。",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }

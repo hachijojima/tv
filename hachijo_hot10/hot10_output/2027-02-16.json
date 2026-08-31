@@ -67,30 +67,30 @@
     },
     {
       "rank": 8,
-      "track_id": 1058,
-      "artist": "ランカ・リー=中島愛",
-      "title": "星間飛行",
+      "track_id": 1543,
+      "artist": "PEALOUT",
+      "title": "爆裂世界 ～世界に追い越されても～",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 9
+      "top10_streak": 4
     },
     {
       "rank": 9,
-      "track_id": 474,
-      "artist": "PUFFY",
-      "title": "アジアの純真",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 10,
       "track_id": 19,
       "artist": "MONO NO AWARE",
       "title": "幽霊船",
-      "movement": "↓4",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 11
+      "top10_streak": 10
+    },
+    {
+      "rank": 10,
+      "track_id": 1631,
+      "artist": "ECD",
+      "title": "DIRECT DRIVE",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }

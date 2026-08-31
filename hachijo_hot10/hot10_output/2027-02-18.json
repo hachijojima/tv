@@ -49,15 +49,6 @@
     },
     {
       "rank": 6,
-      "track_id": 520,
-      "artist": "T-BOLAN",
-      "title": "じれったい愛",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 7,
       "track_id": 426,
       "artist": "UA",
       "title": "ミルクティー",
@@ -66,31 +57,40 @@
       "top10_streak": 1
     },
     {
-      "rank": 8,
-      "track_id": 519,
-      "artist": "DEEN",
-      "title": "瞳そらさないで",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 9,
+      "rank": 7,
       "track_id": 647,
       "artist": "風",
       "title": "22才の別れ",
-      "movement": "↓5",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 10,
+      "rank": 8,
       "track_id": 1473,
       "artist": "スチャダラパー",
       "title": "今夜はブギー・バック (smooth rap)",
-      "movement": "↓4",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 3
+    },
+    {
+      "rank": 9,
+      "track_id": 520,
+      "artist": "T-BOLAN",
+      "title": "じれったい愛",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 10,
+      "track_id": 1091,
+      "artist": "The Cure",
+      "title": "Boys Don’t Cry",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 14
     }
   ]
 }

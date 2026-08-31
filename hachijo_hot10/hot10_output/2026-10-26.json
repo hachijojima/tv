@@ -6,7 +6,7 @@
       "rank": 1,
       "track_id": 489,
       "artist": "小泉今日子",
-      "title": "あなたに会えてよかった",
+      "title": "Fade Out",
       "movement": "→",
       "days_at_number_1": 2,
       "top10_streak": 3
@@ -22,39 +22,39 @@
     },
     {
       "rank": 3,
-      "track_id": 1364,
-      "artist": "Linkin Park",
-      "title": "In the End",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
-      "rank": 4,
       "track_id": 1240,
       "artist": "Pharrell Williams",
       "title": "Happy",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 6
+    },
+    {
+      "rank": 4,
+      "track_id": 1364,
+      "artist": "Linkin Park",
+      "title": "In the End",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 8
     },
     {
       "rank": 5,
-      "track_id": 1048,
-      "artist": "Ben E. King",
-      "title": "Stand By Me",
-      "movement": "↑2",
+      "track_id": 1645,
+      "artist": "CO-FUSION",
+      "title": "Material to Digital",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 5
     },
     {
       "rank": 6,
-      "track_id": 381,
-      "artist": "My Little Lover",
-      "title": "白いカイト",
-      "movement": "↓1",
+      "track_id": 1589,
+      "artist": "Massive Attack",
+      "title": "Unfinished Sympathy",
+      "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 2
     },
     {
       "rank": 7,
@@ -67,21 +67,21 @@
     },
     {
       "rank": 8,
-      "track_id": 1589,
-      "artist": "Massive Attack",
-      "title": "Unfinished Sympathy",
-      "movement": "↑2",
+      "track_id": 381,
+      "artist": "My Little Lover",
+      "title": "白いカイト",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 4
     },
     {
       "rank": 9,
-      "track_id": 457,
-      "artist": "DEEN",
-      "title": "このまま君だけを奪い去りたい",
-      "movement": "↓1",
+      "track_id": 1620,
+      "artist": "SPARTA LOCALS",
+      "title": "トーキョウバレリーナ",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 1
     },
     {
       "rank": 10,

@@ -27,10 +27,28 @@
       "title": "Unfinished Sympathy",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 12
     },
     {
       "rank": 4,
+      "track_id": 1214,
+      "artist": "Ariana Grande",
+      "title": "Into You",
+      "movement": "↑5",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 1327,
+      "artist": "Weezer",
+      "title": "Buddy Holly",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 6,
       "track_id": 611,
       "artist": "PRINCESS PRINCESS",
       "title": "世界でいちばん熱い夏",
@@ -39,40 +57,22 @@
       "top10_streak": 1
     },
     {
-      "rank": 5,
-      "track_id": 1214,
-      "artist": "Ariana Grande",
-      "title": "Into You",
-      "movement": "↑4",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 6,
-      "track_id": 553,
-      "artist": "米米CLUB",
-      "title": "君がいるだけで",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
       "rank": 7,
-      "track_id": 1327,
-      "artist": "Weezer",
-      "title": "Buddy Holly",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 8,
       "track_id": 813,
       "artist": "Official髭男dism",
       "title": "Pretender",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 553,
+      "artist": "米米CLUB",
+      "title": "君がいるだけで",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 5
     },
     {
       "rank": 9,
@@ -85,12 +85,12 @@
     },
     {
       "rank": 10,
-      "track_id": 544,
-      "artist": "UNICORN",
-      "title": "大迷惑",
-      "movement": "RE",
+      "track_id": 348,
+      "artist": "レミオロメン",
+      "title": "電話",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 5
     }
   ]
 }

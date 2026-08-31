@@ -31,30 +31,30 @@
     },
     {
       "rank": 4,
+      "track_id": 1375,
+      "artist": "Soundgarden",
+      "title": "Black Hole Sun",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
       "track_id": 1061,
       "artist": "Cyndi Lauper",
       "title": "Time After Time",
       "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 14
-    },
-    {
-      "rank": 5,
-      "track_id": 588,
-      "artist": "THE YELLOW MONKEY",
-      "title": "LOVE LOVE SHOW",
-      "movement": "↑5",
-      "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 16
     },
     {
       "rank": 6,
-      "track_id": 541,
-      "artist": "山崎まさよし",
-      "title": "セロリ",
-      "movement": "↑3",
+      "track_id": 1642,
+      "artist": "Jazztronik",
+      "title": "Samurai",
+      "movement": "↑4",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 9
     },
     {
       "rank": 7,
@@ -67,12 +67,12 @@
     },
     {
       "rank": 8,
-      "track_id": 473,
-      "artist": "Every Little Thing",
-      "title": "Time goes by",
-      "movement": "→",
+      "track_id": 284,
+      "artist": "Cornelius",
+      "title": "THE SUN IS MY ENEMY",
+      "movement": "↓6",
       "days_at_number_1": 0,
-      "top10_streak": 8
+      "top10_streak": 3
     },
     {
       "rank": 9,

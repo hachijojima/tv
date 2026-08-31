@@ -4,21 +4,21 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 615,
-      "artist": "米米CLUB",
-      "title": "Shake Hip!",
-      "movement": "↑1",
-      "days_at_number_1": 1,
-      "top10_streak": 2
-    },
-    {
-      "rank": 2,
       "track_id": 762,
       "artist": "ティン・パン・アレー",
       "title": "北京ダック",
-      "movement": "↑2",
-      "days_at_number_1": 0,
+      "movement": "↑1",
+      "days_at_number_1": 1,
       "top10_streak": 3
+    },
+    {
+      "rank": 2,
+      "track_id": 615,
+      "artist": "米米CLUB",
+      "title": "Shake Hip!",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     },
     {
       "rank": 3,
@@ -31,30 +31,30 @@
     },
     {
       "rank": 4,
-      "track_id": 1327,
-      "artist": "Weezer",
-      "title": "Buddy Holly",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 5,
       "track_id": 1242,
       "artist": "Avicii",
       "title": "Levels",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
     {
-      "rank": 6,
-      "track_id": 7,
-      "artist": "MONO NO AWARE",
-      "title": "ゾッコン",
-      "movement": "↑1",
+      "rank": 5,
+      "track_id": 1327,
+      "artist": "Weezer",
+      "title": "Buddy Holly",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 3
+    },
+    {
+      "rank": 6,
+      "track_id": 16,
+      "artist": "MIZ",
+      "title": "暑中見舞い",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 4
     },
     {
       "rank": 7,
@@ -70,24 +70,24 @@
       "track_id": 1275,
       "artist": "TWICE",
       "title": "TT",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 9,
-      "track_id": 16,
-      "artist": "MIZ",
-      "title": "暑中見舞い",
-      "movement": "↓4",
+      "track_id": 7,
+      "artist": "MONO NO AWARE",
+      "title": "ゾッコン",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 5
     },
     {
       "rank": 10,
-      "track_id": 529,
-      "artist": "LUNA SEA",
-      "title": "TRUE BLUE",
+      "track_id": 795,
+      "artist": "Base Ball Bear",
+      "title": "17才",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1

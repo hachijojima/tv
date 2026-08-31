@@ -13,21 +13,21 @@
     },
     {
       "rank": 2,
-      "track_id": 468,
-      "artist": "X JAPAN",
-      "title": "ENDLESS RAIN",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 3,
       "track_id": 728,
       "artist": "角松敏生",
       "title": "If You Wanna Dance",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 3
+    },
+    {
+      "rank": 3,
+      "track_id": 468,
+      "artist": "X JAPAN",
+      "title": "DAHLIA",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 8
     },
     {
       "rank": 4,
@@ -85,12 +85,12 @@
     },
     {
       "rank": 10,
-      "track_id": 481,
-      "artist": "奥田民生",
-      "title": "愛のために",
-      "movement": "RE",
+      "track_id": 1109,
+      "artist": "Radiohead",
+      "title": "Everything In Its Right Place",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 5
     }
   ]
 }

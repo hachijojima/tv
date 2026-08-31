@@ -22,15 +22,24 @@
     },
     {
       "rank": 3,
+      "track_id": 1305,
+      "artist": "鼓童",
+      "title": "凰（おおとり）",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 9
+    },
+    {
+      "rank": 4,
       "track_id": 1508,
       "artist": "RCサクセション",
       "title": "多摩蘭坂",
-      "movement": "↑1",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 4,
+      "rank": 5,
       "track_id": 434,
       "artist": "ASIAN KUNG-FU GENERATION",
       "title": "ソラニン",
@@ -39,58 +48,49 @@
       "top10_streak": 1
     },
     {
-      "rank": 5,
-      "track_id": 2,
+      "rank": 6,
+      "track_id": 12,
       "artist": "MIZ",
-      "title": "パレード",
-      "movement": "↑2",
+      "title": "丘",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 10
+    },
+    {
+      "rank": 7,
+      "track_id": 1644,
+      "artist": "CAPTAIN FUNK",
+      "title": "Bustin' Loose",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 13,
+      "artist": "MONO NO AWARE",
+      "title": "孤独になってみたい",
+      "movement": "↓5",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 6,
+      "rank": 9,
       "track_id": 1134,
       "artist": "Diana Ross",
       "title": "I’m Coming Out",
-      "movement": "↓1",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
     {
-      "rank": 7,
-      "track_id": 13,
-      "artist": "MONO NO AWARE",
-      "title": "孤独になってみたい",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 8,
+      "rank": 10,
       "track_id": 1066,
       "artist": "Nujabes",
       "title": "Luv(sic.) pt3 (feat. Shing02)",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
-    },
-    {
-      "rank": 9,
-      "track_id": 762,
-      "artist": "ティン・パン・アレー",
-      "title": "北京ダック",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 10,
-      "track_id": 1257,
-      "artist": "Clean Bandit",
-      "title": "Rather Be (feat. Jess Glynne)",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 8
     }
   ]
 }

@@ -18,10 +18,19 @@
       "title": "Time After Time",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 9
+      "top10_streak": 11
     },
     {
       "rank": 3,
+      "track_id": 1642,
+      "artist": "Jazztronik",
+      "title": "Samurai",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 4,
       "track_id": 707,
       "artist": "チューリップ",
       "title": "心の旅",
@@ -30,22 +39,13 @@
       "top10_streak": 2
     },
     {
-      "rank": 4,
+      "rank": 5,
       "track_id": 221,
       "artist": "yonawo",
       "title": "good job",
       "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 5
-    },
-    {
-      "rank": 5,
-      "track_id": 473,
-      "artist": "Every Little Thing",
-      "title": "Time goes by",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 3
     },
     {
       "rank": 6,
@@ -58,30 +58,30 @@
     },
     {
       "rank": 7,
-      "track_id": 1100,
-      "artist": "Bon Jovi",
-      "title": "Livin’ On A Prayer",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 8,
-      "track_id": 1474,
-      "artist": "スチャダラパー",
-      "title": "GET UP AND DANCE",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 10
-    },
-    {
-      "rank": 9,
       "track_id": 1028,
       "artist": "Kendrick Lamar",
       "title": "Alright",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 1474,
+      "artist": "スチャダラパー",
+      "title": "GET UP AND DANCE",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 10
+    },
+    {
+      "rank": 9,
+      "track_id": 473,
+      "artist": "Every Little Thing",
+      "title": "Shapes Of Love",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     },
     {
       "rank": 10,

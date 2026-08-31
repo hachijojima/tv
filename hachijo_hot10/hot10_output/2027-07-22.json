@@ -7,7 +7,7 @@
       "track_id": 553,
       "artist": "米米CLUB",
       "title": "君がいるだけで",
-      "movement": "↑1",
+      "movement": "↑2",
       "days_at_number_1": 1,
       "top10_streak": 2
     },
@@ -16,16 +16,16 @@
       "track_id": 1589,
       "artist": "Massive Attack",
       "title": "Unfinished Sympathy",
-      "movement": "↑4",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 9
     },
     {
       "rank": 3,
       "track_id": 348,
       "artist": "レミオロメン",
       "title": "電話",
-      "movement": "↑5",
+      "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -34,7 +34,7 @@
       "track_id": 1252,
       "artist": "Kygo",
       "title": "Stole the Show (feat. Parson James)",
-      "movement": "→",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
@@ -43,7 +43,7 @@
       "track_id": 1002,
       "artist": "Jamiroquai",
       "title": "Virtual Insanity",
-      "movement": "↓4",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
@@ -85,10 +85,10 @@
     },
     {
       "rank": 10,
-      "track_id": 588,
-      "artist": "THE YELLOW MONKEY",
-      "title": "LOVE LOVE SHOW",
-      "movement": "RE",
+      "track_id": 1710,
+      "artist": "MOTOCOMPO",
+      "title": "Lemonade",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

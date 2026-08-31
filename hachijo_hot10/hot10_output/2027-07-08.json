@@ -22,42 +22,51 @@
     },
     {
       "rank": 3,
+      "track_id": 1476,
+      "artist": "スチャダラパー",
+      "title": "大人になっても",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 4,
       "track_id": 541,
       "artist": "山崎まさよし",
       "title": "セロリ",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 4,
-      "track_id": 1476,
-      "artist": "スチャダラパー",
-      "title": "大人になっても",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 4
     },
     {
       "rank": 5,
-      "track_id": 552,
-      "artist": "森高千里",
-      "title": "雨",
+      "track_id": 1681,
+      "artist": "MASS OF THE FERMENTING DREGS",
+      "title": "ひきずるビート",
       "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 4
     },
     {
       "rank": 6,
       "track_id": 1327,
       "artist": "Weezer",
       "title": "Buddy Holly",
-      "movement": "↓2",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 14
     },
     {
       "rank": 7,
+      "track_id": 552,
+      "artist": "森高千里",
+      "title": "雨",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 8,
       "track_id": 14,
       "artist": "MIZ",
       "title": "とびうおのうた",
@@ -66,7 +75,7 @@
       "top10_streak": 1
     },
     {
-      "rank": 8,
+      "rank": 9,
       "track_id": 644,
       "artist": "オフコース",
       "title": "さよなら",
@@ -75,20 +84,11 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
-      "track_id": 1110,
-      "artist": "Red Hot Chili Peppers",
-      "title": "Can’t Stop",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
       "rank": 10,
-      "track_id": 1240,
-      "artist": "Pharrell Williams",
-      "title": "Happy",
-      "movement": "RE",
+      "track_id": 1610,
+      "artist": "Small Circle of Friends",
+      "title": "波よせて",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

@@ -4,60 +4,78 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1241,
-      "artist": "Avicii",
-      "title": "Wake Me Up",
-      "movement": "↑5",
+      "track_id": 1635,
+      "artist": "MIC JACK PRODUCTION",
+      "title": "Seven Seas Voyage",
+      "movement": "↑1",
       "days_at_number_1": 1,
-      "top10_streak": 2
+      "top10_streak": 12
     },
     {
       "rank": 2,
-      "track_id": 451,
-      "artist": "WANDS",
-      "title": "時の扉",
-      "movement": "↑1",
+      "track_id": 1241,
+      "artist": "Avicii",
+      "title": "Wake Me Up",
+      "movement": "↑4",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 2
     },
     {
       "rank": 3,
       "track_id": 259,
       "artist": "ドミコ",
       "title": "ペーパーロールスター",
-      "movement": "↑1",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
     {
       "rank": 4,
-      "track_id": 1247,
-      "artist": "Swedish House Mafia",
-      "title": "Don't You Worry Child",
-      "movement": "↑4",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 5,
-      "track_id": 604,
-      "artist": "斉藤和義",
-      "title": "彼女",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 6,
       "track_id": 1240,
       "artist": "Pharrell Williams",
       "title": "Happy",
-      "movement": "↓5",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 5,
+      "track_id": 1651,
+      "artist": "Oorutaichi",
+      "title": "Hamihadarigeri",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 6,
+      "track_id": 839,
+      "artist": "Awesome City Club",
+      "title": "アウトサイダー",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 7,
+      "track_id": 604,
+      "artist": "斉藤和義",
+      "title": "彼女",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 8,
+      "track_id": 451,
+      "artist": "WANDS",
+      "title": "Secret Night ～It's My Treat～",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 9,
       "track_id": 1584,
       "artist": "Elliott Smith",
       "title": "Between the Bars",
@@ -66,28 +84,10 @@
       "top10_streak": 15
     },
     {
-      "rank": 8,
-      "track_id": 489,
-      "artist": "小泉今日子",
-      "title": "あなたに会えてよかった",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 9,
-      "track_id": 500,
-      "artist": "モーニング娘。",
-      "title": "LOVEマシーン",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
       "rank": 10,
-      "track_id": 543,
-      "artist": "奥田民生",
-      "title": "さすらい",
+      "track_id": 1616,
+      "artist": "LITTLE TEMPO",
+      "title": "外道の森",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1

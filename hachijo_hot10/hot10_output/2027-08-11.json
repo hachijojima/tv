@@ -16,7 +16,7 @@
       "track_id": 1206,
       "artist": "Beyoncé",
       "title": "Single Ladies (Put a Ring on It)",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 9
     },
@@ -25,9 +25,9 @@
       "track_id": 1043,
       "artist": "Television",
       "title": "Marquee Moon",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 5
     },
     {
       "rank": 4,
@@ -43,7 +43,7 @@
       "track_id": 11,
       "artist": "MONO NO AWARE",
       "title": "異邦人",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
@@ -58,39 +58,39 @@
     },
     {
       "rank": 7,
-      "track_id": 541,
-      "artist": "山崎まさよし",
-      "title": "セロリ",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 8,
-      "track_id": 162,
-      "artist": "キセル",
-      "title": "くちなしの丘",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 9,
-      "track_id": 693,
-      "artist": "RCサクセション",
-      "title": "雨あがりの夜空に",
-      "movement": "→",
+      "track_id": 1044,
+      "artist": "The Jackson 5",
+      "title": "I Want You Back",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 10,
-      "track_id": 487,
-      "artist": "PRINCESS PRINCESS",
-      "title": "M",
-      "movement": "→",
+      "rank": 8,
+      "track_id": 693,
+      "artist": "RCサクセション",
+      "title": "雨あがりの夜空に",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 2
+    },
+    {
+      "rank": 9,
+      "track_id": 1719,
+      "artist": "Kaoru Inoue",
+      "title": "The Invisible Eclipse",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 541,
+      "artist": "山崎まさよし",
+      "title": "セロリ",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 8
     }
   ]
 }

@@ -4,15 +4,24 @@
   "chart": [
     {
       "rank": 1,
+      "track_id": 1653,
+      "artist": "ミドリ",
+      "title": "ゆきこさん",
+      "movement": "↑1",
+      "days_at_number_1": 1,
+      "top10_streak": 7
+    },
+    {
+      "rank": 2,
       "track_id": 1021,
       "artist": "スチャダラパー",
       "title": "サマージャム’95",
       "movement": "↑1",
-      "days_at_number_1": 1,
+      "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 2,
+      "rank": 3,
       "track_id": 1200,
       "artist": "尾崎紀世彦",
       "title": "また逢う日まで",
@@ -21,31 +30,22 @@
       "top10_streak": 1
     },
     {
-      "rank": 3,
+      "rank": 4,
       "track_id": 1089,
       "artist": "The Beatles",
       "title": "Let It Be",
-      "movement": "↑4",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 4,
+      "rank": 5,
       "track_id": 1219,
       "artist": "Ed Sheeran",
       "title": "Shape of You",
-      "movement": "↓3",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
-      "rank": 5,
-      "track_id": 319,
-      "artist": "Syrup16g",
-      "title": "生活",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 10
     },
     {
       "rank": 6,
@@ -58,19 +58,19 @@
     },
     {
       "rank": 7,
+      "track_id": 319,
+      "artist": "Syrup16g",
+      "title": "生活",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
       "track_id": 1371,
       "artist": "The Killers",
       "title": "When You Were Young",
       "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 8,
-      "track_id": 572,
-      "artist": "BEGIN",
-      "title": "恋しくて",
-      "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     },

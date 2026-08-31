@@ -7,7 +7,7 @@
       "track_id": 1028,
       "artist": "Kendrick Lamar",
       "title": "Alright",
-      "movement": "↑4",
+      "movement": "↑3",
       "days_at_number_1": 1,
       "top10_streak": 5
     },
@@ -32,8 +32,8 @@
     {
       "rank": 4,
       "track_id": 568,
-      "artist": "椎名林檎",
-      "title": "本能",
+      "artist": "54-71",
+      "title": "Life",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
@@ -43,7 +43,7 @@
       "track_id": 170,
       "artist": "betcover!!",
       "title": "翔け夜の匂い草",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -54,7 +54,7 @@
       "title": "暑中見舞い",
       "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 5
     },
     {
       "rank": 7,
@@ -63,31 +63,31 @@
       "title": "セロリ",
       "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 12
+      "top10_streak": 10
     },
     {
       "rank": 8,
-      "track_id": 612,
-      "artist": "渡辺美里",
-      "title": "サマータイム ブルース",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 9,
-      "track_id": 493,
-      "artist": "DREAMS COME TRUE",
-      "title": "未来予想図II",
+      "track_id": 1680,
+      "artist": "nhhmbase",
+      "title": "9/8",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
+      "rank": 9,
+      "track_id": 612,
+      "artist": "渡辺美里",
+      "title": "サマータイム ブルース",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
       "rank": 10,
-      "track_id": 1257,
-      "artist": "Clean Bandit",
-      "title": "Rather Be (feat. Jess Glynne)",
+      "track_id": 493,
+      "artist": "DREAMS COME TRUE",
+      "title": "眼鏡越しの空",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1

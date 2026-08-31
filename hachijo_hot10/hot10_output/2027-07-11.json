@@ -31,66 +31,66 @@
     },
     {
       "rank": 4,
+      "track_id": 133,
+      "artist": "iri",
+      "title": "rhythm",
+      "movement": "↑6",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
       "track_id": 14,
       "artist": "MIZ",
       "title": "とびうおのうた",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 5,
-      "track_id": 539,
-      "artist": "KAN",
-      "title": "まゆみ",
+      "rank": 6,
+      "track_id": 341,
+      "artist": "NUMBER GIRL",
+      "title": "OMOIDE IN MY HEAD",
       "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 6,
-      "track_id": 1240,
-      "artist": "Pharrell Williams",
-      "title": "Happy",
-      "movement": "↑4",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
       "rank": 7,
-      "track_id": 341,
-      "artist": "NUMBER GIRL",
-      "title": "OMOIDE IN MY HEAD",
-      "movement": "↑1",
+      "track_id": 539,
+      "artist": "KAN",
+      "title": "まゆみ",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 8,
-      "track_id": 1110,
-      "artist": "Red Hot Chili Peppers",
-      "title": "Can’t Stop",
-      "movement": "↓2",
+      "track_id": 644,
+      "artist": "オフコース",
+      "title": "さよなら",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 4
     },
     {
       "rank": 9,
-      "track_id": 133,
-      "artist": "iri",
-      "title": "rhythm",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 10,
       "track_id": 541,
       "artist": "山崎まさよし",
       "title": "セロリ",
-      "movement": "↓3",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 11
+      "top10_streak": 7
+    },
+    {
+      "rank": 10,
+      "track_id": 1324,
+      "artist": "Green Day",
+      "title": "Good Riddance (Time of Your Life)",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }

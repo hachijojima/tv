@@ -6,9 +6,9 @@
       "rank": 1,
       "track_id": 459,
       "artist": "B'z",
-      "title": "ALONE",
-      "movement": "→",
-      "days_at_number_1": 2,
+      "title": "MOTEL",
+      "movement": "↑1",
+      "days_at_number_1": 1,
       "top10_streak": 4
     },
     {
@@ -16,7 +16,7 @@
       "track_id": 1245,
       "artist": "David Guetta",
       "title": "Titanium (feat. Sia)",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -25,7 +25,7 @@
       "track_id": 1336,
       "artist": "Coldplay",
       "title": "Clocks",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
@@ -49,6 +49,24 @@
     },
     {
       "rank": 6,
+      "track_id": 1154,
+      "artist": "たま",
+      "title": "さよなら人類",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 7,
+      "track_id": 1265,
+      "artist": "Disclosure",
+      "title": "White Noise (feat. AlunaGeorge)",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
       "track_id": 523,
       "artist": "スピッツ",
       "title": "渚",
@@ -57,31 +75,13 @@
       "top10_streak": 3
     },
     {
-      "rank": 7,
-      "track_id": 1154,
-      "artist": "たま",
-      "title": "さよなら人類",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 8,
-      "track_id": 1013,
-      "artist": "The Police",
-      "title": "Every Breath You Take",
-      "movement": "↓5",
-      "days_at_number_1": 0,
-      "top10_streak": 14
-    },
-    {
       "rank": 9,
-      "track_id": 1265,
-      "artist": "Disclosure",
-      "title": "White Noise (feat. AlunaGeorge)",
-      "movement": "RE",
+      "track_id": 447,
+      "artist": "Spangle call Lilli line",
+      "title": "cast a spell on her",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 3
     },
     {
       "rank": 10,

@@ -16,9 +16,9 @@
       "track_id": 1061,
       "artist": "Cyndi Lauper",
       "title": "Time After Time",
-      "movement": "↑4",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 6
     },
     {
       "rank": 3,
@@ -32,8 +32,8 @@
     {
       "rank": 4,
       "track_id": 1543,
-      "artist": "Cocco",
-      "title": "Raining",
+      "artist": "PEALOUT",
+      "title": "爆裂世界 ～世界に追い越されても～",
       "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 10
@@ -52,7 +52,7 @@
       "track_id": 1214,
       "artist": "Ariana Grande",
       "title": "Into You",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
@@ -61,9 +61,9 @@
       "track_id": 1275,
       "artist": "TWICE",
       "title": "TT",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 7
     },
     {
       "rank": 8,
@@ -85,12 +85,12 @@
     },
     {
       "rank": 10,
-      "track_id": 541,
-      "artist": "山崎まさよし",
-      "title": "セロリ",
-      "movement": "↓3",
+      "track_id": 1289,
+      "artist": "2NE1",
+      "title": "I AM THE BEST",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 1
     }
   ]
 }

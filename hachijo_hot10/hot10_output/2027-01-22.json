@@ -18,59 +18,59 @@
       "title": "今夜はブギー・バック (smooth rap)",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 8
     },
     {
       "rank": 3,
-      "track_id": 1023,
-      "artist": "Carpenters",
-      "title": "(They Long To Be) Close To You",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 4,
       "track_id": 1542,
-      "artist": "Cocco",
-      "title": "強く儚い者たち",
-      "movement": "↓2",
+      "artist": "COALTAR OF THE DEEPERS",
+      "title": "My Speedy Sarah",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 7
     },
     {
-      "rank": 5,
-      "track_id": 459,
-      "artist": "B'z",
-      "title": "ALONE",
-      "movement": "↓2",
+      "rank": 4,
+      "track_id": 1048,
+      "artist": "Ben E. King",
+      "title": "Stand By Me",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 8
     },
     {
+      "rank": 5,
+      "track_id": 1010,
+      "artist": "Oasis",
+      "title": "Live Forever",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
       "rank": 6,
-      "track_id": 1048,
-      "artist": "Ben E. King",
-      "title": "Stand By Me",
+      "track_id": 459,
+      "artist": "B'z",
+      "title": "MOTEL",
       "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 8
     },
     {
       "rank": 7,
-      "track_id": 1010,
-      "artist": "Oasis",
-      "title": "Live Forever",
-      "movement": "↑1",
+      "track_id": 1674,
+      "artist": "Pasteboard",
+      "title": "Flipper",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 7
     },
     {
       "rank": 8,
       "track_id": 489,
       "artist": "小泉今日子",
-      "title": "あなたに会えてよかった",
-      "movement": "↓1",
+      "title": "Fade Out",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
@@ -85,12 +85,12 @@
     },
     {
       "rank": 10,
-      "track_id": 1445,
-      "artist": "Thee Michelle Gun Elephant",
-      "title": "バードメン",
+      "track_id": 432,
+      "artist": "SUPERCAR",
+      "title": "cream soda",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 8
     }
   ]
 }

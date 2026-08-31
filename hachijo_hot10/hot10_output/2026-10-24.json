@@ -7,57 +7,66 @@
       "track_id": 1364,
       "artist": "Linkin Park",
       "title": "In the End",
-      "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 7
+      "movement": "↑3",
+      "days_at_number_1": 1,
+      "top10_streak": 6
     },
     {
       "rank": 2,
       "track_id": 489,
       "artist": "小泉今日子",
-      "title": "あなたに会えてよかった",
+      "title": "Fade Out",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 3,
-      "track_id": 1013,
-      "artist": "The Police",
-      "title": "Every Breath You Take",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 4,
       "track_id": 1240,
       "artist": "Pharrell Williams",
       "title": "Happy",
-      "movement": "↑1",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 4
+    },
+    {
+      "rank": 4,
+      "track_id": 1013,
+      "artist": "The Police",
+      "title": "Every Breath You Take",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
     },
     {
       "rank": 5,
       "track_id": 1089,
       "artist": "The Beatles",
       "title": "Let It Be",
-      "movement": "↓3",
+      "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 15
     },
     {
       "rank": 6,
+      "track_id": 1645,
+      "artist": "CO-FUSION",
+      "title": "Material to Digital",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 7,
       "track_id": 381,
       "artist": "My Little Lover",
       "title": "白いカイト",
-      "movement": "↑3",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 7,
+      "rank": 8,
       "track_id": 1544,
       "artist": "Cocco",
       "title": "樹海の糸",
@@ -66,28 +75,19 @@
       "top10_streak": 7
     },
     {
-      "rank": 8,
+      "rank": 9,
       "track_id": 457,
       "artist": "DEEN",
-      "title": "このまま君だけを奪い去りたい",
+      "title": "翼を広げて",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 9,
-      "track_id": 1048,
-      "artist": "Ben E. King",
-      "title": "Stand By Me",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
       "rank": 10,
-      "track_id": 505,
-      "artist": "Tommy february6",
-      "title": "EVERYDAY AT THE BUS STOP",
+      "track_id": 679,
+      "artist": "太田裕美",
+      "title": "木綿のハンカチーフ",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1

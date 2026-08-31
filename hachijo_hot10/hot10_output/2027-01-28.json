@@ -8,8 +8,8 @@
       "artist": "Carpenters",
       "title": "(They Long To Be) Close To You",
       "movement": "→",
-      "days_at_number_1": 3,
-      "top10_streak": 11
+      "days_at_number_1": 2,
+      "top10_streak": 6
     },
     {
       "rank": 2,
@@ -18,28 +18,19 @@
       "title": "今夜はブギー・バック (smooth rap)",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 12
+      "top10_streak": 14
     },
     {
       "rank": 3,
       "track_id": 466,
       "artist": "GLAY",
-      "title": "BELOVED",
-      "movement": "→",
+      "title": "Freeze My Love",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 3
     },
     {
       "rank": 4,
-      "track_id": 110,
-      "artist": "乙女絵画",
-      "title": "軛",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 5,
       "track_id": 369,
       "artist": "bonobos",
       "title": "Beautiful",
@@ -48,47 +39,56 @@
       "top10_streak": 5
     },
     {
+      "rank": 5,
+      "track_id": 110,
+      "artist": "乙女絵画",
+      "title": "軛",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
       "rank": 6,
-      "track_id": 1588,
-      "artist": "Portishead",
-      "title": "Sour Times",
-      "movement": "↓1",
+      "track_id": 1068,
+      "artist": "Simon & Garfunkel",
+      "title": "Bridge Over Troubled Water",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 7,
-      "track_id": 1068,
-      "artist": "Simon & Garfunkel",
-      "title": "Bridge Over Troubled Water",
-      "movement": "↑3",
+      "track_id": 412,
+      "artist": "フラワーカンパニーズ",
+      "title": "吐きたくなるほど愛されたい",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 8,
-      "track_id": 1594,
-      "artist": "團伊玖磨",
-      "title": "オリンピック序曲",
-      "movement": "RE",
+      "track_id": 1588,
+      "artist": "Portishead",
+      "title": "Sour Times",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     },
     {
       "rank": 9,
-      "track_id": 655,
-      "artist": "山崎ハコ",
-      "title": "呪い",
-      "movement": "RE",
+      "track_id": 1594,
+      "artist": "團伊玖磨",
+      "title": "オリンピック序曲",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 613,
-      "artist": "小泉今日子",
-      "title": "優しい雨",
-      "movement": "NEW",
+      "track_id": 655,
+      "artist": "山崎ハコ",
+      "title": "呪い",
+      "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

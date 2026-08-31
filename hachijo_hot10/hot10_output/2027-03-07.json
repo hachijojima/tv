@@ -9,7 +9,7 @@
       "title": "北京ダック",
       "movement": "→",
       "days_at_number_1": 2,
-      "top10_streak": 2
+      "top10_streak": 14
     },
     {
       "rank": 2,
@@ -23,8 +23,8 @@
     {
       "rank": 3,
       "track_id": 1542,
-      "artist": "Cocco",
-      "title": "強く儚い者たち",
+      "artist": "COALTAR OF THE DEEPERS",
+      "title": "My Speedy Sarah",
       "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 6
@@ -36,7 +36,7 @@
       "title": "雨",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 8
     },
     {
       "rank": 5,
@@ -49,21 +49,21 @@
     },
     {
       "rank": 6,
+      "track_id": 1672,
+      "artist": "Hartfield",
+      "title": "Today Forever",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 7,
       "track_id": 1369,
       "artist": "Muse",
       "title": "Plug In Baby",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
-    },
-    {
-      "rank": 7,
-      "track_id": 459,
-      "artist": "B'z",
-      "title": "ALONE",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 5
     },
     {
       "rank": 8,
@@ -76,19 +76,19 @@
     },
     {
       "rank": 9,
-      "track_id": 1280,
-      "artist": "IVE",
-      "title": "I AM",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 11
-    },
-    {
-      "rank": 10,
       "track_id": 1339,
       "artist": "Blur",
       "title": "Girls & Boys",
       "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1315,
+      "artist": "Nirvana",
+      "title": "Come As You Are",
+      "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

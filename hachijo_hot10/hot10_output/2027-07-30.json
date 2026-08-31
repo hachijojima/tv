@@ -40,12 +40,12 @@
     },
     {
       "rank": 5,
-      "track_id": 476,
-      "artist": "シャ乱Q",
-      "title": "シングルベッド",
-      "movement": "↓2",
+      "track_id": 1542,
+      "artist": "COALTAR OF THE DEEPERS",
+      "title": "My Speedy Sarah",
+      "movement": "↑5",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 2
     },
     {
       "rank": 6,
@@ -58,6 +58,15 @@
     },
     {
       "rank": 7,
+      "track_id": 476,
+      "artist": "シャ乱Q",
+      "title": "上・京・物・語",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 8,
       "track_id": 1252,
       "artist": "Kygo",
       "title": "Stole the Show (feat. Parson James)",
@@ -66,28 +75,19 @@
       "top10_streak": 1
     },
     {
-      "rank": 8,
-      "track_id": 500,
-      "artist": "モーニング娘。",
-      "title": "LOVEマシーン",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
       "rank": 9,
-      "track_id": 701,
-      "artist": "シュガー・ベイブ",
-      "title": "今日はなんだか",
+      "track_id": 1646,
+      "artist": "Serani Poji",
+      "title": "スマイリーを探して",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 1542,
-      "artist": "Cocco",
-      "title": "強く儚い者たち",
+      "track_id": 701,
+      "artist": "シュガー・ベイブ",
+      "title": "今日はなんだか",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1

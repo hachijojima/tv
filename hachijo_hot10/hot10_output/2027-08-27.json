@@ -15,22 +15,13 @@
       "rank": 2,
       "track_id": 500,
       "artist": "モーニング娘。",
-      "title": "LOVEマシーン",
+      "title": "Memory 青春の光",
       "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
     {
       "rank": 3,
-      "track_id": 582,
-      "artist": "T-BOLAN",
-      "title": "Bye For Now",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 4,
       "track_id": 14,
       "artist": "MIZ",
       "title": "とびうおのうた",
@@ -39,28 +30,37 @@
       "top10_streak": 4
     },
     {
-      "rank": 5,
+      "rank": 4,
       "track_id": 330,
       "artist": "カヒミ・カリィ",
       "title": "Mike Alway's Diary",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 7
     },
     {
-      "rank": 6,
-      "track_id": 1534,
-      "artist": "大瀧詠一",
-      "title": "恋するカレン",
-      "movement": "RE",
+      "rank": 5,
+      "track_id": 331,
+      "artist": "ORIGINAL LOVE",
+      "title": "朝日のあたる道 AS TIME GOES BY",
+      "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 11
+    },
+    {
+      "rank": 6,
+      "track_id": 582,
+      "artist": "T-BOLAN",
+      "title": "Bye For Now",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     },
     {
       "rank": 7,
-      "track_id": 281,
-      "artist": "ピチカート・ファイヴ",
-      "title": "東京は夜の七時",
+      "track_id": 1534,
+      "artist": "大瀧詠一",
+      "title": "恋するカレン",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
@@ -70,15 +70,15 @@
       "track_id": 1254,
       "artist": "The Chainsmokers",
       "title": "Closer (feat. Halsey)",
-      "movement": "→",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
       "rank": 9,
-      "track_id": 548,
-      "artist": "REBECCA",
-      "title": "RASPBERRY DREAM",
+      "track_id": 281,
+      "artist": "ピチカート・ファイヴ",
+      "title": "東京は夜の七時",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
@@ -88,7 +88,7 @@
       "track_id": 1499,
       "artist": "MUTE BEAT",
       "title": "Dub No.5",
-      "movement": "↓4",
+      "movement": "↓5",
       "days_at_number_1": 0,
       "top10_streak": 3
     }

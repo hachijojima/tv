@@ -7,8 +7,8 @@
       "track_id": 542,
       "artist": "斉藤和義",
       "title": "歩いて帰ろう",
-      "movement": "→",
-      "days_at_number_1": 2,
+      "movement": "↑1",
+      "days_at_number_1": 1,
       "top10_streak": 3
     },
     {
@@ -16,7 +16,7 @@
       "track_id": 1359,
       "artist": "Franz Ferdinand",
       "title": "Take Me Out",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
@@ -24,7 +24,7 @@
       "rank": 3,
       "track_id": 459,
       "artist": "B'z",
-      "title": "ALONE",
+      "title": "MOTEL",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
@@ -40,30 +40,30 @@
     },
     {
       "rank": 5,
-      "track_id": 496,
-      "artist": "宇多田ヒカル",
-      "title": "Automatic",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 6,
       "track_id": 1590,
       "artist": "奥山熊雄",
       "title": "色のついたシャバタキ・すがる",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 11
     },
     {
-      "rank": 7,
+      "rank": 6,
       "track_id": 432,
       "artist": "SUPERCAR",
       "title": "cream soda",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 7,
+      "track_id": 1134,
+      "artist": "Diana Ross",
+      "title": "I’m Coming Out",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 6
     },
     {
       "rank": 8,
@@ -76,21 +76,21 @@
     },
     {
       "rank": 9,
-      "track_id": 493,
-      "artist": "DREAMS COME TRUE",
-      "title": "未来予想図II",
-      "movement": "RE",
+      "track_id": 1473,
+      "artist": "スチャダラパー",
+      "title": "今夜はブギー・バック (smooth rap)",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 1134,
-      "artist": "Diana Ross",
-      "title": "I’m Coming Out",
-      "movement": "→",
+      "track_id": 1245,
+      "artist": "David Guetta",
+      "title": "Titanium (feat. Sia)",
+      "movement": "RE",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 1
     }
   ]
 }

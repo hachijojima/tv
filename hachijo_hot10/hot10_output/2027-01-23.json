@@ -4,42 +4,33 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1023,
-      "artist": "Carpenters",
-      "title": "(They Long To Be) Close To You",
-      "movement": "↑2",
-      "days_at_number_1": 1,
-      "top10_streak": 6
-    },
-    {
-      "rank": 2,
       "track_id": 680,
       "artist": "キャンディーズ",
       "title": "春一番",
-      "movement": "↓1",
-      "days_at_number_1": 0,
+      "movement": "→",
+      "days_at_number_1": 2,
       "top10_streak": 2
     },
     {
-      "rank": 3,
+      "rank": 2,
       "track_id": 1473,
       "artist": "スチャダラパー",
       "title": "今夜はブギー・バック (smooth rap)",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 9
     },
     {
-      "rank": 4,
+      "rank": 3,
       "track_id": 1542,
-      "artist": "Cocco",
-      "title": "強く儚い者たち",
+      "artist": "COALTAR OF THE DEEPERS",
+      "title": "My Speedy Sarah",
       "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 8
     },
     {
-      "rank": 5,
+      "rank": 4,
       "track_id": 1095,
       "artist": "サニーデイ・サービス",
       "title": "春の風",
@@ -48,49 +39,58 @@
       "top10_streak": 1
     },
     {
-      "rank": 6,
+      "rank": 5,
       "track_id": 489,
       "artist": "小泉今日子",
-      "title": "あなたに会えてよかった",
-      "movement": "↑2",
+      "title": "Fade Out",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 4
+    },
+    {
+      "rank": 6,
+      "track_id": 1023,
+      "artist": "Carpenters",
+      "title": "(They Long To Be) Close To You",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     },
     {
       "rank": 7,
       "track_id": 1010,
       "artist": "Oasis",
       "title": "Live Forever",
-      "movement": "→",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 8,
+      "track_id": 1674,
+      "artist": "Pasteboard",
+      "title": "Flipper",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 9,
       "track_id": 1097,
       "artist": "大澤誉志幸",
       "title": "そして僕は途方に暮れる",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 9,
-      "track_id": 466,
-      "artist": "GLAY",
-      "title": "BELOVED",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
       "rank": 10,
-      "track_id": 1254,
-      "artist": "The Chainsmokers",
-      "title": "Closer (feat. Halsey)",
-      "movement": "NEW",
+      "track_id": 1048,
+      "artist": "Ben E. King",
+      "title": "Stand By Me",
+      "movement": "↓6",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 9
     }
   ]
 }

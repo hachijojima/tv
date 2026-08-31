@@ -23,8 +23,8 @@
     {
       "rank": 3,
       "track_id": 1542,
-      "artist": "Cocco",
-      "title": "強く儚い者たち",
+      "artist": "COALTAR OF THE DEEPERS",
+      "title": "My Speedy Sarah",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
@@ -40,33 +40,24 @@
     },
     {
       "rank": 5,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 11
-    },
-    {
-      "rank": 6,
       "track_id": 1021,
       "artist": "スチャダラパー",
       "title": "サマージャム’95",
-      "movement": "→",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 7,
-      "track_id": 541,
-      "artist": "山崎まさよし",
-      "title": "セロリ",
-      "movement": "↑1",
+      "rank": 6,
+      "track_id": 14,
+      "artist": "MIZ",
+      "title": "とびうおのうた",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 12
     },
     {
-      "rank": 8,
+      "rank": 7,
       "track_id": 1482,
       "artist": "ZAZEN BOYS",
       "title": "半透明少女関係",
@@ -75,20 +66,29 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
-      "track_id": 1314,
-      "artist": "U2",
-      "title": "Beautiful Day",
+      "rank": 8,
+      "track_id": 541,
+      "artist": "山崎まさよし",
+      "title": "セロリ",
       "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
+    },
+    {
+      "rank": 9,
+      "track_id": 471,
+      "artist": "TRF",
+      "title": "masquerade",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     },
     {
       "rank": 10,
       "track_id": 839,
       "artist": "Awesome City Club",
       "title": "アウトサイダー",
-      "movement": "NEW",
+      "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

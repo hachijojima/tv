@@ -7,8 +7,8 @@
       "track_id": 1584,
       "artist": "Elliott Smith",
       "title": "Between the Bars",
-      "movement": "↑1",
-      "days_at_number_1": 1,
+      "movement": "→",
+      "days_at_number_1": 2,
       "top10_streak": 2
     },
     {
@@ -16,9 +16,9 @@
       "track_id": 539,
       "artist": "KAN",
       "title": "まゆみ",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 10
+      "top10_streak": 6
     },
     {
       "rank": 3,
@@ -31,21 +31,21 @@
     },
     {
       "rank": 4,
-      "track_id": 533,
-      "artist": "TRF",
-      "title": "survival dAnce ～no no cry more～",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 5,
       "track_id": 1020,
       "artist": "The Doobie Brothers",
       "title": "What a Fool Believes",
-      "movement": "↑3",
+      "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 11
+    },
+    {
+      "rank": 5,
+      "track_id": 533,
+      "artist": "TRF",
+      "title": "survival dAnce ～no no cry more～",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 7
     },
     {
       "rank": 6,
@@ -76,21 +76,21 @@
     },
     {
       "rank": 9,
-      "track_id": 1065,
-      "artist": "Marvin Gaye",
-      "title": "Mercy Mercy Me (The Ecology)",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 10,
-      "track_id": 1215,
-      "artist": "Taylor Swift",
-      "title": "Shake It Off",
+      "track_id": 1635,
+      "artist": "MIC JACK PRODUCTION",
+      "title": "Seven Seas Voyage",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1065,
+      "artist": "Marvin Gaye",
+      "title": "Mercy Mercy Me (The Ecology)",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     }
   ]
 }

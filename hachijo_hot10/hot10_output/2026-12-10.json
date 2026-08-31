@@ -31,24 +31,15 @@
     },
     {
       "rank": 4,
-      "track_id": 600,
-      "artist": "シャ乱Q",
-      "title": "いいわけ",
-      "movement": "↓2",
+      "track_id": 1286,
+      "artist": "SEVENTEEN",
+      "title": "Super",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 5,
-      "track_id": 1286,
-      "artist": "SEVENTEEN",
-      "title": "Super",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 6,
       "track_id": 1204,
       "artist": "Rihanna",
       "title": "We Found Love",
@@ -57,7 +48,25 @@
       "top10_streak": 2
     },
     {
+      "rank": 6,
+      "track_id": 600,
+      "artist": "シャ乱Q",
+      "title": "いいわけ",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
       "rank": 7,
+      "track_id": 1305,
+      "artist": "鼓童",
+      "title": "凰（おおとり）",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 11
+    },
+    {
+      "rank": 8,
       "track_id": 1508,
       "artist": "RCサクセション",
       "title": "多摩蘭坂",
@@ -66,22 +75,13 @@
       "top10_streak": 5
     },
     {
-      "rank": 8,
+      "rank": 9,
       "track_id": 1020,
       "artist": "The Doobie Brothers",
       "title": "What a Fool Believes",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
-    },
-    {
-      "rank": 9,
-      "track_id": 1134,
-      "artist": "Diana Ross",
-      "title": "I’m Coming Out",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 8
     },
     {
       "rank": 10,

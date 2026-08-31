@@ -8,24 +8,24 @@
       "artist": "Carpenters",
       "title": "(They Long To Be) Close To You",
       "movement": "→",
-      "days_at_number_1": 4,
-      "top10_streak": 12
-    },
-    {
-      "rank": 2,
-      "track_id": 466,
-      "artist": "GLAY",
-      "title": "BELOVED",
-      "movement": "↑1",
-      "days_at_number_1": 0,
+      "days_at_number_1": 3,
       "top10_streak": 7
     },
     {
-      "rank": 3,
+      "rank": 2,
       "track_id": 110,
       "artist": "乙女絵画",
       "title": "軛",
-      "movement": "↑1",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 3,
+      "track_id": 1594,
+      "artist": "團伊玖磨",
+      "title": "オリンピック序曲",
+      "movement": "↑6",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -36,37 +36,28 @@
       "title": "今夜はブギー・バック (smooth rap)",
       "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 13
+      "top10_streak": 15
     },
     {
       "rank": 5,
-      "track_id": 1594,
-      "artist": "團伊玖磨",
-      "title": "オリンピック序曲",
-      "movement": "↑3",
+      "track_id": 466,
+      "artist": "GLAY",
+      "title": "Freeze My Love",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 4
     },
     {
       "rank": 6,
       "track_id": 1588,
       "artist": "Portishead",
       "title": "Sour Times",
-      "movement": "→",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 7,
-      "track_id": 613,
-      "artist": "小泉今日子",
-      "title": "優しい雨",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 8,
       "track_id": 1068,
       "artist": "Simon & Garfunkel",
       "title": "Bridge Over Troubled Water",
@@ -75,22 +66,31 @@
       "top10_streak": 3
     },
     {
-      "rank": 9,
-      "track_id": 655,
-      "artist": "山崎ハコ",
-      "title": "呪い",
-      "movement": "→",
+      "rank": 8,
+      "track_id": 412,
+      "artist": "フラワーカンパニーズ",
+      "title": "吐きたくなるほど愛されたい",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 3
     },
     {
-      "rank": 10,
+      "rank": 9,
       "track_id": 369,
       "artist": "bonobos",
       "title": "Beautiful",
       "movement": "↓5",
       "days_at_number_1": 0,
       "top10_streak": 6
+    },
+    {
+      "rank": 10,
+      "track_id": 655,
+      "artist": "山崎ハコ",
+      "title": "呪い",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     }
   ]
 }

@@ -33,19 +33,19 @@
       "rank": 4,
       "track_id": 476,
       "artist": "シャ乱Q",
-      "title": "シングルベッド",
+      "title": "上・京・物・語",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 5,
-      "track_id": 1589,
-      "artist": "Massive Attack",
-      "title": "Unfinished Sympathy",
+      "track_id": 1214,
+      "artist": "Ariana Grande",
+      "title": "Into You",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 4
     },
     {
       "rank": 6,
@@ -58,39 +58,39 @@
     },
     {
       "rank": 7,
-      "track_id": 1214,
-      "artist": "Ariana Grande",
-      "title": "Into You",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 8,
-      "track_id": 544,
-      "artist": "UNICORN",
-      "title": "大迷惑",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 9,
       "track_id": 813,
       "artist": "Official髭男dism",
       "title": "Pretender",
-      "movement": "↓3",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 10,
-      "track_id": 553,
-      "artist": "米米CLUB",
-      "title": "君がいるだけで",
-      "movement": "↓1",
+      "rank": 8,
+      "track_id": 1503,
+      "artist": "じゃがたら",
+      "title": "裸の王様",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 2
+    },
+    {
+      "rank": 9,
+      "track_id": 1383,
+      "artist": "Bon Jovi",
+      "title": "It's My Life",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 10,
+      "track_id": 1589,
+      "artist": "Massive Attack",
+      "title": "Unfinished Sympathy",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 14
     }
   ]
 }

@@ -18,37 +18,46 @@
       "title": "Time After Time",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 8
+      "top10_streak": 10
     },
     {
       "rank": 3,
+      "track_id": 1642,
+      "artist": "Jazztronik",
+      "title": "Samurai",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 4,
       "track_id": 221,
       "artist": "yonawo",
       "title": "good job",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 4,
+      "rank": 5,
       "track_id": 1474,
       "artist": "スチャダラパー",
       "title": "GET UP AND DANCE",
-      "movement": "↓1",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 9
     },
     {
-      "rank": 5,
-      "track_id": 1351,
-      "artist": "Alanis Morissette",
-      "title": "Ironic",
-      "movement": "↑4",
+      "rank": 6,
+      "track_id": 1678,
+      "artist": "LITE",
+      "title": "Ef",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 2
     },
     {
-      "rank": 6,
+      "rank": 7,
       "track_id": 707,
       "artist": "チューリップ",
       "title": "心の旅",
@@ -57,40 +66,31 @@
       "top10_streak": 1
     },
     {
-      "rank": 7,
-      "track_id": 473,
-      "artist": "Every Little Thing",
-      "title": "Time goes by",
-      "movement": "↓1",
+      "rank": 8,
+      "track_id": 1351,
+      "artist": "Alanis Morissette",
+      "title": "Ironic",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 5
     },
     {
-      "rank": 8,
+      "rank": 9,
       "track_id": 293,
       "artist": "くるり",
       "title": "東京",
-      "movement": "↓3",
+      "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 9,
-      "track_id": 1100,
-      "artist": "Bon Jovi",
-      "title": "Livin’ On A Prayer",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
       "rank": 10,
-      "track_id": 1543,
-      "artist": "Cocco",
-      "title": "Raining",
+      "track_id": 473,
+      "artist": "Every Little Thing",
+      "title": "Shapes Of Love",
       "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 14
+      "top10_streak": 2
     }
   ]
 }

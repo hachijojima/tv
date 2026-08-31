@@ -4,12 +4,12 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 582,
-      "artist": "T-BOLAN",
-      "title": "Bye For Now",
-      "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 8
+      "track_id": 1679,
+      "artist": "mouse on the keys",
+      "title": "Spectres de Mouse",
+      "movement": "↑1",
+      "days_at_number_1": 1,
+      "top10_streak": 2
     },
     {
       "rank": 2,
@@ -22,51 +22,60 @@
     },
     {
       "rank": 3,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "↑2",
+      "track_id": 582,
+      "artist": "T-BOLAN",
+      "title": "Bye For Now",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 4
     },
     {
       "rank": 4,
       "track_id": 1364,
       "artist": "Linkin Park",
       "title": "In the End",
-      "movement": "↑5",
+      "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 5,
+      "track_id": 14,
+      "artist": "MIZ",
+      "title": "とびうおのうた",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 6,
       "track_id": 1091,
       "artist": "The Cure",
       "title": "Boys Don’t Cry",
-      "movement": "↓3",
+      "movement": "↓5",
       "days_at_number_1": 0,
       "top10_streak": 8
     },
     {
-      "rank": 6,
+      "rank": 7,
       "track_id": 330,
       "artist": "カヒミ・カリィ",
       "title": "Mike Alway's Diary",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 9
     },
     {
-      "rank": 7,
+      "rank": 8,
       "track_id": 500,
       "artist": "モーニング娘。",
-      "title": "LOVEマシーン",
-      "movement": "↓3",
+      "title": "Memory 青春の光",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 8
     },
     {
-      "rank": 8,
+      "rank": 9,
       "track_id": 1293,
       "artist": "IU",
       "title": "Good Day",
@@ -75,22 +84,13 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
+      "rank": 10,
       "track_id": 1242,
       "artist": "Avicii",
       "title": "Levels",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
-    },
-    {
-      "rank": 10,
-      "track_id": 1170,
-      "artist": "Mondo Grosso",
-      "title": "ラビリンス",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
     }
   ]
 }

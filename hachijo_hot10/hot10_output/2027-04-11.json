@@ -4,69 +4,60 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1061,
-      "artist": "Cyndi Lauper",
-      "title": "Time After Time",
-      "movement": "↑3",
-      "days_at_number_1": 1,
-      "top10_streak": 16
-    },
-    {
-      "rank": 2,
       "track_id": 1011,
       "artist": "Underworld",
       "title": "Born Slippy (Nuxx)",
-      "movement": "↓1",
-      "days_at_number_1": 0,
+      "movement": "→",
+      "days_at_number_1": 3,
       "top10_streak": 5
     },
     {
-      "rank": 3,
-      "track_id": 588,
-      "artist": "THE YELLOW MONKEY",
-      "title": "LOVE LOVE SHOW",
-      "movement": "↑2",
+      "rank": 2,
+      "track_id": 1061,
+      "artist": "Cyndi Lauper",
+      "title": "Time After Time",
+      "movement": "↑6",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 18
+    },
+    {
+      "rank": 3,
+      "track_id": 1265,
+      "artist": "Disclosure",
+      "title": "White Noise (feat. AlunaGeorge)",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     },
     {
       "rank": 4,
       "track_id": 1028,
       "artist": "Kendrick Lamar",
       "title": "Alright",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 8
     },
     {
       "rank": 5,
-      "track_id": 1265,
-      "artist": "Disclosure",
-      "title": "White Noise (feat. AlunaGeorge)",
-      "movement": "↓3",
+      "track_id": 1375,
+      "artist": "Soundgarden",
+      "title": "Black Hole Sun",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 4
     },
     {
       "rank": 6,
-      "track_id": 541,
-      "artist": "山崎まさよし",
-      "title": "セロリ",
-      "movement": "↑2",
+      "track_id": 1642,
+      "artist": "Jazztronik",
+      "title": "Samurai",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 11
     },
     {
       "rank": 7,
-      "track_id": 553,
-      "artist": "米米CLUB",
-      "title": "君がいるだけで",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 8,
       "track_id": 1072,
       "artist": "坂本龍一",
       "title": "Thousand Knives",
@@ -75,7 +66,7 @@
       "top10_streak": 7
     },
     {
-      "rank": 9,
+      "rank": 8,
       "track_id": 819,
       "artist": "ずっと真夜中でいいのに。",
       "title": "正しくなれない",
@@ -84,11 +75,20 @@
       "top10_streak": 1
     },
     {
+      "rank": 9,
+      "track_id": 1455,
+      "artist": "羅針盤",
+      "title": "永遠のうた",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
       "rank": 10,
-      "track_id": 1375,
-      "artist": "Soundgarden",
-      "title": "Black Hole Sun",
-      "movement": "RE",
+      "track_id": 1480,
+      "artist": "ZAZEN BOYS",
+      "title": "KIMOCHI",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

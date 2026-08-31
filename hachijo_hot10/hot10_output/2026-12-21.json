@@ -4,28 +4,28 @@
   "chart": [
     {
       "rank": 1,
+      "track_id": 1584,
+      "artist": "Elliott Smith",
+      "title": "Between the Bars",
+      "movement": "→",
+      "days_at_number_1": 3,
+      "top10_streak": 3
+    },
+    {
+      "rank": 2,
       "track_id": 533,
       "artist": "TRF",
       "title": "survival dAnce ～no no cry more～",
       "movement": "↑3",
-      "days_at_number_1": 1,
-      "top10_streak": 8
-    },
-    {
-      "rank": 2,
-      "track_id": 1584,
-      "artist": "Elliott Smith",
-      "title": "Between the Bars",
-      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 8
     },
     {
       "rank": 3,
       "track_id": 1020,
       "artist": "The Doobie Brothers",
       "title": "What a Fool Believes",
-      "movement": "↑2",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 12
     },
@@ -36,7 +36,7 @@
       "title": "まゆみ",
       "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 11
+      "top10_streak": 7
     },
     {
       "rank": 5,
@@ -85,9 +85,9 @@
     },
     {
       "rank": 10,
-      "track_id": 481,
-      "artist": "奥田民生",
-      "title": "愛のために",
+      "track_id": 1618,
+      "artist": "DJ KRUSH",
+      "title": "Kemuri",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1

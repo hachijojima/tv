@@ -8,26 +8,26 @@
       "artist": "Carpenters",
       "title": "(They Long To Be) Close To You",
       "movement": "→",
-      "days_at_number_1": 5,
-      "top10_streak": 13
-    },
-    {
-      "rank": 2,
-      "track_id": 466,
-      "artist": "GLAY",
-      "title": "BELOVED",
-      "movement": "→",
-      "days_at_number_1": 0,
+      "days_at_number_1": 4,
       "top10_streak": 8
     },
     {
-      "rank": 3,
+      "rank": 2,
       "track_id": 1594,
       "artist": "團伊玖磨",
       "title": "オリンピック序曲",
-      "movement": "↑2",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 3
+    },
+    {
+      "rank": 3,
+      "track_id": 1068,
+      "artist": "Simon & Garfunkel",
+      "title": "Bridge Over Troubled Water",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 4
     },
     {
       "rank": 4,
@@ -36,25 +36,25 @@
       "title": "今夜はブギー・バック (smooth rap)",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 14
+      "top10_streak": 16
     },
     {
       "rank": 5,
-      "track_id": 1068,
-      "artist": "Simon & Garfunkel",
-      "title": "Bridge Over Troubled Water",
-      "movement": "↑3",
+      "track_id": 110,
+      "artist": "乙女絵画",
+      "title": "軛",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 3
     },
     {
       "rank": 6,
-      "track_id": 613,
+      "track_id": 489,
       "artist": "小泉今日子",
-      "title": "優しい雨",
-      "movement": "↑1",
+      "title": "Fade Out",
+      "movement": "RE",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 1
     },
     {
       "rank": 7,
@@ -67,12 +67,12 @@
     },
     {
       "rank": 8,
-      "track_id": 110,
-      "artist": "乙女絵画",
-      "title": "軛",
-      "movement": "↓5",
+      "track_id": 466,
+      "artist": "GLAY",
+      "title": "Freeze My Love",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 5
     },
     {
       "rank": 9,

@@ -15,28 +15,28 @@
       "rank": 2,
       "track_id": 468,
       "artist": "X JAPAN",
-      "title": "ENDLESS RAIN",
+      "title": "DAHLIA",
       "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
     {
       "rank": 3,
-      "track_id": 11,
-      "artist": "MONO NO AWARE",
-      "title": "異邦人",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 4,
       "track_id": 728,
       "artist": "角松敏生",
       "title": "If You Wanna Dance",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 4,
+      "track_id": 11,
+      "artist": "MONO NO AWARE",
+      "title": "異邦人",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 7
     },
     {
       "rank": 5,
@@ -70,7 +70,7 @@
       "track_id": 141,
       "artist": "スカート",
       "title": "CALL",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -85,12 +85,12 @@
     },
     {
       "rank": 10,
-      "track_id": 1508,
-      "artist": "RCサクセション",
-      "title": "多摩蘭坂",
-      "movement": "↓2",
+      "track_id": 1663,
+      "artist": "MAD3",
+      "title": "Jack the Violence",
+      "movement": "↓6",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 8
     }
   ]
 }

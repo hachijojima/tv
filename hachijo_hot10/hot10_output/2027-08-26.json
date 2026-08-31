@@ -6,7 +6,7 @@
       "rank": 1,
       "track_id": 500,
       "artist": "モーニング娘。",
-      "title": "LOVEマシーン",
+      "title": "Memory 青春の光",
       "movement": "→",
       "days_at_number_1": 3,
       "top10_streak": 5
@@ -31,15 +31,6 @@
     },
     {
       "rank": 4,
-      "track_id": 582,
-      "artist": "T-BOLAN",
-      "title": "Bye For Now",
-      "movement": "↑5",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 5,
       "track_id": 14,
       "artist": "MIZ",
       "title": "とびうおのうた",
@@ -48,13 +39,22 @@
       "top10_streak": 3
     },
     {
-      "rank": 6,
+      "rank": 5,
       "track_id": 1499,
       "artist": "MUTE BEAT",
       "title": "Dub No.5",
       "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
+    },
+    {
+      "rank": 6,
+      "track_id": 1254,
+      "artist": "The Chainsmokers",
+      "title": "Closer (feat. Halsey)",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     },
     {
       "rank": 7,
@@ -67,21 +67,21 @@
     },
     {
       "rank": 8,
-      "track_id": 1254,
-      "artist": "The Chainsmokers",
-      "title": "Closer (feat. Halsey)",
-      "movement": "↓1",
+      "track_id": 331,
+      "artist": "ORIGINAL LOVE",
+      "title": "朝日のあたる道 AS TIME GOES BY",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 10
     },
     {
       "rank": 9,
-      "track_id": 607,
-      "artist": "THE BLUE HEARTS",
-      "title": "青空",
-      "movement": "↓4",
+      "track_id": 582,
+      "artist": "T-BOLAN",
+      "title": "Bye For Now",
+      "movement": "RE",
       "days_at_number_1": 0,
-      "top10_streak": 10
+      "top10_streak": 1
     },
     {
       "rank": 10,

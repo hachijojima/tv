@@ -22,30 +22,30 @@
     },
     {
       "rank": 3,
-      "track_id": 519,
-      "artist": "DEEN",
-      "title": "瞳そらさないで",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 4,
       "track_id": 1247,
       "artist": "Swedish House Mafia",
       "title": "Don't You Worry Child",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 12
     },
     {
-      "rank": 5,
+      "rank": 4,
       "track_id": 1267,
       "artist": "Eric Prydz",
       "title": "Call on Me",
-      "movement": "↓3",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 3
+    },
+    {
+      "rank": 5,
+      "track_id": 519,
+      "artist": "DEEN",
+      "title": "瞳そらさないで",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     },
     {
       "rank": 6,

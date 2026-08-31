@@ -4,30 +4,30 @@
   "chart": [
     {
       "rank": 1,
+      "track_id": 1635,
+      "artist": "MIC JACK PRODUCTION",
+      "title": "Seven Seas Voyage",
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 8
+    },
+    {
+      "rank": 2,
       "track_id": 604,
       "artist": "斉藤和義",
       "title": "彼女",
       "movement": "NEW",
-      "days_at_number_1": 1,
+      "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 2,
+      "rank": 3,
       "track_id": 259,
       "artist": "ドミコ",
       "title": "ペーパーロールスター",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
-    },
-    {
-      "rank": 3,
-      "track_id": 762,
-      "artist": "ティン・パン・アレー",
-      "title": "北京ダック",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 11
     },
     {
       "rank": 4,
@@ -40,15 +40,6 @@
     },
     {
       "rank": 5,
-      "track_id": 1247,
-      "artist": "Swedish House Mafia",
-      "title": "Don't You Worry Child",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 6,
       "track_id": 1325,
       "artist": "Green Day",
       "title": "American Idiot",
@@ -57,16 +48,16 @@
       "top10_streak": 1
     },
     {
-      "rank": 7,
-      "track_id": 451,
-      "artist": "WANDS",
-      "title": "時の扉",
-      "movement": "↓1",
+      "rank": 6,
+      "track_id": 1584,
+      "artist": "Elliott Smith",
+      "title": "Between the Bars",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 11
     },
     {
-      "rank": 8,
+      "rank": 7,
       "track_id": 287,
       "artist": "Fishmans",
       "title": "いかれたBaby",
@@ -75,22 +66,31 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
-      "track_id": 1584,
-      "artist": "Elliott Smith",
-      "title": "Between the Bars",
-      "movement": "↓4",
+      "rank": 8,
+      "track_id": 451,
+      "artist": "WANDS",
+      "title": "Secret Night ～It's My Treat～",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 11
+      "top10_streak": 3
+    },
+    {
+      "rank": 9,
+      "track_id": 1247,
+      "artist": "Swedish House Mafia",
+      "title": "Don't You Worry Child",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     },
     {
       "rank": 10,
-      "track_id": 1344,
-      "artist": "The Cranberries",
-      "title": "Linger",
-      "movement": "↓1",
+      "track_id": 998,
+      "artist": "Donald Fagen",
+      "title": "The Nightfly",
+      "movement": "↓8",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 8
     }
   ]
 }

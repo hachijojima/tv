@@ -8,8 +8,8 @@
       "artist": "MIZ",
       "title": "とびうおのうた",
       "movement": "→",
-      "days_at_number_1": 3,
-      "top10_streak": 9
+      "days_at_number_1": 2,
+      "top10_streak": 8
     },
     {
       "rank": 2,
@@ -27,7 +27,7 @@
       "title": "BABY BABY",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 5
     },
     {
       "rank": 4,
@@ -40,15 +40,24 @@
     },
     {
       "rank": 5,
+      "track_id": 1625,
+      "artist": "NATSUMEN",
+      "title": "Cicada Sing The Galaxy",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 6,
       "track_id": 348,
       "artist": "レミオロメン",
       "title": "電話",
-      "movement": "↓1",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 8
     },
     {
-      "rank": 6,
+      "rank": 7,
       "track_id": 268,
       "artist": "リーガルリリー",
       "title": "ハナヒカリ",
@@ -57,22 +66,13 @@
       "top10_streak": 2
     },
     {
-      "rank": 7,
+      "rank": 8,
       "track_id": 530,
       "artist": "X JAPAN",
       "title": "Rusty Nail",
       "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 2
-    },
-    {
-      "rank": 8,
-      "track_id": 548,
-      "artist": "REBECCA",
-      "title": "RASPBERRY DREAM",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 7
     },
     {
       "rank": 9,
@@ -88,7 +88,7 @@
       "track_id": 1505,
       "artist": "じゃがたら",
       "title": "都市生活者の夜",
-      "movement": "↓1",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 3
     }

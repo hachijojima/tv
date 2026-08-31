@@ -4,24 +4,15 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 762,
-      "artist": "ティン・パン・アレー",
-      "title": "北京ダック",
-      "movement": "→",
-      "days_at_number_1": 5,
-      "top10_streak": 5
+      "track_id": 1315,
+      "artist": "Nirvana",
+      "title": "Come As You Are",
+      "movement": "↑3",
+      "days_at_number_1": 1,
+      "top10_streak": 4
     },
     {
       "rank": 2,
-      "track_id": 459,
-      "artist": "B'z",
-      "title": "ALONE",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 3,
       "track_id": 1515,
       "artist": "戸川純",
       "title": "レーダーマン",
@@ -30,16 +21,16 @@
       "top10_streak": 1
     },
     {
-      "rank": 4,
-      "track_id": 552,
-      "artist": "森高千里",
-      "title": "雨",
-      "movement": "↑1",
+      "rank": 3,
+      "track_id": 762,
+      "artist": "ティン・パン・アレー",
+      "title": "北京ダック",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 9
+      "top10_streak": 17
     },
     {
-      "rank": 5,
+      "rank": 4,
       "track_id": 1305,
       "artist": "鼓童",
       "title": "凰（おおとり）",
@@ -48,16 +39,34 @@
       "top10_streak": 7
     },
     {
-      "rank": 6,
+      "rank": 5,
       "track_id": 1584,
       "artist": "Elliott Smith",
       "title": "Between the Bars",
-      "movement": "→",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
+      "rank": 6,
+      "track_id": 1635,
+      "artist": "MIC JACK PRODUCTION",
+      "title": "Seven Seas Voyage",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
       "rank": 7,
+      "track_id": 1542,
+      "artist": "COALTAR OF THE DEEPERS",
+      "title": "My Speedy Sarah",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 9
+    },
+    {
+      "rank": 8,
       "track_id": 998,
       "artist": "Donald Fagen",
       "title": "The Nightfly",
@@ -66,22 +75,13 @@
       "top10_streak": 2
     },
     {
-      "rank": 8,
-      "track_id": 1542,
-      "artist": "Cocco",
-      "title": "強く儚い者たち",
+      "rank": 9,
+      "track_id": 1672,
+      "artist": "Hartfield",
+      "title": "Today Forever",
       "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
-      "rank": 9,
-      "track_id": 1315,
-      "artist": "Nirvana",
-      "title": "Come As You Are",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 5
     },
     {
       "rank": 10,

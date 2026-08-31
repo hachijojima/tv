@@ -8,29 +8,20 @@
       "artist": "U2",
       "title": "Beautiful Day",
       "movement": "→",
-      "days_at_number_1": 6,
-      "top10_streak": 9
+      "days_at_number_1": 5,
+      "top10_streak": 7
     },
     {
       "rank": 2,
       "track_id": 1251,
       "artist": "Kygo",
       "title": "Firestone (feat. Conrad Sewell)",
-      "movement": "↑3",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 3,
-      "track_id": 603,
-      "artist": "山崎まさよし",
-      "title": "僕はここにいる",
-      "movement": "↑5",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 4,
       "track_id": 1048,
       "artist": "Ben E. King",
       "title": "Stand By Me",
@@ -39,25 +30,52 @@
       "top10_streak": 2
     },
     {
-      "rank": 5,
-      "track_id": 470,
-      "artist": "TM NETWORK",
-      "title": "Get Wild",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "track_id": 10,
       "artist": "MIZ",
       "title": "パジャマでハイウェイ",
-      "movement": "↓3",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 5,
+      "track_id": 603,
+      "artist": "山崎まさよし",
+      "title": "僕はここにいる",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 6,
+      "track_id": 1262,
+      "artist": "Tiësto",
+      "title": "Red Lights",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 7,
+      "track_id": 1542,
+      "artist": "COALTAR OF THE DEEPERS",
+      "title": "My Speedy Sarah",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 8,
+      "track_id": 470,
+      "artist": "TM NETWORK",
+      "title": "69/99",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 9,
       "track_id": 1241,
       "artist": "Avicii",
       "title": "Wake Me Up",
@@ -66,31 +84,13 @@
       "top10_streak": 1
     },
     {
-      "rank": 8,
-      "track_id": 1262,
-      "artist": "Tiësto",
-      "title": "Red Lights",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 9,
-      "track_id": 533,
-      "artist": "TRF",
-      "title": "survival dAnce ～no no cry more～",
+      "rank": 10,
+      "track_id": 1535,
+      "artist": "大瀧詠一",
+      "title": "雨のウェンズデイ",
       "movement": "↓5",
       "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 10,
-      "track_id": 509,
-      "artist": "夏川りみ",
-      "title": "涙そうそう",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 3
     }
   ]
 }

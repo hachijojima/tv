@@ -14,8 +14,8 @@
     {
       "rank": 2,
       "track_id": 1543,
-      "artist": "Cocco",
-      "title": "Raining",
+      "artist": "PEALOUT",
+      "title": "爆裂世界 ～世界に追い越されても～",
       "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 9
@@ -31,6 +31,15 @@
     },
     {
       "rank": 4,
+      "track_id": 1061,
+      "artist": "Cyndi Lauper",
+      "title": "Time After Time",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 5,
       "track_id": 1214,
       "artist": "Ariana Grande",
       "title": "Into You",
@@ -39,22 +48,13 @@
       "top10_streak": 3
     },
     {
-      "rank": 5,
+      "rank": 6,
       "track_id": 1275,
       "artist": "TWICE",
       "title": "TT",
-      "movement": "↓1",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 6,
-      "track_id": 1061,
-      "artist": "Cyndi Lauper",
-      "title": "Time After Time",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 6
     },
     {
       "rank": 7,
@@ -88,7 +88,7 @@
       "track_id": 1355,
       "artist": "The Strokes",
       "title": "Someday",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 2
     }

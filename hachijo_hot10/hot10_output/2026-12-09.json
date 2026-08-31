@@ -31,21 +31,21 @@
     },
     {
       "rank": 4,
-      "track_id": 1508,
-      "artist": "RCサクセション",
-      "title": "多摩蘭坂",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 5,
       "track_id": 1204,
       "artist": "Rihanna",
       "title": "We Found Love",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 5,
+      "track_id": 1508,
+      "artist": "RCサクセション",
+      "title": "多摩蘭坂",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
     },
     {
       "rank": 6,
@@ -58,21 +58,21 @@
     },
     {
       "rank": 7,
+      "track_id": 1305,
+      "artist": "鼓童",
+      "title": "凰（おおとり）",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 10
+    },
+    {
+      "rank": 8,
       "track_id": 434,
       "artist": "ASIAN KUNG-FU GENERATION",
       "title": "ソラニン",
       "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 2
-    },
-    {
-      "rank": 8,
-      "track_id": 1134,
-      "artist": "Diana Ross",
-      "title": "I’m Coming Out",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 7
     },
     {
       "rank": 9,
@@ -85,12 +85,12 @@
     },
     {
       "rank": 10,
-      "track_id": 2,
-      "artist": "MIZ",
-      "title": "パレード",
-      "movement": "↓5",
+      "track_id": 1134,
+      "artist": "Diana Ross",
+      "title": "I’m Coming Out",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 7
     }
   ]
 }

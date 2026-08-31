@@ -9,28 +9,37 @@
       "title": "BABY BABY",
       "movement": "→",
       "days_at_number_1": 4,
-      "top10_streak": 12
+      "top10_streak": 11
     },
     {
       "rank": 2,
-      "track_id": 1601,
-      "artist": "福島弘和",
-      "title": "吹奏楽のための「おじゃれ」",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 16
-    },
-    {
-      "rank": 3,
       "track_id": 1219,
       "artist": "Ed Sheeran",
       "title": "Shape of You",
       "movement": "↑4",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 3
+    },
+    {
+      "rank": 3,
+      "track_id": 1601,
+      "artist": "福島弘和",
+      "title": "吹奏楽のための「おじゃれ」",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 16
     },
     {
       "rank": 4,
+      "track_id": 1625,
+      "artist": "NATSUMEN",
+      "title": "Cicada Sing The Galaxy",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 9
+    },
+    {
+      "rank": 5,
       "track_id": 596,
       "artist": "globe",
       "title": "Can't Stop Fallin' in Love",
@@ -39,7 +48,7 @@
       "top10_streak": 1
     },
     {
-      "rank": 5,
+      "rank": 6,
       "track_id": 1026,
       "artist": "Björk",
       "title": "Hyper-ballad",
@@ -48,47 +57,38 @@
       "top10_streak": 1
     },
     {
-      "rank": 6,
+      "rank": 7,
       "track_id": 945,
       "artist": "Oasis",
       "title": "Don't Look Back in Anger",
-      "movement": "↓2",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 7
     },
     {
-      "rank": 7,
+      "rank": 8,
       "track_id": 14,
       "artist": "MIZ",
       "title": "とびうおのうた",
-      "movement": "↓4",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 15
+      "top10_streak": 14
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "track_id": 1686,
+      "artist": "有頂天",
+      "title": "BYE-BYE",
+      "movement": "↓6",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 10,
       "track_id": 1061,
       "artist": "Cyndi Lauper",
       "title": "Time After Time",
       "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 9,
-      "track_id": 1598,
-      "artist": "天野花",
-      "title": "暁を泳いで",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 10,
-      "track_id": 1013,
-      "artist": "The Police",
-      "title": "Every Breath You Take",
-      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 2
     }

@@ -8,7 +8,7 @@
       "artist": "MONO NO AWARE",
       "title": "アングル",
       "movement": "→",
-      "days_at_number_1": 4,
+      "days_at_number_1": 3,
       "top10_streak": 5
     },
     {
@@ -16,21 +16,30 @@
       "track_id": 1248,
       "artist": "Swedish House Mafia",
       "title": "Save the World",
-      "movement": "↑1",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
       "rank": 3,
+      "track_id": 1608,
+      "artist": "rei harakami",
+      "title": "joy",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 4,
       "track_id": 1594,
       "artist": "團伊玖磨",
       "title": "オリンピック序曲",
-      "movement": "↑6",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 4,
+      "rank": 5,
       "track_id": 1028,
       "artist": "Kendrick Lamar",
       "title": "Alright",
@@ -39,43 +48,25 @@
       "top10_streak": 4
     },
     {
-      "rank": 5,
-      "track_id": 454,
-      "artist": "爆風スランプ",
-      "title": "Runner",
-      "movement": "→",
+      "rank": 6,
+      "track_id": 1043,
+      "artist": "Television",
+      "title": "Marquee Moon",
+      "movement": "↑4",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 2
     },
     {
-      "rank": 6,
+      "rank": 7,
       "track_id": 1068,
       "artist": "Simon & Garfunkel",
       "title": "Bridge Over Troubled Water",
-      "movement": "↓2",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 8
     },
     {
-      "rank": 7,
-      "track_id": 1541,
-      "artist": "Cocco",
-      "title": "カウントダウン",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
       "rank": 8,
-      "track_id": 1043,
-      "artist": "Television",
-      "title": "Marquee Moon",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 9,
       "track_id": 1338,
       "artist": "Coldplay",
       "title": "In My Place",
@@ -84,11 +75,20 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
+      "rank": 9,
       "track_id": 533,
       "artist": "TRF",
       "title": "survival dAnce ～no no cry more～",
       "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1277,
+      "artist": "aespa",
+      "title": "Next Level",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

@@ -7,8 +7,8 @@
       "track_id": 1068,
       "artist": "Simon & Garfunkel",
       "title": "Bridge Over Troubled Water",
-      "movement": "→",
-      "days_at_number_1": 2,
+      "movement": "↑1",
+      "days_at_number_1": 1,
       "top10_streak": 6
     },
     {
@@ -16,12 +16,21 @@
       "track_id": 1394,
       "artist": "GOING STEADY",
       "title": "BABY BABY",
-      "movement": "↑2",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 3,
+      "track_id": 1023,
+      "artist": "Carpenters",
+      "title": "(They Long To Be) Close To You",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 10
+    },
+    {
+      "rank": 4,
       "track_id": 961,
       "artist": "Mac DeMarco",
       "title": "Chamber of Reflection",
@@ -30,7 +39,7 @@
       "top10_streak": 1
     },
     {
-      "rank": 4,
+      "rank": 5,
       "track_id": 784,
       "artist": "緑黄色社会",
       "title": "Mela!",
@@ -39,38 +48,29 @@
       "top10_streak": 2
     },
     {
-      "rank": 5,
+      "rank": 6,
       "track_id": 1594,
       "artist": "團伊玖磨",
       "title": "オリンピック序曲",
-      "movement": "↑3",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
-      "rank": 6,
-      "track_id": 466,
-      "artist": "GLAY",
-      "title": "BELOVED",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 10
-    },
-    {
       "rank": 7,
-      "track_id": 1023,
-      "artist": "Carpenters",
-      "title": "(They Long To Be) Close To You",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 15
-    },
-    {
-      "rank": 8,
       "track_id": 146,
       "artist": "青葉市子",
       "title": "Porcelain",
-      "movement": "↑1",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 143,
+      "artist": "折坂悠太",
+      "title": "平成",
+      "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 2
     },

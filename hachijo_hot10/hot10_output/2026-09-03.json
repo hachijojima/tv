@@ -67,15 +67,6 @@
     },
     {
       "rank": 8,
-      "track_id": 492,
-      "artist": "CHAGE and ASKA",
-      "title": "SAY YES",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 9,
       "track_id": 725,
       "artist": "カルメン・マキ",
       "title": "山羊にひかれて",
@@ -84,13 +75,22 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
+      "rank": 9,
       "track_id": 1288,
       "artist": "BIGBANG",
       "title": "FANTASTIC BABY",
-      "movement": "↓5",
+      "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 4
+    },
+    {
+      "rank": 10,
+      "track_id": 641,
+      "artist": "佐野元春",
+      "title": "SOMEDAY",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }

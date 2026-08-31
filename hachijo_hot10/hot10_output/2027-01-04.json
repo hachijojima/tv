@@ -15,8 +15,8 @@
       "rank": 2,
       "track_id": 468,
       "artist": "X JAPAN",
-      "title": "ENDLESS RAIN",
-      "movement": "→",
+      "title": "DAHLIA",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 9
     },
@@ -25,7 +25,7 @@
       "track_id": 728,
       "artist": "角松敏生",
       "title": "If You Wanna Dance",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
@@ -67,12 +67,12 @@
     },
     {
       "rank": 8,
-      "track_id": 481,
-      "artist": "奥田民生",
-      "title": "愛のために",
-      "movement": "↑2",
+      "track_id": 1691,
+      "artist": "非常階段",
+      "title": "Modern",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
     },
     {
       "rank": 9,
@@ -85,10 +85,10 @@
     },
     {
       "rank": 10,
-      "track_id": 495,
-      "artist": "MISIA",
-      "title": "つつみ込むように…",
-      "movement": "NEW",
+      "track_id": 738,
+      "artist": "松田聖子",
+      "title": "瑠璃色の地球",
+      "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

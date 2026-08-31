@@ -4,15 +4,24 @@
   "chart": [
     {
       "rank": 1,
+      "track_id": 1647,
+      "artist": "YMCK",
+      "title": "Magical 8bit Tour",
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 4
+    },
+    {
+      "rank": 2,
       "track_id": 1048,
       "artist": "Ben E. King",
       "title": "Stand By Me",
       "movement": "→",
-      "days_at_number_1": 6,
+      "days_at_number_1": 0,
       "top10_streak": 7
     },
     {
-      "rank": 2,
+      "rank": 3,
       "track_id": 520,
       "artist": "T-BOLAN",
       "title": "じれったい愛",
@@ -21,76 +30,67 @@
       "top10_streak": 4
     },
     {
-      "rank": 3,
+      "rank": 4,
       "track_id": 1584,
       "artist": "Elliott Smith",
       "title": "Between the Bars",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 4,
-      "track_id": 500,
-      "artist": "モーニング娘。",
-      "title": "LOVEマシーン",
       "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 5,
+      "track_id": 500,
+      "artist": "モーニング娘。",
+      "title": "Memory 青春の光",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 6,
       "track_id": 459,
       "artist": "B'z",
-      "title": "ALONE",
+      "title": "MOTEL",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "track_id": 1666,
+      "artist": "Supersnazz",
+      "title": "I Wanna Be Your Love",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 1719,
+      "artist": "Kaoru Inoue",
+      "title": "The Invisible Eclipse",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 9,
       "track_id": 1394,
       "artist": "GOING STEADY",
       "title": "BABY BABY",
-      "movement": "↓1",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 7,
+      "rank": 10,
       "track_id": 298,
       "artist": "BUMP OF CHICKEN",
       "title": "車輪の唄",
-      "movement": "↑3",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 7
-    },
-    {
-      "rank": 8,
-      "track_id": 149,
-      "artist": "浮",
-      "title": "愛の話",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 9,
-      "track_id": 1231,
-      "artist": "Sabrina Carpenter",
-      "title": "Espresso",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 10,
-      "track_id": 19,
-      "artist": "MONO NO AWARE",
-      "title": "幽霊船",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
     }
   ]
 }

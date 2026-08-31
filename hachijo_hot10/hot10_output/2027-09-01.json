@@ -14,8 +14,8 @@
     {
       "rank": 2,
       "track_id": 1543,
-      "artist": "Cocco",
-      "title": "Raining",
+      "artist": "PEALOUT",
+      "title": "爆裂世界 ～世界に追い越されても～",
       "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 3
@@ -25,7 +25,7 @@
       "track_id": 1364,
       "artist": "Linkin Park",
       "title": "In the End",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
@@ -34,63 +34,63 @@
       "track_id": 582,
       "artist": "T-BOLAN",
       "title": "Bye For Now",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 11
+      "top10_streak": 7
     },
     {
       "rank": 5,
-      "track_id": 496,
-      "artist": "宇多田ヒカル",
-      "title": "Automatic",
+      "track_id": 14,
+      "artist": "MIZ",
+      "title": "とびうおのうた",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 9
+    },
+    {
+      "rank": 6,
+      "track_id": 1626,
+      "artist": "イルリメ",
+      "title": "元気でやってるのかい？",
       "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 6,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
       "rank": 7,
       "track_id": 500,
       "artist": "モーニング娘。",
-      "title": "LOVEマシーン",
-      "movement": "↓3",
+      "title": "Memory 青春の光",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 11
     },
     {
       "rank": 8,
-      "track_id": 482,
-      "artist": "UNICORN",
-      "title": "すばらしい日々",
-      "movement": "↑2",
+      "track_id": 1679,
+      "artist": "mouse on the keys",
+      "title": "Spectres de Mouse",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 5
     },
     {
       "rank": 9,
       "track_id": 1245,
       "artist": "David Guetta",
       "title": "Titanium (feat. Sia)",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 10,
-      "track_id": 451,
-      "artist": "WANDS",
-      "title": "時の扉",
-      "movement": "↓1",
+      "track_id": 1250,
+      "artist": "Zedd",
+      "title": "Stay (with Alessia Cara)",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
     }
   ]
 }

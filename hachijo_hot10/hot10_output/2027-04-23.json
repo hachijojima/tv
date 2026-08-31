@@ -36,7 +36,7 @@
       "title": "とびうおのうた",
       "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 10
+      "top10_streak": 11
     },
     {
       "rank": 5,
@@ -67,6 +67,15 @@
     },
     {
       "rank": 8,
+      "track_id": 1620,
+      "artist": "SPARTA LOCALS",
+      "title": "トーキョウバレリーナ",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
       "track_id": 541,
       "artist": "山崎まさよし",
       "title": "セロリ",
@@ -75,20 +84,11 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
+      "rank": 10,
       "track_id": 1261,
       "artist": "Tiësto",
       "title": "The Business",
       "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 10,
-      "track_id": 1314,
-      "artist": "U2",
-      "title": "Beautiful Day",
-      "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

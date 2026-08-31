@@ -4,42 +4,33 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1048,
-      "artist": "Ben E. King",
-      "title": "Stand By Me",
-      "movement": "→",
-      "days_at_number_1": 4,
+      "track_id": 1473,
+      "artist": "スチャダラパー",
+      "title": "今夜はブギー・バック (smooth rap)",
+      "movement": "↑1",
+      "days_at_number_1": 1,
       "top10_streak": 6
     },
     {
       "rank": 2,
-      "track_id": 1473,
-      "artist": "スチャダラパー",
-      "title": "今夜はブギー・バック (smooth rap)",
-      "movement": "→",
+      "track_id": 1048,
+      "artist": "Ben E. King",
+      "title": "Stand By Me",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 6
     },
     {
       "rank": 3,
       "track_id": 1542,
-      "artist": "Cocco",
-      "title": "強く儚い者たち",
+      "artist": "COALTAR OF THE DEEPERS",
+      "title": "My Speedy Sarah",
       "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
       "rank": 4,
-      "track_id": 563,
-      "artist": "ポルノグラフィティ",
-      "title": "サウダージ",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 5,
       "track_id": 79,
       "artist": "奇妙礼太郎",
       "title": "君が誰かの彼女になりくさっても",
@@ -48,38 +39,47 @@
       "top10_streak": 1
     },
     {
-      "rank": 6,
-      "track_id": 1445,
-      "artist": "Thee Michelle Gun Elephant",
-      "title": "バードメン",
-      "movement": "→",
+      "rank": 5,
+      "track_id": 563,
+      "artist": "ポルノグラフィティ",
+      "title": "サウダージ",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 2
+    },
+    {
+      "rank": 6,
+      "track_id": 1674,
+      "artist": "Pasteboard",
+      "title": "Flipper",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 5
     },
     {
       "rank": 7,
-      "track_id": 1023,
-      "artist": "Carpenters",
-      "title": "(They Long To Be) Close To You",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 8,
       "track_id": 432,
       "artist": "SUPERCAR",
       "title": "cream soda",
-      "movement": "↓4",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 6
+    },
+    {
+      "rank": 8,
+      "track_id": 1386,
+      "artist": "Fishmans",
+      "title": "新しい人",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     },
     {
       "rank": 9,
       "track_id": 459,
       "artist": "B'z",
-      "title": "ALONE",
-      "movement": "→",
+      "title": "MOTEL",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
@@ -87,7 +87,7 @@
       "rank": 10,
       "track_id": 489,
       "artist": "小泉今日子",
-      "title": "あなたに会えてよかった",
+      "title": "Fade Out",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1

@@ -13,12 +13,12 @@
     },
     {
       "rank": 2,
-      "track_id": 4,
+      "track_id": 12,
       "artist": "MIZ",
-      "title": "空砲",
+      "title": "丘",
       "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 9
+      "top10_streak": 4
     },
     {
       "rank": 3,
@@ -31,15 +31,6 @@
     },
     {
       "rank": 4,
-      "track_id": 1011,
-      "artist": "Underworld",
-      "title": "Born Slippy (Nuxx)",
-      "movement": "↑4",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 5,
       "track_id": 1225,
       "artist": "Sia",
       "title": "Chandelier",
@@ -48,13 +39,22 @@
       "top10_streak": 1
     },
     {
-      "rank": 6,
+      "rank": 5,
       "track_id": 1305,
       "artist": "鼓童",
       "title": "凰（おおとり）",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 3
+    },
+    {
+      "rank": 6,
+      "track_id": 1718,
+      "artist": "Calm",
+      "title": "Light Years",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 14
     },
     {
       "rank": 7,
@@ -67,30 +67,30 @@
     },
     {
       "rank": 8,
+      "track_id": 1685,
+      "artist": "BOaT",
+      "title": "ALL",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
       "track_id": 937,
       "artist": "Alvvays",
       "title": "Archie, Marry Me",
-      "movement": "↓1",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
-      "rank": 9,
+      "rank": 10,
       "track_id": 1353,
       "artist": "Manic Street Preachers",
       "title": "If You Tolerate This Your Children Will Be Next",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 2
-    },
-    {
-      "rank": 10,
-      "track_id": 1024,
-      "artist": "SUPER BUTTER DOG",
-      "title": "サヨナラCOLOR",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
     }
   ]
 }

@@ -22,19 +22,19 @@
     },
     {
       "rank": 3,
-      "track_id": 4,
+      "track_id": 12,
       "artist": "MIZ",
-      "title": "空砲",
-      "movement": "↑1",
+      "title": "丘",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 8
+      "top10_streak": 3
     },
     {
       "rank": 4,
       "track_id": 1601,
       "artist": "福島弘和",
       "title": "吹奏楽のための「おじゃれ」",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 14
     },
@@ -43,18 +43,18 @@
       "track_id": 1305,
       "artist": "鼓童",
       "title": "凰（おおとり）",
-      "movement": "↑3",
+      "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 6,
-      "track_id": 19,
-      "artist": "MONO NO AWARE",
-      "title": "幽霊船",
-      "movement": "↓3",
+      "track_id": 1718,
+      "artist": "Calm",
+      "title": "Light Years",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 15
+      "top10_streak": 13
     },
     {
       "rank": 7,
@@ -67,12 +67,12 @@
     },
     {
       "rank": 8,
-      "track_id": 1011,
-      "artist": "Underworld",
-      "title": "Born Slippy (Nuxx)",
-      "movement": "↑2",
+      "track_id": 19,
+      "artist": "MONO NO AWARE",
+      "title": "幽霊船",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 15
     },
     {
       "rank": 9,

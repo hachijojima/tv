@@ -4,42 +4,33 @@
   "chart": [
     {
       "rank": 1,
+      "track_id": 597,
+      "artist": "Every Little Thing",
+      "title": "Dear My Friend",
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 2
+    },
+    {
+      "rank": 2,
+      "track_id": 1207,
+      "artist": "Bruno Mars",
+      "title": "Just the Way You Are",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 3,
       "track_id": 481,
       "artist": "奥田民生",
       "title": "愛のために",
       "movement": "↑4",
-      "days_at_number_1": 1,
-      "top10_streak": 4
-    },
-    {
-      "rank": 2,
-      "track_id": 597,
-      "artist": "Every Little Thing",
-      "title": "Dear My Friend",
-      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 3,
-      "track_id": 1207,
-      "artist": "Bruno Mars",
-      "title": "Just the Way You Are",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 3
     },
     {
       "rank": 4,
-      "track_id": 533,
-      "artist": "TRF",
-      "title": "survival dAnce ～no no cry more～",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 11
-    },
-    {
-      "rank": 5,
       "track_id": 1584,
       "artist": "Elliott Smith",
       "title": "Between the Bars",
@@ -48,16 +39,43 @@
       "top10_streak": 6
     },
     {
+      "rank": 5,
+      "track_id": 533,
+      "artist": "TRF",
+      "title": "survival dAnce ～no no cry more～",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 11
+    },
+    {
       "rank": 6,
+      "track_id": 539,
+      "artist": "KAN",
+      "title": "まゆみ",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 10
+    },
+    {
+      "rank": 7,
       "track_id": 1259,
       "artist": "DJ Snake",
       "title": "Turn Down for What (with Lil Jon)",
-      "movement": "↑2",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 7
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "track_id": 738,
+      "artist": "松田聖子",
+      "title": "瑠璃色の地球",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 9,
       "track_id": 1128,
       "artist": "Big Thief",
       "title": "Simulation Swarm",
@@ -66,31 +84,13 @@
       "top10_streak": 1
     },
     {
-      "rank": 8,
-      "track_id": 738,
-      "artist": "松田聖子",
-      "title": "瑠璃色の地球",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 9,
+      "rank": 10,
       "track_id": 1371,
       "artist": "The Killers",
       "title": "When You Were Young",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
-    },
-    {
-      "rank": 10,
-      "track_id": 539,
-      "artist": "KAN",
-      "title": "まゆみ",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 14
     }
   ]
 }

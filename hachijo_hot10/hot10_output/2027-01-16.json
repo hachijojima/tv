@@ -6,7 +6,7 @@
       "rank": 1,
       "track_id": 459,
       "artist": "B'z",
-      "title": "ALONE",
+      "title": "MOTEL",
       "movement": "↑2",
       "days_at_number_1": 1,
       "top10_streak": 2
@@ -25,9 +25,9 @@
       "track_id": 1245,
       "artist": "David Guetta",
       "title": "Titanium (feat. Sia)",
-      "movement": "RE",
+      "movement": "↑7",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     },
     {
       "rank": 4,
@@ -52,45 +52,45 @@
       "track_id": 432,
       "artist": "SUPERCAR",
       "title": "cream soda",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 7,
-      "track_id": 493,
-      "artist": "DREAMS COME TRUE",
-      "title": "未来予想図II",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 8,
-      "track_id": 496,
-      "artist": "宇多田ヒカル",
-      "title": "Automatic",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 9,
-      "track_id": 1542,
-      "artist": "Cocco",
-      "title": "強く儚い者たち",
-      "movement": "RE",
+      "track_id": 1674,
+      "artist": "Pasteboard",
+      "title": "Flipper",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 10,
-      "track_id": 95,
-      "artist": "リーガルリリー",
-      "title": "リッケンバッカー",
-      "movement": "↓6",
+      "rank": 8,
+      "track_id": 1473,
+      "artist": "スチャダラパー",
+      "title": "今夜はブギー・バック (smooth rap)",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 2
+    },
+    {
+      "rank": 9,
+      "track_id": 1134,
+      "artist": "Diana Ross",
+      "title": "I’m Coming Out",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 10,
+      "track_id": 1542,
+      "artist": "COALTAR OF THE DEEPERS",
+      "title": "My Speedy Sarah",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }

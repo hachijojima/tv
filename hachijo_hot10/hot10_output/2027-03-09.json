@@ -9,19 +9,10 @@
       "title": "北京ダック",
       "movement": "→",
       "days_at_number_1": 4,
-      "top10_streak": 4
+      "top10_streak": 16
     },
     {
       "rank": 2,
-      "track_id": 459,
-      "artist": "B'z",
-      "title": "ALONE",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 3,
       "track_id": 1305,
       "artist": "鼓童",
       "title": "凰（おおとり）",
@@ -30,22 +21,31 @@
       "top10_streak": 6
     },
     {
-      "rank": 4,
+      "rank": 3,
       "track_id": 1542,
-      "artist": "Cocco",
-      "title": "強く儚い者たち",
-      "movement": "↓2",
+      "artist": "COALTAR OF THE DEEPERS",
+      "title": "My Speedy Sarah",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 8
     },
     {
-      "rank": 5,
-      "track_id": 552,
-      "artist": "森高千里",
-      "title": "雨",
-      "movement": "→",
+      "rank": 4,
+      "track_id": 1315,
+      "artist": "Nirvana",
+      "title": "Come As You Are",
+      "movement": "↑5",
       "days_at_number_1": 0,
-      "top10_streak": 8
+      "top10_streak": 3
+    },
+    {
+      "rank": 5,
+      "track_id": 1672,
+      "artist": "Hartfield",
+      "title": "Today Forever",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
     },
     {
       "rank": 6,
@@ -67,27 +67,27 @@
     },
     {
       "rank": 8,
-      "track_id": 1444,
-      "artist": "BLANKEY JET CITY",
-      "title": "SWEET DAYS",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 9,
-      "track_id": 998,
-      "artist": "Donald Fagen",
-      "title": "The Nightfly",
-      "movement": "NEW",
+      "track_id": 1635,
+      "artist": "MIC JACK PRODUCTION",
+      "title": "Seven Seas Voyage",
+      "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
+      "rank": 9,
+      "track_id": 1444,
+      "artist": "BLANKEY JET CITY",
+      "title": "SWEET DAYS",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
       "rank": 10,
-      "track_id": 125,
-      "artist": "羊文学",
-      "title": "光るとき",
+      "track_id": 998,
+      "artist": "Donald Fagen",
+      "title": "The Nightfly",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1

@@ -8,7 +8,7 @@
       "artist": "福島弘和",
       "title": "吹奏楽のための「おじゃれ」",
       "movement": "→",
-      "days_at_number_1": 2,
+      "days_at_number_1": 3,
       "top10_streak": 4
     },
     {
@@ -22,24 +22,33 @@
     },
     {
       "rank": 3,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "↑1",
+      "track_id": 361,
+      "artist": "ACIDMAN",
+      "title": "造花が笑う",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 4,
-      "track_id": 361,
-      "artist": "ACIDMAN",
-      "title": "造花が笑う",
-      "movement": "↓1",
+      "track_id": 14,
+      "artist": "MIZ",
+      "title": "とびうおのうた",
+      "movement": "↑5",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 2
     },
     {
       "rank": 5,
+      "track_id": 1634,
+      "artist": "THA BLUE HERB",
+      "title": "未来は俺等の手の中",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 6,
       "track_id": 348,
       "artist": "レミオロメン",
       "title": "電話",
@@ -48,16 +57,25 @@
       "top10_streak": 2
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "track_id": 1686,
+      "artist": "有頂天",
+      "title": "BYE-BYE",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
       "track_id": 1383,
       "artist": "Bon Jovi",
       "title": "It's My Life",
-      "movement": "↓1",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 9
     },
     {
-      "rank": 7,
+      "rank": 9,
       "track_id": 548,
       "artist": "REBECCA",
       "title": "RASPBERRY DREAM",
@@ -66,31 +84,13 @@
       "top10_streak": 1
     },
     {
-      "rank": 8,
+      "rank": 10,
       "track_id": 1040,
       "artist": "METAFIVE",
       "title": "環境と心理",
-      "movement": "↓2",
+      "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 7
-    },
-    {
-      "rank": 9,
-      "track_id": 580,
-      "artist": "FIELD OF VIEW",
-      "title": "Last Good-bye",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 10,
-      "track_id": 1286,
-      "artist": "SEVENTEEN",
-      "title": "Super",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
     }
   ]
 }

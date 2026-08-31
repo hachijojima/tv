@@ -7,8 +7,8 @@
       "track_id": 533,
       "artist": "TRF",
       "title": "survival dAnce ～no no cry more～",
-      "movement": "→",
-      "days_at_number_1": 2,
+      "movement": "↑1",
+      "days_at_number_1": 1,
       "top10_streak": 9
     },
     {
@@ -16,27 +16,27 @@
       "track_id": 1584,
       "artist": "Elliott Smith",
       "title": "Between the Bars",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
       "rank": 3,
-      "track_id": 1207,
-      "artist": "Bruno Mars",
-      "title": "Just the Way You Are",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 4,
       "track_id": 539,
       "artist": "KAN",
       "title": "まゆみ",
-      "movement": "→",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 12
+      "top10_streak": 8
+    },
+    {
+      "rank": 4,
+      "track_id": 1207,
+      "artist": "Bruno Mars",
+      "title": "Just the Way You Are",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     },
     {
       "rank": 5,
@@ -49,15 +49,6 @@
     },
     {
       "rank": 6,
-      "track_id": 481,
-      "artist": "奥田民生",
-      "title": "愛のために",
-      "movement": "↑4",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 7,
       "track_id": 738,
       "artist": "松田聖子",
       "title": "瑠璃色の地球",
@@ -66,22 +57,31 @@
       "top10_streak": 1
     },
     {
-      "rank": 8,
+      "rank": 7,
       "track_id": 1259,
       "artist": "DJ Snake",
       "title": "Turn Down for What (with Lil Jon)",
-      "movement": "↓3",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
-      "rank": 9,
+      "rank": 8,
       "track_id": 768,
       "artist": "小沢健二",
       "title": "いちょう並木のセレナーデ",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 4
+    },
+    {
+      "rank": 9,
+      "track_id": 481,
+      "artist": "奥田民生",
+      "title": "愛のために",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     },
     {
       "rank": 10,

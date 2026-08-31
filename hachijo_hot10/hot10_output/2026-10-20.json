@@ -31,15 +31,6 @@
     },
     {
       "rank": 4,
-      "track_id": 1364,
-      "artist": "Linkin Park",
-      "title": "In the End",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 5,
       "track_id": 409,
       "artist": "LOST IN TIME",
       "title": "花",
@@ -48,7 +39,7 @@
       "top10_streak": 1
     },
     {
-      "rank": 6,
+      "rank": 5,
       "track_id": 319,
       "artist": "Syrup16g",
       "title": "生活",
@@ -57,31 +48,40 @@
       "top10_streak": 1
     },
     {
+      "rank": 6,
+      "track_id": 1013,
+      "artist": "The Police",
+      "title": "Every Breath You Take",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
       "rank": 7,
+      "track_id": 1394,
+      "artist": "GOING STEADY",
+      "title": "BABY BABY",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 8,
+      "track_id": 1364,
+      "artist": "Linkin Park",
+      "title": "In the End",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 9,
       "track_id": 585,
       "artist": "スピッツ",
       "title": "楓",
       "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
-    },
-    {
-      "rank": 8,
-      "track_id": 1013,
-      "artist": "The Police",
-      "title": "Every Breath You Take",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 9,
-      "track_id": 1394,
-      "artist": "GOING STEADY",
-      "title": "BABY BABY",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 6
     },
     {
       "rank": 10,

@@ -7,16 +7,16 @@
       "track_id": 539,
       "artist": "KAN",
       "title": "まゆみ",
-      "movement": "→",
-      "days_at_number_1": 3,
-      "top10_streak": 7
+      "movement": "↑1",
+      "days_at_number_1": 1,
+      "top10_streak": 3
     },
     {
       "rank": 2,
       "track_id": 1020,
       "artist": "The Doobie Brothers",
       "title": "What a Fool Believes",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 8
     },
@@ -40,15 +40,6 @@
     },
     {
       "rank": 5,
-      "track_id": 779,
-      "artist": "ヨルシカ",
-      "title": "ただ君に晴れ",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 6,
       "track_id": 1108,
       "artist": "Portishead",
       "title": "Glory Box",
@@ -57,22 +48,31 @@
       "top10_streak": 1
     },
     {
-      "rank": 7,
+      "rank": 6,
       "track_id": 1222,
       "artist": "Billie Eilish",
       "title": "BIRDS OF A FEATHER",
-      "movement": "↓4",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 8,
+      "rank": 7,
       "track_id": 1251,
       "artist": "Kygo",
       "title": "Firestone (feat. Conrad Sewell)",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 779,
+      "artist": "ヨルシカ",
+      "title": "ただ君に晴れ",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     },
     {
       "rank": 9,
@@ -88,7 +88,7 @@
       "track_id": 1076,
       "artist": "Alicia Keys",
       "title": "If I Ain’t Got You",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 5
     }

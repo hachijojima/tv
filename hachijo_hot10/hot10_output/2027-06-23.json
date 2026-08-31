@@ -23,8 +23,8 @@
     {
       "rank": 3,
       "track_id": 1545,
-      "artist": "Cocco",
-      "title": "水鏡",
+      "artist": "Susumu Yokota",
+      "title": "Saku",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
@@ -51,7 +51,7 @@
       "rank": 6,
       "track_id": 459,
       "artist": "B'z",
-      "title": "ALONE",
+      "title": "MOTEL",
       "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 7
@@ -61,7 +61,7 @@
       "track_id": 1154,
       "artist": "たま",
       "title": "さよなら人類",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 10
     },
@@ -85,12 +85,12 @@
     },
     {
       "rank": 10,
-      "track_id": 615,
-      "artist": "米米CLUB",
-      "title": "Shake Hip!",
-      "movement": "→",
+      "track_id": 842,
+      "artist": "離婚伝説",
+      "title": "本日のおすすめ",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
     }
   ]
 }

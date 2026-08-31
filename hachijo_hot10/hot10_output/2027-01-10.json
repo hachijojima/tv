@@ -43,7 +43,7 @@
       "track_id": 1584,
       "artist": "Elliott Smith",
       "title": "Between the Bars",
-      "movement": "↑2",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
@@ -52,7 +52,7 @@
       "track_id": 1590,
       "artist": "奥山熊雄",
       "title": "色のついたシャバタキ・すがる",
-      "movement": "↓2",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
@@ -67,6 +67,15 @@
     },
     {
       "rank": 8,
+      "track_id": 1671,
+      "artist": "Cruyff in the Bedroom",
+      "title": "Cherry",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 9,
       "track_id": 1241,
       "artist": "Avicii",
       "title": "Wake Me Up",
@@ -75,22 +84,13 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
+      "rank": 10,
       "track_id": 12,
       "artist": "MIZ",
       "title": "丘",
       "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 15
-    },
-    {
-      "rank": 10,
-      "track_id": 374,
-      "artist": "Cornelius",
-      "title": "If You're Here",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
     }
   ]
 }

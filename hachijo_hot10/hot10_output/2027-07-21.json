@@ -4,33 +4,51 @@
   "chart": [
     {
       "rank": 1,
+      "track_id": 1589,
+      "artist": "Massive Attack",
+      "title": "Unfinished Sympathy",
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 8
+    },
+    {
+      "rank": 2,
       "track_id": 1002,
       "artist": "Jamiroquai",
       "title": "Virtual Insanity",
       "movement": "→",
-      "days_at_number_1": 2,
+      "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 2,
+      "rank": 3,
       "track_id": 553,
       "artist": "米米CLUB",
       "title": "君がいるだけで",
-      "movement": "RE",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 3,
+      "rank": 4,
       "track_id": 1301,
       "artist": "爆風スランプ",
       "title": "旅人よ ～The Longest Journey～",
-      "movement": "↑2",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "track_id": 449,
+      "artist": "ROUND TABLE",
+      "title": "Bossa Rossa",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 6,
       "track_id": 1252,
       "artist": "Kygo",
       "title": "Stole the Show (feat. Parson James)",
@@ -39,40 +57,22 @@
       "top10_streak": 3
     },
     {
-      "rank": 5,
-      "track_id": 449,
-      "artist": "ROUND TABLE",
-      "title": "Bossa Rossa",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 6,
-      "track_id": 1589,
-      "artist": "Massive Attack",
-      "title": "Unfinished Sympathy",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
       "rank": 7,
-      "track_id": 1246,
-      "artist": "David Guetta",
-      "title": "Memories (feat. Kid Cudi)",
-      "movement": "↓5",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 8,
       "track_id": 348,
       "artist": "レミオロメン",
       "title": "電話",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 1246,
+      "artist": "David Guetta",
+      "title": "Memories (feat. Kid Cudi)",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 6
     },
     {
       "rank": 9,

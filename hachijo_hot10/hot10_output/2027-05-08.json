@@ -13,6 +13,15 @@
     },
     {
       "rank": 2,
+      "track_id": 1205,
+      "artist": "Beyoncé",
+      "title": "Crazy in Love",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 3,
       "track_id": 1023,
       "artist": "Carpenters",
       "title": "(They Long To Be) Close To You",
@@ -21,37 +30,28 @@
       "top10_streak": 2
     },
     {
-      "rank": 3,
-      "track_id": 573,
-      "artist": "THE BOOM",
-      "title": "風になりたい",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
       "rank": 4,
       "track_id": 1314,
       "artist": "U2",
       "title": "Beautiful Day",
       "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 16
+      "top10_streak": 14
     },
     {
       "rank": 5,
-      "track_id": 1251,
-      "artist": "Kygo",
-      "title": "Firestone (feat. Conrad Sewell)",
-      "movement": "↓2",
+      "track_id": 573,
+      "artist": "THE BOOM",
+      "title": "風になりたい",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 10
+      "top10_streak": 4
     },
     {
       "rank": 6,
-      "track_id": 1205,
-      "artist": "Beyoncé",
-      "title": "Crazy in Love",
+      "track_id": 1308,
+      "artist": "鼓童",
+      "title": "屋台囃子",
       "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 2
@@ -61,27 +61,27 @@
       "track_id": 1130,
       "artist": "Billy Joel",
       "title": "Honesty",
-      "movement": "↓3",
+      "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 8,
-      "track_id": 1308,
-      "artist": "鼓童",
-      "title": "屋台囃子",
-      "movement": "RE",
+      "track_id": 1251,
+      "artist": "Kygo",
+      "title": "Firestone (feat. Conrad Sewell)",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 10
     },
     {
       "rank": 9,
-      "track_id": 547,
-      "artist": "JUN SKY WALKER(S)",
-      "title": "すてきな夜空",
-      "movement": "→",
+      "track_id": 1288,
+      "artist": "BIGBANG",
+      "title": "FANTASTIC BABY",
+      "movement": "RE",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
     },
     {
       "rank": 10,

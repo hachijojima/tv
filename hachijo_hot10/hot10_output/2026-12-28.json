@@ -4,21 +4,21 @@
   "chart": [
     {
       "rank": 1,
+      "track_id": 1663,
+      "artist": "MAD3",
+      "title": "Jack the Violence",
+      "movement": "→",
+      "days_at_number_1": 4,
+      "top10_streak": 4
+    },
+    {
+      "rank": 2,
       "track_id": 11,
       "artist": "MONO NO AWARE",
       "title": "異邦人",
       "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 3
-    },
-    {
-      "rank": 2,
-      "track_id": 468,
-      "artist": "X JAPAN",
-      "title": "ENDLESS RAIN",
-      "movement": "↑4",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 3
     },
     {
       "rank": 3,
@@ -27,19 +27,28 @@
       "title": "Let It Be",
       "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 3
     },
     {
       "rank": 4,
+      "track_id": 468,
+      "artist": "X JAPAN",
+      "title": "DAHLIA",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
       "track_id": 457,
       "artist": "DEEN",
-      "title": "このまま君だけを奪い去りたい",
+      "title": "翼を広げて",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 5,
+      "rank": 6,
       "track_id": 275,
       "artist": "BREIMEN",
       "title": "yonaki",
@@ -48,25 +57,25 @@
       "top10_streak": 3
     },
     {
-      "rank": 6,
+      "rank": 7,
       "track_id": 481,
       "artist": "奥田民生",
       "title": "愛のために",
       "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 8
+      "top10_streak": 7
     },
     {
-      "rank": 7,
+      "rank": 8,
       "track_id": 12,
       "artist": "MIZ",
       "title": "丘",
-      "movement": "→",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 8,
+      "rank": 9,
       "track_id": 607,
       "artist": "THE BLUE HEARTS",
       "title": "青空",
@@ -75,22 +84,13 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
+      "rank": 10,
       "track_id": 1371,
       "artist": "The Killers",
       "title": "When You Were Young",
-      "movement": "↓5",
+      "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 5
-    },
-    {
-      "rank": 10,
-      "track_id": 1543,
-      "artist": "Cocco",
-      "title": "Raining",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
     }
   ]
 }

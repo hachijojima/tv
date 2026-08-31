@@ -7,45 +7,45 @@
       "track_id": 852,
       "artist": "Official髭男dism",
       "title": "宿命",
-      "movement": "↑2",
+      "movement": "↑1",
       "days_at_number_1": 1,
       "top10_streak": 3
     },
     {
       "rank": 2,
+      "track_id": 1206,
+      "artist": "Beyoncé",
+      "title": "Single Ladies (Put a Ring on It)",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 3,
       "track_id": 1043,
       "artist": "Television",
       "title": "Marquee Moon",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 3,
-      "track_id": 1206,
-      "artist": "Beyoncé",
-      "title": "Single Ladies (Put a Ring on It)",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 8
+      "top10_streak": 4
     },
     {
       "rank": 4,
-      "track_id": 541,
-      "artist": "山崎まさよし",
-      "title": "セロリ",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 5,
       "track_id": 11,
       "artist": "MONO NO AWARE",
       "title": "異邦人",
       "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 5
+    },
+    {
+      "rank": 5,
+      "track_id": 541,
+      "artist": "山崎まさよし",
+      "title": "セロリ",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 7
     },
     {
       "rank": 6,
@@ -58,12 +58,12 @@
     },
     {
       "rank": 7,
-      "track_id": 162,
-      "artist": "キセル",
-      "title": "くちなしの丘",
-      "movement": "↑3",
+      "track_id": 1705,
+      "artist": "大友良英 NEW JAZZ ENSEMBLE",
+      "title": "Eureka",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 3
     },
     {
       "rank": 8,
@@ -85,12 +85,12 @@
     },
     {
       "rank": 10,
-      "track_id": 487,
-      "artist": "PRINCESS PRINCESS",
-      "title": "M",
-      "movement": "↓3",
+      "track_id": 1044,
+      "artist": "The Jackson 5",
+      "title": "I Want You Back",
+      "movement": "RE",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 1
     }
   ]
 }

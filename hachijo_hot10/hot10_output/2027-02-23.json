@@ -13,6 +13,42 @@
     },
     {
       "rank": 2,
+      "track_id": 762,
+      "artist": "ティン・パン・アレー",
+      "title": "北京ダック",
+      "movement": "↑6",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 3,
+      "track_id": 16,
+      "artist": "MIZ",
+      "title": "暑中見舞い",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 4,
+      "track_id": 1242,
+      "artist": "Avicii",
+      "title": "Levels",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 5,
+      "track_id": 1327,
+      "artist": "Weezer",
+      "title": "Buddy Holly",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 6,
       "track_id": 615,
       "artist": "米米CLUB",
       "title": "Shake Hip!",
@@ -21,58 +57,22 @@
       "top10_streak": 1
     },
     {
-      "rank": 3,
-      "track_id": 1327,
-      "artist": "Weezer",
-      "title": "Buddy Holly",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 4,
-      "track_id": 762,
-      "artist": "ティン・パン・アレー",
-      "title": "北京ダック",
-      "movement": "↑5",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 5,
-      "track_id": 16,
-      "artist": "MIZ",
-      "title": "暑中見舞い",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 6,
-      "track_id": 1242,
-      "artist": "Avicii",
-      "title": "Levels",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
       "rank": 7,
+      "track_id": 1275,
+      "artist": "TWICE",
+      "title": "TT",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
       "track_id": 7,
       "artist": "MONO NO AWARE",
       "title": "ゾッコン",
       "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 4
-    },
-    {
-      "rank": 8,
-      "track_id": 1275,
-      "artist": "TWICE",
-      "title": "TT",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
     },
     {
       "rank": 9,

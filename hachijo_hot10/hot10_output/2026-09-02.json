@@ -7,7 +7,7 @@
       "track_id": 541,
       "artist": "山崎まさよし",
       "title": "セロリ",
-      "movement": "↑2",
+      "movement": "↑3",
       "days_at_number_1": 1,
       "top10_streak": 4
     },
@@ -34,7 +34,7 @@
       "track_id": 1028,
       "artist": "Kendrick Lamar",
       "title": "Alright",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
@@ -76,21 +76,21 @@
     },
     {
       "rank": 9,
+      "track_id": 1400,
+      "artist": "フジファブリック",
+      "title": "銀河",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 10,
       "track_id": 776,
       "artist": "Vaundy",
       "title": "東京フラッシュ",
       "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
-    },
-    {
-      "rank": 10,
-      "track_id": 1400,
-      "artist": "フジファブリック",
-      "title": "銀河",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 5
     }
   ]
 }

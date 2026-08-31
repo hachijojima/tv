@@ -13,39 +13,39 @@
     },
     {
       "rank": 2,
+      "track_id": 12,
+      "artist": "MIZ",
+      "title": "丘",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 3,
       "track_id": 1601,
       "artist": "福島弘和",
       "title": "吹奏楽のための「おじゃれ」",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 13
     },
     {
-      "rank": 3,
-      "track_id": 19,
-      "artist": "MONO NO AWARE",
-      "title": "幽霊船",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 14
-    },
-    {
       "rank": 4,
-      "track_id": 4,
-      "artist": "MIZ",
-      "title": "空砲",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 5,
       "track_id": 718,
       "artist": "友部正人",
       "title": "夕日は昇る",
       "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 19,
+      "artist": "MONO NO AWARE",
+      "title": "幽霊船",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 14
     },
     {
       "rank": 6,
@@ -67,6 +67,15 @@
     },
     {
       "rank": 8,
+      "track_id": 1718,
+      "artist": "Calm",
+      "title": "Light Years",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 12
+    },
+    {
+      "rank": 9,
       "track_id": 1305,
       "artist": "鼓童",
       "title": "凰（おおとり）",
@@ -75,22 +84,13 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
-      "track_id": 494,
-      "artist": "久保田利伸",
-      "title": "LA・LA・LA LOVE SONG",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
       "rank": 10,
-      "track_id": 1011,
-      "artist": "Underworld",
-      "title": "Born Slippy (Nuxx)",
-      "movement": "RE",
+      "track_id": 1651,
+      "artist": "Oorutaichi",
+      "title": "Hamihadarigeri",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 5
     }
   ]
 }

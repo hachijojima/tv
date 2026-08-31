@@ -22,6 +22,15 @@
     },
     {
       "rank": 3,
+      "track_id": 1695,
+      "artist": "BO GUMBOS",
+      "title": "泥んこ道を二人",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 4,
       "track_id": 1068,
       "artist": "Simon & Garfunkel",
       "title": "Bridge Over Troubled Water",
@@ -30,67 +39,58 @@
       "top10_streak": 1
     },
     {
-      "rank": 4,
+      "rank": 5,
       "track_id": 441,
       "artist": "チャットモンチー",
       "title": "恋愛スピリッツ",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 3
-    },
-    {
-      "rank": 5,
-      "track_id": 1364,
-      "artist": "Linkin Park",
-      "title": "In the End",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 4
     },
     {
       "rank": 6,
       "track_id": 239,
       "artist": "さよならポニーテール",
       "title": "光る街へ",
-      "movement": "↓2",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 7,
+      "track_id": 1364,
+      "artist": "Linkin Park",
+      "title": "In the End",
+      "movement": "↓5",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 7,
+      "rank": 8,
       "track_id": 573,
       "artist": "THE BOOM",
       "title": "風になりたい",
-      "movement": "↓5",
+      "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 9
     },
     {
-      "rank": 8,
+      "rank": 9,
       "track_id": 1253,
       "artist": "Martin Garrix",
       "title": "Animals",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 9,
-      "track_id": 1481,
-      "artist": "ZAZEN BOYS",
-      "title": "HIMITSU GIRL'S TOP SECRET",
-      "movement": "→",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 10,
-      "track_id": 1570,
-      "artist": "Stereolab",
-      "title": "French Disko",
-      "movement": "RE",
+      "track_id": 1481,
+      "artist": "ZAZEN BOYS",
+      "title": "HIMITSU GIRL'S TOP SECRET",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     }
   ]
 }

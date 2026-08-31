@@ -16,7 +16,7 @@
       "track_id": 1089,
       "artist": "The Beatles",
       "title": "Let It Be",
-      "movement": "↑1",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
@@ -25,21 +25,30 @@
       "track_id": 1021,
       "artist": "スチャダラパー",
       "title": "サマージャム’95",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
       "rank": 4,
+      "track_id": 1653,
+      "artist": "ミドリ",
+      "title": "ゆきこさん",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 5,
       "track_id": 1219,
       "artist": "Ed Sheeran",
       "title": "Shape of You",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 10
+      "top10_streak": 11
     },
     {
-      "rank": 5,
+      "rank": 6,
       "track_id": 1226,
       "artist": "Imagine Dragons",
       "title": "Believer",
@@ -48,25 +57,7 @@
       "top10_streak": 1
     },
     {
-      "rank": 6,
-      "track_id": 572,
-      "artist": "BEGIN",
-      "title": "恋しくて",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
       "rank": 7,
-      "track_id": 1200,
-      "artist": "尾崎紀世彦",
-      "title": "また逢う日まで",
-      "movement": "↓5",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 8,
       "track_id": 1285,
       "artist": "SEVENTEEN",
       "title": "VERY NICE",
@@ -75,20 +66,29 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
-      "track_id": 1371,
-      "artist": "The Killers",
-      "title": "When You Were Young",
-      "movement": "↓2",
+      "rank": 8,
+      "track_id": 1200,
+      "artist": "尾崎紀世彦",
+      "title": "また逢う日まで",
+      "movement": "↓5",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
+      "rank": 9,
+      "track_id": 1238,
+      "artist": "Gotye",
+      "title": "Somebody That I Used to Know (feat. Kimbra)",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
       "rank": 10,
-      "track_id": 816,
-      "artist": "藤井風",
-      "title": "優しさ",
-      "movement": "↓1",
+      "track_id": 1371,
+      "artist": "The Killers",
+      "title": "When You Were Young",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 2
     }

@@ -22,42 +22,24 @@
     },
     {
       "rank": 3,
-      "track_id": 1541,
-      "artist": "Cocco",
-      "title": "カウントダウン",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 11
-    },
-    {
-      "rank": 4,
-      "track_id": 20,
-      "artist": "MONO NO AWARE",
-      "title": "水が湧いた",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 5,
       "track_id": 298,
       "artist": "BUMP OF CHICKEN",
       "title": "車輪の唄",
-      "movement": "↑2",
+      "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 6,
-      "track_id": 601,
-      "artist": "KAN",
-      "title": "言えずのI LOVE YOU",
-      "movement": "↓3",
+      "rank": 4,
+      "track_id": 1707,
+      "artist": "Naruyoshi Kikuchi Dub Sextet",
+      "title": "Dub Liz",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 1
     },
     {
-      "rank": 7,
+      "rank": 5,
       "track_id": 867,
       "artist": "ゲスの極み乙女",
       "title": "キラーボール",
@@ -66,31 +48,49 @@
       "top10_streak": 1
     },
     {
-      "rank": 8,
+      "rank": 6,
       "track_id": 1035,
       "artist": "Queen",
       "title": "Don’t Stop Me Now",
-      "movement": "↓2",
+      "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
-      "rank": 9,
+      "rank": 7,
       "track_id": 116,
       "artist": "ラッキーオールドサン",
       "title": "坂の多い町と退屈",
-      "movement": "↓5",
+      "movement": "↓6",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
+      "track_id": 275,
+      "artist": "BREIMEN",
+      "title": "yonaki",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 9,
+      "track_id": 601,
+      "artist": "KAN",
+      "title": "言えずのI LOVE YOU",
+      "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 10,
-      "track_id": 415,
-      "artist": "bonobos",
-      "title": "Standing There ～いま、そこに行くよ～",
-      "movement": "NEW",
+      "track_id": 20,
+      "artist": "MONO NO AWARE",
+      "title": "水が湧いた",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     }
   ]
 }

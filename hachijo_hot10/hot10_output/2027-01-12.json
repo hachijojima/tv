@@ -22,12 +22,12 @@
     },
     {
       "rank": 3,
-      "track_id": 1241,
-      "artist": "Avicii",
-      "title": "Wake Me Up",
+      "track_id": 1590,
+      "artist": "奥山熊雄",
+      "title": "色のついたシャバタキ・すがる",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 8
     },
     {
       "rank": 4,
@@ -40,12 +40,12 @@
     },
     {
       "rank": 5,
-      "track_id": 1590,
-      "artist": "奥山熊雄",
-      "title": "色のついたシャバタキ・すがる",
+      "track_id": 1241,
+      "artist": "Avicii",
+      "title": "Wake Me Up",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 8
+      "top10_streak": 3
     },
     {
       "rank": 6,
@@ -85,9 +85,9 @@
     },
     {
       "rank": 10,
-      "track_id": 496,
-      "artist": "宇多田ヒカル",
-      "title": "Automatic",
+      "track_id": 1252,
+      "artist": "Kygo",
+      "title": "Stole the Show (feat. Parson James)",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1

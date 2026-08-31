@@ -9,37 +9,46 @@
       "title": "BABY BABY",
       "movement": "→",
       "days_at_number_1": 5,
-      "top10_streak": 13
+      "top10_streak": 12
     },
     {
       "rank": 2,
-      "track_id": 1219,
-      "artist": "Ed Sheeran",
-      "title": "Shape of You",
-      "movement": "↑1",
+      "track_id": 1653,
+      "artist": "ミドリ",
+      "title": "ゆきこさん",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 1
     },
     {
       "rank": 3,
-      "track_id": 596,
-      "artist": "globe",
-      "title": "Can't Stop Fallin' in Love",
-      "movement": "↑1",
+      "track_id": 1219,
+      "artist": "Ed Sheeran",
+      "title": "Shape of You",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 4
     },
     {
       "rank": 4,
       "track_id": 1601,
       "artist": "福島弘和",
       "title": "吹奏楽のための「おじゃれ」",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 17
     },
     {
       "rank": 5,
+      "track_id": 596,
+      "artist": "globe",
+      "title": "Can't Stop Fallin' in Love",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 6,
       "track_id": 334,
       "artist": "UA",
       "title": "甘い運命",
@@ -48,25 +57,7 @@
       "top10_streak": 1
     },
     {
-      "rank": 6,
-      "track_id": 1026,
-      "artist": "Björk",
-      "title": "Hyper-ballad",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
       "rank": 7,
-      "track_id": 945,
-      "artist": "Oasis",
-      "title": "Don't Look Back in Anger",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 8,
       "track_id": 1212,
       "artist": "Dua Lipa",
       "title": "Levitating",
@@ -75,22 +66,31 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
-      "track_id": 1023,
-      "artist": "Carpenters",
-      "title": "(They Long To Be) Close To You",
-      "movement": "NEW",
+      "rank": 8,
+      "track_id": 1026,
+      "artist": "Björk",
+      "title": "Hyper-ballad",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
+    },
+    {
+      "rank": 9,
+      "track_id": 945,
+      "artist": "Oasis",
+      "title": "Don't Look Back in Anger",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 8
     },
     {
       "rank": 10,
-      "track_id": 1238,
-      "artist": "Gotye",
-      "title": "Somebody That I Used to Know (feat. Kimbra)",
-      "movement": "NEW",
+      "track_id": 1625,
+      "artist": "NATSUMEN",
+      "title": "Cicada Sing The Galaxy",
+      "movement": "↓6",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 10
     }
   ]
 }

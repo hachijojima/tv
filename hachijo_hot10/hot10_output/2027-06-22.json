@@ -7,7 +7,7 @@
       "track_id": 1023,
       "artist": "Carpenters",
       "title": "(They Long To Be) Close To You",
-      "movement": "↑6",
+      "movement": "↑5",
       "days_at_number_1": 1,
       "top10_streak": 2
     },
@@ -33,7 +33,7 @@
       "rank": 4,
       "track_id": 459,
       "artist": "B'z",
-      "title": "ALONE",
+      "title": "MOTEL",
       "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 6
@@ -49,21 +49,21 @@
     },
     {
       "rank": 6,
-      "track_id": 1336,
-      "artist": "Coldplay",
-      "title": "Clocks",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 7,
       "track_id": 1154,
       "artist": "たま",
       "title": "さよなら人類",
       "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 9
+    },
+    {
+      "rank": 7,
+      "track_id": 1336,
+      "artist": "Coldplay",
+      "title": "Clocks",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 6
     },
     {
       "rank": 8,
@@ -76,18 +76,18 @@
     },
     {
       "rank": 9,
-      "track_id": 523,
-      "artist": "スピッツ",
-      "title": "渚",
-      "movement": "↓3",
+      "track_id": 1534,
+      "artist": "大瀧詠一",
+      "title": "恋するカレン",
+      "movement": "RE",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 615,
-      "artist": "米米CLUB",
-      "title": "Shake Hip!",
+      "track_id": 680,
+      "artist": "キャンディーズ",
+      "title": "春一番",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1

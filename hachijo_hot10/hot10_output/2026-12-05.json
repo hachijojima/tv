@@ -4,24 +4,33 @@
   "chart": [
     {
       "rank": 1,
+      "track_id": 12,
+      "artist": "MIZ",
+      "title": "丘",
+      "movement": "↑1",
+      "days_at_number_1": 1,
+      "top10_streak": 7
+    },
+    {
+      "rank": 2,
       "track_id": 1301,
       "artist": "爆風スランプ",
       "title": "旅人よ ～The Longest Journey～",
       "movement": "↑2",
-      "days_at_number_1": 1,
+      "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 2,
+      "rank": 3,
       "track_id": 1257,
       "artist": "Clean Bandit",
       "title": "Rather Be (feat. Jess Glynne)",
-      "movement": "↓1",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
-      "rank": 3,
+      "rank": 4,
       "track_id": 1441,
       "artist": "BLANKEY JET CITY",
       "title": "ガソリンの揺れかた",
@@ -30,7 +39,7 @@
       "top10_streak": 10
     },
     {
-      "rank": 4,
+      "rank": 5,
       "track_id": 703,
       "artist": "杉真理",
       "title": "いとしのテラ",
@@ -39,31 +48,22 @@
       "top10_streak": 2
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "track_id": 1305,
+      "artist": "鼓童",
+      "title": "凰（おおとり）",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 7,
       "track_id": 1601,
       "artist": "福島弘和",
       "title": "吹奏楽のための「おじゃれ」",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
-    },
-    {
-      "rank": 6,
-      "track_id": 1011,
-      "artist": "Underworld",
-      "title": "Born Slippy (Nuxx)",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 7,
-      "track_id": 1134,
-      "artist": "Diana Ross",
-      "title": "I’m Coming Out",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 3
     },
     {
       "rank": 8,
@@ -76,18 +76,18 @@
     },
     {
       "rank": 9,
-      "track_id": 1364,
-      "artist": "Linkin Park",
-      "title": "In the End",
-      "movement": "RE",
+      "track_id": 1134,
+      "artist": "Diana Ross",
+      "title": "I’m Coming Out",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 3
     },
     {
       "rank": 10,
-      "track_id": 829,
-      "artist": "Mrs. GREEN APPLE",
-      "title": "僕のこと",
+      "track_id": 1364,
+      "artist": "Linkin Park",
+      "title": "In the End",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1

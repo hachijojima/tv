@@ -18,25 +18,25 @@
       "title": "Unfinished Sympathy",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 11
     },
     {
       "rank": 3,
-      "track_id": 553,
-      "artist": "米米CLUB",
-      "title": "君がいるだけで",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 4,
       "track_id": 1327,
       "artist": "Weezer",
       "title": "Buddy Holly",
-      "movement": "↑1",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 3
+    },
+    {
+      "rank": 4,
+      "track_id": 553,
+      "artist": "米米CLUB",
+      "title": "君がいるだけで",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 4
     },
     {
       "rank": 5,
@@ -88,7 +88,7 @@
       "track_id": 42,
       "artist": "D.A.N.",
       "title": "Native Dancer",
-      "movement": "NEW",
+      "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

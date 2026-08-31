@@ -8,35 +8,35 @@
       "artist": "福島弘和",
       "title": "吹奏楽のための「おじゃれ」",
       "movement": "→",
-      "days_at_number_1": 4,
+      "days_at_number_1": 3,
       "top10_streak": 10
     },
     {
       "rank": 2,
-      "track_id": 299,
-      "artist": "ハナレグミ",
-      "title": "家族の風景",
-      "movement": "→",
+      "track_id": 1718,
+      "artist": "Calm",
+      "title": "Light Years",
+      "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 9
     },
     {
       "rank": 3,
-      "track_id": 1441,
-      "artist": "BLANKEY JET CITY",
-      "title": "ガソリンの揺れかた",
-      "movement": "↑7",
+      "track_id": 299,
+      "artist": "ハナレグミ",
+      "title": "家族の風景",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 4,
-      "track_id": 4,
-      "artist": "MIZ",
-      "title": "空砲",
-      "movement": "↑1",
+      "track_id": 1441,
+      "artist": "BLANKEY JET CITY",
+      "title": "ガソリンの揺れかた",
+      "movement": "↑6",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 2
     },
     {
       "rank": 5,
@@ -67,30 +67,30 @@
     },
     {
       "rank": 8,
-      "track_id": 1593,
-      "artist": "天田トメノ",
-      "title": "ショメ節",
+      "track_id": 4,
+      "artist": "MIZ",
+      "title": "空砲",
       "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 9,
-      "track_id": 1594,
-      "artist": "團伊玖磨",
-      "title": "オリンピック序曲",
-      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
+      "rank": 9,
+      "track_id": 1651,
+      "artist": "Oorutaichi",
+      "title": "Hamihadarigeri",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
       "rank": 10,
-      "track_id": 494,
-      "artist": "久保田利伸",
-      "title": "LA・LA・LA LOVE SONG",
+      "track_id": 1593,
+      "artist": "天田トメノ",
+      "title": "ショメ節",
       "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 4
     }
   ]
 }

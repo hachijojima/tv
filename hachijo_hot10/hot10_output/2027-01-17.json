@@ -13,84 +13,84 @@
     },
     {
       "rank": 2,
-      "track_id": 459,
-      "artist": "B'z",
-      "title": "ALONE",
-      "movement": "↓1",
+      "track_id": 1674,
+      "artist": "Pasteboard",
+      "title": "Flipper",
+      "movement": "↑5",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 2
     },
     {
       "rank": 3,
-      "track_id": 432,
-      "artist": "SUPERCAR",
-      "title": "cream soda",
-      "movement": "↑3",
+      "track_id": 1473,
+      "artist": "スチャダラパー",
+      "title": "今夜はブギー・バック (smooth rap)",
+      "movement": "↑5",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 4,
-      "track_id": 1245,
-      "artist": "David Guetta",
-      "title": "Titanium (feat. Sia)",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 5,
-      "track_id": 1542,
-      "artist": "Cocco",
-      "title": "強く儚い者たち",
-      "movement": "↑4",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 6,
-      "track_id": 1473,
-      "artist": "スチャダラパー",
-      "title": "今夜はブギー・バック (smooth rap)",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 7,
-      "track_id": 493,
-      "artist": "DREAMS COME TRUE",
-      "title": "未来予想図II",
-      "movement": "→",
+      "track_id": 459,
+      "artist": "B'z",
+      "title": "MOTEL",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 8,
-      "track_id": 542,
-      "artist": "斉藤和義",
-      "title": "歩いて帰ろう",
-      "movement": "↓6",
+      "rank": 5,
+      "track_id": 432,
+      "artist": "SUPERCAR",
+      "title": "cream soda",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 3
+    },
+    {
+      "rank": 6,
+      "track_id": 1245,
+      "artist": "David Guetta",
+      "title": "Titanium (feat. Sia)",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 7,
+      "track_id": 1542,
+      "artist": "COALTAR OF THE DEEPERS",
+      "title": "My Speedy Sarah",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 1719,
+      "artist": "Kaoru Inoue",
+      "title": "The Invisible Eclipse",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     },
     {
       "rank": 9,
       "track_id": 2,
       "artist": "MIZ",
       "title": "パレード",
-      "movement": "RE",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 1445,
-      "artist": "Thee Michelle Gun Elephant",
-      "title": "バードメン",
-      "movement": "NEW",
+      "track_id": 542,
+      "artist": "斉藤和義",
+      "title": "歩いて帰ろう",
+      "movement": "↓8",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 5
     }
   ]
 }

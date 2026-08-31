@@ -23,8 +23,8 @@
     {
       "rank": 3,
       "track_id": 1542,
-      "artist": "Cocco",
-      "title": "強く儚い者たち",
+      "artist": "COALTAR OF THE DEEPERS",
+      "title": "My Speedy Sarah",
       "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 3
@@ -34,7 +34,7 @@
       "track_id": 1394,
       "artist": "GOING STEADY",
       "title": "BABY BABY",
-      "movement": "↑6",
+      "movement": "↑5",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -43,7 +43,7 @@
       "track_id": 293,
       "artist": "くるり",
       "title": "東京",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
@@ -58,37 +58,37 @@
     },
     {
       "rank": 7,
-      "track_id": 1285,
-      "artist": "SEVENTEEN",
-      "title": "VERY NICE",
-      "movement": "↑2",
+      "track_id": 1717,
+      "artist": "Chari Chari",
+      "title": "Across the Universe",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 4
     },
     {
       "rank": 8,
-      "track_id": 1219,
-      "artist": "Ed Sheeran",
-      "title": "Shape of You",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 14
-    },
-    {
-      "rank": 9,
       "track_id": 1593,
       "artist": "天田トメノ",
       "title": "ショメ節",
-      "movement": "NEW",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
+    },
+    {
+      "rank": 9,
+      "track_id": 1718,
+      "artist": "Calm",
+      "title": "Light Years",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 4
     },
     {
       "rank": 10,
       "track_id": 1021,
       "artist": "スチャダラパー",
       "title": "サマージャム’95",
-      "movement": "↓6",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 9
     }

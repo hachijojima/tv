@@ -13,19 +13,19 @@
     },
     {
       "rank": 2,
-      "track_id": 582,
-      "artist": "T-BOLAN",
-      "title": "Bye For Now",
+      "track_id": 1679,
+      "artist": "mouse on the keys",
+      "title": "Spectres de Mouse",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 9
+      "top10_streak": 3
     },
     {
       "rank": 3,
       "track_id": 14,
       "artist": "MIZ",
       "title": "とびうおのうた",
-      "movement": "→",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 7
     },
@@ -40,57 +40,57 @@
     },
     {
       "rank": 5,
-      "track_id": 500,
-      "artist": "モーニング娘。",
-      "title": "LOVEマシーン",
-      "movement": "↑2",
+      "track_id": 582,
+      "artist": "T-BOLAN",
+      "title": "Bye For Now",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 9
+      "top10_streak": 5
     },
     {
       "rank": 6,
-      "track_id": 1091,
-      "artist": "The Cure",
-      "title": "Boys Don’t Cry",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
-      "rank": 7,
-      "track_id": 1543,
-      "artist": "Cocco",
-      "title": "Raining",
-      "movement": "RE",
+      "track_id": 1626,
+      "artist": "イルリメ",
+      "title": "元気でやってるのかい？",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
+      "rank": 7,
+      "track_id": 500,
+      "artist": "モーニング娘。",
+      "title": "Memory 青春の光",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 9
+    },
+    {
       "rank": 8,
-      "track_id": 330,
-      "artist": "カヒミ・カリィ",
-      "title": "Mike Alway's Diary",
+      "track_id": 1091,
+      "artist": "The Cure",
+      "title": "Boys Don’t Cry",
       "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 10
+      "top10_streak": 9
     },
     {
       "rank": 9,
-      "track_id": 496,
-      "artist": "宇多田ヒカル",
-      "title": "Automatic",
+      "track_id": 1543,
+      "artist": "PEALOUT",
+      "title": "爆裂世界 ～世界に追い越されても～",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 1242,
-      "artist": "Avicii",
-      "title": "Levels",
-      "movement": "↓1",
+      "track_id": 330,
+      "artist": "カヒミ・カリィ",
+      "title": "Mike Alway's Diary",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 10
     }
   ]
 }

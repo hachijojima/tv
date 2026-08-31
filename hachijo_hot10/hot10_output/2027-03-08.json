@@ -9,13 +9,13 @@
       "title": "北京ダック",
       "movement": "→",
       "days_at_number_1": 3,
-      "top10_streak": 3
+      "top10_streak": 15
     },
     {
       "rank": 2,
       "track_id": 1542,
-      "artist": "Cocco",
-      "title": "強く儚い者たち",
+      "artist": "COALTAR OF THE DEEPERS",
+      "title": "My Speedy Sarah",
       "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 7
@@ -31,39 +31,39 @@
     },
     {
       "rank": 4,
-      "track_id": 459,
-      "artist": "B'z",
-      "title": "ALONE",
-      "movement": "↑3",
+      "track_id": 1672,
+      "artist": "Hartfield",
+      "title": "Today Forever",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 3
     },
     {
       "rank": 5,
-      "track_id": 552,
-      "artist": "森高千里",
-      "title": "雨",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 6,
       "track_id": 1305,
       "artist": "鼓童",
       "title": "凰（おおとり）",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
-      "rank": 7,
+      "rank": 6,
       "track_id": 1444,
       "artist": "BLANKEY JET CITY",
       "title": "SWEET DAYS",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 7,
+      "track_id": 552,
+      "artist": "森高千里",
+      "title": "雨",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 9
     },
     {
       "rank": 8,
@@ -76,21 +76,21 @@
     },
     {
       "rank": 9,
+      "track_id": 1315,
+      "artist": "Nirvana",
+      "title": "Come As You Are",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 10,
       "track_id": 1369,
       "artist": "Muse",
       "title": "Plug In Baby",
       "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 2
-    },
-    {
-      "rank": 10,
-      "track_id": 10,
-      "artist": "MIZ",
-      "title": "パジャマでハイウェイ",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
     }
   ]
 }

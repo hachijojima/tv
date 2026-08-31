@@ -31,15 +31,6 @@
     },
     {
       "rank": 4,
-      "track_id": 1589,
-      "artist": "Massive Attack",
-      "title": "Unfinished Sympathy",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 5,
       "track_id": 1214,
       "artist": "Ariana Grande",
       "title": "Into You",
@@ -48,13 +39,22 @@
       "top10_streak": 3
     },
     {
-      "rank": 6,
+      "rank": 5,
       "track_id": 813,
       "artist": "Official髭男dism",
       "title": "Pretender",
       "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
+    },
+    {
+      "rank": 6,
+      "track_id": 1589,
+      "artist": "Massive Attack",
+      "title": "Unfinished Sympathy",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 13
     },
     {
       "rank": 7,
@@ -67,30 +67,30 @@
     },
     {
       "rank": 8,
-      "track_id": 544,
-      "artist": "UNICORN",
-      "title": "大迷惑",
-      "movement": "↑2",
+      "track_id": 1327,
+      "artist": "Weezer",
+      "title": "Buddy Holly",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 5
     },
     {
       "rank": 9,
-      "track_id": 553,
-      "artist": "米米CLUB",
-      "title": "君がいるだけで",
-      "movement": "↓3",
+      "track_id": 1383,
+      "artist": "Bon Jovi",
+      "title": "It's My Life",
+      "movement": "RE",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 611,
-      "artist": "PRINCESS PRINCESS",
-      "title": "世界でいちばん熱い夏",
-      "movement": "↓6",
+      "track_id": 1503,
+      "artist": "じゃがたら",
+      "title": "裸の王様",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
     }
   ]
 }

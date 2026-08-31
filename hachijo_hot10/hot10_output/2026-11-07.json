@@ -13,15 +13,6 @@
     },
     {
       "rank": 2,
-      "track_id": 541,
-      "artist": "山崎まさよし",
-      "title": "セロリ",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 3,
       "track_id": 1358,
       "artist": "The White Stripes",
       "title": "Fell in Love with a Girl",
@@ -30,13 +21,22 @@
       "top10_streak": 4
     },
     {
-      "rank": 4,
+      "rank": 3,
       "track_id": 784,
       "artist": "緑黄色社会",
       "title": "Mela!",
       "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 3
+    },
+    {
+      "rank": 4,
+      "track_id": 541,
+      "artist": "山崎まさよし",
+      "title": "セロリ",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 5
     },
     {
       "rank": 5,
@@ -52,27 +52,27 @@
       "track_id": 1040,
       "artist": "METAFIVE",
       "title": "環境と心理",
-      "movement": "↑2",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 8
     },
     {
       "rank": 7,
-      "track_id": 1280,
-      "artist": "IVE",
-      "title": "I AM",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 8,
       "track_id": 1227,
       "artist": "OneRepublic",
       "title": "Counting Stars",
       "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 4
+    },
+    {
+      "rank": 8,
+      "track_id": 1280,
+      "artist": "IVE",
+      "title": "I AM",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     },
     {
       "rank": 9,
@@ -85,9 +85,9 @@
     },
     {
       "rank": 10,
-      "track_id": 16,
-      "artist": "MIZ",
-      "title": "暑中見舞い",
+      "track_id": 1677,
+      "artist": "te'",
+      "title": "言葉を用いて奏でる者は才能に在らず、ただの記憶に『過』ぎぬ。",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1

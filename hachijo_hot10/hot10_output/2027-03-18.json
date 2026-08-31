@@ -8,17 +8,17 @@
       "artist": "斉藤和義",
       "title": "彼女",
       "movement": "→",
-      "days_at_number_1": 3,
+      "days_at_number_1": 2,
       "top10_streak": 3
     },
     {
       "rank": 2,
-      "track_id": 451,
-      "artist": "WANDS",
-      "title": "時の扉",
-      "movement": "↑2",
+      "track_id": 1635,
+      "artist": "MIC JACK PRODUCTION",
+      "title": "Seven Seas Voyage",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 10
     },
     {
       "rank": 3,
@@ -31,66 +31,66 @@
     },
     {
       "rank": 4,
-      "track_id": 259,
-      "artist": "ドミコ",
-      "title": "ペーパーロールスター",
-      "movement": "↓2",
+      "track_id": 2,
+      "artist": "MIZ",
+      "title": "パレード",
+      "movement": "↑6",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 2
     },
     {
       "rank": 5,
-      "track_id": 762,
-      "artist": "ティン・パン・アレー",
-      "title": "北京ダック",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 13
-    },
-    {
-      "rank": 6,
       "track_id": 287,
       "artist": "Fishmans",
       "title": "いかれたBaby",
-      "movement": "↑1",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
+      "rank": 6,
+      "track_id": 259,
+      "artist": "ドミコ",
+      "title": "ペーパーロールスター",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
       "rank": 7,
+      "track_id": 451,
+      "artist": "WANDS",
+      "title": "Secret Night ～It's My Treat～",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 8,
       "track_id": 1584,
       "artist": "Elliott Smith",
       "title": "Between the Bars",
-      "movement": "↑3",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 13
     },
     {
-      "rank": 8,
-      "track_id": 1247,
-      "artist": "Swedish House Mafia",
-      "title": "Don't You Worry Child",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
       "rank": 9,
-      "track_id": 2,
-      "artist": "MIZ",
-      "title": "パレード",
-      "movement": "RE",
+      "track_id": 839,
+      "artist": "Awesome City Club",
+      "title": "アウトサイダー",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 500,
-      "artist": "モーニング娘。",
-      "title": "LOVEマシーン",
-      "movement": "RE",
+      "track_id": 1325,
+      "artist": "Green Day",
+      "title": "American Idiot",
+      "movement": "↓5",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 3
     }
   ]
 }

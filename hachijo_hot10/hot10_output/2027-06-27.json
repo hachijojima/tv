@@ -15,7 +15,7 @@
       "rank": 2,
       "track_id": 452,
       "artist": "大黒摩季",
-      "title": "ら・ら・ら",
+      "title": "Harlem Night",
       "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
@@ -67,6 +67,15 @@
     },
     {
       "rank": 8,
+      "track_id": 1603,
+      "artist": "ROVO",
+      "title": "SINO DUB",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
       "track_id": 1251,
       "artist": "Kygo",
       "title": "Firestone (feat. Conrad Sewell)",
@@ -75,20 +84,11 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
+      "rank": 10,
       "track_id": 1283,
       "artist": "Stray Kids",
       "title": "God's Menu",
       "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 10,
-      "track_id": 395,
-      "artist": "GO!GO!7188",
-      "title": "C7",
-      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

@@ -16,9 +16,9 @@
       "track_id": 1043,
       "artist": "Television",
       "title": "Marquee Moon",
-      "movement": "↑3",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 2
     },
     {
       "rank": 3,
@@ -40,15 +40,6 @@
     },
     {
       "rank": 5,
-      "track_id": 541,
-      "artist": "山崎まさよし",
-      "title": "セロリ",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 6,
       "track_id": 1593,
       "artist": "天田トメノ",
       "title": "ショメ節",
@@ -57,25 +48,25 @@
       "top10_streak": 2
     },
     {
-      "rank": 7,
-      "track_id": 487,
-      "artist": "PRINCESS PRINCESS",
-      "title": "M",
+      "rank": 6,
+      "track_id": 541,
+      "artist": "山崎まさよし",
+      "title": "セロリ",
       "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 5
     },
     {
-      "rank": 8,
+      "rank": 7,
       "track_id": 11,
       "artist": "MONO NO AWARE",
       "title": "異邦人",
-      "movement": "→",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 9,
+      "rank": 8,
       "track_id": 1252,
       "artist": "Kygo",
       "title": "Stole the Show (feat. Parson James)",
@@ -84,13 +75,22 @@
       "top10_streak": 10
     },
     {
-      "rank": 10,
-      "track_id": 293,
-      "artist": "くるり",
-      "title": "東京",
-      "movement": "↓3",
+      "rank": 9,
+      "track_id": 487,
+      "artist": "PRINCESS PRINCESS",
+      "title": "OH YEAH!",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 3
+    },
+    {
+      "rank": 10,
+      "track_id": 1705,
+      "artist": "大友良英 NEW JAZZ ENSEMBLE",
+      "title": "Eureka",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }

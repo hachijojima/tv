@@ -4,21 +4,21 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 542,
-      "artist": "斉藤和義",
-      "title": "歩いて帰ろう",
-      "movement": "↑1",
-      "days_at_number_1": 1,
-      "top10_streak": 2
-    },
-    {
-      "rank": 2,
       "track_id": 1359,
       "artist": "Franz Ferdinand",
       "title": "Take Me Out",
-      "movement": "↓1",
-      "days_at_number_1": 0,
+      "movement": "→",
+      "days_at_number_1": 2,
       "top10_streak": 5
+    },
+    {
+      "rank": 2,
+      "track_id": 542,
+      "artist": "斉藤和義",
+      "title": "歩いて帰ろう",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     },
     {
       "rank": 3,
@@ -43,7 +43,7 @@
       "track_id": 1590,
       "artist": "奥山熊雄",
       "title": "色のついたシャバタキ・すがる",
-      "movement": "↑4",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 10
     },
@@ -58,15 +58,6 @@
     },
     {
       "rank": 7,
-      "track_id": 496,
-      "artist": "宇多田ヒカル",
-      "title": "Automatic",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 8,
       "track_id": 1584,
       "artist": "Elliott Smith",
       "title": "Between the Bars",
@@ -75,7 +66,7 @@
       "top10_streak": 7
     },
     {
-      "rank": 9,
+      "rank": 8,
       "track_id": 656,
       "artist": "友部正人",
       "title": "一本道",
@@ -84,13 +75,22 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
+      "rank": 9,
       "track_id": 1134,
       "artist": "Diana Ross",
       "title": "I’m Coming Out",
       "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 5
+    },
+    {
+      "rank": 10,
+      "track_id": 1709,
+      "artist": "Satanicpornocultshop",
+      "title": "Anorexia Gas Balloon",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }

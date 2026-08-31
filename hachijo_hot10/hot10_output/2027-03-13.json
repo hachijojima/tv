@@ -4,24 +4,15 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 762,
-      "artist": "ティン・パン・アレー",
-      "title": "北京ダック",
-      "movement": "→",
-      "days_at_number_1": 8,
+      "track_id": 1584,
+      "artist": "Elliott Smith",
+      "title": "Between the Bars",
+      "movement": "↑2",
+      "days_at_number_1": 1,
       "top10_streak": 8
     },
     {
       "rank": 2,
-      "track_id": 1584,
-      "artist": "Elliott Smith",
-      "title": "Between the Bars",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 3,
       "track_id": 998,
       "artist": "Donald Fagen",
       "title": "The Nightfly",
@@ -30,67 +21,76 @@
       "top10_streak": 5
     },
     {
-      "rank": 4,
-      "track_id": 552,
-      "artist": "森高千里",
-      "title": "雨",
-      "movement": "↑2",
+      "rank": 3,
+      "track_id": 1635,
+      "artist": "MIC JACK PRODUCTION",
+      "title": "Seven Seas Voyage",
+      "movement": "↑5",
       "days_at_number_1": 0,
-      "top10_streak": 12
+      "top10_streak": 5
     },
     {
-      "rank": 5,
-      "track_id": 1214,
-      "artist": "Ariana Grande",
-      "title": "Into You",
-      "movement": "↑3",
+      "rank": 4,
+      "track_id": 1679,
+      "artist": "mouse on the keys",
+      "title": "Spectres de Mouse",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 6,
-      "track_id": 1305,
-      "artist": "鼓童",
-      "title": "凰（おおとり）",
-      "movement": "↑3",
+      "rank": 5,
+      "track_id": 762,
+      "artist": "ティン・パン・アレー",
+      "title": "北京ダック",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 10
+      "top10_streak": 20
     },
     {
-      "rank": 7,
-      "track_id": 20,
-      "artist": "MONO NO AWARE",
-      "title": "水が湧いた",
+      "rank": 6,
+      "track_id": 1715,
+      "artist": "Oh! Penelope",
+      "title": "ライフイズサニー",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 8,
+      "rank": 7,
       "track_id": 1315,
       "artist": "Nirvana",
       "title": "Come As You Are",
-      "movement": "↓4",
+      "movement": "↓5",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 7
+    },
+    {
+      "rank": 8,
+      "track_id": 1214,
+      "artist": "Ariana Grande",
+      "title": "Into You",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     },
     {
       "rank": 9,
-      "track_id": 1247,
-      "artist": "Swedish House Mafia",
-      "title": "Don't You Worry Child",
-      "movement": "RE",
+      "track_id": 1305,
+      "artist": "鼓童",
+      "title": "凰（おおとり）",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 10
     },
     {
       "rank": 10,
-      "track_id": 459,
-      "artist": "B'z",
-      "title": "ALONE",
+      "track_id": 15,
+      "artist": "MONO NO AWARE",
+      "title": "もうけもん",
       "movement": "↓5",
       "days_at_number_1": 0,
-      "top10_streak": 11
+      "top10_streak": 3
     }
   ]
 }

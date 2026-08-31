@@ -40,15 +40,6 @@
     },
     {
       "rank": 5,
-      "track_id": 541,
-      "artist": "山崎まさよし",
-      "title": "セロリ",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 6,
       "track_id": 1046,
       "artist": "星野源",
       "title": "不思議",
@@ -57,13 +48,22 @@
       "top10_streak": 5
     },
     {
-      "rank": 7,
+      "rank": 6,
       "track_id": 1383,
       "artist": "Bon Jovi",
       "title": "It's My Life",
-      "movement": "↓4",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 4
+    },
+    {
+      "rank": 7,
+      "track_id": 1068,
+      "artist": "Simon & Garfunkel",
+      "title": "Bridge Over Troubled Water",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 6
     },
     {
       "rank": 8,
@@ -76,21 +76,21 @@
     },
     {
       "rank": 9,
-      "track_id": 1068,
-      "artist": "Simon & Garfunkel",
-      "title": "Bridge Over Troubled Water",
-      "movement": "↓4",
+      "track_id": 1040,
+      "artist": "METAFIVE",
+      "title": "環境と心理",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
     {
       "rank": 10,
-      "track_id": 1040,
-      "artist": "METAFIVE",
-      "title": "環境と心理",
-      "movement": "↓2",
+      "track_id": 541,
+      "artist": "山崎まさよし",
+      "title": "セロリ",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 3
     }
   ]
 }

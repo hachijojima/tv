@@ -32,8 +32,8 @@
     {
       "rank": 4,
       "track_id": 1542,
-      "artist": "Cocco",
-      "title": "強く儚い者たち",
+      "artist": "COALTAR OF THE DEEPERS",
+      "title": "My Speedy Sarah",
       "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 4
@@ -67,30 +67,30 @@
     },
     {
       "rank": 8,
-      "track_id": 1219,
-      "artist": "Ed Sheeran",
-      "title": "Shape of You",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 15
-    },
-    {
-      "rank": 9,
       "track_id": 1021,
       "artist": "スチャダラパー",
       "title": "サマージャム’95",
-      "movement": "↑1",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 10
     },
     {
+      "rank": 9,
+      "track_id": 1275,
+      "artist": "TWICE",
+      "title": "TT",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
       "rank": 10,
-      "track_id": 1285,
-      "artist": "SEVENTEEN",
-      "title": "VERY NICE",
+      "track_id": 1717,
+      "artist": "Chari Chari",
+      "title": "Across the Universe",
       "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 5
     }
   ]
 }

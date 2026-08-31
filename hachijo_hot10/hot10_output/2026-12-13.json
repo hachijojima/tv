@@ -31,63 +31,63 @@
     },
     {
       "rank": 4,
-      "track_id": 1601,
-      "artist": "福島弘和",
-      "title": "吹奏楽のための「おじゃれ」",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
-      "rank": 5,
-      "track_id": 1291,
-      "artist": "KARA",
-      "title": "Mister",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 6,
       "track_id": 1242,
       "artist": "Avicii",
       "title": "Levels",
       "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 4
+    },
+    {
+      "rank": 5,
+      "track_id": 1601,
+      "artist": "福島弘和",
+      "title": "吹奏楽のための「おじゃれ」",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 9
+    },
+    {
+      "rank": 6,
+      "track_id": 1291,
+      "artist": "KARA",
+      "title": "Mister",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 4
     },
     {
       "rank": 7,
-      "track_id": 539,
-      "artist": "KAN",
-      "title": "まゆみ",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 8,
       "track_id": 1283,
       "artist": "Stray Kids",
       "title": "God's Menu",
-      "movement": "↑1",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 9,
+      "rank": 8,
       "track_id": 1508,
       "artist": "RCサクセション",
       "title": "多摩蘭坂",
-      "movement": "↓4",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 8
     },
     {
-      "rank": 10,
+      "rank": 9,
       "track_id": 1269,
       "artist": "LMFAO",
       "title": "Party Rock Anthem",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 42,
+      "artist": "D.A.N.",
+      "title": "Native Dancer",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1

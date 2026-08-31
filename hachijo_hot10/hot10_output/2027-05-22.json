@@ -8,7 +8,7 @@
       "artist": "MONO NO AWARE",
       "title": "アングル",
       "movement": "→",
-      "days_at_number_1": 6,
+      "days_at_number_1": 5,
       "top10_streak": 7
     },
     {
@@ -18,14 +18,14 @@
       "title": "Marquee Moon",
       "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 4
     },
     {
       "rank": 3,
-      "track_id": 1541,
-      "artist": "Cocco",
-      "title": "カウントダウン",
-      "movement": "↑2",
+      "track_id": 1608,
+      "artist": "rei harakami",
+      "title": "joy",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
@@ -40,6 +40,15 @@
     },
     {
       "rank": 5,
+      "track_id": 1646,
+      "artist": "Serani Poji",
+      "title": "スマイリーを探して",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 6,
       "track_id": 4,
       "artist": "MIZ",
       "title": "空砲",
@@ -48,7 +57,7 @@
       "top10_streak": 1
     },
     {
-      "rank": 6,
+      "rank": 7,
       "track_id": 1248,
       "artist": "Swedish House Mafia",
       "title": "Save the World",
@@ -57,38 +66,29 @@
       "top10_streak": 6
     },
     {
-      "rank": 7,
-      "track_id": 454,
-      "artist": "爆風スランプ",
-      "title": "Runner",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
       "rank": 8,
-      "track_id": 1107,
-      "artist": "Pixies",
-      "title": "Debaser",
-      "movement": "NEW",
+      "track_id": 1655,
+      "artist": "モーモールルギャバン",
+      "title": "サイケな恋人",
+      "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 9,
-      "track_id": 1590,
-      "artist": "奥山熊雄",
-      "title": "色のついたシャバタキ・すがる",
-      "movement": "RE",
+      "track_id": 57,
+      "artist": "君島大空",
+      "title": "遠視のコントラルト",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     },
     {
       "rank": 10,
-      "track_id": 572,
-      "artist": "BEGIN",
-      "title": "恋しくて",
-      "movement": "RE",
+      "track_id": 1107,
+      "artist": "Pixies",
+      "title": "Debaser",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

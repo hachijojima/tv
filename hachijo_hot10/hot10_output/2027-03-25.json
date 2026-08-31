@@ -5,14 +5,32 @@
     {
       "rank": 1,
       "track_id": 1543,
-      "artist": "Cocco",
-      "title": "Raining",
-      "movement": "→",
-      "days_at_number_1": 2,
+      "artist": "PEALOUT",
+      "title": "爆裂世界 ～世界に追い越されても～",
+      "movement": "↑1",
+      "days_at_number_1": 1,
       "top10_streak": 5
     },
     {
       "rank": 2,
+      "track_id": 1635,
+      "artist": "MIC JACK PRODUCTION",
+      "title": "Seven Seas Voyage",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 17
+    },
+    {
+      "rank": 3,
+      "track_id": 1204,
+      "artist": "Rihanna",
+      "title": "We Found Love",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 4,
       "track_id": 541,
       "artist": "山崎まさよし",
       "title": "セロリ",
@@ -21,76 +39,58 @@
       "top10_streak": 2
     },
     {
-      "rank": 3,
-      "track_id": 1204,
-      "artist": "Rihanna",
-      "title": "We Found Love",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 4,
+      "rank": 5,
       "track_id": 458,
       "artist": "T-BOLAN",
-      "title": "離したくはない",
-      "movement": "↑1",
+      "title": "すれ違いの純情",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
-    },
-    {
-      "rank": 5,
-      "track_id": 459,
-      "artist": "B'z",
-      "title": "ALONE",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 3
     },
     {
       "rank": 6,
       "track_id": 348,
       "artist": "レミオロメン",
       "title": "電話",
-      "movement": "↑1",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
       "rank": 7,
-      "track_id": 18,
-      "artist": "MONO NO AWARE",
-      "title": "アングル",
+      "track_id": 1275,
+      "artist": "TWICE",
+      "title": "TT",
       "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 8,
-      "track_id": 489,
-      "artist": "小泉今日子",
-      "title": "あなたに会えてよかった",
+      "track_id": 18,
+      "artist": "MONO NO AWARE",
+      "title": "アングル",
       "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 2
     },
     {
       "rank": 9,
       "track_id": 1348,
       "artist": "No Doubt",
       "title": "Don't Speak",
-      "movement": "↓7",
+      "movement": "↓6",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
       "rank": 10,
-      "track_id": 1241,
-      "artist": "Avicii",
-      "title": "Wake Me Up",
-      "movement": "↓6",
+      "track_id": 1061,
+      "artist": "Cyndi Lauper",
+      "title": "Time After Time",
+      "movement": "RE",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 1
     }
   ]
 }

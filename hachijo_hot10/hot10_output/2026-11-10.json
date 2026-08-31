@@ -22,18 +22,18 @@
     },
     {
       "rank": 3,
-      "track_id": 16,
-      "artist": "MIZ",
-      "title": "暑中見舞い",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 4,
       "track_id": 1028,
       "artist": "Kendrick Lamar",
       "title": "Alright",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 4,
+      "track_id": 16,
+      "artist": "MIZ",
+      "title": "暑中見舞い",
       "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 3
@@ -43,9 +43,9 @@
       "track_id": 1030,
       "artist": "Radiohead",
       "title": "Creep",
-      "movement": "→",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 2
     },
     {
       "rank": 6,
@@ -58,12 +58,12 @@
     },
     {
       "rank": 7,
-      "track_id": 541,
-      "artist": "山崎まさよし",
-      "title": "セロリ",
-      "movement": "→",
+      "track_id": 811,
+      "artist": "星野源",
+      "title": "SUN",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 10
+      "top10_streak": 1
     },
     {
       "rank": 8,
@@ -76,12 +76,12 @@
     },
     {
       "rank": 9,
-      "track_id": 811,
-      "artist": "星野源",
-      "title": "SUN",
-      "movement": "NEW",
+      "track_id": 541,
+      "artist": "山崎まさよし",
+      "title": "セロリ",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 8
     },
     {
       "rank": 10,

@@ -14,8 +14,8 @@
     {
       "rank": 2,
       "track_id": 1543,
-      "artist": "Cocco",
-      "title": "Raining",
+      "artist": "PEALOUT",
+      "title": "爆裂世界 ～世界に追い越されても～",
       "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 5
@@ -31,42 +31,51 @@
     },
     {
       "rank": 4,
-      "track_id": 496,
-      "artist": "宇多田ヒカル",
-      "title": "Automatic",
-      "movement": "↑2",
+      "track_id": 582,
+      "artist": "T-BOLAN",
+      "title": "Bye For Now",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 9
+    },
+    {
+      "rank": 5,
+      "track_id": 1626,
+      "artist": "イルリメ",
+      "title": "元気でやってるのかい？",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
-      "rank": 5,
+      "rank": 6,
       "track_id": 1534,
       "artist": "大瀧詠一",
       "title": "恋するカレン",
-      "movement": "↓2",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 8
     },
     {
-      "rank": 6,
-      "track_id": 582,
-      "artist": "T-BOLAN",
-      "title": "Bye For Now",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 13
-    },
-    {
       "rank": 7,
-      "track_id": 482,
-      "artist": "UNICORN",
-      "title": "すばらしい日々",
-      "movement": "↑2",
+      "track_id": 730,
+      "artist": "杉山清貴&オメガトライブ",
+      "title": "ふたりの夏物語",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 2
     },
     {
       "rank": 8,
+      "track_id": 1250,
+      "artist": "Zedd",
+      "title": "Stay (with Alessia Cara)",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 9,
       "track_id": 591,
       "artist": "LUNA SEA",
       "title": "I for You",
@@ -75,20 +84,11 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
-      "track_id": 730,
-      "artist": "杉山清貴&オメガトライブ",
-      "title": "ふたりの夏物語",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
       "rank": 10,
-      "track_id": 466,
-      "artist": "GLAY",
-      "title": "BELOVED",
-      "movement": "RE",
+      "track_id": 1153,
+      "artist": "ゴダイゴ",
+      "title": "銀河鉄道999",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

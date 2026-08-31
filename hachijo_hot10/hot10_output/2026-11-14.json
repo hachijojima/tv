@@ -41,29 +41,29 @@
     {
       "rank": 5,
       "track_id": 568,
-      "artist": "椎名林檎",
-      "title": "本能",
+      "artist": "54-71",
+      "title": "Life",
       "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 6,
-      "track_id": 170,
-      "artist": "betcover!!",
-      "title": "翔け夜の匂い草",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 7,
       "track_id": 541,
       "artist": "山崎まさよし",
       "title": "セロリ",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 14
+      "top10_streak": 12
+    },
+    {
+      "rank": 7,
+      "track_id": 170,
+      "artist": "betcover!!",
+      "title": "翔け夜の匂い草",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 4
     },
     {
       "rank": 8,
@@ -90,7 +90,7 @@
       "title": "暑中見舞い",
       "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 8
+      "top10_streak": 7
     }
   ]
 }

@@ -8,29 +8,38 @@
       "artist": "Ed Sheeran",
       "title": "Shape of You",
       "movement": "→",
-      "days_at_number_1": 3,
-      "top10_streak": 6
+      "days_at_number_1": 2,
+      "top10_streak": 7
     },
     {
       "rank": 2,
+      "track_id": 1653,
+      "artist": "ミドリ",
+      "title": "ゆきこさん",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 3,
       "track_id": 475,
       "artist": "ウルフルズ",
-      "title": "バンザイ ～好きでよかった～",
+      "title": "大阪ストラット",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 3,
+      "rank": 4,
       "track_id": 1023,
       "artist": "Carpenters",
       "title": "(They Long To Be) Close To You",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 3
     },
     {
-      "rank": 4,
+      "rank": 5,
       "track_id": 1534,
       "artist": "大瀧詠一",
       "title": "恋するカレン",
@@ -39,7 +48,16 @@
       "top10_streak": 1
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "track_id": 1394,
+      "artist": "GOING STEADY",
+      "title": "BABY BABY",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 15
+    },
+    {
+      "rank": 7,
       "track_id": 596,
       "artist": "globe",
       "title": "Can't Stop Fallin' in Love",
@@ -48,16 +66,7 @@
       "top10_streak": 5
     },
     {
-      "rank": 6,
-      "track_id": 1394,
-      "artist": "GOING STEADY",
-      "title": "BABY BABY",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 16
-    },
-    {
-      "rank": 7,
+      "rank": 8,
       "track_id": 1020,
       "artist": "The Doobie Brothers",
       "title": "What a Fool Believes",
@@ -66,7 +75,7 @@
       "top10_streak": 2
     },
     {
-      "rank": 8,
+      "rank": 9,
       "track_id": 1601,
       "artist": "福島弘和",
       "title": "吹奏楽のための「おじゃれ」",
@@ -75,22 +84,13 @@
       "top10_streak": 20
     },
     {
-      "rank": 9,
+      "rank": 10,
       "track_id": 1021,
       "artist": "スチャダラパー",
       "title": "サマージャム’95",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
-    },
-    {
-      "rank": 10,
-      "track_id": 172,
-      "artist": "ドミコ",
-      "title": "まどろまない",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
     }
   ]
 }

@@ -7,63 +7,63 @@
       "track_id": 1241,
       "artist": "Avicii",
       "title": "Wake Me Up",
-      "movement": "→",
-      "days_at_number_1": 2,
+      "movement": "↑1",
+      "days_at_number_1": 1,
       "top10_streak": 3
     },
     {
       "rank": 2,
-      "track_id": 1247,
-      "artist": "Swedish House Mafia",
-      "title": "Don't You Worry Child",
-      "movement": "↑2",
+      "track_id": 1635,
+      "artist": "MIC JACK PRODUCTION",
+      "title": "Seven Seas Voyage",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 9
+      "top10_streak": 13
     },
     {
       "rank": 3,
-      "track_id": 451,
-      "artist": "WANDS",
-      "title": "時の扉",
-      "movement": "↓1",
+      "track_id": 839,
+      "artist": "Awesome City Club",
+      "title": "アウトサイダー",
+      "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 8
+      "top10_streak": 4
     },
     {
       "rank": 4,
-      "track_id": 489,
-      "artist": "小泉今日子",
-      "title": "あなたに会えてよかった",
-      "movement": "↑4",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 5,
       "track_id": 1543,
-      "artist": "Cocco",
-      "title": "Raining",
+      "artist": "PEALOUT",
+      "title": "爆裂世界 ～世界に追い越されても～",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 6,
+      "rank": 5,
       "track_id": 259,
       "artist": "ドミコ",
       "title": "ペーパーロールスター",
-      "movement": "↓3",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 7
     },
     {
-      "rank": 7,
-      "track_id": 604,
-      "artist": "斉藤和義",
-      "title": "彼女",
-      "movement": "↓2",
+      "rank": 6,
+      "track_id": 1651,
+      "artist": "Oorutaichi",
+      "title": "Hamihadarigeri",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 3
+    },
+    {
+      "rank": 7,
+      "track_id": 451,
+      "artist": "WANDS",
+      "title": "Secret Night ～It's My Treat～",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 8
     },
     {
       "rank": 8,
@@ -76,18 +76,18 @@
     },
     {
       "rank": 9,
-      "track_id": 543,
-      "artist": "奥田民生",
-      "title": "さすらい",
-      "movement": "↑1",
+      "track_id": 604,
+      "artist": "斉藤和義",
+      "title": "彼女",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 6
     },
     {
       "rank": 10,
-      "track_id": 552,
-      "artist": "森高千里",
-      "title": "雨",
+      "track_id": 489,
+      "artist": "小泉今日子",
+      "title": "Fade Out",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1

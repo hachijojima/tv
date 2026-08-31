@@ -4,12 +4,12 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 489,
-      "artist": "小泉今日子",
-      "title": "あなたに会えてよかった",
+      "track_id": 1364,
+      "artist": "Linkin Park",
+      "title": "In the End",
       "movement": "→",
-      "days_at_number_1": 5,
-      "top10_streak": 6
+      "days_at_number_1": 2,
+      "top10_streak": 11
     },
     {
       "rank": 2,
@@ -22,21 +22,21 @@
     },
     {
       "rank": 3,
-      "track_id": 1364,
-      "artist": "Linkin Park",
-      "title": "In the End",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 12
-    },
-    {
-      "rank": 4,
       "track_id": 1240,
       "artist": "Pharrell Williams",
       "title": "Happy",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 8
+      "top10_streak": 9
+    },
+    {
+      "rank": 4,
+      "track_id": 10,
+      "artist": "MIZ",
+      "title": "パジャマでハイウェイ",
+      "movement": "↑6",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     },
     {
       "rank": 5,
@@ -49,39 +49,39 @@
     },
     {
       "rank": 6,
+      "track_id": 489,
+      "artist": "小泉今日子",
+      "title": "Fade Out",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 7,
       "track_id": 1013,
       "artist": "The Police",
       "title": "Every Breath You Take",
-      "movement": "↓2",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 10
     },
     {
-      "rank": 7,
+      "rank": 8,
       "track_id": 1253,
       "artist": "Martin Garrix",
       "title": "Animals",
-      "movement": "↑2",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 8,
-      "track_id": 10,
-      "artist": "MIZ",
-      "title": "パジャマでハイウェイ",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
       "rank": 9,
-      "track_id": 482,
-      "artist": "UNICORN",
-      "title": "すばらしい日々",
+      "track_id": 1589,
+      "artist": "Massive Attack",
+      "title": "Unfinished Sympathy",
       "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 5
     },
     {
       "rank": 10,

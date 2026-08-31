@@ -16,78 +16,78 @@
       "track_id": 1246,
       "artist": "David Guetta",
       "title": "Memories (feat. Kid Cudi)",
-      "movement": "↑6",
+      "movement": "↑5",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 3,
-      "track_id": 585,
-      "artist": "スピッツ",
-      "title": "楓",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 16
-    },
-    {
-      "rank": 4,
-      "track_id": 1584,
-      "artist": "Elliott Smith",
-      "title": "Between the Bars",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 5,
-      "track_id": 1476,
-      "artist": "スチャダラパー",
-      "title": "大人になっても",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 12
-    },
-    {
-      "rank": 6,
-      "track_id": 1240,
-      "artist": "Pharrell Williams",
-      "title": "Happy",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 10
-    },
-    {
-      "rank": 7,
-      "track_id": 1254,
-      "artist": "The Chainsmokers",
-      "title": "Closer (feat. Halsey)",
-      "movement": "↑3",
+      "track_id": 402,
+      "artist": "ROUND TABLE",
+      "title": "Every Every Every",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 8,
+      "rank": 4,
       "track_id": 1589,
       "artist": "Massive Attack",
       "title": "Unfinished Sympathy",
-      "movement": "↓1",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 4
     },
     {
-      "rank": 9,
-      "track_id": 1024,
-      "artist": "SUPER BUTTER DOG",
-      "title": "サヨナラCOLOR",
+      "rank": 5,
+      "track_id": 1584,
+      "artist": "Elliott Smith",
+      "title": "Between the Bars",
       "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 6
     },
     {
-      "rank": 10,
+      "rank": 6,
+      "track_id": 1476,
+      "artist": "スチャダラパー",
+      "title": "大人になっても",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 12
+    },
+    {
+      "rank": 7,
       "track_id": 1301,
       "artist": "爆風スランプ",
       "title": "旅人よ ～The Longest Journey～",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 1650,
+      "artist": "Cokiyu",
+      "title": "Mirror Flake",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 9,
+      "track_id": 585,
+      "artist": "スピッツ",
+      "title": "楓",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1677,
+      "artist": "te'",
+      "title": "言葉を用いて奏でる者は才能に在らず、ただの記憶に『過』ぎぬ。",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1

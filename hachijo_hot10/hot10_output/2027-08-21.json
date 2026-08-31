@@ -7,7 +7,7 @@
       "track_id": 330,
       "artist": "カヒミ・カリィ",
       "title": "Mike Alway's Diary",
-      "movement": "NEW",
+      "movement": "RE",
       "days_at_number_1": 1,
       "top10_streak": 1
     },
@@ -25,7 +25,7 @@
       "track_id": 901,
       "artist": "R.E.M.",
       "title": "Nightswimming",
-      "movement": "↑2",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
@@ -40,24 +40,6 @@
     },
     {
       "rank": 5,
-      "track_id": 607,
-      "artist": "THE BLUE HEARTS",
-      "title": "青空",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 6,
-      "track_id": 1347,
-      "artist": "Garbage",
-      "title": "Only Happy When It Rains",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 7,
       "track_id": 1215,
       "artist": "Taylor Swift",
       "title": "Shake It Off",
@@ -66,16 +48,16 @@
       "top10_streak": 5
     },
     {
-      "rank": 8,
-      "track_id": 463,
-      "artist": "JUDY AND MARY",
-      "title": "Over Drive",
-      "movement": "↓5",
+      "rank": 6,
+      "track_id": 24,
+      "artist": "シャムキャッツ",
+      "title": "Four O’clock Flower",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 9,
+      "rank": 7,
       "track_id": 236,
       "artist": "浮",
       "title": "湯船",
@@ -84,13 +66,31 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
-      "track_id": 24,
-      "artist": "シャムキャッツ",
-      "title": "Four O’clock Flower",
-      "movement": "↓3",
+      "rank": 8,
+      "track_id": 993,
+      "artist": "The Velvet Underground",
+      "title": "Pale Blue Eyes",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 3
+    },
+    {
+      "rank": 9,
+      "track_id": 659,
+      "artist": "加川良",
+      "title": "教訓I",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 10,
+      "track_id": 1678,
+      "artist": "LITE",
+      "title": "Ef",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     }
   ]
 }

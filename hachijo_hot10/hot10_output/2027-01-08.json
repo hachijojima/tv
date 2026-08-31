@@ -49,30 +49,30 @@
     },
     {
       "rank": 6,
+      "track_id": 738,
+      "artist": "松田聖子",
+      "title": "瑠璃色の地球",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 7,
       "track_id": 1590,
       "artist": "奥山熊雄",
       "title": "色のついたシャバタキ・すがる",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 7,
+      "rank": 8,
       "track_id": 1584,
       "artist": "Elliott Smith",
       "title": "Between the Bars",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
-    },
-    {
-      "rank": 8,
-      "track_id": 481,
-      "artist": "奥田民生",
-      "title": "愛のために",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 6
     },
     {
       "rank": 9,

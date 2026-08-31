@@ -13,37 +13,37 @@
     },
     {
       "rank": 2,
-      "track_id": 582,
-      "artist": "T-BOLAN",
-      "title": "Bye For Now",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 10
-    },
-    {
-      "rank": 3,
       "track_id": 1364,
       "artist": "Linkin Park",
       "title": "In the End",
-      "movement": "↑1",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 4,
-      "track_id": 500,
-      "artist": "モーニング娘。",
-      "title": "LOVEマシーン",
-      "movement": "↑1",
+      "rank": 3,
+      "track_id": 582,
+      "artist": "T-BOLAN",
+      "title": "Bye For Now",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 10
+      "top10_streak": 6
+    },
+    {
+      "rank": 4,
+      "track_id": 1679,
+      "artist": "mouse on the keys",
+      "title": "Spectres de Mouse",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 4
     },
     {
       "rank": 5,
       "track_id": 1543,
-      "artist": "Cocco",
-      "title": "Raining",
-      "movement": "↑2",
+      "artist": "PEALOUT",
+      "title": "爆裂世界 ～世界に追い越されても～",
+      "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -58,15 +58,24 @@
     },
     {
       "rank": 7,
-      "track_id": 496,
-      "artist": "宇多田ヒカル",
-      "title": "Automatic",
-      "movement": "↑2",
+      "track_id": 500,
+      "artist": "モーニング娘。",
+      "title": "Memory 青春の光",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 10
+    },
+    {
+      "rank": 8,
+      "track_id": 1626,
+      "artist": "イルリメ",
+      "title": "元気でやってるのかい？",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 8,
+      "rank": 9,
       "track_id": 1245,
       "artist": "David Guetta",
       "title": "Titanium (feat. Sia)",
@@ -75,19 +84,10 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
+      "rank": 10,
       "track_id": 451,
       "artist": "WANDS",
-      "title": "時の扉",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 10,
-      "track_id": 482,
-      "artist": "UNICORN",
-      "title": "すばらしい日々",
+      "title": "Secret Night ～It's My Treat～",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1

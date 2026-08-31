@@ -16,7 +16,7 @@
       "track_id": 1252,
       "artist": "Kygo",
       "title": "Stole the Show (feat. Parson James)",
-      "movement": "↑5",
+      "movement": "↑6",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -25,45 +25,45 @@
       "track_id": 701,
       "artist": "シュガー・ベイブ",
       "title": "今日はなんだか",
-      "movement": "↑6",
+      "movement": "↑7",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 4,
-      "track_id": 476,
-      "artist": "シャ乱Q",
-      "title": "シングルベッド",
+      "track_id": 1542,
+      "artist": "COALTAR OF THE DEEPERS",
+      "title": "My Speedy Sarah",
       "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 5,
-      "track_id": 500,
-      "artist": "モーニング娘。",
-      "title": "LOVEマシーン",
-      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 6,
+      "rank": 5,
       "track_id": 768,
       "artist": "小沢健二",
       "title": "いちょう並木のセレナーデ",
-      "movement": "↓3",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 10
     },
     {
-      "rank": 7,
+      "rank": 6,
       "track_id": 14,
       "artist": "MIZ",
       "title": "とびうおのうた",
-      "movement": "↓3",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 4
+    },
+    {
+      "rank": 7,
+      "track_id": 476,
+      "artist": "シャ乱Q",
+      "title": "上・京・物・語",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 5
     },
     {
       "rank": 8,

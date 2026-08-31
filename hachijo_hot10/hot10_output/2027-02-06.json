@@ -13,19 +13,19 @@
     },
     {
       "rank": 2,
-      "track_id": 536,
-      "artist": "PUFFY",
-      "title": "これが私の生きる道",
-      "movement": "↑1",
+      "track_id": 1091,
+      "artist": "The Cure",
+      "title": "Boys Don’t Cry",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 3,
-      "track_id": 1091,
-      "artist": "The Cure",
-      "title": "Boys Don’t Cry",
-      "movement": "↑3",
+      "track_id": 536,
+      "artist": "PUFFY",
+      "title": "これが私の生きる道",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -40,57 +40,57 @@
     },
     {
       "rank": 5,
-      "track_id": 784,
-      "artist": "緑黄色社会",
-      "title": "Mela!",
-      "movement": "↓1",
+      "track_id": 1624,
+      "artist": "Love Tambourines",
+      "title": "Midnight Parade",
+      "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 2
     },
     {
       "rank": 6,
-      "track_id": 458,
-      "artist": "T-BOLAN",
-      "title": "離したくはない",
-      "movement": "↓1",
+      "track_id": 1613,
+      "artist": "WINO",
+      "title": "Devil's own",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 1
     },
     {
       "rank": 7,
+      "track_id": 784,
+      "artist": "緑黄色社会",
+      "title": "Mela!",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
+      "track_id": 1605,
+      "artist": "ASA-CHANG&巡礼",
+      "title": "花",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 9,
       "track_id": 1068,
       "artist": "Simon & Garfunkel",
       "title": "Bridge Over Troubled Water",
-      "movement": "→",
+      "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 11
     },
     {
-      "rank": 8,
-      "track_id": 603,
-      "artist": "山崎まさよし",
-      "title": "僕はここにいる",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 9,
-      "track_id": 19,
-      "artist": "MONO NO AWARE",
-      "title": "幽霊船",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
       "rank": 10,
-      "track_id": 564,
-      "artist": "Do As Infinity",
-      "title": "Yesterday & Today",
-      "movement": "NEW",
+      "track_id": 458,
+      "artist": "T-BOLAN",
+      "title": "すれ違いの純情",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     }
   ]
 }
