@@ -72,8 +72,8 @@
 .hot10-row:first-child { padding-top: 8px; border-top: 0; }
 .hot10-rank-block { display: inline-flex; align-items: baseline; gap: 8px; min-width: 0; }
 .hot10-rank { color: var(--hot10-white); font-size: 15px; font-variant-numeric: tabular-nums; font-weight: 700; letter-spacing: .04em; }
-.hot10-title { min-width: 0; color: var(--hot10-white); font-size: 17px; font-weight: 700; line-height: 1.35; }
-.hot10-artist { min-width: 0; color: var(--hot10-gray); font-size: 14px; font-weight: 500; line-height: 1.35; }
+.hot10-title { min-width: 0; overflow: hidden; color: var(--hot10-white); font-size: 17px; font-weight: 700; line-height: 1.35; text-overflow: ellipsis; white-space: nowrap; }
+.hot10-artist { min-width: 0; overflow: hidden; color: var(--hot10-gray); font-size: 14px; font-weight: 500; line-height: 1.35; text-overflow: ellipsis; white-space: nowrap; }
 .hot10-movement { color: var(--hot10-gray); font-size: 12px; font-variant-numeric: tabular-nums; font-weight: 700; letter-spacing: .04em; white-space: nowrap; }
 .hot10-movement.is-new, .hot10-movement.is-re { color: var(--hot10-gold); }
 .hot10-movement.is-up { color: var(--hot10-red); }
@@ -245,12 +245,6 @@
     padding: 20px 0;
   }
 
-  .hot10-title,
-  .hot10-artist {
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-  }
 }
 
 /* On standard desktop widths, lift the ranking panel above the player line
