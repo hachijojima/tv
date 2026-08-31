@@ -4,93 +4,93 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1594,
-      "artist": "團伊玖磨",
-      "title": "オリンピック序曲",
-      "movement": "→",
-      "days_at_number_1": 7,
-      "top10_streak": 11
-    },
-    {
-      "rank": 2,
-      "track_id": 1375,
-      "artist": "Soundgarden",
-      "title": "Black Hole Sun",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 3,
-      "track_id": 1695,
-      "artist": "BO GUMBOS",
-      "title": "泥んこ道を二人",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 4,
       "track_id": 1068,
       "artist": "Simon & Garfunkel",
       "title": "Bridge Over Troubled Water",
       "movement": "RE",
-      "days_at_number_1": 0,
+      "days_at_number_1": 1,
       "top10_streak": 1
     },
     {
-      "rank": 5,
-      "track_id": 441,
-      "artist": "チャットモンチー",
-      "title": "恋愛スピリッツ",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 6,
+      "rank": 2,
       "track_id": 239,
       "artist": "さよならポニーテール",
       "title": "光る街へ",
-      "movement": "↓3",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
-      "rank": 7,
-      "track_id": 1364,
-      "artist": "Linkin Park",
-      "title": "In the End",
-      "movement": "↓5",
+      "rank": 3,
+      "track_id": 1253,
+      "artist": "Martin Garrix",
+      "title": "Animals",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 4,
+      "track_id": 1652,
+      "artist": "Kiiiiiii",
+      "title": "4 Little Joeys",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 5,
+      "track_id": 347,
+      "artist": "サンボマスター",
+      "title": "美しき人間の日々",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
+      "rank": 6,
+      "track_id": 1311,
+      "artist": "Red Hot Chili Peppers",
+      "title": "Scar Tissue",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 7,
+      "track_id": 528,
+      "artist": "GLAY",
+      "title": "HOWEVER",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
       "rank": 8,
-      "track_id": 573,
-      "artist": "THE BOOM",
-      "title": "風になりたい",
-      "movement": "↓4",
+      "track_id": 1275,
+      "artist": "TWICE",
+      "title": "TT",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 9
     },
     {
       "rank": 9,
-      "track_id": 1253,
-      "artist": "Martin Garrix",
-      "title": "Animals",
-      "movement": "↓3",
+      "track_id": 1192,
+      "artist": "岡村靖幸",
+      "title": "カルアミルク",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 1481,
-      "artist": "ZAZEN BOYS",
-      "title": "HIMITSU GIRL'S TOP SECRET",
-      "movement": "↓1",
+      "track_id": 1216,
+      "artist": "Taylor Swift",
+      "title": "Cruel Summer",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
     }
   ]
 }

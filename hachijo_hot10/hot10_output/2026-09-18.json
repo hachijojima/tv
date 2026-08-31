@@ -8,8 +8,8 @@
       "artist": "鈴木茂",
       "title": "砂の女",
       "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 3
+      "days_at_number_1": 3,
+      "top10_streak": 4
     },
     {
       "rank": 2,
@@ -22,60 +22,42 @@
     },
     {
       "rank": 3,
-      "track_id": 1383,
-      "artist": "Bon Jovi",
-      "title": "It's My Life",
-      "movement": "↑6",
+      "track_id": 1634,
+      "artist": "THA BLUE HERB",
+      "title": "未来は俺等の手の中",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 2
     },
     {
       "rank": 4,
-      "track_id": 1474,
-      "artist": "スチャダラパー",
-      "title": "GET UP AND DANCE",
+      "track_id": 413,
+      "artist": "スネオヘアー",
+      "title": "ストライク",
       "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 5,
-      "track_id": 1541,
-      "artist": "Cocco",
-      "title": "カウントダウン",
-      "movement": "↑2",
+      "track_id": 1383,
+      "artist": "Bon Jovi",
+      "title": "It's My Life",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 15
+      "top10_streak": 7
     },
     {
       "rank": 6,
-      "track_id": 1040,
-      "artist": "METAFIVE",
-      "title": "環境と心理",
-      "movement": "↓2",
+      "track_id": 707,
+      "artist": "チューリップ",
+      "title": "心の旅",
+      "movement": "↑4",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 2
     },
     {
       "rank": 7,
-      "track_id": 1043,
-      "artist": "Television",
-      "title": "Marquee Moon",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 8,
-      "track_id": 413,
-      "artist": "スネオヘアー",
-      "title": "ストライク",
-      "movement": "↓5",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 9,
       "track_id": 1582,
       "artist": "Galaxie 500",
       "title": "Blue Thunder",
@@ -84,13 +66,31 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
-      "track_id": 1634,
-      "artist": "THA BLUE HERB",
-      "title": "未来は俺等の手の中",
-      "movement": "→",
+      "rank": 8,
+      "track_id": 1601,
+      "artist": "福島弘和",
+      "title": "吹奏楽のための「おじゃれ」",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 2
+    },
+    {
+      "rank": 9,
+      "track_id": 12,
+      "artist": "MIZ",
+      "title": "丘",
+      "movement": "↓6",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 10,
+      "track_id": 1685,
+      "artist": "BOaT",
+      "title": "ALL",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }

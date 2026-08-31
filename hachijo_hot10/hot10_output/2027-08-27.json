@@ -4,90 +4,90 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1091,
-      "artist": "The Cure",
-      "title": "Boys Don’t Cry",
-      "movement": "↑1",
-      "days_at_number_1": 1,
-      "top10_streak": 6
+      "track_id": 582,
+      "artist": "T-BOLAN",
+      "title": "Bye For Now",
+      "movement": "→",
+      "days_at_number_1": 5,
+      "top10_streak": 7
     },
     {
       "rank": 2,
-      "track_id": 500,
-      "artist": "モーニング娘。",
-      "title": "Memory 青春の光",
-      "movement": "↓1",
+      "track_id": 1272,
+      "artist": "BLACKPINK",
+      "title": "How You Like That",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 5
     },
     {
       "rank": 3,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "↑2",
+      "track_id": 1254,
+      "artist": "The Chainsmokers",
+      "title": "Closer (feat. Halsey)",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 4,
+      "track_id": 1499,
+      "artist": "MUTE BEAT",
+      "title": "Dub No.5",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 4,
-      "track_id": 330,
-      "artist": "カヒミ・カリィ",
-      "title": "Mike Alway's Diary",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
       "rank": 5,
-      "track_id": 331,
-      "artist": "ORIGINAL LOVE",
-      "title": "朝日のあたる道 AS TIME GOES BY",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 11
-    },
-    {
-      "rank": 6,
-      "track_id": 582,
-      "artist": "T-BOLAN",
-      "title": "Bye For Now",
-      "movement": "↑3",
+      "track_id": 1269,
+      "artist": "LMFAO",
+      "title": "Party Rock Anthem",
+      "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
+      "rank": 6,
+      "track_id": 1728,
+      "artist": "いまみれん",
+      "title": "求める nor i",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
       "rank": 7,
-      "track_id": 1534,
-      "artist": "大瀧詠一",
-      "title": "恋するカレン",
+      "track_id": 482,
+      "artist": "UNICORN",
+      "title": "すばらしい日々",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
+      "track_id": 732,
+      "artist": "松原みき",
+      "title": "ニートな午後3時",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 9,
+      "track_id": 1620,
+      "artist": "SPARTA LOCALS",
+      "title": "トーキョウバレリーナ",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 8,
-      "track_id": 1254,
-      "artist": "The Chainsmokers",
-      "title": "Closer (feat. Halsey)",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 9,
-      "track_id": 1499,
-      "artist": "MUTE BEAT",
-      "title": "Dub No.5",
-      "movement": "↓5",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
       "rank": 10,
-      "track_id": 281,
-      "artist": "ピチカート・ファイヴ",
-      "title": "東京は夜の七時",
+      "track_id": 1642,
+      "artist": "Jazztronik",
+      "title": "Samurai",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1

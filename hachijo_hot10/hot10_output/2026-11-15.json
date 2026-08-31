@@ -4,78 +4,51 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1475,
-      "artist": "スチャダラパー",
-      "title": "ゲームボーイズ",
-      "movement": "↑1",
-      "days_at_number_1": 1,
-      "top10_streak": 13
-    },
-    {
-      "rank": 2,
-      "track_id": 1280,
-      "artist": "IVE",
-      "title": "I AM",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
-      "rank": 3,
-      "track_id": 1028,
-      "artist": "Kendrick Lamar",
-      "title": "Alright",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 4,
       "track_id": 1145,
       "artist": "tofubeats",
       "title": "水星 (feat. オノマトペ大臣)",
       "movement": "→",
-      "days_at_number_1": 0,
+      "days_at_number_1": 2,
       "top10_streak": 3
     },
     {
-      "rank": 5,
-      "track_id": 1514,
-      "artist": "戸川純",
-      "title": "玉姫様",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 6,
-      "track_id": 470,
-      "artist": "TM NETWORK",
-      "title": "69/99",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 7,
+      "rank": 2,
       "track_id": 568,
       "artist": "54-71",
       "title": "Life",
-      "movement": "↓2",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 8,
-      "track_id": 585,
-      "artist": "スピッツ",
-      "title": "楓",
-      "movement": "RE",
+      "rank": 3,
+      "track_id": 1228,
+      "artist": "Maroon 5",
+      "title": "Sugar",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 5
     },
     {
-      "rank": 9,
+      "rank": 4,
+      "track_id": 1215,
+      "artist": "Taylor Swift",
+      "title": "Shake It Off",
+      "movement": "↑6",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 819,
+      "artist": "ずっと真夜中でいいのに。",
+      "title": "正しくなれない",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 6,
       "track_id": 56,
       "artist": "折坂悠太",
       "title": "朝顔",
@@ -84,13 +57,40 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
+      "rank": 7,
+      "track_id": 1290,
+      "artist": "Girls' Generation",
+      "title": "Gee",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 1280,
+      "artist": "IVE",
+      "title": "I AM",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 9
+    },
+    {
+      "rank": 9,
       "track_id": 473,
       "artist": "Every Little Thing",
       "title": "Shapes Of Love",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 170,
+      "artist": "betcover!!",
+      "title": "翔け夜の匂い草",
+      "movement": "↓6",
+      "days_at_number_1": 0,
+      "top10_streak": 5
     }
   ]
 }

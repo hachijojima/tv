@@ -7,90 +7,90 @@
       "track_id": 1359,
       "artist": "Franz Ferdinand",
       "title": "Take Me Out",
-      "movement": "↑3",
-      "days_at_number_1": 1,
+      "movement": "→",
+      "days_at_number_1": 3,
       "top10_streak": 4
     },
     {
       "rank": 2,
-      "track_id": 542,
-      "artist": "斉藤和義",
-      "title": "歩いて帰ろう",
-      "movement": "NEW",
+      "track_id": 1674,
+      "artist": "Pasteboard",
+      "title": "Flipper",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 4
     },
     {
       "rank": 3,
-      "track_id": 1020,
-      "artist": "The Doobie Brothers",
-      "title": "What a Fool Believes",
-      "movement": "↓2",
+      "track_id": 759,
+      "artist": "吉田美奈子",
+      "title": "TOWN",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 11
+      "top10_streak": 6
     },
     {
       "rank": 4,
-      "track_id": 95,
-      "artist": "リーガルリリー",
-      "title": "リッケンバッカー",
+      "track_id": 1659,
+      "artist": "fOUL",
+      "title": "枯槁",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 5,
-      "track_id": 1267,
-      "artist": "Eric Prydz",
-      "title": "Call on Me",
-      "movement": "↓3",
+      "track_id": 481,
+      "artist": "奥田民生",
+      "title": "愛のために",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 6,
-      "track_id": 1584,
-      "artist": "Elliott Smith",
-      "title": "Between the Bars",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 7,
-      "track_id": 1590,
-      "artist": "奥山熊雄",
-      "title": "色のついたシャバタキ・すがる",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
-      "rank": 8,
-      "track_id": 1241,
-      "artist": "Avicii",
-      "title": "Wake Me Up",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 9,
-      "track_id": 1134,
-      "artist": "Diana Ross",
-      "title": "I’m Coming Out",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 10,
-      "track_id": 496,
-      "artist": "宇多田ヒカル",
-      "title": "Letters",
+      "track_id": 520,
+      "artist": "T-BOLAN",
+      "title": "じれったい愛",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 7,
+      "track_id": 564,
+      "artist": "Do As Infinity",
+      "title": "Yesterday & Today",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 459,
+      "artist": "B'z",
+      "title": "MOTEL",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 9,
+      "track_id": 1010,
+      "artist": "Oasis",
+      "title": "Live Forever",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 10,
+      "track_id": 1590,
+      "artist": "奥山熊雄",
+      "title": "色のついたシャバタキ・すがる",
+      "movement": "↓6",
+      "days_at_number_1": 0,
+      "top10_streak": 9
     }
   ]
 }

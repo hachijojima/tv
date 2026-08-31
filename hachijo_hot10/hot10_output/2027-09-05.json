@@ -4,91 +4,91 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1364,
-      "artist": "Linkin Park",
-      "title": "In the End",
+      "track_id": 591,
+      "artist": "LUNA SEA",
+      "title": "I for You",
       "movement": "→",
-      "days_at_number_1": 4,
-      "top10_streak": 9
+      "days_at_number_1": 2,
+      "top10_streak": 3
     },
     {
       "rank": 2,
       "track_id": 1626,
       "artist": "イルリメ",
       "title": "元気でやってるのかい？",
-      "movement": "↑5",
+      "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 8
     },
     {
       "rank": 3,
-      "track_id": 1543,
-      "artist": "PEALOUT",
-      "title": "爆裂世界 ～世界に追い越されても～",
+      "track_id": 1440,
+      "artist": "BLANKEY JET CITY",
+      "title": "PUNKY BAD HIP",
       "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 7
     },
     {
       "rank": 4,
-      "track_id": 591,
-      "artist": "LUNA SEA",
-      "title": "I for You",
-      "movement": "→",
+      "track_id": 584,
+      "artist": "Mr.Children",
+      "title": "名もなき詩",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 1
     },
     {
       "rank": 5,
-      "track_id": 1032,
-      "artist": "神聖かまってちゃん",
-      "title": "ロックンロールは鳴り止まないっ",
-      "movement": "→",
+      "track_id": 1212,
+      "artist": "Dua Lipa",
+      "title": "Levitating",
+      "movement": "RE",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 1
     },
     {
       "rank": 6,
-      "track_id": 12,
-      "artist": "MIZ",
-      "title": "丘",
+      "track_id": 499,
+      "artist": "SPEED",
+      "title": "White Love",
       "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 7,
-      "track_id": 582,
-      "artist": "T-BOLAN",
-      "title": "Bye For Now",
-      "movement": "↓4",
+      "track_id": 1508,
+      "artist": "RCサクセション",
+      "title": "多摩蘭坂",
+      "movement": "RE",
       "days_at_number_1": 0,
-      "top10_streak": 11
+      "top10_streak": 1
     },
     {
       "rank": 8,
-      "track_id": 813,
-      "artist": "Official髭男dism",
-      "title": "Pretender",
-      "movement": "↑1",
+      "track_id": 102,
+      "artist": "BREIMEN",
+      "title": "IWBYL",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 4
     },
     {
       "rank": 9,
-      "track_id": 1534,
-      "artist": "大瀧詠一",
-      "title": "恋するカレン",
-      "movement": "↓3",
+      "track_id": 812,
+      "artist": "米津玄師",
+      "title": "LOSER",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 10
+      "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 466,
-      "artist": "GLAY",
-      "title": "Freeze My Love",
-      "movement": "RE",
+      "track_id": 1656,
+      "artist": "Limited Express (has gone?)",
+      "title": "No more no fiction",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

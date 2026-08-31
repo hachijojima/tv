@@ -4,51 +4,42 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1594,
-      "artist": "團伊玖磨",
-      "title": "オリンピック序曲",
-      "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 6
+      "track_id": 1275,
+      "artist": "TWICE",
+      "title": "TT",
+      "movement": "↑3",
+      "days_at_number_1": 1,
+      "top10_streak": 4
     },
     {
       "rank": 2,
       "track_id": 1205,
       "artist": "Beyoncé",
       "title": "Crazy in Love",
-      "movement": "↑3",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 7
     },
     {
       "rank": 3,
-      "track_id": 1023,
-      "artist": "Carpenters",
-      "title": "(They Long To Be) Close To You",
+      "track_id": 510,
+      "artist": "BEGIN",
+      "title": "島人ぬ宝",
       "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 4,
-      "track_id": 1314,
-      "artist": "U2",
-      "title": "Beautiful Day",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 14
-    },
-    {
-      "rank": 5,
-      "track_id": 573,
-      "artist": "THE BOOM",
-      "title": "風になりたい",
-      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 6,
+      "rank": 4,
+      "track_id": 1130,
+      "artist": "Billy Joel",
+      "title": "Honesty",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 5,
       "track_id": 1308,
       "artist": "鼓童",
       "title": "屋台囃子",
@@ -57,40 +48,49 @@
       "top10_streak": 2
     },
     {
+      "rank": 6,
+      "track_id": 852,
+      "artist": "Official髭男dism",
+      "title": "宿命",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
       "rank": 7,
-      "track_id": 1130,
-      "artist": "Billy Joel",
-      "title": "Honesty",
-      "movement": "↓4",
+      "track_id": 547,
+      "artist": "JUN SKY WALKER(S)",
+      "title": "すてきな夜空",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 640,
+      "artist": "杉真理",
+      "title": "バカンスはいつも雨",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 8,
-      "track_id": 1251,
-      "artist": "Kygo",
-      "title": "Firestone (feat. Conrad Sewell)",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 10
-    },
-    {
       "rank": 9,
-      "track_id": 1288,
-      "artist": "BIGBANG",
-      "title": "FANTASTIC BABY",
-      "movement": "RE",
+      "track_id": 764,
+      "artist": "EPO",
+      "title": "土曜の夜はパラダイス",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 6
     },
     {
       "rank": 10,
-      "track_id": 510,
-      "artist": "BEGIN",
-      "title": "島人ぬ宝",
-      "movement": "NEW",
+      "track_id": 573,
+      "artist": "THE BOOM",
+      "title": "風になりたい",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 10
     }
   ]
 }

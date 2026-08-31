@@ -13,33 +13,6 @@
     },
     {
       "rank": 2,
-      "track_id": 660,
-      "artist": "岡林信康",
-      "title": "山谷ブルース",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 11
-    },
-    {
-      "rank": 3,
-      "track_id": 641,
-      "artist": "佐野元春",
-      "title": "SOMEDAY",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 10
-    },
-    {
-      "rank": 4,
-      "track_id": 1541,
-      "artist": "Cocco",
-      "title": "カウントダウン",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
-      "rank": 5,
       "track_id": 1043,
       "artist": "Television",
       "title": "Marquee Moon",
@@ -48,25 +21,34 @@
       "top10_streak": 2
     },
     {
-      "rank": 6,
-      "track_id": 1288,
-      "artist": "BIGBANG",
-      "title": "FANTASTIC BABY",
-      "movement": "↑4",
+      "rank": 3,
+      "track_id": 1615,
+      "artist": "DRY&HEAVY",
+      "title": "New Creation",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 5
     },
     {
-      "rank": 7,
-      "track_id": 1021,
-      "artist": "スチャダラパー",
-      "title": "サマージャム’95",
+      "rank": 4,
+      "track_id": 1301,
+      "artist": "爆風スランプ",
+      "title": "旅人よ ～The Longest Journey～",
       "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
-      "rank": 8,
+      "rank": 5,
+      "track_id": 703,
+      "artist": "杉真理",
+      "title": "いとしのテラ",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 6,
       "track_id": 247,
       "artist": "思い出野郎Aチーム",
       "title": "楽しく暮らそう",
@@ -75,7 +57,7 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
+      "rank": 7,
       "track_id": 356,
       "artist": "ROUND TABLE",
       "title": "Chocolate",
@@ -84,13 +66,31 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
-      "track_id": 703,
-      "artist": "杉真理",
-      "title": "いとしのテラ",
-      "movement": "↓1",
+      "rank": 8,
+      "track_id": 1691,
+      "artist": "非常階段",
+      "title": "Modern",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
+    },
+    {
+      "rank": 9,
+      "track_id": 1383,
+      "artist": "Bon Jovi",
+      "title": "It's My Life",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 14,
+      "artist": "MIZ",
+      "title": "とびうおのうた",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }

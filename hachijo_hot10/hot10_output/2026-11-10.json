@@ -4,66 +4,66 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1475,
-      "artist": "スチャダラパー",
-      "title": "ゲームボーイズ",
-      "movement": "↑1",
-      "days_at_number_1": 1,
-      "top10_streak": 8
-    },
-    {
-      "rank": 2,
       "track_id": 1280,
       "artist": "IVE",
       "title": "I AM",
-      "movement": "↓1",
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 4
+    },
+    {
+      "rank": 2,
+      "track_id": 16,
+      "artist": "MIZ",
+      "title": "暑中見舞い",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
       "rank": 3,
-      "track_id": 1028,
-      "artist": "Kendrick Lamar",
-      "title": "Alright",
-      "movement": "→",
+      "track_id": 1475,
+      "artist": "スチャダラパー",
+      "title": "ゲームボーイズ",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 9
     },
     {
       "rank": 4,
-      "track_id": 16,
-      "artist": "MIZ",
-      "title": "暑中見舞い",
+      "track_id": 1030,
+      "artist": "Radiohead",
+      "title": "Creep",
       "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 5,
-      "track_id": 1030,
-      "artist": "Radiohead",
-      "title": "Creep",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 6,
       "track_id": 784,
       "artist": "緑黄色社会",
       "title": "Mela!",
-      "movement": "→",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
     {
-      "rank": 7,
-      "track_id": 811,
-      "artist": "星野源",
-      "title": "SUN",
-      "movement": "NEW",
+      "rank": 6,
+      "track_id": 275,
+      "artist": "BREIMEN",
+      "title": "yonaki",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 3
+    },
+    {
+      "rank": 7,
+      "track_id": 545,
+      "artist": "THE BLUE HEARTS",
+      "title": "TRAIN-TRAIN",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     },
     {
       "rank": 8,
@@ -76,18 +76,18 @@
     },
     {
       "rank": 9,
-      "track_id": 541,
-      "artist": "山崎まさよし",
-      "title": "セロリ",
-      "movement": "→",
+      "track_id": 1677,
+      "artist": "te'",
+      "title": "言葉を用いて奏でる者は才能に在らず、ただの記憶に『過』ぎぬ。",
+      "movement": "↓6",
       "days_at_number_1": 0,
-      "top10_streak": 8
+      "top10_streak": 5
     },
     {
       "rank": 10,
-      "track_id": 467,
-      "artist": "LUNA SEA",
-      "title": "ROSIER",
+      "track_id": 71,
+      "artist": "VIDEOTAPEMUSIC",
+      "title": "世界各国の夜",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1

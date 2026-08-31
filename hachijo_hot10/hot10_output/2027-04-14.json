@@ -4,60 +4,33 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1375,
-      "artist": "Soundgarden",
-      "title": "Black Hole Sun",
-      "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 7
-    },
-    {
-      "rank": 2,
-      "track_id": 377,
-      "artist": "Fishmans",
-      "title": "ナイトクルージング",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 3,
       "track_id": 1229,
       "artist": "Harry Styles",
       "title": "As It Was",
+      "movement": "↑1",
+      "days_at_number_1": 1,
+      "top10_streak": 2
+    },
+    {
+      "rank": 2,
+      "track_id": 544,
+      "artist": "UNICORN",
+      "title": "大迷惑",
       "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 4,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "↑5",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 5,
-      "track_id": 1011,
-      "artist": "Underworld",
-      "title": "Born Slippy (Nuxx)",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 6,
-      "track_id": 1364,
-      "artist": "Linkin Park",
-      "title": "In the End",
-      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 7,
+      "rank": 3,
+      "track_id": 1455,
+      "artist": "羅針盤",
+      "title": "永遠のうた",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 4,
       "track_id": 555,
       "artist": "DREAMS COME TRUE",
       "title": "LOVE LOVE LOVE",
@@ -66,16 +39,34 @@
       "top10_streak": 1
     },
     {
-      "rank": 8,
-      "track_id": 331,
-      "artist": "ORIGINAL LOVE",
-      "title": "朝日のあたる道 AS TIME GOES BY",
-      "movement": "↓1",
+      "rank": 5,
+      "track_id": 1023,
+      "artist": "Carpenters",
+      "title": "(They Long To Be) Close To You",
+      "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 9,
+      "rank": 6,
+      "track_id": 806,
+      "artist": "imase",
+      "title": "NIGHT DANCER",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 7,
+      "track_id": 1661,
+      "artist": "bluebeard",
+      "title": "Room 501",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 8,
       "track_id": 1585,
       "artist": "Elliott Smith",
       "title": "Waltz #2 (XO)",
@@ -84,10 +75,19 @@
       "top10_streak": 1
     },
     {
+      "rank": 9,
+      "track_id": 516,
+      "artist": "爆風スランプ",
+      "title": "大きな玉ねぎの下で",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
       "rank": 10,
-      "track_id": 544,
-      "artist": "UNICORN",
-      "title": "大迷惑",
+      "track_id": 1062,
+      "artist": "Daft Punk",
+      "title": "Digital Love",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1

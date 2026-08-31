@@ -13,15 +13,6 @@
     },
     {
       "rank": 2,
-      "track_id": 1028,
-      "artist": "Kendrick Lamar",
-      "title": "Alright",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 11
-    },
-    {
-      "rank": 3,
       "track_id": 1394,
       "artist": "GOING STEADY",
       "title": "BABY BABY",
@@ -30,11 +21,20 @@
       "top10_streak": 2
     },
     {
-      "rank": 4,
+      "rank": 3,
       "track_id": 1541,
       "artist": "Cocco",
       "title": "カウントダウン",
-      "movement": "↓1",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 4,
+      "track_id": 1001,
+      "artist": "Earth, Wind & Fire",
+      "title": "September",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
@@ -43,54 +43,54 @@
       "track_id": 1709,
       "artist": "Satanicpornocultshop",
       "title": "Anorexia Gas Balloon",
-      "movement": "↑5",
+      "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 6,
-      "track_id": 1040,
-      "artist": "METAFIVE",
-      "title": "環境と心理",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 7,
-      "track_id": 1247,
-      "artist": "Swedish House Mafia",
-      "title": "Don't You Worry Child",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
-      "rank": 8,
       "track_id": 641,
       "artist": "佐野元春",
       "title": "SOMEDAY",
-      "movement": "↓3",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
-      "rank": 9,
-      "track_id": 660,
-      "artist": "岡林信康",
-      "title": "山谷ブルース",
-      "movement": "↓1",
+      "rank": 7,
+      "track_id": 580,
+      "artist": "FIELD OF VIEW",
+      "title": "Last Good-bye",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 1040,
+      "artist": "METAFIVE",
+      "title": "環境と心理",
+      "movement": "↓6",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
     {
-      "rank": 10,
+      "rank": 9,
       "track_id": 680,
       "artist": "キャンディーズ",
       "title": "春一番",
       "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 5
+    },
+    {
+      "rank": 10,
+      "track_id": 660,
+      "artist": "岡林信康",
+      "title": "山谷ブルース",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 6
     }
   ]
 }

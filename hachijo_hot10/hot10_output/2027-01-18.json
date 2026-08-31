@@ -7,57 +7,30 @@
       "track_id": 1473,
       "artist": "スチャダラパー",
       "title": "今夜はブギー・バック (smooth rap)",
-      "movement": "↑2",
-      "days_at_number_1": 1,
+      "movement": "→",
+      "days_at_number_1": 2,
       "top10_streak": 4
     },
     {
       "rank": 2,
-      "track_id": 1048,
-      "artist": "Ben E. King",
-      "title": "Stand By Me",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 3,
       "track_id": 432,
       "artist": "SUPERCAR",
       "title": "cream soda",
-      "movement": "↑2",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 5
+    },
+    {
+      "rank": 3,
+      "track_id": 1659,
+      "artist": "fOUL",
+      "title": "枯槁",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 6
     },
     {
       "rank": 4,
-      "track_id": 1674,
-      "artist": "Pasteboard",
-      "title": "Flipper",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 5,
-      "track_id": 1542,
-      "artist": "COALTAR OF THE DEEPERS",
-      "title": "My Speedy Sarah",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 6,
-      "track_id": 459,
-      "artist": "B'z",
-      "title": "MOTEL",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 7,
       "track_id": 1533,
       "artist": "大瀧詠一",
       "title": "指切り",
@@ -66,16 +39,25 @@
       "top10_streak": 1
     },
     {
-      "rank": 8,
-      "track_id": 1719,
-      "artist": "Kaoru Inoue",
-      "title": "The Invisible Eclipse",
-      "movement": "→",
+      "rank": 5,
+      "track_id": 1674,
+      "artist": "Pasteboard",
+      "title": "Flipper",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 9
+    },
+    {
+      "rank": 6,
+      "track_id": 1647,
+      "artist": "YMCK",
+      "title": "Magical 8bit Tour",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 9,
+      "rank": 7,
       "track_id": 658,
       "artist": "遠藤賢司",
       "title": "カレーライス",
@@ -84,10 +66,28 @@
       "top10_streak": 1
     },
     {
+      "rank": 8,
+      "track_id": 1604,
+      "artist": "DATE COURSE PENTAGON ROYAL GARDEN",
+      "title": "構造 I - 現代呪術の構造",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 2,
+      "artist": "MIZ",
+      "title": "パレード",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
       "rank": 10,
-      "track_id": 1659,
-      "artist": "fOUL",
-      "title": "枯槁",
+      "track_id": 267,
+      "artist": "KOTORI",
+      "title": "RED",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1

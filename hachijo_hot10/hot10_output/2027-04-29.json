@@ -4,21 +4,21 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1314,
-      "artist": "U2",
-      "title": "Beautiful Day",
+      "track_id": 509,
+      "artist": "夏川りみ",
+      "title": "涙そうそう",
       "movement": "→",
-      "days_at_number_1": 3,
-      "top10_streak": 5
+      "days_at_number_1": 2,
+      "top10_streak": 4
     },
     {
       "rank": 2,
-      "track_id": 470,
-      "artist": "TM NETWORK",
-      "title": "69/99",
-      "movement": "↑7",
+      "track_id": 1314,
+      "artist": "U2",
+      "title": "Beautiful Day",
+      "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 3
     },
     {
       "rank": 3,
@@ -31,24 +31,6 @@
     },
     {
       "rank": 4,
-      "track_id": 10,
-      "artist": "MIZ",
-      "title": "パジャマでハイウェイ",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 5,
-      "track_id": 1249,
-      "artist": "Zedd",
-      "title": "Clarity (feat. Foxes)",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 6,
       "track_id": 1362,
       "artist": "Arctic Monkeys",
       "title": "Fluorescent Adolescent",
@@ -57,40 +39,58 @@
       "top10_streak": 2
     },
     {
+      "rank": 5,
+      "track_id": 1241,
+      "artist": "Avicii",
+      "title": "Wake Me Up",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 6,
+      "track_id": 1665,
+      "artist": "Guitar Wolf",
+      "title": "Jet Generation",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
       "rank": 7,
-      "track_id": 1262,
-      "artist": "Tiësto",
-      "title": "Red Lights",
+      "track_id": 1542,
+      "artist": "COALTAR OF THE DEEPERS",
+      "title": "My Speedy Sarah",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 8,
+      "track_id": 1230,
+      "artist": "Olivia Rodrigo",
+      "title": "good 4 u",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 8,
-      "track_id": 1251,
-      "artist": "Kygo",
-      "title": "Firestone (feat. Conrad Sewell)",
+      "rank": 9,
+      "track_id": 1048,
+      "artist": "Ben E. King",
+      "title": "Stand By Me",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 9,
-      "track_id": 1073,
-      "artist": "東京事変",
-      "title": "透明人間",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
       "rank": 10,
-      "track_id": 1542,
-      "artist": "COALTAR OF THE DEEPERS",
-      "title": "My Speedy Sarah",
-      "movement": "↓7",
+      "track_id": 573,
+      "artist": "THE BOOM",
+      "title": "風になりたい",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 1
     }
   ]
 }

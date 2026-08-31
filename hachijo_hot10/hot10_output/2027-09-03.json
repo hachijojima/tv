@@ -4,75 +4,75 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1364,
-      "artist": "Linkin Park",
-      "title": "In the End",
-      "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 7
-    },
-    {
-      "rank": 2,
-      "track_id": 1543,
-      "artist": "PEALOUT",
-      "title": "爆裂世界 ～世界に追い越されても～",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 3,
-      "track_id": 1032,
-      "artist": "神聖かまってちゃん",
-      "title": "ロックンロールは鳴り止まないっ",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 4,
-      "track_id": 582,
-      "artist": "T-BOLAN",
-      "title": "Bye For Now",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
-      "rank": 5,
       "track_id": 1626,
       "artist": "イルリメ",
       "title": "元気でやってるのかい？",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 5
+      "movement": "→",
+      "days_at_number_1": 5,
+      "top10_streak": 6
     },
     {
-      "rank": 6,
-      "track_id": 1534,
-      "artist": "大瀧詠一",
-      "title": "恋するカレン",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 7,
-      "track_id": 730,
-      "artist": "杉山清貴&オメガトライブ",
-      "title": "ふたりの夏物語",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 8,
+      "rank": 2,
       "track_id": 1250,
       "artist": "Zedd",
       "title": "Stay (with Alessia Cara)",
       "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 3
+    },
+    {
+      "rank": 3,
+      "track_id": 730,
+      "artist": "杉山清貴&オメガトライブ",
+      "title": "ふたりの夏物語",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 4,
+      "track_id": 102,
+      "artist": "BREIMEN",
+      "title": "IWBYL",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 1153,
+      "artist": "ゴダイゴ",
+      "title": "銀河鉄道999",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 6,
+      "track_id": 1440,
+      "artist": "BLANKEY JET CITY",
+      "title": "PUNKY BAD HIP",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 7,
+      "track_id": 1533,
+      "artist": "大瀧詠一",
+      "title": "指切り",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 8,
+      "track_id": 1293,
+      "artist": "IU",
+      "title": "Good Day",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 6
     },
     {
       "rank": 9,
@@ -85,12 +85,12 @@
     },
     {
       "rank": 10,
-      "track_id": 1153,
-      "artist": "ゴダイゴ",
-      "title": "銀河鉄道999",
-      "movement": "NEW",
+      "track_id": 540,
+      "artist": "槇原敬之",
+      "title": "もう恋なんてしない",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 4
     }
   ]
 }

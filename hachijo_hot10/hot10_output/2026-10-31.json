@@ -4,51 +4,42 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 10,
-      "artist": "MIZ",
-      "title": "パジャマでハイウェイ",
-      "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 4
-    },
-    {
-      "rank": 2,
       "track_id": 1068,
       "artist": "Simon & Garfunkel",
       "title": "Bridge Over Troubled Water",
       "movement": "NEW",
-      "days_at_number_1": 0,
+      "days_at_number_1": 1,
       "top10_streak": 1
+    },
+    {
+      "rank": 2,
+      "track_id": 623,
+      "artist": "細野晴臣",
+      "title": "恋は桃色",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
     },
     {
       "rank": 3,
-      "track_id": 1629,
-      "artist": "Boris",
-      "title": "Farewell",
+      "track_id": 1345,
+      "artist": "The Cranberries",
+      "title": "Zombie",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 4
     },
     {
       "rank": 4,
-      "track_id": 1240,
-      "artist": "Pharrell Williams",
-      "title": "Happy",
-      "movement": "↓2",
+      "track_id": 1442,
+      "artist": "BLANKEY JET CITY",
+      "title": "赤いタンバリン",
+      "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 11
+      "top10_streak": 3
     },
     {
       "rank": 5,
-      "track_id": 1267,
-      "artist": "Eric Prydz",
-      "title": "Call on Me",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 6,
       "track_id": 591,
       "artist": "LUNA SEA",
       "title": "I for You",
@@ -57,38 +48,47 @@
       "top10_streak": 1
     },
     {
-      "rank": 7,
-      "track_id": 1040,
-      "artist": "METAFIVE",
-      "title": "環境と心理",
-      "movement": "RE",
+      "rank": 6,
+      "track_id": 1146,
+      "artist": "TOMOO",
+      "title": "Cinderella",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 4
     },
     {
-      "rank": 8,
-      "track_id": 623,
-      "artist": "細野晴臣",
-      "title": "恋は桃色",
+      "rank": 7,
+      "track_id": 716,
+      "artist": "イルカ",
+      "title": "海岸通",
       "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 9,
-      "track_id": 1013,
-      "artist": "The Police",
-      "title": "Every Breath You Take",
-      "movement": "↓2",
+      "rank": 8,
+      "track_id": 842,
+      "artist": "離婚伝説",
+      "title": "本日のおすすめ",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 12
+      "top10_streak": 2
+    },
+    {
+      "rank": 9,
+      "track_id": 760,
+      "artist": "南佳孝",
+      "title": "プールサイド",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 1394,
-      "artist": "GOING STEADY",
-      "title": "BABY BABY",
-      "movement": "RE",
+      "track_id": 1249,
+      "artist": "Zedd",
+      "title": "Clarity (feat. Foxes)",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

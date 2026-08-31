@@ -4,69 +4,42 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1601,
-      "artist": "福島弘和",
-      "title": "吹奏楽のための「おじゃれ」",
-      "movement": "→",
-      "days_at_number_1": 7,
-      "top10_streak": 8
-    },
-    {
-      "rank": 2,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 3,
       "track_id": 348,
       "artist": "レミオロメン",
       "title": "電話",
       "movement": "→",
-      "days_at_number_1": 0,
+      "days_at_number_1": 3,
       "top10_streak": 6
     },
     {
-      "rank": 4,
-      "track_id": 1394,
-      "artist": "GOING STEADY",
-      "title": "BABY BABY",
-      "movement": "→",
+      "rank": 2,
+      "track_id": 1446,
+      "artist": "Thee Michelle Gun Elephant",
+      "title": "G.W.D",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 5,
-      "track_id": 636,
-      "artist": "鈴木茂",
-      "title": "砂の女",
-      "movement": "↑1",
+      "rank": 3,
+      "track_id": 1601,
+      "artist": "福島弘和",
+      "title": "吹奏楽のための「おじゃれ」",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 11
+      "top10_streak": 10
     },
     {
-      "rank": 6,
-      "track_id": 361,
-      "artist": "ACIDMAN",
-      "title": "造花が笑う",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 7,
+      "rank": 4,
       "track_id": 548,
       "artist": "REBECCA",
       "title": "RASPBERRY DREAM",
-      "movement": "↑1",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
-      "rank": 8,
+      "rank": 5,
       "track_id": 1505,
       "artist": "じゃがたら",
       "title": "都市生活者の夜",
@@ -75,22 +48,49 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
-      "track_id": 572,
-      "artist": "BEGIN",
-      "title": "恋しくて",
+      "rank": 6,
+      "track_id": 1286,
+      "artist": "SEVENTEEN",
+      "title": "Super",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 7,
+      "track_id": 1508,
+      "artist": "RCサクセション",
+      "title": "多摩蘭坂",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 10,
-      "track_id": 1625,
-      "artist": "NATSUMEN",
-      "title": "Cicada Sing The Galaxy",
-      "movement": "RE",
+      "rank": 8,
+      "track_id": 576,
+      "artist": "大黒摩季",
+      "title": "あなただけ見つめてる",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 361,
+      "artist": "ACIDMAN",
+      "title": "造花が笑う",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 10,
+      "track_id": 1543,
+      "artist": "PEALOUT",
+      "title": "爆裂世界 ～世界に追い越されても～",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     }
   ]
 }

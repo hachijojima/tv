@@ -4,69 +4,33 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1264,
-      "artist": "Disclosure",
-      "title": "Latch (feat. Sam Smith)",
-      "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 7
-    },
-    {
-      "rank": 2,
-      "track_id": 1091,
-      "artist": "The Cure",
-      "title": "Boys Don’t Cry",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 3,
-      "track_id": 829,
-      "artist": "Mrs. GREEN APPLE",
-      "title": "僕のこと",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 4,
       "track_id": 229,
       "artist": "柴田聡子",
       "title": "ぼちぼち銀河",
       "movement": "→",
-      "days_at_number_1": 0,
+      "days_at_number_1": 3,
       "top10_streak": 3
     },
     {
-      "rank": 5,
-      "track_id": 19,
-      "artist": "MONO NO AWARE",
-      "title": "幽霊船",
-      "movement": "→",
+      "rank": 2,
+      "track_id": 1044,
+      "artist": "The Jackson 5",
+      "title": "I Want You Back",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 4
     },
     {
-      "rank": 6,
-      "track_id": 470,
-      "artist": "TM NETWORK",
-      "title": "69/99",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 7,
-      "track_id": 1624,
-      "artist": "Love Tambourines",
-      "title": "Midnight Parade",
+      "rank": 3,
+      "track_id": 1613,
+      "artist": "WINO",
+      "title": "Devil's own",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 4
     },
     {
-      "rank": 8,
+      "rank": 4,
       "track_id": 1464,
       "artist": "GREAT3",
       "title": "Little Jの嘆き",
@@ -75,22 +39,58 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
-      "track_id": 1247,
-      "artist": "Swedish House Mafia",
-      "title": "Don't You Worry Child",
-      "movement": "RE",
+      "rank": 5,
+      "track_id": 306,
+      "artist": "GRAPEVINE",
+      "title": "光について",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 10,
-      "track_id": 1613,
-      "artist": "WINO",
-      "title": "Devil's own",
-      "movement": "↓3",
+      "rank": 6,
+      "track_id": 1170,
+      "artist": "Mondo Grosso",
+      "title": "ラビリンス",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 1
+    },
+    {
+      "rank": 7,
+      "track_id": 579,
+      "artist": "ZARD",
+      "title": "きっと忘れない",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 8,
+      "track_id": 1056,
+      "artist": "XTC",
+      "title": "The Mayor of Simpleton",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 9,
+      "track_id": 30,
+      "artist": "カネコアヤノ",
+      "title": "祝日",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 10,
+      "track_id": 536,
+      "artist": "PUFFY",
+      "title": "これが私の生きる道",
+      "movement": "↓6",
+      "days_at_number_1": 0,
+      "top10_streak": 7
     }
   ]
 }

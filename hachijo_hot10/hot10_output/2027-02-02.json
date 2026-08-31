@@ -4,69 +4,24 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1068,
-      "artist": "Simon & Garfunkel",
-      "title": "Bridge Over Troubled Water",
-      "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 7
-    },
-    {
-      "rank": 2,
-      "track_id": 1605,
-      "artist": "ASA-CHANG&巡礼",
-      "title": "花",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 3,
       "track_id": 961,
       "artist": "Mac DeMarco",
       "title": "Chamber of Reflection",
       "movement": "↑1",
-      "days_at_number_1": 0,
+      "days_at_number_1": 1,
       "top10_streak": 2
     },
     {
-      "rank": 4,
-      "track_id": 1023,
-      "artist": "Carpenters",
-      "title": "(They Long To Be) Close To You",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 11
-    },
-    {
-      "rank": 5,
-      "track_id": 1594,
-      "artist": "團伊玖磨",
-      "title": "オリンピック序曲",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 6,
-      "track_id": 1727,
-      "artist": "いまみれん",
-      "title": "それだけで",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 7,
+      "rank": 2,
       "track_id": 146,
       "artist": "青葉市子",
       "title": "Porcelain",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 4
     },
     {
-      "rank": 8,
+      "rank": 3,
       "track_id": 603,
       "artist": "山崎まさよし",
       "title": "僕はここにいる",
@@ -75,7 +30,25 @@
       "top10_streak": 2
     },
     {
-      "rank": 9,
+      "rank": 4,
+      "track_id": 803,
+      "artist": "離婚伝説",
+      "title": "愛が一層メロウ",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 5,
+      "track_id": 1088,
+      "artist": "The Beatles",
+      "title": "Here, There And Everywhere",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 6,
       "track_id": 1052,
       "artist": "Pixies",
       "title": "Where Is My Mind?",
@@ -84,13 +57,40 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
-      "track_id": 829,
-      "artist": "Mrs. GREEN APPLE",
-      "title": "僕のこと",
-      "movement": "RE",
+      "rank": 7,
+      "track_id": 143,
+      "artist": "折坂悠太",
+      "title": "平成",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
+      "track_id": 73,
+      "artist": "思い出野郎Aチーム",
+      "title": "ダンスに間に合う",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 9,
+      "track_id": 1594,
+      "artist": "團伊玖磨",
+      "title": "オリンピック序曲",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 10,
+      "track_id": 1361,
+      "artist": "Arctic Monkeys",
+      "title": "I Bet You Look Good on the Dancefloor",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 4
     }
   ]
 }

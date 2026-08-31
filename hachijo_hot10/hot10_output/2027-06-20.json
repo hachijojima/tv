@@ -4,33 +4,24 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 459,
-      "artist": "B'z",
-      "title": "MOTEL",
-      "movement": "↑1",
-      "days_at_number_1": 1,
+      "track_id": 1245,
+      "artist": "David Guetta",
+      "title": "Titanium (feat. Sia)",
+      "movement": "→",
+      "days_at_number_1": 2,
       "top10_streak": 4
     },
     {
       "rank": 2,
-      "track_id": 1245,
-      "artist": "David Guetta",
-      "title": "Titanium (feat. Sia)",
-      "movement": "↓1",
+      "track_id": 521,
+      "artist": "B'z",
+      "title": "裸足の女神",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 3,
-      "track_id": 1336,
-      "artist": "Coldplay",
-      "title": "Clocks",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 4,
       "track_id": 890,
       "artist": "Clairo",
       "title": "Sofia",
@@ -39,56 +30,65 @@
       "top10_streak": 1
     },
     {
-      "rank": 5,
-      "track_id": 1228,
-      "artist": "Maroon 5",
-      "title": "Sugar",
-      "movement": "↑3",
+      "rank": 4,
+      "track_id": 447,
+      "artist": "Spangle call Lilli line",
+      "title": "cast a spell on her",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 3
+    },
+    {
+      "rank": 5,
+      "track_id": 133,
+      "artist": "iri",
+      "title": "rhythm",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 4
     },
     {
       "rank": 6,
-      "track_id": 1154,
-      "artist": "たま",
-      "title": "さよなら人類",
-      "movement": "↓2",
+      "track_id": 1251,
+      "artist": "Kygo",
+      "title": "Firestone (feat. Conrad Sewell)",
+      "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 3
     },
     {
       "rank": 7,
-      "track_id": 1265,
-      "artist": "Disclosure",
-      "title": "White Noise (feat. AlunaGeorge)",
+      "track_id": 1315,
+      "artist": "Nirvana",
+      "title": "Come As You Are",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 8,
+      "track_id": 249,
+      "artist": "キセル",
+      "title": "ビューティフル デイ",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 9,
+      "track_id": 596,
+      "artist": "globe",
+      "title": "Can't Stop Fallin' in Love",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 8,
-      "track_id": 523,
-      "artist": "スピッツ",
-      "title": "渚",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 9,
-      "track_id": 447,
-      "artist": "Spangle call Lilli line",
-      "title": "cast a spell on her",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
       "rank": 10,
-      "track_id": 596,
-      "artist": "globe",
-      "title": "Can't Stop Fallin' in Love",
-      "movement": "RE",
+      "track_id": 820,
+      "artist": "YOASOBI",
+      "title": "群青",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

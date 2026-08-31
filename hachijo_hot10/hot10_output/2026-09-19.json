@@ -8,8 +8,8 @@
       "artist": "鈴木茂",
       "title": "砂の女",
       "movement": "→",
-      "days_at_number_1": 3,
-      "top10_streak": 4
+      "days_at_number_1": 4,
+      "top10_streak": 5
     },
     {
       "rank": 2,
@@ -22,15 +22,24 @@
     },
     {
       "rank": 3,
-      "track_id": 1383,
-      "artist": "Bon Jovi",
-      "title": "It's My Life",
-      "movement": "→",
+      "track_id": 1601,
+      "artist": "福島弘和",
+      "title": "吹奏楽のための「おじゃれ」",
+      "movement": "↑5",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 3
     },
     {
       "rank": 4,
+      "track_id": 1634,
+      "artist": "THA BLUE HERB",
+      "title": "未来は俺等の手の中",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 5,
       "track_id": 858,
       "artist": "ずっと真夜中でいいのに。",
       "title": "あいつら全員同窓会",
@@ -39,16 +48,25 @@
       "top10_streak": 1
     },
     {
-      "rank": 5,
-      "track_id": 1040,
-      "artist": "METAFIVE",
-      "title": "環境と心理",
-      "movement": "↑1",
+      "rank": 6,
+      "track_id": 1685,
+      "artist": "BOaT",
+      "title": "ALL",
+      "movement": "↑4",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 2
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "track_id": 707,
+      "artist": "チューリップ",
+      "title": "心の旅",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
       "track_id": 1208,
       "artist": "Bruno Mars",
       "title": "24K Magic",
@@ -57,16 +75,7 @@
       "top10_streak": 1
     },
     {
-      "rank": 7,
-      "track_id": 1601,
-      "artist": "福島弘和",
-      "title": "吹奏楽のための「おじゃれ」",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 8,
+      "rank": 9,
       "track_id": 366,
       "artist": "フラワーカンパニーズ",
       "title": "東京タワー",
@@ -75,22 +84,13 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
-      "track_id": 1634,
-      "artist": "THA BLUE HERB",
-      "title": "未来は俺等の手の中",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
       "rank": 10,
-      "track_id": 1685,
-      "artist": "BOaT",
-      "title": "ALL",
-      "movement": "NEW",
+      "track_id": 1582,
+      "artist": "Galaxie 500",
+      "title": "Blue Thunder",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     }
   ]
 }

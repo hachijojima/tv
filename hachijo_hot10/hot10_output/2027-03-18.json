@@ -16,81 +16,81 @@
       "track_id": 287,
       "artist": "Fishmans",
       "title": "いかれたBaby",
-      "movement": "↑2",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 3,
-      "track_id": 1635,
-      "artist": "MIC JACK PRODUCTION",
-      "title": "Seven Seas Voyage",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 10
-    },
-    {
-      "rank": 4,
-      "track_id": 1240,
-      "artist": "Pharrell Williams",
-      "title": "Happy",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 5,
-      "track_id": 2,
-      "artist": "MIZ",
-      "title": "パレード",
-      "movement": "↑5",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 6,
-      "track_id": 259,
-      "artist": "ドミコ",
-      "title": "ペーパーロールスター",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 7,
       "track_id": 451,
       "artist": "WANDS",
       "title": "Secret Night ～It's My Treat～",
-      "movement": "→",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
+      "rank": 4,
+      "track_id": 1247,
+      "artist": "Swedish House Mafia",
+      "title": "Don't You Worry Child",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 5,
+      "track_id": 1325,
+      "artist": "Green Day",
+      "title": "American Idiot",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 6,
+      "track_id": 634,
+      "artist": "吉田美奈子",
+      "title": "夢で逢えたら",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 7,
+      "track_id": 535,
+      "artist": "Every Little Thing",
+      "title": "For the moment",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
       "rank": 8,
-      "track_id": 1584,
-      "artist": "Elliott Smith",
-      "title": "Between the Bars",
+      "track_id": 262,
+      "artist": "Laura day romance",
+      "title": "渚で会いましょう",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 13
+      "top10_streak": 2
     },
     {
       "rank": 9,
-      "track_id": 839,
-      "artist": "Awesome City Club",
-      "title": "アウトサイダー",
+      "track_id": 1474,
+      "artist": "スチャダラパー",
+      "title": "GET UP AND DANCE",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 1325,
-      "artist": "Green Day",
-      "title": "American Idiot",
-      "movement": "↓5",
+      "track_id": 605,
+      "artist": "奥田民生",
+      "title": "イージュー★ライダー",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 2
     }
   ]
 }

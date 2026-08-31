@@ -4,60 +4,33 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1594,
-      "artist": "團伊玖磨",
-      "title": "オリンピック序曲",
-      "movement": "→",
-      "days_at_number_1": 5,
-      "top10_streak": 9
-    },
-    {
-      "rank": 2,
-      "track_id": 1364,
-      "artist": "Linkin Park",
-      "title": "In the End",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 3,
-      "track_id": 1288,
-      "artist": "BIGBANG",
-      "title": "FANTASTIC BABY",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 4,
-      "track_id": 1257,
-      "artist": "Clean Bandit",
-      "title": "Rather Be (feat. Jess Glynne)",
-      "movement": "↑4",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 5,
-      "track_id": 573,
-      "artist": "THE BOOM",
-      "title": "風になりたい",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 6,
       "track_id": 239,
       "artist": "さよならポニーテール",
       "title": "光る街へ",
-      "movement": "→",
+      "movement": "↑3",
+      "days_at_number_1": 1,
+      "top10_streak": 3
+    },
+    {
+      "rank": 2,
+      "track_id": 547,
+      "artist": "JUN SKY WALKER(S)",
+      "title": "すてきな夜空",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 3,
+      "track_id": 1528,
+      "artist": "ムーンライダーズ",
+      "title": "青空のマリー",
+      "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 7,
+      "rank": 4,
       "track_id": 528,
       "artist": "GLAY",
       "title": "HOWEVER",
@@ -66,20 +39,47 @@
       "top10_streak": 1
     },
     {
-      "rank": 8,
-      "track_id": 441,
-      "artist": "チャットモンチー",
-      "title": "恋愛スピリッツ",
-      "movement": "NEW",
+      "rank": 5,
+      "track_id": 1652,
+      "artist": "Kiiiiiii",
+      "title": "4 Little Joeys",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 3
+    },
+    {
+      "rank": 6,
+      "track_id": 1275,
+      "artist": "TWICE",
+      "title": "TT",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 7,
+      "track_id": 1308,
+      "artist": "鼓童",
+      "title": "屋台囃子",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 8,
+      "track_id": 347,
+      "artist": "サンボマスター",
+      "title": "美しき人間の日々",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     },
     {
       "rank": 9,
-      "track_id": 1228,
-      "artist": "Maroon 5",
-      "title": "Sugar",
-      "movement": "↑1",
+      "track_id": 1311,
+      "artist": "Red Hot Chili Peppers",
+      "title": "Scar Tissue",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -88,9 +88,9 @@
       "track_id": 510,
       "artist": "BEGIN",
       "title": "島人ぬ宝",
-      "movement": "↓5",
+      "movement": "↓8",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 7
     }
   ]
 }

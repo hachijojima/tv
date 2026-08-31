@@ -4,60 +4,33 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1010,
-      "artist": "Oasis",
-      "title": "Live Forever",
-      "movement": "↑1",
-      "days_at_number_1": 1,
-      "top10_streak": 3
+      "track_id": 271,
+      "artist": "PK shampoo",
+      "title": "君の秘密になりたい",
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 4
     },
     {
       "rank": 2,
-      "track_id": 1474,
-      "artist": "スチャダラパー",
-      "title": "GET UP AND DANCE",
-      "movement": "↓1",
+      "track_id": 1669,
+      "artist": "Nav Katze",
+      "title": "Frozen Flower",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
       "rank": 3,
-      "track_id": 615,
-      "artist": "米米CLUB",
-      "title": "Shake Hip!",
+      "track_id": 1148,
+      "artist": "Vaundy",
+      "title": "踊り子",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 3
     },
     {
       "rank": 4,
-      "track_id": 7,
-      "artist": "MONO NO AWARE",
-      "title": "ゾッコン",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 10
-    },
-    {
-      "rank": 5,
-      "track_id": 228,
-      "artist": "スカート",
-      "title": "ストーリー",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 6,
-      "track_id": 762,
-      "artist": "ティン・パン・アレー",
-      "title": "北京ダック",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 7,
       "track_id": 1129,
       "artist": "Bill Evans",
       "title": "Waltz For Debby",
@@ -66,16 +39,25 @@
       "top10_streak": 1
     },
     {
-      "rank": 8,
-      "track_id": 1560,
-      "artist": "Mr.Children",
-      "title": "innocent world",
-      "movement": "↓2",
+      "rank": 5,
+      "track_id": 615,
+      "artist": "米米CLUB",
+      "title": "Shake Hip!",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 8
     },
     {
-      "rank": 9,
+      "rank": 6,
+      "track_id": 129,
+      "artist": "D.A.N.",
+      "title": "SSWB",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 7,
       "track_id": 552,
       "artist": "森高千里",
       "title": "雨",
@@ -84,11 +66,29 @@
       "top10_streak": 2
     },
     {
+      "rank": 8,
+      "track_id": 1633,
+      "artist": "キエるマキュウ",
+      "title": "ナゼナラ",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 9,
+      "track_id": 1012,
+      "artist": "Massive Attack",
+      "title": "Teardrop",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
       "rank": 10,
-      "track_id": 816,
-      "artist": "藤井風",
-      "title": "優しさ",
-      "movement": "RE",
+      "track_id": 1577,
+      "artist": "The Smiths",
+      "title": "Bigmouth Strikes Again",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

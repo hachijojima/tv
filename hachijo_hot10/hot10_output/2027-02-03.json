@@ -4,42 +4,24 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1068,
-      "artist": "Simon & Garfunkel",
-      "title": "Bridge Over Troubled Water",
-      "movement": "→",
-      "days_at_number_1": 3,
-      "top10_streak": 8
-    },
-    {
-      "rank": 2,
-      "track_id": 1605,
-      "artist": "ASA-CHANG&巡礼",
-      "title": "花",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 3,
-      "track_id": 829,
-      "artist": "Mrs. GREEN APPLE",
-      "title": "僕のこと",
-      "movement": "↑7",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 4,
       "track_id": 603,
       "artist": "山崎まさよし",
       "title": "僕はここにいる",
-      "movement": "↑4",
+      "movement": "↑2",
+      "days_at_number_1": 1,
+      "top10_streak": 3
+    },
+    {
+      "rank": 2,
+      "track_id": 1088,
+      "artist": "The Beatles",
+      "title": "Here, There And Everywhere",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 5,
+      "rank": 3,
       "track_id": 961,
       "artist": "Mac DeMarco",
       "title": "Chamber of Reflection",
@@ -48,47 +30,65 @@
       "top10_streak": 3
     },
     {
-      "rank": 6,
-      "track_id": 1023,
-      "artist": "Carpenters",
-      "title": "(They Long To Be) Close To You",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 12
-    },
-    {
-      "rank": 7,
-      "track_id": 1727,
-      "artist": "いまみれん",
-      "title": "それだけで",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 8,
-      "track_id": 1594,
-      "artist": "團伊玖磨",
-      "title": "オリンピック序曲",
-      "movement": "↓3",
+      "rank": 4,
+      "track_id": 803,
+      "artist": "離婚伝説",
+      "title": "愛が一層メロウ",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 7
     },
     {
+      "rank": 5,
+      "track_id": 1335,
+      "artist": "Coldplay",
+      "title": "The Scientist",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 6,
+      "track_id": 146,
+      "artist": "青葉市子",
+      "title": "Porcelain",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 7,
+      "track_id": 1052,
+      "artist": "Pixies",
+      "title": "Where Is My Mind?",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 1293,
+      "artist": "IU",
+      "title": "Good Day",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
       "rank": 9,
-      "track_id": 1088,
-      "artist": "The Beatles",
-      "title": "Here, There And Everywhere",
+      "track_id": 1056,
+      "artist": "XTC",
+      "title": "The Mayor of Simpleton",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 1264,
-      "artist": "Disclosure",
-      "title": "Latch (feat. Sam Smith)",
-      "movement": "RE",
+      "track_id": 536,
+      "artist": "PUFFY",
+      "title": "これが私の生きる道",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

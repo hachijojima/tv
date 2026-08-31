@@ -13,84 +13,84 @@
     },
     {
       "rank": 2,
-      "track_id": 1635,
-      "artist": "MIC JACK PRODUCTION",
-      "title": "Seven Seas Voyage",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 15
-    },
-    {
-      "rank": 3,
-      "track_id": 1543,
-      "artist": "PEALOUT",
-      "title": "爆裂世界 ～世界に追い越されても～",
+      "track_id": 1474,
+      "artist": "スチャダラパー",
+      "title": "GET UP AND DANCE",
       "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 4,
-      "track_id": 348,
-      "artist": "レミオロメン",
-      "title": "電話",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 5,
-      "track_id": 839,
-      "artist": "Awesome City Club",
-      "title": "アウトサイダー",
-      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
     {
-      "rank": 6,
-      "track_id": 1241,
-      "artist": "Avicii",
-      "title": "Wake Me Up",
+      "rank": 3,
+      "track_id": 1619,
+      "artist": "Qomolangma Tomato",
+      "title": "through your reality",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 4,
+      "track_id": 605,
+      "artist": "奥田民生",
+      "title": "イージュー★ライダー",
       "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 7
+    },
+    {
+      "rank": 5,
+      "track_id": 1710,
+      "artist": "MOTOCOMPO",
+      "title": "Lemonade",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 6,
+      "track_id": 4,
+      "artist": "MIZ",
+      "title": "空砲",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     },
     {
       "rank": 7,
-      "track_id": 1204,
-      "artist": "Rihanna",
-      "title": "We Found Love",
-      "movement": "RE",
+      "track_id": 1099,
+      "artist": "bôa",
+      "title": "Duvet",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 8,
-      "track_id": 1029,
-      "artist": "m-flo",
-      "title": "come again",
-      "movement": "↓3",
+      "track_id": 1292,
+      "artist": "PSY",
+      "title": "Gangnam Style",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
     },
     {
       "rank": 9,
-      "track_id": 1106,
-      "artist": "New Order",
-      "title": "Ceremony",
-      "movement": "↓1",
+      "track_id": 1260,
+      "artist": "DJ Snake",
+      "title": "Let Me Love You (feat. Justin Bieber)",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 489,
-      "artist": "小泉今日子",
-      "title": "Fade Out",
-      "movement": "→",
+      "track_id": 1616,
+      "artist": "LITTLE TEMPO",
+      "title": "外道の森",
+      "movement": "↓6",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 5
     }
   ]
 }

@@ -4,42 +4,15 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1364,
-      "artist": "Linkin Park",
-      "title": "In the End",
-      "movement": "↑2",
-      "days_at_number_1": 1,
-      "top10_streak": 6
+      "track_id": 1626,
+      "artist": "イルリメ",
+      "title": "元気でやってるのかい？",
+      "movement": "→",
+      "days_at_number_1": 4,
+      "top10_streak": 5
     },
     {
       "rank": 2,
-      "track_id": 1543,
-      "artist": "PEALOUT",
-      "title": "爆裂世界 ～世界に追い越されても～",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 3,
-      "track_id": 1534,
-      "artist": "大瀧詠一",
-      "title": "恋するカレン",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 4,
-      "track_id": 1032,
-      "artist": "神聖かまってちゃん",
-      "title": "ロックンロールは鳴り止まないっ",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 5,
       "track_id": 730,
       "artist": "杉山清貴&オメガトライブ",
       "title": "ふたりの夏物語",
@@ -48,25 +21,16 @@
       "top10_streak": 1
     },
     {
-      "rank": 6,
-      "track_id": 1626,
-      "artist": "イルリメ",
-      "title": "元気でやってるのかい？",
-      "movement": "↓1",
+      "rank": 3,
+      "track_id": 1250,
+      "artist": "Zedd",
+      "title": "Stay (with Alessia Cara)",
+      "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 2
     },
     {
-      "rank": 7,
-      "track_id": 582,
-      "artist": "T-BOLAN",
-      "title": "Bye For Now",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 8,
+      "rank": 4,
       "track_id": 102,
       "artist": "BREIMEN",
       "title": "IWBYL",
@@ -75,22 +39,58 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
-      "track_id": 1250,
-      "artist": "Zedd",
-      "title": "Stay (with Alessia Cara)",
+      "rank": 5,
+      "track_id": 1298,
+      "artist": "NCT 127",
+      "title": "Kick It",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 6,
+      "track_id": 540,
+      "artist": "槇原敬之",
+      "title": "もう恋なんてしない",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 7,
+      "track_id": 1293,
+      "artist": "IU",
+      "title": "Good Day",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 8,
+      "track_id": 1533,
+      "artist": "大瀧詠一",
+      "title": "指切り",
       "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 4
+    },
+    {
+      "rank": 9,
+      "track_id": 1440,
+      "artist": "BLANKEY JET CITY",
+      "title": "PUNKY BAD HIP",
+      "movement": "↓6",
+      "days_at_number_1": 0,
+      "top10_streak": 4
     },
     {
       "rank": 10,
-      "track_id": 500,
-      "artist": "モーニング娘。",
-      "title": "Memory 青春の光",
-      "movement": "↓3",
+      "track_id": 951,
+      "artist": "Tears for Fears",
+      "title": "Head Over Heels",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 12
+      "top10_streak": 1
     }
   ]
 }

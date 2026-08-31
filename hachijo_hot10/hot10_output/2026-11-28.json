@@ -4,51 +4,15 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1601,
-      "artist": "福島弘和",
-      "title": "吹奏楽のための「おじゃれ」",
+      "track_id": 645,
+      "artist": "チューリップ",
+      "title": "青春の影",
       "movement": "→",
-      "days_at_number_1": 4,
-      "top10_streak": 11
-    },
-    {
-      "rank": 2,
-      "track_id": 1441,
-      "artist": "BLANKEY JET CITY",
-      "title": "ガソリンの揺れかた",
-      "movement": "↑2",
-      "days_at_number_1": 0,
+      "days_at_number_1": 2,
       "top10_streak": 3
     },
     {
-      "rank": 3,
-      "track_id": 1718,
-      "artist": "Calm",
-      "title": "Light Years",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 10
-    },
-    {
-      "rank": 4,
-      "track_id": 4,
-      "artist": "MIZ",
-      "title": "空砲",
-      "movement": "↑4",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 5,
-      "track_id": 19,
-      "artist": "MONO NO AWARE",
-      "title": "幽霊船",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 12
-    },
-    {
-      "rank": 6,
+      "rank": 2,
       "track_id": 937,
       "artist": "Alvvays",
       "title": "Archie, Marry Me",
@@ -57,38 +21,74 @@
       "top10_streak": 1
     },
     {
-      "rank": 7,
-      "track_id": 299,
-      "artist": "ハナレグミ",
-      "title": "家族の風景",
-      "movement": "↓4",
+      "rank": 3,
+      "track_id": 1651,
+      "artist": "Oorutaichi",
+      "title": "Hamihadarigeri",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 8,
-      "track_id": 707,
-      "artist": "チューリップ",
-      "title": "心の旅",
+      "rank": 4,
+      "track_id": 1660,
+      "artist": "COWPERS",
+      "title": "Curve",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 5,
+      "track_id": 1655,
+      "artist": "モーモールルギャバン",
+      "title": "サイケな恋人",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 6,
+      "track_id": 339,
+      "artist": "フジファブリック",
+      "title": "茜色の夕日",
       "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
-      "rank": 9,
-      "track_id": 500,
-      "artist": "モーニング娘。",
-      "title": "Memory 青春の光",
+      "rank": 7,
+      "track_id": 110,
+      "artist": "乙女絵画",
+      "title": "軛",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 10,
-      "track_id": 1651,
-      "artist": "Oorutaichi",
-      "title": "Hamihadarigeri",
+      "rank": 8,
+      "track_id": 1375,
+      "artist": "Soundgarden",
+      "title": "Black Hole Sun",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 305,
+      "artist": "GO!GO!7188",
+      "title": "こいのうた",
       "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 10,
+      "track_id": 88,
+      "artist": "Laura day romance",
+      "title": "sad number",
+      "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 3
     }

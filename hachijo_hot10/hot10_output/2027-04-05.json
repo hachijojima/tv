@@ -4,60 +4,42 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1072,
-      "artist": "坂本龍一",
-      "title": "Thousand Knives",
-      "movement": "NEW",
-      "days_at_number_1": 1,
-      "top10_streak": 1
-    },
-    {
-      "rank": 2,
-      "track_id": 1642,
-      "artist": "Jazztronik",
-      "title": "Samurai",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 3,
-      "track_id": 1061,
-      "artist": "Cyndi Lauper",
-      "title": "Time After Time",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 12
-    },
-    {
-      "rank": 4,
       "track_id": 679,
       "artist": "太田裕美",
       "title": "木綿のハンカチーフ",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 4
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 3
     },
     {
-      "rank": 5,
-      "track_id": 341,
-      "artist": "NUMBER GIRL",
-      "title": "OMOIDE IN MY HEAD",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 6,
+      "rank": 2,
       "track_id": 1028,
       "artist": "Kendrick Lamar",
       "title": "Alright",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 6
     },
     {
-      "rank": 7,
+      "rank": 3,
+      "track_id": 1100,
+      "artist": "Bon Jovi",
+      "title": "Livin’ On A Prayer",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 4,
+      "track_id": 57,
+      "artist": "君島大空",
+      "title": "遠視のコントラルト",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 5,
       "track_id": 1396,
       "artist": "GOING STEADY",
       "title": "東京少年",
@@ -66,7 +48,7 @@
       "top10_streak": 1
     },
     {
-      "rank": 8,
+      "rank": 6,
       "track_id": 1578,
       "artist": "Pixies",
       "title": "Here Comes Your Man",
@@ -75,22 +57,40 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
-      "track_id": 473,
-      "artist": "Every Little Thing",
-      "title": "Shapes Of Love",
-      "movement": "→",
+      "rank": 7,
+      "track_id": 1407,
+      "artist": "SUPERCAR",
+      "title": "Sunday People",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 1457,
+      "artist": "羅針盤",
+      "title": "カラーズ",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 1580,
+      "artist": "Sonic Youth",
+      "title": "Kool Thing",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 707,
-      "artist": "チューリップ",
-      "title": "心の旅",
-      "movement": "↓6",
+      "track_id": 221,
+      "artist": "yonawo",
+      "title": "good job",
+      "movement": "↓5",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 6
     }
   ]
 }

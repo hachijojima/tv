@@ -4,51 +4,42 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1089,
-      "artist": "The Beatles",
-      "title": "Let It Be",
-      "movement": "↑1",
-      "days_at_number_1": 1,
-      "top10_streak": 7
-    },
-    {
-      "rank": 2,
       "track_id": 524,
       "artist": "サザンオールスターズ",
       "title": "希望の轍",
-      "movement": "↓1",
-      "days_at_number_1": 0,
+      "movement": "→",
+      "days_at_number_1": 2,
       "top10_streak": 5
     },
     {
-      "rank": 3,
+      "rank": 2,
       "track_id": 1542,
       "artist": "COALTAR OF THE DEEPERS",
       "title": "My Speedy Sarah",
-      "movement": "↑3",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 3,
+      "track_id": 293,
+      "artist": "くるり",
+      "title": "東京",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 4,
-      "track_id": 1394,
-      "artist": "GOING STEADY",
-      "title": "BABY BABY",
-      "movement": "↑5",
+      "track_id": 1717,
+      "artist": "Chari Chari",
+      "title": "Across the Universe",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 4
     },
     {
       "rank": 5,
-      "track_id": 293,
-      "artist": "くるり",
-      "title": "東京",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 6,
       "track_id": 1205,
       "artist": "Beyoncé",
       "title": "Crazy in Love",
@@ -57,40 +48,49 @@
       "top10_streak": 1
     },
     {
-      "rank": 7,
-      "track_id": 1717,
-      "artist": "Chari Chari",
-      "title": "Across the Universe",
-      "movement": "↓4",
+      "rank": 6,
+      "track_id": 1718,
+      "artist": "Calm",
+      "title": "Light Years",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
+      "rank": 7,
+      "track_id": 1078,
+      "artist": "Daft Punk",
+      "title": "Get Lucky (feat. Pharrell Williams and Nile Rodgers)",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
       "rank": 8,
-      "track_id": 1593,
-      "artist": "天田トメノ",
-      "title": "ショメ節",
-      "movement": "↑2",
+      "track_id": 1629,
+      "artist": "Boris",
+      "title": "Farewell",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 9,
-      "track_id": 1718,
-      "artist": "Calm",
-      "title": "Light Years",
-      "movement": "↓4",
+      "track_id": 1612,
+      "artist": "SPIRAL LIFE",
+      "title": "GAME OVER",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 1021,
-      "artist": "スチャダラパー",
-      "title": "サマージャム’95",
+      "track_id": 420,
+      "artist": "小沢健二",
+      "title": "今夜はブギー・バック",
       "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 9
+      "top10_streak": 4
     }
   ]
 }

@@ -4,93 +4,93 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1013,
-      "artist": "The Police",
-      "title": "Every Breath You Take",
-      "movement": "↑3",
-      "days_at_number_1": 1,
-      "top10_streak": 11
-    },
-    {
-      "rank": 2,
-      "track_id": 1011,
-      "artist": "Underworld",
-      "title": "Born Slippy (Nuxx)",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 3,
-      "track_id": 1247,
-      "artist": "Swedish House Mafia",
-      "title": "Don't You Worry Child",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 12
-    },
-    {
-      "rank": 4,
-      "track_id": 1267,
-      "artist": "Eric Prydz",
-      "title": "Call on Me",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 5,
       "track_id": 519,
       "artist": "DEEN",
       "title": "瞳そらさないで",
+      "movement": "↑1",
+      "days_at_number_1": 1,
+      "top10_streak": 3
+    },
+    {
+      "rank": 2,
+      "track_id": 825,
+      "artist": "マカロニえんぴつ",
+      "title": "恋人ごっこ",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 3,
+      "track_id": 46,
+      "artist": "iri",
+      "title": "Wonderland",
+      "movement": "↑6",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 4,
+      "track_id": 1204,
+      "artist": "Rihanna",
+      "title": "We Found Love",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 844,
+      "artist": "WONK",
+      "title": "Fleeting Fantasy",
       "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 6,
-      "track_id": 1242,
-      "artist": "Avicii",
-      "title": "Levels",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 7,
-      "track_id": 7,
-      "artist": "MONO NO AWARE",
-      "title": "ゾッコン",
+      "track_id": 1201,
+      "artist": "Lady Gaga",
+      "title": "Bad Romance",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 8,
-      "track_id": 1204,
-      "artist": "Rihanna",
-      "title": "We Found Love",
-      "movement": "→",
+      "rank": 7,
+      "track_id": 1246,
+      "artist": "David Guetta",
+      "title": "Memories (feat. Kid Cudi)",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 4
+    },
+    {
+      "rank": 8,
+      "track_id": 1126,
+      "artist": "櫻坂46",
+      "title": "二人セゾン",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     },
     {
       "rank": 9,
-      "track_id": 46,
-      "artist": "iri",
-      "title": "Wonderland",
+      "track_id": 1039,
+      "artist": "Eagles",
+      "title": "Hotel California",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 844,
-      "artist": "WONK",
-      "title": "Fleeting Fantasy",
-      "movement": "↓3",
+      "track_id": 915,
+      "artist": "Slowdive",
+      "title": "Alison",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
     }
   ]
 }

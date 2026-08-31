@@ -4,93 +4,93 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 19,
-      "artist": "MONO NO AWARE",
-      "title": "幽霊船",
-      "movement": "→",
-      "days_at_number_1": 3,
-      "top10_streak": 8
-    },
-    {
-      "rank": 2,
-      "track_id": 568,
-      "artist": "54-71",
-      "title": "Life",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
-      "rank": 3,
-      "track_id": 415,
-      "artist": "bonobos",
-      "title": "Standing There ～いま、そこに行くよ～",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 4,
       "track_id": 249,
       "artist": "キセル",
       "title": "ビューティフル デイ",
       "movement": "NEW",
+      "days_at_number_1": 1,
+      "top10_streak": 1
+    },
+    {
+      "rank": 2,
+      "track_id": 1507,
+      "artist": "じゃがたら",
+      "title": "タンゴ",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 3,
+      "track_id": 1339,
+      "artist": "Blur",
+      "title": "Girls & Boys",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 4,
+      "track_id": 429,
+      "artist": "キリンジ",
+      "title": "双子座グラフィティ",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 1422,
+      "artist": "Hi-STANDARD",
+      "title": "DEAR MY FRIEND",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 6,
+      "track_id": 568,
+      "artist": "54-71",
+      "title": "Life",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 10
+    },
+    {
+      "rank": 7,
+      "track_id": 1066,
+      "artist": "Nujabes",
+      "title": "Luv(sic.) pt3 (feat. Shing02)",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 8,
+      "track_id": 1315,
+      "artist": "Nirvana",
+      "title": "Come As You Are",
+      "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 5,
-      "track_id": 1011,
-      "artist": "Underworld",
-      "title": "Born Slippy (Nuxx)",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 12
-    },
-    {
-      "rank": 6,
-      "track_id": 1154,
-      "artist": "たま",
-      "title": "さよなら人類",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 7,
-      "track_id": 1695,
-      "artist": "BO GUMBOS",
-      "title": "泥んこ道を二人",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 8,
-      "track_id": 1507,
-      "artist": "じゃがたら",
-      "title": "タンゴ",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
       "rank": 9,
-      "track_id": 1271,
-      "artist": "BLACKPINK",
-      "title": "DDU-DU DDU-DU",
+      "track_id": 644,
+      "artist": "オフコース",
+      "title": "さよなら",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 1315,
-      "artist": "Nirvana",
-      "title": "Come As You Are",
-      "movement": "→",
+      "track_id": 1636,
+      "artist": "降神",
+      "title": "帰り道",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 4
     }
   ]
 }

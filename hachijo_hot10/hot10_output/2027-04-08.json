@@ -4,57 +4,57 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1072,
-      "artist": "坂本龍一",
-      "title": "Thousand Knives",
-      "movement": "→",
-      "days_at_number_1": 4,
-      "top10_streak": 4
-    },
-    {
-      "rank": 2,
       "track_id": 284,
       "artist": "Cornelius",
       "title": "THE SUN IS MY ENEMY",
-      "movement": "↑1",
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 2
+    },
+    {
+      "rank": 2,
+      "track_id": 1011,
+      "artist": "Underworld",
+      "title": "Born Slippy (Nuxx)",
+      "movement": "↑7",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 3,
-      "track_id": 1061,
-      "artist": "Cyndi Lauper",
-      "title": "Time After Time",
-      "movement": "↓1",
+      "track_id": 1457,
+      "artist": "羅針盤",
+      "title": "カラーズ",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 15
+      "top10_streak": 4
     },
     {
       "rank": 4,
-      "track_id": 1011,
-      "artist": "Underworld",
-      "title": "Born Slippy (Nuxx)",
-      "movement": "↑5",
+      "track_id": 1668,
+      "artist": "割礼",
+      "title": "世界の中",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 3
     },
     {
       "rank": 5,
-      "track_id": 679,
-      "artist": "太田裕美",
-      "title": "木綿のハンカチーフ",
-      "movement": "↓1",
+      "track_id": 57,
+      "artist": "君島大空",
+      "title": "遠視のコントラルト",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 6
     },
     {
       "rank": 6,
-      "track_id": 1028,
-      "artist": "Kendrick Lamar",
-      "title": "Alright",
-      "movement": "↓1",
+      "track_id": 588,
+      "artist": "THE YELLOW MONKEY",
+      "title": "LOVE LOVE SHOW",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 3
     },
     {
       "rank": 7,
@@ -67,30 +67,30 @@
     },
     {
       "rank": 8,
-      "track_id": 1375,
-      "artist": "Soundgarden",
-      "title": "Black Hole Sun",
-      "movement": "RE",
+      "track_id": 679,
+      "artist": "太田裕美",
+      "title": "木綿のハンカチーフ",
+      "movement": "↓6",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 9,
+      "track_id": 1343,
+      "artist": "The Verve",
+      "title": "The Drugs Don't Work",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 9,
-      "track_id": 473,
-      "artist": "Every Little Thing",
-      "title": "Shapes Of Love",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
       "rank": 10,
-      "track_id": 1642,
-      "artist": "Jazztronik",
-      "title": "Samurai",
-      "movement": "↓3",
+      "track_id": 1004,
+      "artist": "ゆらゆら帝国",
+      "title": "空洞です",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 8
+      "top10_streak": 1
     }
   ]
 }

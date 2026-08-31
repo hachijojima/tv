@@ -4,78 +4,15 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1679,
-      "artist": "mouse on the keys",
-      "title": "Spectres de Mouse",
-      "movement": "↑1",
+      "track_id": 1642,
+      "artist": "Jazztronik",
+      "title": "Samurai",
+      "movement": "↑3",
       "days_at_number_1": 1,
-      "top10_streak": 2
-    },
-    {
-      "rank": 2,
-      "track_id": 1534,
-      "artist": "大瀧詠一",
-      "title": "恋するカレン",
-      "movement": "↑1",
-      "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 3,
-      "track_id": 582,
-      "artist": "T-BOLAN",
-      "title": "Bye For Now",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 4,
-      "track_id": 1364,
-      "artist": "Linkin Park",
-      "title": "In the End",
-      "movement": "↑4",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 5,
-      "track_id": 1091,
-      "artist": "The Cure",
-      "title": "Boys Don’t Cry",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 6,
-      "track_id": 330,
-      "artist": "カヒミ・カリィ",
-      "title": "Mike Alway's Diary",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
-      "rank": 7,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 8,
-      "track_id": 500,
-      "artist": "モーニング娘。",
-      "title": "Memory 青春の光",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 9,
+      "rank": 2,
       "track_id": 1293,
       "artist": "IU",
       "title": "Good Day",
@@ -84,13 +21,76 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
-      "track_id": 1242,
-      "artist": "Avicii",
-      "title": "Levels",
+      "rank": 3,
+      "track_id": 1254,
+      "artist": "The Chainsmokers",
+      "title": "Closer (feat. Halsey)",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 6
+    },
+    {
+      "rank": 4,
+      "track_id": 1170,
+      "artist": "Mondo Grosso",
+      "title": "ラビリンス",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 5,
+      "track_id": 582,
+      "artist": "T-BOLAN",
+      "title": "Bye For Now",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 9
+    },
+    {
+      "rank": 6,
+      "track_id": 1272,
+      "artist": "BLACKPINK",
+      "title": "How You Like That",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 7,
+      "track_id": 1728,
+      "artist": "いまみれん",
+      "title": "求める nor i",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 8,
+      "track_id": 1298,
+      "artist": "NCT 127",
+      "title": "Kick It",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 1626,
+      "artist": "イルリメ",
+      "title": "元気でやってるのかい？",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1620,
+      "artist": "SPARTA LOCALS",
+      "title": "トーキョウバレリーナ",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     }
   ]
 }

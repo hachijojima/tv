@@ -4,30 +4,30 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1251,
-      "artist": "Kygo",
-      "title": "Firestone (feat. Conrad Sewell)",
-      "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 8
+      "track_id": 1205,
+      "artist": "Beyoncé",
+      "title": "Crazy in Love",
+      "movement": "↑3",
+      "days_at_number_1": 1,
+      "top10_streak": 5
     },
     {
       "rank": 2,
-      "track_id": 1314,
-      "artist": "U2",
-      "title": "Beautiful Day",
-      "movement": "→",
+      "track_id": 852,
+      "artist": "Official髭男dism",
+      "title": "宿命",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 12
+      "top10_streak": 3
     },
     {
       "rank": 3,
-      "track_id": 1594,
-      "artist": "團伊玖磨",
-      "title": "オリンピック序曲",
-      "movement": "↑1",
+      "track_id": 20,
+      "artist": "MONO NO AWARE",
+      "title": "水が湧いた",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 7
     },
     {
       "rank": 4,
@@ -40,15 +40,6 @@
     },
     {
       "rank": 5,
-      "track_id": 1149,
-      "artist": "エレファントカシマシ",
-      "title": "今宵の月のように",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 6,
       "track_id": 640,
       "artist": "杉真理",
       "title": "バカンスはいつも雨",
@@ -57,40 +48,49 @@
       "top10_streak": 1
     },
     {
-      "rank": 7,
-      "track_id": 1205,
-      "artist": "Beyoncé",
-      "title": "Crazy in Love",
-      "movement": "RE",
+      "rank": 6,
+      "track_id": 764,
+      "artist": "EPO",
+      "title": "土曜の夜はパラダイス",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 4
+    },
+    {
+      "rank": 7,
+      "track_id": 573,
+      "artist": "THE BOOM",
+      "title": "風になりたい",
+      "movement": "↓6",
+      "days_at_number_1": 0,
+      "top10_streak": 8
     },
     {
       "rank": 8,
-      "track_id": 1441,
-      "artist": "BLANKEY JET CITY",
-      "title": "ガソリンの揺れかた",
-      "movement": "↓5",
+      "track_id": 1275,
+      "artist": "TWICE",
+      "title": "TT",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 2
     },
     {
       "rank": 9,
-      "track_id": 852,
-      "artist": "Official髭男dism",
-      "title": "宿命",
-      "movement": "↑1",
+      "track_id": 510,
+      "artist": "BEGIN",
+      "title": "島人ぬ宝",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 10,
-      "track_id": 573,
-      "artist": "THE BOOM",
-      "title": "風になりたい",
+      "track_id": 1314,
+      "artist": "U2",
+      "title": "Beautiful Day",
       "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 10
     }
   ]
 }

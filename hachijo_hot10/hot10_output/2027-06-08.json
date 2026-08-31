@@ -4,93 +4,93 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1061,
-      "artist": "Cyndi Lauper",
-      "title": "Time After Time",
+      "track_id": 568,
+      "artist": "54-71",
+      "title": "Life",
       "movement": "↑2",
       "days_at_number_1": 1,
-      "top10_streak": 4
+      "top10_streak": 3
     },
     {
       "rank": 2,
-      "track_id": 1011,
-      "artist": "Underworld",
-      "title": "Born Slippy (Nuxx)",
-      "movement": "↓1",
+      "track_id": 1677,
+      "artist": "te'",
+      "title": "言葉を用いて奏でる者は才能に在らず、ただの記憶に『過』ぎぬ。",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
       "rank": 3,
-      "track_id": 1647,
-      "artist": "YMCK",
-      "title": "Magical 8bit Tour",
-      "movement": "↑5",
+      "track_id": 686,
+      "artist": "細野晴臣",
+      "title": "終りの季節",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 10
+      "top10_streak": 4
     },
     {
       "rank": 4,
-      "track_id": 568,
-      "artist": "54-71",
-      "title": "Life",
-      "movement": "↑6",
+      "track_id": 1568,
+      "artist": "My Bloody Valentine",
+      "title": "To Here Knows When",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 5,
-      "track_id": 19,
-      "artist": "MONO NO AWARE",
-      "title": "幽霊船",
-      "movement": "RE",
+      "track_id": 1013,
+      "artist": "The Police",
+      "title": "Every Breath You Take",
+      "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     },
     {
       "rank": 6,
-      "track_id": 441,
-      "artist": "チャットモンチー",
-      "title": "恋愛スピリッツ",
-      "movement": "→",
+      "track_id": 1154,
+      "artist": "たま",
+      "title": "さよなら人類",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 7,
-      "track_id": 686,
-      "artist": "細野晴臣",
-      "title": "終りの季節",
-      "movement": "↓5",
+      "track_id": 799,
+      "artist": "チャラン・ポ・ランタン",
+      "title": "進め、たまに逃げても",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
       "rank": 8,
-      "track_id": 500,
-      "artist": "モーニング娘。",
-      "title": "Memory 青春の光",
-      "movement": "↓3",
+      "track_id": 1610,
+      "artist": "Small Circle of Friends",
+      "title": "波よせて",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 9
+      "top10_streak": 2
     },
     {
       "rank": 9,
-      "track_id": 336,
-      "artist": "My Little Lover",
-      "title": "Man & Woman",
-      "movement": "RE",
+      "track_id": 1589,
+      "artist": "Massive Attack",
+      "title": "Unfinished Sympathy",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 8
     },
     {
       "rank": 10,
-      "track_id": 1590,
-      "artist": "奥山熊雄",
-      "title": "色のついたシャバタキ・すがる",
-      "movement": "↓6",
+      "track_id": 1299,
+      "artist": "G-DRAGON",
+      "title": "Crooked",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 1
     }
   ]
 }

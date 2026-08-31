@@ -8,20 +8,47 @@
       "artist": "R.E.M.",
       "title": "Man on the Moon",
       "movement": "→",
-      "days_at_number_1": 2,
+      "days_at_number_1": 5,
       "top10_streak": 5
     },
     {
       "rank": 2,
-      "track_id": 452,
-      "artist": "大黒摩季",
-      "title": "Harlem Night",
-      "movement": "NEW",
+      "track_id": 1584,
+      "artist": "Elliott Smith",
+      "title": "Between the Bars",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 5
     },
     {
       "rank": 3,
+      "track_id": 425,
+      "artist": "サニーデイ・サービス",
+      "title": "白い恋人",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 4,
+      "track_id": 1279,
+      "artist": "IVE",
+      "title": "LOVE DIVE",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 5,
+      "track_id": 1327,
+      "artist": "Weezer",
+      "title": "Buddy Holly",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 6,
       "track_id": 1295,
       "artist": "SHINee",
       "title": "Ring Ding Dong",
@@ -30,65 +57,38 @@
       "top10_streak": 1
     },
     {
-      "rank": 4,
-      "track_id": 1023,
-      "artist": "Carpenters",
-      "title": "(They Long To Be) Close To You",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 5,
-      "track_id": 425,
-      "artist": "サニーデイ・サービス",
-      "title": "白い恋人",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 6,
-      "track_id": 1327,
-      "artist": "Weezer",
-      "title": "Buddy Holly",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
       "rank": 7,
-      "track_id": 1154,
-      "artist": "たま",
-      "title": "さよなら人類",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 13
-    },
-    {
-      "rank": 8,
-      "track_id": 1273,
-      "artist": "BTS",
-      "title": "Dynamite",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 9,
       "track_id": 1465,
       "artist": "GREAT3",
       "title": "玉突き",
-      "movement": "↓7",
+      "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
+      "rank": 8,
+      "track_id": 635,
+      "artist": "南佳孝",
+      "title": "モンロー・ウォーク",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 9,
+      "track_id": 619,
+      "artist": "MISIA",
+      "title": "陽のあたる場所",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
       "rank": 10,
-      "track_id": 1032,
-      "artist": "神聖かまってちゃん",
-      "title": "ロックンロールは鳴り止まないっ",
-      "movement": "↓2",
+      "track_id": 380,
+      "artist": "Chara",
+      "title": "Junior Sweet",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
     }

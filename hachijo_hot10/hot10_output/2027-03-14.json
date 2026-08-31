@@ -4,51 +4,60 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1584,
-      "artist": "Elliott Smith",
-      "title": "Between the Bars",
-      "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 9
+      "track_id": 1214,
+      "artist": "Ariana Grande",
+      "title": "Into You",
+      "movement": "↑2",
+      "days_at_number_1": 1,
+      "top10_streak": 3
     },
     {
       "rank": 2,
       "track_id": 998,
       "artist": "Donald Fagen",
       "title": "The Nightfly",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
     {
       "rank": 3,
-      "track_id": 1635,
-      "artist": "MIC JACK PRODUCTION",
-      "title": "Seven Seas Voyage",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 4,
-      "track_id": 1315,
-      "artist": "Nirvana",
-      "title": "Come As You Are",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 5,
-      "track_id": 1214,
-      "artist": "Ariana Grande",
-      "title": "Into You",
+      "track_id": 1344,
+      "artist": "The Cranberries",
+      "title": "Linger",
       "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
+      "rank": 4,
+      "track_id": 1715,
+      "artist": "Oh! Penelope",
+      "title": "ライフイズサニー",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 1247,
+      "artist": "Swedish House Mafia",
+      "title": "Don't You Worry Child",
+      "movement": "↑5",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
       "rank": 6,
+      "track_id": 1072,
+      "artist": "坂本龍一",
+      "title": "Thousand Knives",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 7,
       "track_id": 451,
       "artist": "WANDS",
       "title": "Secret Night ～It's My Treat～",
@@ -57,40 +66,31 @@
       "top10_streak": 1
     },
     {
-      "rank": 7,
-      "track_id": 762,
-      "artist": "ティン・パン・アレー",
-      "title": "北京ダック",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 21
-    },
-    {
       "rank": 8,
-      "track_id": 579,
-      "artist": "ZARD",
-      "title": "きっと忘れない",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 9,
-      "track_id": 1305,
-      "artist": "鼓童",
-      "title": "凰（おおとり）",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 11
-    },
-    {
-      "rank": 10,
       "track_id": 714,
       "artist": "松山千春",
       "title": "恋",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 443,
+      "artist": "clammbon",
+      "title": "便箋歌",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 10,
+      "track_id": 1679,
+      "artist": "mouse on the keys",
+      "title": "Spectres de Mouse",
+      "movement": "↓8",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     }
   ]
 }

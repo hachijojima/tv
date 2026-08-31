@@ -4,78 +4,24 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1395,
-      "artist": "GOING STEADY",
-      "title": "銀河鉄道の夜",
+      "track_id": 565,
+      "artist": "hitomi",
+      "title": "CANDY GIRL",
       "movement": "→",
       "days_at_number_1": 2,
-      "top10_streak": 7
-    },
-    {
-      "rank": 2,
-      "track_id": 585,
-      "artist": "スピッツ",
-      "title": "楓",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 3,
-      "track_id": 1327,
-      "artist": "Weezer",
-      "title": "Buddy Holly",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 13
-    },
-    {
-      "rank": 4,
-      "track_id": 541,
-      "artist": "山崎まさよし",
-      "title": "セロリ",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 5,
-      "track_id": 1476,
-      "artist": "スチャダラパー",
-      "title": "大人になっても",
-      "movement": "↑4",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 6,
-      "track_id": 1681,
-      "artist": "MASS OF THE FERMENTING DREGS",
-      "title": "ひきずるビート",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 7,
-      "track_id": 552,
-      "artist": "森高千里",
-      "title": "雨",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 8,
-      "track_id": 1535,
-      "artist": "大瀧詠一",
-      "title": "雨のウェンズデイ",
-      "movement": "→",
-      "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 9,
+      "rank": 2,
+      "track_id": 551,
+      "artist": "小泉今日子",
+      "title": "木枯しに抱かれて",
+      "movement": "↑7",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 3,
       "track_id": 1110,
       "artist": "Red Hot Chili Peppers",
       "title": "Can’t Stop",
@@ -84,13 +30,67 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
-      "track_id": 1256,
-      "artist": "Major Lazer",
-      "title": "Lean On (with DJ Snake feat. MØ)",
-      "movement": "→",
+      "rank": 4,
+      "track_id": 538,
+      "artist": "シャ乱Q",
+      "title": "ズルい女",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
+    },
+    {
+      "rank": 5,
+      "track_id": 741,
+      "artist": "太田裕美",
+      "title": "さらばシベリア鉄道",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 6,
+      "track_id": 1645,
+      "artist": "CO-FUSION",
+      "title": "Material to Digital",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 7,
+      "track_id": 580,
+      "artist": "FIELD OF VIEW",
+      "title": "Last Good-bye",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 8,
+      "track_id": 277,
+      "artist": "TAMTAM",
+      "title": "Beautiful Bad Dream",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 843,
+      "artist": "Kroi",
+      "title": "Juden",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 10,
+      "track_id": 530,
+      "artist": "X JAPAN",
+      "title": "Rusty Nail",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }

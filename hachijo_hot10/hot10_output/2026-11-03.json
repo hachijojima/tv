@@ -4,33 +4,24 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1383,
-      "artist": "Bon Jovi",
-      "title": "It's My Life",
-      "movement": "↑1",
+      "track_id": 1295,
+      "artist": "SHINee",
+      "title": "Ring Ding Dong",
+      "movement": "↑4",
       "days_at_number_1": 1,
       "top10_streak": 2
     },
     {
       "rank": 2,
-      "track_id": 1295,
-      "artist": "SHINee",
-      "title": "Ring Ding Dong",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 3,
       "track_id": 1068,
       "artist": "Simon & Garfunkel",
       "title": "Bridge Over Troubled Water",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 4,
+      "rank": 3,
       "track_id": 1046,
       "artist": "星野源",
       "title": "不思議",
@@ -39,56 +30,65 @@
       "top10_streak": 3
     },
     {
-      "rank": 5,
-      "track_id": 1040,
-      "artist": "METAFIVE",
-      "title": "環境と心理",
-      "movement": "↑1",
+      "rank": 4,
+      "track_id": 1249,
+      "artist": "Zedd",
+      "title": "Clarity (feat. Foxes)",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 6,
-      "track_id": 10,
-      "artist": "MIZ",
-      "title": "パジャマでハイウェイ",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 7,
-      "track_id": 1309,
-      "artist": "Red Hot Chili Peppers",
-      "title": "Under the Bridge",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 8,
+      "rank": 5,
       "track_id": 1475,
       "artist": "スチャダラパー",
       "title": "ゲームボーイズ",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 6,
+      "track_id": 1227,
+      "artist": "OneRepublic",
+      "title": "Counting Stars",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 7,
+      "track_id": 591,
+      "artist": "LUNA SEA",
+      "title": "I for You",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 8,
+      "track_id": 1036,
+      "artist": "レイ・ハラカミ",
+      "title": "owari no kisetsu",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 9,
+      "track_id": 28,
+      "artist": "トリプルファイヤー",
+      "title": "次やったら殴る",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 9,
-      "track_id": 591,
-      "artist": "LUNA SEA",
-      "title": "I for You",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
       "rank": 10,
-      "track_id": 541,
-      "artist": "山崎まさよし",
-      "title": "セロリ",
-      "movement": "RE",
+      "track_id": 542,
+      "artist": "斉藤和義",
+      "title": "歩いて帰ろう",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

@@ -4,93 +4,93 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1061,
-      "artist": "Cyndi Lauper",
-      "title": "Time After Time",
+      "track_id": 221,
+      "artist": "yonawo",
+      "title": "good job",
       "movement": "→",
       "days_at_number_1": 2,
-      "top10_streak": 8
+      "top10_streak": 2
     },
     {
       "rank": 2,
-      "track_id": 1474,
-      "artist": "スチャダラパー",
-      "title": "GET UP AND DANCE",
+      "track_id": 1592,
+      "artist": "浅沼亨年",
+      "title": "八丈太鼓",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 3,
+      "track_id": 1286,
+      "artist": "SEVENTEEN",
+      "title": "Super",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 4,
+      "track_id": 1543,
+      "artist": "PEALOUT",
+      "title": "爆裂世界 ～世界に追い越されても～",
       "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 7
     },
     {
-      "rank": 3,
-      "track_id": 221,
-      "artist": "yonawo",
-      "title": "good job",
-      "movement": "→",
+      "rank": 5,
+      "track_id": 1028,
+      "artist": "Kendrick Lamar",
+      "title": "Alright",
+      "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 4,
-      "track_id": 1214,
-      "artist": "Ariana Grande",
-      "title": "Into You",
+      "rank": 6,
+      "track_id": 1591,
+      "artist": "稲田カエ",
+      "title": "八丈太鼓囃し",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 7,
+      "track_id": 541,
+      "artist": "山崎まさよし",
+      "title": "セロリ",
       "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
     {
-      "rank": 5,
-      "track_id": 293,
-      "artist": "くるり",
-      "title": "東京",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 6,
-      "track_id": 1275,
-      "artist": "TWICE",
-      "title": "TT",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
-      "rank": 7,
-      "track_id": 1283,
-      "artist": "Stray Kids",
-      "title": "God's Menu",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
       "rank": 8,
-      "track_id": 1351,
-      "artist": "Alanis Morissette",
-      "title": "Ironic",
+      "track_id": 1685,
+      "artist": "BOaT",
+      "title": "ALL",
       "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 4
     },
     {
       "rank": 9,
-      "track_id": 1642,
-      "artist": "Jazztronik",
-      "title": "Samurai",
-      "movement": "NEW",
+      "track_id": 707,
+      "artist": "チューリップ",
+      "title": "心の旅",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 4
     },
     {
       "rank": 10,
-      "track_id": 1543,
-      "artist": "PEALOUT",
-      "title": "爆裂世界 ～世界に追い越されても～",
-      "movement": "↓1",
+      "track_id": 1267,
+      "artist": "Eric Prydz",
+      "title": "Call on Me",
+      "movement": "RE",
       "days_at_number_1": 0,
-      "top10_streak": 12
+      "top10_streak": 1
     }
   ]
 }

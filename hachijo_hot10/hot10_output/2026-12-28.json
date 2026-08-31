@@ -13,24 +13,6 @@
     },
     {
       "rank": 2,
-      "track_id": 11,
-      "artist": "MONO NO AWARE",
-      "title": "異邦人",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 3,
-      "track_id": 1089,
-      "artist": "The Beatles",
-      "title": "Let It Be",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 4,
       "track_id": 468,
       "artist": "X JAPAN",
       "title": "DAHLIA",
@@ -39,58 +21,76 @@
       "top10_streak": 2
     },
     {
-      "rank": 5,
-      "track_id": 457,
-      "artist": "DEEN",
-      "title": "翼を広げて",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 6,
-      "track_id": 275,
-      "artist": "BREIMEN",
-      "title": "yonaki",
-      "movement": "↓3",
+      "rank": 3,
+      "track_id": 701,
+      "artist": "シュガー・ベイブ",
+      "title": "今日はなんだか",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 7,
-      "track_id": 481,
-      "artist": "奥田民生",
-      "title": "愛のために",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 8,
-      "track_id": 12,
-      "artist": "MIZ",
-      "title": "丘",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 9,
-      "track_id": 607,
-      "artist": "THE BLUE HEARTS",
-      "title": "青空",
+      "rank": 4,
+      "track_id": 11,
+      "artist": "MONO NO AWARE",
+      "title": "異邦人",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 10,
-      "track_id": 1371,
-      "artist": "The Killers",
-      "title": "When You Were Young",
-      "movement": "↓4",
+      "rank": 5,
+      "track_id": 1441,
+      "artist": "BLANKEY JET CITY",
+      "title": "ガソリンの揺れかた",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 6,
+      "track_id": 728,
+      "artist": "角松敏生",
+      "title": "If You Wanna Dance",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 7,
+      "track_id": 325,
+      "artist": "SAKEROCK",
+      "title": "慰安旅行",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 315,
+      "artist": "BEAT CRUSADERS",
+      "title": "HIT IN THE USA",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 993,
+      "artist": "The Velvet Underground",
+      "title": "Pale Blue Eyes",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 5
+    },
+    {
+      "rank": 10,
+      "track_id": 1548,
+      "artist": "the brilliant green",
+      "title": "そのスピードで",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }

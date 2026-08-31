@@ -4,60 +4,15 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1020,
-      "artist": "The Doobie Brothers",
-      "title": "What a Fool Believes",
-      "movement": "↑1",
-      "days_at_number_1": 1,
-      "top10_streak": 5
-    },
-    {
-      "rank": 2,
-      "track_id": 12,
-      "artist": "MIZ",
-      "title": "丘",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 12
-    },
-    {
-      "rank": 3,
       "track_id": 281,
       "artist": "ピチカート・ファイヴ",
       "title": "東京は夜の七時",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 2
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 3
     },
     {
-      "rank": 4,
-      "track_id": 325,
-      "artist": "SAKEROCK",
-      "title": "慰安旅行",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 5,
-      "track_id": 468,
-      "artist": "X JAPAN",
-      "title": "DAHLIA",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 12
-    },
-    {
-      "rank": 6,
-      "track_id": 728,
-      "artist": "角松敏生",
-      "title": "If You Wanna Dance",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 7,
+      "rank": 2,
       "track_id": 1590,
       "artist": "奥山熊雄",
       "title": "色のついたシャバタキ・すがる",
@@ -66,31 +21,76 @@
       "top10_streak": 3
     },
     {
-      "rank": 8,
+      "rank": 3,
       "track_id": 885,
       "artist": "Tame Impala",
       "title": "The Less I Know the Better",
-      "movement": "NEW",
+      "movement": "↑5",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
+    },
+    {
+      "rank": 4,
+      "track_id": 1678,
+      "artist": "LITE",
+      "title": "Ef",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 495,
+      "artist": "MISIA",
+      "title": "つつみ込むように…",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 6,
+      "track_id": 1015,
+      "artist": "Thee Michelle Gun Elephant",
+      "title": "世界の終わり",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 7,
+      "track_id": 1602,
+      "artist": "Boredoms",
+      "title": "SUPER ARE",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 1341,
+      "artist": "Pulp",
+      "title": "Disco 2000",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
     },
     {
       "rank": 9,
-      "track_id": 738,
-      "artist": "松田聖子",
-      "title": "瑠璃色の地球",
-      "movement": "RE",
+      "track_id": 1450,
+      "artist": "ゆらゆら帝国",
+      "title": "発光体",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     },
     {
       "rank": 10,
-      "track_id": 11,
-      "artist": "MONO NO AWARE",
-      "title": "異邦人",
-      "movement": "↓3",
+      "track_id": 1728,
+      "artist": "いまみれん",
+      "title": "求める nor i",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 13
+      "top10_streak": 1
     }
   ]
 }

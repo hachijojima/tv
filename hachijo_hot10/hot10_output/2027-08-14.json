@@ -7,21 +7,12 @@
       "track_id": 1705,
       "artist": "大友良英 NEW JAZZ ENSEMBLE",
       "title": "Eureka",
-      "movement": "RE",
-      "days_at_number_1": 1,
-      "top10_streak": 1
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 7
     },
     {
       "rank": 2,
-      "track_id": 1206,
-      "artist": "Beyoncé",
-      "title": "Single Ladies (Put a Ring on It)",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 12
-    },
-    {
-      "rank": 3,
       "track_id": 1690,
       "artist": "あぶらだこ",
       "title": "冬枯れ花火",
@@ -30,34 +21,34 @@
       "top10_streak": 2
     },
     {
-      "rank": 4,
-      "track_id": 1586,
-      "artist": "Teenage Fanclub",
-      "title": "Everything Flows",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 5,
-      "track_id": 1601,
-      "artist": "福島弘和",
-      "title": "吹奏楽のための「おじゃれ」",
-      "movement": "↑5",
+      "rank": 3,
+      "track_id": 229,
+      "artist": "柴田聡子",
+      "title": "ぼちぼち銀河",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 6,
+      "rank": 4,
       "track_id": 1704,
       "artist": "Bondage Fruit",
       "title": "Odd-Job",
-      "movement": "NEW",
+      "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 7,
+      "rank": 5,
+      "track_id": 1347,
+      "artist": "Garbage",
+      "title": "Only Happy When It Rains",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 6,
       "track_id": 1091,
       "artist": "The Cure",
       "title": "Boys Don’t Cry",
@@ -66,31 +57,40 @@
       "top10_streak": 1
     },
     {
-      "rank": 8,
-      "track_id": 11,
-      "artist": "MONO NO AWARE",
-      "title": "異邦人",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
-      "rank": 9,
-      "track_id": 768,
-      "artist": "小沢健二",
-      "title": "いちょう並木のセレナーデ",
+      "rank": 7,
+      "track_id": 436,
+      "artist": "ハナレグミ",
+      "title": "光と影",
       "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 6
     },
     {
-      "rank": 10,
-      "track_id": 1256,
-      "artist": "Major Lazer",
-      "title": "Lean On (with DJ Snake feat. MØ)",
+      "rank": 8,
+      "track_id": 699,
+      "artist": "鈴木茂",
+      "title": "八月の匂い",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 1138,
+      "artist": "Massive Attack",
+      "title": "Protection",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 10,
+      "track_id": 1031,
+      "artist": "宇多田ヒカル",
+      "title": "One Last Kiss",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     }
   ]
 }

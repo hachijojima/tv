@@ -4,93 +4,93 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1241,
-      "artist": "Avicii",
-      "title": "Wake Me Up",
-      "movement": "↑1",
-      "days_at_number_1": 1,
+      "track_id": 1616,
+      "artist": "LITTLE TEMPO",
+      "title": "外道の森",
+      "movement": "→",
+      "days_at_number_1": 2,
       "top10_streak": 3
     },
     {
       "rank": 2,
-      "track_id": 1635,
-      "artist": "MIC JACK PRODUCTION",
-      "title": "Seven Seas Voyage",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 13
-    },
-    {
-      "rank": 3,
-      "track_id": 839,
-      "artist": "Awesome City Club",
-      "title": "アウトサイダー",
-      "movement": "↑4",
+      "track_id": 1474,
+      "artist": "スチャダラパー",
+      "title": "GET UP AND DANCE",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 4,
-      "track_id": 1543,
-      "artist": "PEALOUT",
-      "title": "爆裂世界 ～世界に追い越されても～",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 5,
-      "track_id": 259,
-      "artist": "ドミコ",
-      "title": "ペーパーロールスター",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 6,
-      "track_id": 489,
-      "artist": "小泉今日子",
-      "title": "Fade Out",
-      "movement": "↑4",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 7,
-      "track_id": 1651,
-      "artist": "Oorutaichi",
-      "title": "Hamihadarigeri",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 8,
+      "rank": 3,
       "track_id": 604,
       "artist": "斉藤和義",
       "title": "彼女",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
     {
-      "rank": 9,
-      "track_id": 348,
-      "artist": "レミオロメン",
-      "title": "電話",
-      "movement": "RE",
+      "rank": 4,
+      "track_id": 605,
+      "artist": "奥田民生",
+      "title": "イージュー★ライダー",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 5,
+      "track_id": 1247,
+      "artist": "Swedish House Mafia",
+      "title": "Don't You Worry Child",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 9
+    },
+    {
+      "rank": 6,
+      "track_id": 1710,
+      "artist": "MOTOCOMPO",
+      "title": "Lemonade",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 10,
-      "track_id": 1616,
-      "artist": "LITTLE TEMPO",
-      "title": "外道の森",
-      "movement": "↓2",
+      "rank": 7,
+      "track_id": 1468,
+      "artist": "東京No.1 SOUL SET",
+      "title": "黄昏'95〜太陽の季節",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 651,
+      "artist": "中島みゆき",
+      "title": "時代",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
+    },
+    {
+      "rank": 9,
+      "track_id": 287,
+      "artist": "Fishmans",
+      "title": "いかれたBaby",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 10,
+      "track_id": 4,
+      "artist": "MIZ",
+      "title": "空砲",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }

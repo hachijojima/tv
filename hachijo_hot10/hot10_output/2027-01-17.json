@@ -4,78 +4,51 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1048,
-      "artist": "Ben E. King",
-      "title": "Stand By Me",
+      "track_id": 1473,
+      "artist": "スチャダラパー",
+      "title": "今夜はブギー・バック (smooth rap)",
       "movement": "↑3",
       "days_at_number_1": 1,
       "top10_streak": 3
     },
     {
       "rank": 2,
-      "track_id": 1674,
-      "artist": "Pasteboard",
-      "title": "Flipper",
-      "movement": "↑5",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 3,
-      "track_id": 1473,
-      "artist": "スチャダラパー",
-      "title": "今夜はブギー・バック (smooth rap)",
-      "movement": "↑5",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 4,
-      "track_id": 459,
-      "artist": "B'z",
-      "title": "MOTEL",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 5,
       "track_id": 432,
       "artist": "SUPERCAR",
       "title": "cream soda",
       "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 4
+    },
+    {
+      "rank": 3,
+      "track_id": 1674,
+      "artist": "Pasteboard",
+      "title": "Flipper",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 4,
+      "track_id": 1659,
+      "artist": "fOUL",
+      "title": "枯槁",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 5,
+      "track_id": 459,
+      "artist": "B'z",
+      "title": "MOTEL",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 7
     },
     {
       "rank": 6,
-      "track_id": 1245,
-      "artist": "David Guetta",
-      "title": "Titanium (feat. Sia)",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 7,
-      "track_id": 1542,
-      "artist": "COALTAR OF THE DEEPERS",
-      "title": "My Speedy Sarah",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 8,
-      "track_id": 1719,
-      "artist": "Kaoru Inoue",
-      "title": "The Invisible Eclipse",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 9,
       "track_id": 2,
       "artist": "MIZ",
       "title": "パレード",
@@ -84,13 +57,40 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
-      "track_id": 542,
-      "artist": "斉藤和義",
-      "title": "歩いて帰ろう",
-      "movement": "↓8",
+      "rank": 7,
+      "track_id": 1289,
+      "artist": "2NE1",
+      "title": "I AM THE BEST",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 1690,
+      "artist": "あぶらだこ",
+      "title": "冬枯れ花火",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 9,
+      "track_id": 1647,
+      "artist": "YMCK",
+      "title": "Magical 8bit Tour",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 493,
+      "artist": "DREAMS COME TRUE",
+      "title": "眼鏡越しの空",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     }
   ]
 }

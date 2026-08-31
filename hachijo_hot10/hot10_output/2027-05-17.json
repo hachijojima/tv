@@ -4,33 +4,24 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1364,
-      "artist": "Linkin Park",
-      "title": "In the End",
-      "movement": "↑1",
-      "days_at_number_1": 1,
-      "top10_streak": 8
+      "track_id": 524,
+      "artist": "サザンオールスターズ",
+      "title": "希望の轍",
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 4
     },
     {
       "rank": 2,
-      "track_id": 18,
-      "artist": "MONO NO AWARE",
-      "title": "アングル",
-      "movement": "↑7",
+      "track_id": 1248,
+      "artist": "Swedish House Mafia",
+      "title": "Save the World",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 3,
-      "track_id": 1475,
-      "artist": "スチャダラパー",
-      "title": "ゲームボーイズ",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 4,
       "track_id": 1379,
       "artist": "Blink-182",
       "title": "All the Small Things",
@@ -39,55 +30,64 @@
       "top10_streak": 1
     },
     {
+      "rank": 4,
+      "track_id": 14,
+      "artist": "MIZ",
+      "title": "とびうおのうた",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
       "rank": 5,
-      "track_id": 1695,
-      "artist": "BO GUMBOS",
-      "title": "泥んこ道を二人",
-      "movement": "↓1",
+      "track_id": 1068,
+      "artist": "Simon & Garfunkel",
+      "title": "Bridge Over Troubled Water",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
       "rank": 6,
-      "track_id": 1248,
-      "artist": "Swedish House Mafia",
-      "title": "Save the World",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 7,
-      "track_id": 1068,
-      "artist": "Simon & Garfunkel",
-      "title": "Bridge Over Troubled Water",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 8,
-      "track_id": 1028,
-      "artist": "Kendrick Lamar",
-      "title": "Alright",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 9,
-      "track_id": 1633,
-      "artist": "キエるマキュウ",
-      "title": "ナゼナラ",
-      "movement": "↓8",
+      "track_id": 1053,
+      "artist": "Radiohead",
+      "title": "Let Down",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
+      "rank": 7,
+      "track_id": 1652,
+      "artist": "Kiiiiiii",
+      "title": "4 Little Joeys",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 9
+    },
+    {
+      "rank": 8,
+      "track_id": 1228,
+      "artist": "Maroon 5",
+      "title": "Sugar",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 9,
+      "track_id": 1192,
+      "artist": "岡村靖幸",
+      "title": "カルアミルク",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
       "rank": 10,
-      "track_id": 1303,
-      "artist": "爆風スランプ",
-      "title": "神話",
+      "track_id": 965,
+      "artist": "Norah Jones",
+      "title": "Sunrise",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1

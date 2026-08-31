@@ -4,51 +4,42 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1089,
-      "artist": "The Beatles",
-      "title": "Let It Be",
-      "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 8
-    },
-    {
-      "rank": 2,
       "track_id": 524,
       "artist": "サザンオールスターズ",
       "title": "希望の轍",
       "movement": "→",
-      "days_at_number_1": 0,
+      "days_at_number_1": 3,
       "top10_streak": 6
     },
     {
-      "rank": 3,
-      "track_id": 1394,
-      "artist": "GOING STEADY",
-      "title": "BABY BABY",
+      "rank": 2,
+      "track_id": 293,
+      "artist": "くるり",
+      "title": "東京",
       "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 4
     },
     {
-      "rank": 4,
+      "rank": 3,
       "track_id": 1542,
       "artist": "COALTAR OF THE DEEPERS",
       "title": "My Speedy Sarah",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 8
     },
     {
-      "rank": 5,
-      "track_id": 293,
-      "artist": "くるり",
-      "title": "東京",
-      "movement": "→",
+      "rank": 4,
+      "track_id": 1078,
+      "artist": "Daft Punk",
+      "title": "Get Lucky (feat. Pharrell Williams and Nile Rodgers)",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 6,
+      "rank": 5,
       "track_id": 1515,
       "artist": "戸川純",
       "title": "レーダーマン",
@@ -57,7 +48,7 @@
       "top10_streak": 1
     },
     {
-      "rank": 7,
+      "rank": 6,
       "track_id": 1205,
       "artist": "Beyoncé",
       "title": "Crazy in Love",
@@ -66,13 +57,22 @@
       "top10_streak": 2
     },
     {
-      "rank": 8,
-      "track_id": 1021,
-      "artist": "スチャダラパー",
-      "title": "サマージャム’95",
-      "movement": "↑2",
+      "rank": 7,
+      "track_id": 1717,
+      "artist": "Chari Chari",
+      "title": "Across the Universe",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 10
+      "top10_streak": 5
+    },
+    {
+      "rank": 8,
+      "track_id": 1718,
+      "artist": "Calm",
+      "title": "Light Years",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 5
     },
     {
       "rank": 9,
@@ -85,12 +85,12 @@
     },
     {
       "rank": 10,
-      "track_id": 1717,
-      "artist": "Chari Chari",
-      "title": "Across the Universe",
-      "movement": "↓3",
+      "track_id": 1032,
+      "artist": "神聖かまってちゃん",
+      "title": "ロックンロールは鳴り止まないっ",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 1
     }
   ]
 }

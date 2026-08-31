@@ -8,8 +8,8 @@
       "artist": "スピッツ",
       "title": "楓",
       "movement": "→",
-      "days_at_number_1": 4,
-      "top10_streak": 10
+      "days_at_number_1": 3,
+      "top10_streak": 3
     },
     {
       "rank": 2,
@@ -18,76 +18,76 @@
       "title": "大人になっても",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 4
     },
     {
       "rank": 3,
-      "track_id": 1395,
-      "artist": "GOING STEADY",
-      "title": "銀河鉄道の夜",
-      "movement": "→",
+      "track_id": 277,
+      "artist": "TAMTAM",
+      "title": "Beautiful Bad Dream",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 11
+      "top10_streak": 5
     },
     {
       "rank": 4,
-      "track_id": 133,
-      "artist": "iri",
-      "title": "rhythm",
-      "movement": "↑6",
+      "track_id": 1641,
+      "artist": "Kyoto Jazz Massive",
+      "title": "Eclipse",
+      "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 5,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "↓1",
+      "track_id": 1110,
+      "artist": "Red Hot Chili Peppers",
+      "title": "Can’t Stop",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 5
     },
     {
       "rank": 6,
-      "track_id": 341,
-      "artist": "NUMBER GIRL",
-      "title": "OMOIDE IN MY HEAD",
-      "movement": "→",
+      "track_id": 1650,
+      "artist": "Cokiyu",
+      "title": "Mirror Flake",
+      "movement": "RE",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
     },
     {
       "rank": 7,
-      "track_id": 539,
-      "artist": "KAN",
-      "title": "まゆみ",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 8,
-      "track_id": 644,
-      "artist": "オフコース",
-      "title": "さよなら",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 9,
-      "track_id": 541,
-      "artist": "山崎まさよし",
-      "title": "セロリ",
+      "track_id": 551,
+      "artist": "小泉今日子",
+      "title": "木枯しに抱かれて",
       "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 7
     },
     {
+      "rank": 8,
+      "track_id": 693,
+      "artist": "RCサクセション",
+      "title": "雨あがりの夜空に",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 9,
+      "track_id": 572,
+      "artist": "BEGIN",
+      "title": "恋しくて",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
       "rank": 10,
-      "track_id": 1324,
-      "artist": "Green Day",
-      "title": "Good Riddance (Time of Your Life)",
+      "track_id": 566,
+      "artist": "the brilliant green",
+      "title": "冷たい花",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1

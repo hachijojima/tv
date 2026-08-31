@@ -4,93 +4,93 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1058,
-      "artist": "ランカ・リー=中島愛",
-      "title": "星間飛行",
+      "track_id": 1113,
+      "artist": "The Beatles",
+      "title": "Blackbird",
       "movement": "→",
-      "days_at_number_1": 3,
-      "top10_streak": 6
+      "days_at_number_1": 2,
+      "top10_streak": 3
     },
     {
       "rank": 2,
-      "track_id": 1601,
-      "artist": "福島弘和",
-      "title": "吹奏楽のための「おじゃれ」",
-      "movement": "↑1",
+      "track_id": 1395,
+      "artist": "GOING STEADY",
+      "title": "銀河鉄道の夜",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 6
     },
     {
       "rank": 3,
-      "track_id": 19,
-      "artist": "MONO NO AWARE",
-      "title": "幽霊船",
-      "movement": "↑3",
+      "track_id": 1655,
+      "artist": "モーモールルギャバン",
+      "title": "サイケな恋人",
+      "movement": "↑5",
       "days_at_number_1": 0,
-      "top10_streak": 8
+      "top10_streak": 2
     },
     {
       "rank": 4,
-      "track_id": 707,
-      "artist": "チューリップ",
-      "title": "心の旅",
+      "track_id": 1660,
+      "artist": "COWPERS",
+      "title": "Curve",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 1098,
+      "artist": "a-ha",
+      "title": "Take on Me",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 6,
+      "track_id": 1033,
+      "artist": "Billy Joel",
+      "title": "Just the Way You Are",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 7,
+      "track_id": 630,
+      "artist": "RCサクセション",
+      "title": "スローバラード",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 5,
-      "track_id": 1718,
-      "artist": "Calm",
-      "title": "Light Years",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 6,
-      "track_id": 1113,
-      "artist": "The Beatles",
-      "title": "Blackbird",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 7,
-      "track_id": 1593,
-      "artist": "天田トメノ",
-      "title": "ショメ節",
-      "movement": "RE",
+      "rank": 8,
+      "track_id": 339,
+      "artist": "フジファブリック",
+      "title": "茜色の夕日",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 8,
-      "track_id": 1219,
-      "artist": "Ed Sheeran",
-      "title": "Shape of You",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
       "rank": 9,
-      "track_id": 1655,
-      "artist": "モーモールルギャバン",
-      "title": "サイケな恋人",
+      "track_id": 950,
+      "artist": "Fleetwood Mac",
+      "title": "Everywhere",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 494,
-      "artist": "久保田利伸",
-      "title": "流星のサドル",
-      "movement": "↓3",
+      "track_id": 1115,
+      "artist": "The Ronettes",
+      "title": "Be My Baby",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 1
     }
   ]
 }

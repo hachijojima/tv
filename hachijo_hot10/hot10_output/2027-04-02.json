@@ -4,93 +4,93 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1061,
-      "artist": "Cyndi Lauper",
-      "title": "Time After Time",
-      "movement": "→",
-      "days_at_number_1": 3,
-      "top10_streak": 9
-    },
-    {
-      "rank": 2,
-      "track_id": 679,
-      "artist": "太田裕美",
-      "title": "木綿のハンカチーフ",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 3,
-      "track_id": 1474,
-      "artist": "スチャダラパー",
-      "title": "GET UP AND DANCE",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 4,
       "track_id": 221,
       "artist": "yonawo",
       "title": "good job",
-      "movement": "↓1",
+      "movement": "→",
+      "days_at_number_1": 3,
+      "top10_streak": 3
+    },
+    {
+      "rank": 2,
+      "track_id": 1592,
+      "artist": "浅沼亨年",
+      "title": "八丈太鼓",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 3,
+      "track_id": 1028,
+      "artist": "Kendrick Lamar",
+      "title": "Alright",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 5,
-      "track_id": 293,
-      "artist": "くるり",
-      "title": "東京",
+      "rank": 4,
+      "track_id": 1543,
+      "artist": "PEALOUT",
+      "title": "爆裂世界 ～世界に追い越されても～",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 8
+    },
+    {
+      "rank": 5,
+      "track_id": 1286,
+      "artist": "SEVENTEEN",
+      "title": "Super",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 5
     },
     {
       "rank": 6,
-      "track_id": 1642,
-      "artist": "Jazztronik",
-      "title": "Samurai",
-      "movement": "↑3",
+      "track_id": 1267,
+      "artist": "Eric Prydz",
+      "title": "Call on Me",
+      "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 7,
-      "track_id": 1678,
-      "artist": "LITE",
-      "title": "Ef",
-      "movement": "NEW",
+      "track_id": 1591,
+      "artist": "稲田カエ",
+      "title": "八丈太鼓囃し",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 8
     },
     {
       "rank": 8,
-      "track_id": 473,
-      "artist": "Every Little Thing",
-      "title": "Shapes Of Love",
-      "movement": "RE",
+      "track_id": 341,
+      "artist": "NUMBER GIRL",
+      "title": "OMOIDE IN MY HEAD",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 9,
-      "track_id": 630,
-      "artist": "RCサクセション",
-      "title": "スローバラード",
-      "movement": "NEW",
+      "track_id": 707,
+      "artist": "チューリップ",
+      "title": "心の旅",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 5
     },
     {
       "rank": 10,
-      "track_id": 1351,
-      "artist": "Alanis Morissette",
-      "title": "Ironic",
+      "track_id": 1685,
+      "artist": "BOaT",
+      "title": "ALL",
       "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 5
     }
   ]
 }

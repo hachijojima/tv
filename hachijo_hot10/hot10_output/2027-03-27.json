@@ -9,7 +9,7 @@
       "title": "GET UP AND DANCE",
       "movement": "→",
       "days_at_number_1": 2,
-      "top10_streak": 2
+      "top10_streak": 10
     },
     {
       "rank": 2,
@@ -18,79 +18,79 @@
       "title": "爆裂世界 ～世界に追い越されても～",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 2
     },
     {
       "rank": 3,
-      "track_id": 1275,
-      "artist": "TWICE",
-      "title": "TT",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 4,
-      "track_id": 11,
-      "artist": "MONO NO AWARE",
-      "title": "異邦人",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 5,
-      "track_id": 541,
-      "artist": "山崎まさよし",
-      "title": "セロリ",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 6,
-      "track_id": 1214,
-      "artist": "Ariana Grande",
-      "title": "Into You",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 7,
-      "track_id": 1635,
-      "artist": "MIC JACK PRODUCTION",
-      "title": "Seven Seas Voyage",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 19
-    },
-    {
-      "rank": 8,
-      "track_id": 1061,
-      "artist": "Cyndi Lauper",
-      "title": "Time After Time",
+      "track_id": 641,
+      "artist": "佐野元春",
+      "title": "SOMEDAY",
       "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
+      "rank": 4,
+      "track_id": 1348,
+      "artist": "No Doubt",
+      "title": "Don't Speak",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 5,
+      "track_id": 1099,
+      "artist": "bôa",
+      "title": "Duvet",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 6,
+      "track_id": 1591,
+      "artist": "稲田カエ",
+      "title": "八丈太鼓囃し",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 7,
+      "track_id": 331,
+      "artist": "ORIGINAL LOVE",
+      "title": "朝日のあたる道 AS TIME GOES BY",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 1022,
+      "artist": "10cc",
+      "title": "I’m Not In Love",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
       "rank": 9,
-      "track_id": 1204,
-      "artist": "Rihanna",
-      "title": "We Found Love",
-      "movement": "↓1",
+      "track_id": 1260,
+      "artist": "DJ Snake",
+      "title": "Let Me Love You (feat. Justin Bieber)",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
       "rank": 10,
-      "track_id": 458,
-      "artist": "T-BOLAN",
-      "title": "すれ違いの純情",
-      "movement": "↓1",
+      "track_id": 541,
+      "artist": "山崎まさよし",
+      "title": "セロリ",
+      "movement": "RE",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 1
     }
   ]
 }

@@ -4,60 +4,15 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1020,
-      "artist": "The Doobie Brothers",
-      "title": "What a Fool Believes",
-      "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 6
-    },
-    {
-      "rank": 2,
       "track_id": 281,
       "artist": "ピチカート・ファイヴ",
       "title": "東京は夜の七時",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 3,
-      "track_id": 12,
-      "artist": "MIZ",
-      "title": "丘",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 13
-    },
-    {
-      "rank": 4,
-      "track_id": 325,
-      "artist": "SAKEROCK",
-      "title": "慰安旅行",
       "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 7
+      "days_at_number_1": 3,
+      "top10_streak": 4
     },
     {
-      "rank": 5,
-      "track_id": 193,
-      "artist": "Nulbarich",
-      "title": "Kiss You Back",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 6,
-      "track_id": 738,
-      "artist": "松田聖子",
-      "title": "瑠璃色の地球",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 7,
+      "rank": 2,
       "track_id": 1590,
       "artist": "奥山熊雄",
       "title": "色のついたシャバタキ・すがる",
@@ -66,29 +21,74 @@
       "top10_streak": 4
     },
     {
+      "rank": 3,
+      "track_id": 193,
+      "artist": "Nulbarich",
+      "title": "Kiss You Back",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 4,
+      "track_id": 885,
+      "artist": "Tame Impala",
+      "title": "The Less I Know the Better",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 5,
+      "track_id": 1678,
+      "artist": "LITE",
+      "title": "Ef",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 6,
+      "track_id": 495,
+      "artist": "MISIA",
+      "title": "つつみ込むように…",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 7,
+      "track_id": 1341,
+      "artist": "Pulp",
+      "title": "Disco 2000",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
       "rank": 8,
-      "track_id": 1584,
-      "artist": "Elliott Smith",
-      "title": "Between the Bars",
-      "movement": "RE",
+      "track_id": 711,
+      "artist": "井上陽水",
+      "title": "帰れない二人",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 9,
-      "track_id": 728,
-      "artist": "角松敏生",
-      "title": "If You Wanna Dance",
+      "track_id": 1015,
+      "artist": "Thee Michelle Gun Elephant",
+      "title": "世界の終わり",
       "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 8
+      "top10_streak": 6
     },
     {
       "rank": 10,
-      "track_id": 1242,
-      "artist": "Avicii",
-      "title": "Levels",
-      "movement": "RE",
+      "track_id": 759,
+      "artist": "吉田美奈子",
+      "title": "TOWN",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

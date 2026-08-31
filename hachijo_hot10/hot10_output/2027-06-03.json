@@ -4,91 +4,91 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1048,
-      "artist": "Ben E. King",
-      "title": "Stand By Me",
-      "movement": "↑1",
-      "days_at_number_1": 1,
-      "top10_streak": 8
-    },
-    {
-      "rank": 2,
-      "track_id": 500,
-      "artist": "モーニング娘。",
-      "title": "Memory 青春の光",
-      "movement": "↑3",
-      "days_at_number_1": 0,
+      "track_id": 1666,
+      "artist": "Supersnazz",
+      "title": "I Wanna Be Your Love",
+      "movement": "→",
+      "days_at_number_1": 2,
       "top10_streak": 4
     },
     {
-      "rank": 3,
-      "track_id": 1647,
-      "artist": "YMCK",
-      "title": "Magical 8bit Tour",
-      "movement": "↓2",
+      "rank": 2,
+      "track_id": 1589,
+      "artist": "Massive Attack",
+      "title": "Unfinished Sympathy",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 3
+    },
+    {
+      "rank": 3,
+      "track_id": 149,
+      "artist": "浮",
+      "title": "愛の話",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     },
     {
       "rank": 4,
-      "track_id": 520,
-      "artist": "T-BOLAN",
-      "title": "じれったい愛",
-      "movement": "↓1",
+      "track_id": 1394,
+      "artist": "GOING STEADY",
+      "title": "BABY BABY",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
       "rank": 5,
-      "track_id": 1719,
-      "artist": "Kaoru Inoue",
-      "title": "The Invisible Eclipse",
-      "movement": "↑3",
+      "track_id": 71,
+      "artist": "VIDEOTAPEMUSIC",
+      "title": "世界各国の夜",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
       "rank": 6,
-      "track_id": 1584,
-      "artist": "Elliott Smith",
-      "title": "Between the Bars",
-      "movement": "↓2",
+      "track_id": 1697,
+      "artist": "青山陽一",
+      "title": "Better Days",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 1
     },
     {
       "rank": 7,
-      "track_id": 298,
-      "artist": "BUMP OF CHICKEN",
-      "title": "車輪の唄",
-      "movement": "↑3",
+      "track_id": 1691,
+      "artist": "非常階段",
+      "title": "Modern",
+      "movement": "RE",
       "days_at_number_1": 0,
-      "top10_streak": 8
+      "top10_streak": 1
     },
     {
       "rank": 8,
-      "track_id": 459,
-      "artist": "B'z",
-      "title": "MOTEL",
-      "movement": "↓2",
+      "track_id": 209,
+      "artist": "Yogee New Waves",
+      "title": "World is Mine",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 1271,
+      "artist": "BLACKPINK",
+      "title": "DDU-DU DDU-DU",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 9,
-      "track_id": 1666,
-      "artist": "Supersnazz",
-      "title": "I Wanna Be Your Love",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
       "rank": 10,
-      "track_id": 1231,
-      "artist": "Sabrina Carpenter",
-      "title": "Espresso",
-      "movement": "RE",
+      "track_id": 1385,
+      "artist": "Fishmans",
+      "title": "頼りない天使",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

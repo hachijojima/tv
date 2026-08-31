@@ -4,93 +4,93 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1327,
-      "artist": "Weezer",
-      "title": "Buddy Holly",
-      "movement": "↑1",
+      "track_id": 103,
+      "artist": "AAAMYYY",
+      "title": "Leeloo",
+      "movement": "NEW",
       "days_at_number_1": 1,
-      "top10_streak": 6
-    },
-    {
-      "rank": 2,
-      "track_id": 244,
-      "artist": "森は生きている",
-      "title": "煙夜の夢",
-      "movement": "RE",
-      "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
+      "rank": 2,
+      "track_id": 819,
+      "artist": "ずっと真夜中でいいのに。",
+      "title": "正しくなれない",
+      "movement": "↑8",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
       "rank": 3,
-      "track_id": 523,
-      "artist": "スピッツ",
-      "title": "渚",
-      "movement": "↑1",
+      "track_id": 1089,
+      "artist": "The Beatles",
+      "title": "Let It Be",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 4,
-      "track_id": 1023,
-      "artist": "Carpenters",
-      "title": "(They Long To Be) Close To You",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 10
-    },
-    {
-      "rank": 5,
-      "track_id": 1603,
-      "artist": "ROVO",
-      "title": "SINO DUB",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 6,
-      "track_id": 452,
-      "artist": "大黒摩季",
-      "title": "Harlem Night",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 7,
-      "track_id": 103,
-      "artist": "AAAMYYY",
-      "title": "Leeloo",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 8,
-      "track_id": 1068,
-      "artist": "Simon & Garfunkel",
-      "title": "Bridge Over Troubled Water",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 9,
-      "track_id": 1333,
-      "artist": "R.E.M.",
-      "title": "Man on the Moon",
-      "movement": "↓8",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
-      "rank": 10,
       "track_id": 937,
       "artist": "Alvvays",
       "title": "Archie, Marry Me",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 5,
+      "track_id": 1357,
+      "artist": "The White Stripes",
+      "title": "Seven Nation Army",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 6,
+      "track_id": 690,
+      "artist": "大滝詠一",
+      "title": "恋するカレン",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 7,
+      "track_id": 1327,
+      "artist": "Weezer",
+      "title": "Buddy Holly",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 10
+    },
+    {
+      "rank": 8,
+      "track_id": 1462,
+      "artist": "Buffalo Daughter",
+      "title": "Cyclic",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 425,
+      "artist": "サニーデイ・サービス",
+      "title": "白い恋人",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 10,
+      "track_id": 1584,
+      "artist": "Elliott Smith",
+      "title": "Between the Bars",
+      "movement": "↓8",
+      "days_at_number_1": 0,
+      "top10_streak": 9
     }
   ]
 }

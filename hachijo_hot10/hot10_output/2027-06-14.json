@@ -4,91 +4,91 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 19,
-      "artist": "MONO NO AWARE",
-      "title": "幽霊船",
+      "track_id": 1507,
+      "artist": "じゃがたら",
+      "title": "タンゴ",
       "movement": "→",
       "days_at_number_1": 2,
-      "top10_streak": 7
+      "top10_streak": 5
     },
     {
       "rank": 2,
+      "track_id": 1339,
+      "artist": "Blur",
+      "title": "Girls & Boys",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 3,
       "track_id": 568,
       "artist": "54-71",
       "title": "Life",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 3,
-      "track_id": 1011,
-      "artist": "Underworld",
-      "title": "Born Slippy (Nuxx)",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 11
+      "top10_streak": 9
     },
     {
       "rank": 4,
-      "track_id": 1695,
-      "artist": "BO GUMBOS",
-      "title": "泥んこ道を二人",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 5,
-      "track_id": 415,
-      "artist": "bonobos",
-      "title": "Standing There ～いま、そこに行くよ～",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 6,
-      "track_id": 1507,
-      "artist": "じゃがたら",
-      "title": "タンゴ",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 7,
-      "track_id": 1541,
-      "artist": "Cocco",
-      "title": "カウントダウン",
-      "movement": "↓3",
+      "track_id": 1066,
+      "artist": "Nujabes",
+      "title": "Luv(sic.) pt3 (feat. Shing02)",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 8,
-      "track_id": 1061,
-      "artist": "Cyndi Lauper",
-      "title": "Time After Time",
-      "movement": "↓3",
+      "rank": 5,
+      "track_id": 228,
+      "artist": "スカート",
+      "title": "ストーリー",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 10
+      "top10_streak": 4
     },
     {
-      "rank": 9,
-      "track_id": 1154,
-      "artist": "たま",
-      "title": "さよなら人類",
+      "rank": 6,
+      "track_id": 1422,
+      "artist": "Hi-STANDARD",
+      "title": "DEAR MY FRIEND",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 7,
+      "track_id": 1013,
+      "artist": "The Police",
+      "title": "Every Breath You Take",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 8,
+      "track_id": 429,
+      "artist": "キリンジ",
+      "title": "双子座グラフィティ",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
+      "rank": 9,
+      "track_id": 1636,
+      "artist": "降神",
+      "title": "帰り道",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
       "rank": 10,
-      "track_id": 1315,
-      "artist": "Nirvana",
-      "title": "Come As You Are",
-      "movement": "RE",
+      "track_id": 1723,
+      "artist": "竹村延和",
+      "title": "こどもと魔法",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

@@ -4,78 +4,42 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1252,
-      "artist": "Kygo",
-      "title": "Stole the Show (feat. Parson James)",
-      "movement": "→",
-      "days_at_number_1": 2,
+      "track_id": 283,
+      "artist": "小沢健二",
+      "title": "ぼくらが旅に出る理由",
+      "movement": "↑2",
+      "days_at_number_1": 1,
       "top10_streak": 4
     },
     {
       "rank": 2,
-      "track_id": 967,
-      "artist": "Nick Drake",
-      "title": "Northern Sky",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 3,
-      "track_id": 1535,
-      "artist": "大瀧詠一",
-      "title": "雨のウェンズデイ",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 4,
-      "track_id": 768,
-      "artist": "小沢健二",
-      "title": "いちょう並木のセレナーデ",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 12
-    },
-    {
-      "rank": 5,
-      "track_id": 147,
-      "artist": "mei ehara",
-      "title": "蓋なしの彼",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 6,
-      "track_id": 701,
-      "artist": "シュガー・ベイブ",
-      "title": "今日はなんだか",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 7,
       "track_id": 379,
       "artist": "UA",
       "title": "悲しみジョニー",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 3
     },
     {
-      "rank": 8,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
+      "rank": 3,
+      "track_id": 147,
+      "artist": "mei ehara",
+      "title": "蓋なしの彼",
       "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 4
     },
     {
-      "rank": 9,
+      "rank": 4,
+      "track_id": 1257,
+      "artist": "Clean Bandit",
+      "title": "Rather Be (feat. Jess Glynne)",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 5,
       "track_id": 663,
       "artist": "カルメン・マキ",
       "title": "時には母のない子のように",
@@ -84,13 +48,49 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
-      "track_id": 1090,
-      "artist": "The Beatles",
-      "title": "Strawberry Fields Forever",
-      "movement": "RE",
+      "rank": 6,
+      "track_id": 1699,
+      "artist": "湯川潮音",
+      "title": "緑のアーチ",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 7,
+      "track_id": 705,
+      "artist": "大江千里",
+      "title": "Rain",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 8,
+      "track_id": 1714,
+      "artist": "CITROBAL",
+      "title": "My Cherry",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 1215,
+      "artist": "Taylor Swift",
+      "title": "Shake It Off",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 10,
+      "track_id": 62,
+      "artist": "浮",
+      "title": "つきひ",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     }
   ]
 }

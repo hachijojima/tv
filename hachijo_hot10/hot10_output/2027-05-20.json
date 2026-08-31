@@ -4,93 +4,93 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 18,
-      "artist": "MONO NO AWARE",
-      "title": "アングル",
+      "track_id": 1248,
+      "artist": "Swedish House Mafia",
+      "title": "Save the World",
       "movement": "→",
-      "days_at_number_1": 3,
+      "days_at_number_1": 2,
       "top10_streak": 5
     },
     {
       "rank": 2,
-      "track_id": 1248,
-      "artist": "Swedish House Mafia",
-      "title": "Save the World",
-      "movement": "↑3",
+      "track_id": 1228,
+      "artist": "Maroon 5",
+      "title": "Sugar",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 5
     },
     {
       "rank": 3,
-      "track_id": 1608,
-      "artist": "rei harakami",
-      "title": "joy",
-      "movement": "↓1",
+      "track_id": 1338,
+      "artist": "Coldplay",
+      "title": "In My Place",
+      "movement": "↑7",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 4,
+      "track_id": 524,
+      "artist": "サザンオールスターズ",
+      "title": "希望の轍",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 5,
+      "track_id": 742,
+      "artist": "キャンディーズ",
+      "title": "やさしい悪魔",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 4,
-      "track_id": 1594,
-      "artist": "團伊玖磨",
-      "title": "オリンピック序曲",
+      "rank": 6,
+      "track_id": 965,
+      "artist": "Norah Jones",
+      "title": "Sunrise",
       "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 5,
-      "track_id": 1028,
-      "artist": "Kendrick Lamar",
-      "title": "Alright",
-      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 6,
-      "track_id": 1043,
-      "artist": "Television",
-      "title": "Marquee Moon",
-      "movement": "↑4",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
       "rank": 7,
-      "track_id": 1068,
-      "artist": "Simon & Garfunkel",
-      "title": "Bridge Over Troubled Water",
-      "movement": "↓3",
+      "track_id": 14,
+      "artist": "MIZ",
+      "title": "とびうおのうた",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 8
+      "top10_streak": 5
     },
     {
       "rank": 8,
-      "track_id": 1338,
-      "artist": "Coldplay",
-      "title": "In My Place",
-      "movement": "NEW",
+      "track_id": 1379,
+      "artist": "Blink-182",
+      "title": "All the Small Things",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 4
     },
     {
       "rank": 9,
-      "track_id": 533,
-      "artist": "TRF",
-      "title": "survival dAnce ～no no cry more～",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 10,
       "track_id": 1277,
       "artist": "aespa",
       "title": "Next Level",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1475,
+      "artist": "スチャダラパー",
+      "title": "ゲームボーイズ",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     }
   ]
 }

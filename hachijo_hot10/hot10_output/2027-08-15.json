@@ -8,20 +8,11 @@
       "artist": "大友良英 NEW JAZZ ENSEMBLE",
       "title": "Eureka",
       "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 2
+      "days_at_number_1": 3,
+      "top10_streak": 8
     },
     {
       "rank": 2,
-      "track_id": 1206,
-      "artist": "Beyoncé",
-      "title": "Single Ladies (Put a Ring on It)",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 13
-    },
-    {
-      "rank": 3,
       "track_id": 1091,
       "artist": "The Cure",
       "title": "Boys Don’t Cry",
@@ -30,34 +21,52 @@
       "top10_streak": 2
     },
     {
+      "rank": 3,
+      "track_id": 1347,
+      "artist": "Garbage",
+      "title": "Only Happy When It Rains",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
       "rank": 4,
       "track_id": 1704,
       "artist": "Bondage Fruit",
       "title": "Odd-Job",
-      "movement": "↑2",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 5,
-      "track_id": 1601,
-      "artist": "福島弘和",
-      "title": "吹奏楽のための「おじゃれ」",
-      "movement": "→",
+      "track_id": 699,
+      "artist": "鈴木茂",
+      "title": "八月の匂い",
+      "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 2
     },
     {
       "rank": 6,
       "track_id": 1690,
       "artist": "あぶらだこ",
       "title": "冬枯れ花火",
-      "movement": "↓3",
+      "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 7,
+      "track_id": 1031,
+      "artist": "宇多田ヒカル",
+      "title": "One Last Kiss",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
       "track_id": 548,
       "artist": "REBECCA",
       "title": "RASPBERRY DREAM",
@@ -66,29 +75,20 @@
       "top10_streak": 1
     },
     {
-      "rank": 8,
-      "track_id": 20,
-      "artist": "MONO NO AWARE",
-      "title": "水が湧いた",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
       "rank": 9,
-      "track_id": 1072,
-      "artist": "坂本龍一",
-      "title": "Thousand Knives",
-      "movement": "RE",
+      "track_id": 229,
+      "artist": "柴田聡子",
+      "title": "ぼちぼち銀河",
+      "movement": "↓6",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 3
     },
     {
       "rank": 10,
-      "track_id": 1346,
-      "artist": "Garbage",
-      "title": "Stupid Girl",
-      "movement": "NEW",
+      "track_id": 563,
+      "artist": "ポルノグラフィティ",
+      "title": "サウダージ",
+      "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

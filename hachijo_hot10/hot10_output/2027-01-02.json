@@ -4,93 +4,93 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 12,
-      "artist": "MIZ",
-      "title": "丘",
+      "track_id": 410,
+      "artist": "Syrup16g",
+      "title": "Reborn",
       "movement": "→",
-      "days_at_number_1": 3,
-      "top10_streak": 7
+      "days_at_number_1": 2,
+      "top10_streak": 4
     },
     {
       "rank": 2,
       "track_id": 728,
       "artist": "角松敏生",
       "title": "If You Wanna Dance",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 9
     },
     {
       "rank": 3,
-      "track_id": 468,
-      "artist": "X JAPAN",
-      "title": "DAHLIA",
-      "movement": "↓1",
+      "track_id": 1109,
+      "artist": "Radiohead",
+      "title": "Everything In Its Right Place",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 4,
+      "track_id": 325,
+      "artist": "SAKEROCK",
+      "title": "慰安旅行",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 7
     },
     {
-      "rank": 4,
-      "track_id": 410,
-      "artist": "Syrup16g",
-      "title": "Reborn",
-      "movement": "↑3",
+      "rank": 5,
+      "track_id": 1220,
+      "artist": "Justin Bieber",
+      "title": "Sorry",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 5,
+      "rank": 6,
       "track_id": 11,
       "artist": "MONO NO AWARE",
       "title": "異邦人",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 6,
-      "track_id": 1109,
-      "artist": "Radiohead",
-      "title": "Everything In Its Right Place",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 6
     },
     {
       "rank": 7,
-      "track_id": 1069,
-      "artist": "Sting",
-      "title": "Englishman In New York",
-      "movement": "NEW",
+      "track_id": 468,
+      "artist": "X JAPAN",
+      "title": "DAHLIA",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 7
     },
     {
       "rank": 8,
-      "track_id": 1220,
-      "artist": "Justin Bieber",
-      "title": "Sorry",
-      "movement": "↑1",
+      "track_id": 1119,
+      "artist": "Trashcan Sinatras",
+      "title": "Obscurity Knocks",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 9,
-      "track_id": 325,
-      "artist": "SAKEROCK",
-      "title": "慰安旅行",
+      "track_id": 1529,
+      "artist": "ムーンライダーズ",
+      "title": "9月の海はクラゲの海",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 799,
-      "artist": "チャラン・ポ・ランタン",
-      "title": "進め、たまに逃げても",
-      "movement": "↓4",
+      "track_id": 261,
+      "artist": "odol",
+      "title": "往来",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
     }
   ]
 }

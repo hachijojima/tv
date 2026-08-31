@@ -7,87 +7,87 @@
       "track_id": 636,
       "artist": "鈴木茂",
       "title": "砂の女",
-      "movement": "↑8",
-      "days_at_number_1": 1,
-      "top10_streak": 2
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 3
     },
     {
       "rank": 2,
-      "track_id": 1474,
-      "artist": "スチャダラパー",
-      "title": "GET UP AND DANCE",
-      "movement": "↓1",
+      "track_id": 413,
+      "artist": "スネオヘアー",
+      "title": "ストライク",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 3,
-      "track_id": 413,
-      "artist": "スネオヘアー",
-      "title": "ストライク",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 4,
-      "track_id": 1040,
-      "artist": "METAFIVE",
-      "title": "環境と心理",
-      "movement": "↑6",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 5,
       "track_id": 12,
       "artist": "MIZ",
       "title": "丘",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 6,
-      "track_id": 1043,
-      "artist": "Television",
-      "title": "Marquee Moon",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 7,
-      "track_id": 1541,
-      "artist": "Cocco",
-      "title": "カウントダウン",
       "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 14
-    },
-    {
-      "rank": 8,
-      "track_id": 641,
-      "artist": "佐野元春",
-      "title": "SOMEDAY",
-      "movement": "↓6",
-      "days_at_number_1": 0,
-      "top10_streak": 15
-    },
-    {
-      "rank": 9,
-      "track_id": 1383,
-      "artist": "Bon Jovi",
-      "title": "It's My Life",
-      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 10,
+      "rank": 4,
+      "track_id": 1383,
+      "artist": "Bon Jovi",
+      "title": "It's My Life",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 5,
       "track_id": 1634,
       "artist": "THA BLUE HERB",
       "title": "未来は俺等の手の中",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 6,
+      "track_id": 925,
+      "artist": "Donald Fagen",
+      "title": "I.G.Y.",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 7,
+      "track_id": 1601,
+      "artist": "福島弘和",
+      "title": "吹奏楽のための「おじゃれ」",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 1707,
+      "artist": "Naruyoshi Kikuchi Dub Sextet",
+      "title": "Dub Liz",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 9,
+      "track_id": 1043,
+      "artist": "Television",
+      "title": "Marquee Moon",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 10,
+      "track_id": 707,
+      "artist": "チューリップ",
+      "title": "心の旅",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1

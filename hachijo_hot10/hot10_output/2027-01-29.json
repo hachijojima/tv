@@ -4,75 +4,75 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1023,
-      "artist": "Carpenters",
-      "title": "(They Long To Be) Close To You",
-      "movement": "→",
-      "days_at_number_1": 3,
-      "top10_streak": 7
+      "track_id": 613,
+      "artist": "小泉今日子",
+      "title": "優しい雨",
+      "movement": "↑2",
+      "days_at_number_1": 1,
+      "top10_streak": 4
     },
     {
       "rank": 2,
-      "track_id": 110,
-      "artist": "乙女絵画",
-      "title": "軛",
-      "movement": "↑3",
+      "track_id": 412,
+      "artist": "フラワーカンパニーズ",
+      "title": "吐きたくなるほど愛されたい",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 5
     },
     {
       "rank": 3,
       "track_id": 1594,
       "artist": "團伊玖磨",
       "title": "オリンピック序曲",
-      "movement": "↑6",
+      "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 4,
-      "track_id": 1473,
-      "artist": "スチャダラパー",
-      "title": "今夜はブギー・バック (smooth rap)",
+      "track_id": 699,
+      "artist": "鈴木茂",
+      "title": "八月の匂い",
       "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 15
+      "top10_streak": 5
     },
     {
       "rank": 5,
-      "track_id": 466,
-      "artist": "GLAY",
-      "title": "Freeze My Love",
-      "movement": "↓2",
+      "track_id": 748,
+      "artist": "細野晴臣",
+      "title": "北京ダック",
+      "movement": "↑4",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 2
     },
     {
       "rank": 6,
-      "track_id": 1588,
-      "artist": "Portishead",
-      "title": "Sour Times",
-      "movement": "↑2",
+      "track_id": 803,
+      "artist": "離婚伝説",
+      "title": "愛が一層メロウ",
+      "movement": "↑4",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 2
     },
     {
       "rank": 7,
-      "track_id": 1068,
-      "artist": "Simon & Garfunkel",
-      "title": "Bridge Over Troubled Water",
-      "movement": "↓1",
+      "track_id": 1085,
+      "artist": "Procol Harum",
+      "title": "A Whiter Shade of Pale",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 6
     },
     {
       "rank": 8,
-      "track_id": 412,
-      "artist": "フラワーカンパニーズ",
-      "title": "吐きたくなるほど愛されたい",
-      "movement": "↓1",
+      "track_id": 1608,
+      "artist": "rei harakami",
+      "title": "joy",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 1
     },
     {
       "rank": 9,
@@ -81,16 +81,16 @@
       "title": "Beautiful",
       "movement": "↓5",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 7
     },
     {
       "rank": 10,
-      "track_id": 655,
-      "artist": "山崎ハコ",
-      "title": "呪い",
-      "movement": "→",
+      "track_id": 300,
+      "artist": "東京事変",
+      "title": "群青日和",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
     }
   ]
 }

@@ -4,78 +4,33 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1013,
-      "artist": "The Police",
-      "title": "Every Breath You Take",
-      "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 12
-    },
-    {
-      "rank": 2,
-      "track_id": 1247,
-      "artist": "Swedish House Mafia",
-      "title": "Don't You Worry Child",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 13
-    },
-    {
-      "rank": 3,
-      "track_id": 16,
-      "artist": "MIZ",
-      "title": "暑中見舞い",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 4,
       "track_id": 519,
       "artist": "DEEN",
       "title": "瞳そらさないで",
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 4
+    },
+    {
+      "rank": 2,
+      "track_id": 46,
+      "artist": "iri",
+      "title": "Wonderland",
       "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 5,
-      "track_id": 1242,
-      "artist": "Avicii",
-      "title": "Levels",
+      "rank": 3,
+      "track_id": 1204,
+      "artist": "Rihanna",
+      "title": "We Found Love",
       "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 6,
-      "track_id": 1011,
-      "artist": "Underworld",
-      "title": "Born Slippy (Nuxx)",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 7,
-      "track_id": 1267,
-      "artist": "Eric Prydz",
-      "title": "Call on Me",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 8,
-      "track_id": 7,
-      "artist": "MONO NO AWARE",
-      "title": "ゾッコン",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 9,
+      "rank": 4,
       "track_id": 1516,
       "artist": "戸川純",
       "title": "蛹化の女",
@@ -84,13 +39,58 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
-      "track_id": 46,
-      "artist": "iri",
-      "title": "Wonderland",
-      "movement": "↓1",
+      "rank": 5,
+      "track_id": 825,
+      "artist": "マカロニえんぴつ",
+      "title": "恋人ごっこ",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 6,
+      "track_id": 1201,
+      "artist": "Lady Gaga",
+      "title": "Bad Romance",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
+    },
+    {
+      "rank": 7,
+      "track_id": 1126,
+      "artist": "櫻坂46",
+      "title": "二人セゾン",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 7,
+      "artist": "MONO NO AWARE",
+      "title": "ゾッコン",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 1503,
+      "artist": "じゃがたら",
+      "title": "裸の王様",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 844,
+      "artist": "WONK",
+      "title": "Fleeting Fantasy",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     }
   ]
 }

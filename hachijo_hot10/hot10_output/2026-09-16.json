@@ -4,30 +4,30 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1474,
-      "artist": "スチャダラパー",
-      "title": "GET UP AND DANCE",
-      "movement": "NEW",
+      "track_id": 636,
+      "artist": "鈴木茂",
+      "title": "砂の女",
+      "movement": "↑7",
       "days_at_number_1": 1,
-      "top10_streak": 1
+      "top10_streak": 2
     },
     {
       "rank": 2,
-      "track_id": 641,
-      "artist": "佐野元春",
-      "title": "SOMEDAY",
+      "track_id": 1383,
+      "artist": "Bon Jovi",
+      "title": "It's My Life",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 14
+      "top10_streak": 5
     },
     {
       "rank": 3,
-      "track_id": 1043,
-      "artist": "Television",
-      "title": "Marquee Moon",
-      "movement": "→",
+      "track_id": 12,
+      "artist": "MIZ",
+      "title": "丘",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 3
     },
     {
       "rank": 4,
@@ -40,57 +40,57 @@
     },
     {
       "rank": 5,
-      "track_id": 1288,
-      "artist": "BIGBANG",
-      "title": "FANTASTIC BABY",
-      "movement": "↓3",
+      "track_id": 1043,
+      "artist": "Television",
+      "title": "Marquee Moon",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
     {
       "rank": 6,
-      "track_id": 1383,
-      "artist": "Bon Jovi",
-      "title": "It's My Life",
+      "track_id": 925,
+      "artist": "Donald Fagen",
+      "title": "I.G.Y.",
       "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 7,
-      "track_id": 1541,
-      "artist": "Cocco",
-      "title": "カウントダウン",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 13
-    },
-    {
-      "rank": 8,
-      "track_id": 12,
-      "artist": "MIZ",
-      "title": "丘",
-      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
+      "rank": 7,
+      "track_id": 1707,
+      "artist": "Naruyoshi Kikuchi Dub Sextet",
+      "title": "Dub Liz",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
+      "track_id": 1191,
+      "artist": "宇多田ヒカル",
+      "title": "Beautiful World",
+      "movement": "↓6",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
       "rank": 9,
-      "track_id": 636,
-      "artist": "鈴木茂",
-      "title": "砂の女",
+      "track_id": 439,
+      "artist": "サンボマスター",
+      "title": "できっこないを やらなくちゃ",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 1040,
-      "artist": "METAFIVE",
-      "title": "環境と心理",
-      "movement": "RE",
+      "track_id": 1389,
+      "artist": "Fishmans",
+      "title": "ひこうき",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     }
   ]
 }

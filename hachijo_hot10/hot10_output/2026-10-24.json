@@ -4,78 +4,69 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1364,
-      "artist": "Linkin Park",
-      "title": "In the End",
-      "movement": "↑3",
+      "track_id": 1645,
+      "artist": "CO-FUSION",
+      "title": "Material to Digital",
+      "movement": "↑2",
       "days_at_number_1": 1,
-      "top10_streak": 6
+      "top10_streak": 3
     },
     {
       "rank": 2,
-      "track_id": 489,
-      "artist": "小泉今日子",
-      "title": "Fade Out",
-      "movement": "NEW",
+      "track_id": 381,
+      "artist": "My Little Lover",
+      "title": "白いカイト",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 5
     },
     {
       "rank": 3,
       "track_id": 1240,
       "artist": "Pharrell Williams",
       "title": "Happy",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 4,
-      "track_id": 1013,
-      "artist": "The Police",
-      "title": "Every Breath You Take",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 5,
-      "track_id": 1089,
-      "artist": "The Beatles",
-      "title": "Let It Be",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 15
-    },
-    {
-      "rank": 6,
-      "track_id": 1645,
-      "artist": "CO-FUSION",
-      "title": "Material to Digital",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 7,
-      "track_id": 381,
-      "artist": "My Little Lover",
-      "title": "白いカイト",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 8,
-      "track_id": 1544,
-      "artist": "Cocco",
-      "title": "樹海の糸",
-      "movement": "↓3",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 7
     },
     {
-      "rank": 9,
+      "rank": 4,
+      "track_id": 695,
+      "artist": "矢野顕子",
+      "title": "春咲小紅",
+      "movement": "↑5",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 1057,
+      "artist": "キリンジ",
+      "title": "スウィートソウル",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 6,
+      "track_id": 1315,
+      "artist": "Nirvana",
+      "title": "Come As You Are",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 7,
+      "track_id": 505,
+      "artist": "Tommy february6",
+      "title": "EVERYDAY AT THE BUS STOP",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
       "track_id": 457,
       "artist": "DEEN",
       "title": "翼を広げて",
@@ -84,10 +75,19 @@
       "top10_streak": 1
     },
     {
+      "rank": 9,
+      "track_id": 1296,
+      "artist": "Super Junior",
+      "title": "Sorry, Sorry",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
       "rank": 10,
-      "track_id": 679,
-      "artist": "太田裕美",
-      "title": "木綿のハンカチーフ",
+      "track_id": 1309,
+      "artist": "Red Hot Chili Peppers",
+      "title": "Under the Bridge",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1

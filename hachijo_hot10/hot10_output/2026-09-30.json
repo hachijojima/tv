@@ -4,93 +4,93 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1719,
-      "artist": "Kaoru Inoue",
-      "title": "The Invisible Eclipse",
-      "movement": "↑3",
-      "days_at_number_1": 1,
-      "top10_streak": 2
-    },
-    {
-      "rank": 2,
       "track_id": 945,
       "artist": "Oasis",
       "title": "Don't Look Back in Anger",
-      "movement": "↓1",
-      "days_at_number_1": 0,
+      "movement": "→",
+      "days_at_number_1": 3,
       "top10_streak": 3
     },
     {
-      "rank": 3,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "→",
+      "rank": 2,
+      "track_id": 734,
+      "artist": "濱田金吾",
+      "title": "Midnight Cruisin'",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 10
+      "top10_streak": 4
+    },
+    {
+      "rank": 3,
+      "track_id": 1141,
+      "artist": "The Beatles",
+      "title": "Something",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     },
     {
       "rank": 4,
-      "track_id": 1394,
-      "artist": "GOING STEADY",
-      "title": "BABY BABY",
+      "track_id": 1446,
+      "artist": "Thee Michelle Gun Elephant",
+      "title": "G.W.D",
       "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 7
     },
     {
       "rank": 5,
-      "track_id": 1446,
-      "artist": "Thee Michelle Gun Elephant",
-      "title": "G.W.D",
-      "movement": "↑1",
+      "track_id": 268,
+      "artist": "リーガルリリー",
+      "title": "ハナヒカリ",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 4
     },
     {
       "rank": 6,
-      "track_id": 1625,
-      "artist": "NATSUMEN",
-      "title": "Cicada Sing The Galaxy",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 7,
-      "track_id": 1601,
-      "artist": "福島弘和",
-      "title": "吹奏楽のための「おじゃれ」",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 12
-    },
-    {
-      "rank": 8,
-      "track_id": 1141,
-      "artist": "The Beatles",
-      "title": "Something",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 9,
-      "track_id": 1686,
-      "artist": "有頂天",
-      "title": "BYE-BYE",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 10,
       "track_id": 601,
       "artist": "KAN",
       "title": "言えずのI LOVE YOU",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 7,
+      "track_id": 1508,
+      "artist": "RCサクセション",
+      "title": "多摩蘭坂",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 8,
+      "track_id": 764,
+      "artist": "EPO",
+      "title": "土曜の夜はパラダイス",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 9,
+      "track_id": 469,
+      "artist": "hide with Spread Beaver",
+      "title": "ROCKET DIVE",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 679,
+      "artist": "太田裕美",
+      "title": "木綿のハンカチーフ",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     }
   ]
 }

@@ -4,93 +4,93 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 762,
-      "artist": "ティン・パン・アレー",
-      "title": "北京ダック",
-      "movement": "↑6",
-      "days_at_number_1": 1,
-      "top10_streak": 13
-    },
-    {
-      "rank": 2,
       "track_id": 1288,
       "artist": "BIGBANG",
       "title": "FANTASTIC BABY",
-      "movement": "↓1",
-      "days_at_number_1": 0,
+      "movement": "→",
+      "days_at_number_1": 2,
       "top10_streak": 2
     },
     {
-      "rank": 3,
-      "track_id": 1542,
-      "artist": "COALTAR OF THE DEEPERS",
-      "title": "My Speedy Sarah",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 4,
-      "track_id": 552,
-      "artist": "森高千里",
-      "title": "雨",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 5,
-      "track_id": 1305,
-      "artist": "鼓童",
-      "title": "凰（おおとり）",
+      "rank": 2,
+      "track_id": 1672,
+      "artist": "Hartfield",
+      "title": "Today Forever",
       "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 3,
+      "track_id": 1231,
+      "artist": "Sabrina Carpenter",
+      "title": "Espresso",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
+      "rank": 4,
+      "track_id": 1570,
+      "artist": "Stereolab",
+      "title": "French Disko",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 5,
+      "track_id": 1061,
+      "artist": "Cyndi Lauper",
+      "title": "Time After Time",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
       "rank": 6,
-      "track_id": 1672,
-      "artist": "Hartfield",
-      "title": "Today Forever",
+      "track_id": 1133,
+      "artist": "Derek & The Dominos",
+      "title": "Layla",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 7,
+      "track_id": 552,
+      "artist": "森高千里",
+      "title": "雨",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 8,
+      "track_id": 1125,
+      "artist": "藤井風",
+      "title": "花",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 7,
-      "track_id": 7,
-      "artist": "MONO NO AWARE",
-      "title": "ゾッコン",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 15
-    },
-    {
-      "rank": 8,
-      "track_id": 1231,
-      "artist": "Sabrina Carpenter",
-      "title": "Espresso",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
       "rank": 9,
-      "track_id": 1584,
-      "artist": "Elliott Smith",
-      "title": "Between the Bars",
-      "movement": "RE",
+      "track_id": 362,
+      "artist": "ART-SCHOOL",
+      "title": "斜陽",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 1240,
-      "artist": "Pharrell Williams",
-      "title": "Happy",
-      "movement": "↓1",
+      "track_id": 628,
+      "artist": "山下達郎",
+      "title": "SPARKLE",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 2
     }
   ]
 }

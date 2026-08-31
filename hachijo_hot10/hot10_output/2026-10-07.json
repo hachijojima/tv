@@ -9,7 +9,7 @@
       "title": "Shape of You",
       "movement": "↑1",
       "days_at_number_1": 1,
-      "top10_streak": 6
+      "top10_streak": 5
     },
     {
       "rank": 2,
@@ -22,24 +22,6 @@
     },
     {
       "rank": 3,
-      "track_id": 1023,
-      "artist": "Carpenters",
-      "title": "(They Long To Be) Close To You",
-      "movement": "↑6",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 4,
-      "track_id": 1394,
-      "artist": "GOING STEADY",
-      "title": "BABY BABY",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 14
-    },
-    {
-      "rank": 5,
       "track_id": 596,
       "artist": "globe",
       "title": "Can't Stop Fallin' in Love",
@@ -48,34 +30,25 @@
       "top10_streak": 4
     },
     {
-      "rank": 6,
-      "track_id": 1601,
-      "artist": "福島弘和",
-      "title": "吹奏楽のための「おじゃれ」",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 19
-    },
-    {
-      "rank": 7,
+      "rank": 4,
       "track_id": 696,
       "artist": "小坂忠",
       "title": "しらけちまうぜ",
-      "movement": "↓1",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 8,
-      "track_id": 1020,
-      "artist": "The Doobie Brothers",
-      "title": "What a Fool Believes",
-      "movement": "RE",
+      "rank": 5,
+      "track_id": 1238,
+      "artist": "Gotye",
+      "title": "Somebody That I Used to Know (feat. Kimbra)",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 3
     },
     {
-      "rank": 9,
+      "rank": 6,
       "track_id": 172,
       "artist": "ドミコ",
       "title": "まどろまない",
@@ -84,13 +57,40 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
+      "rank": 7,
+      "track_id": 1593,
+      "artist": "天田トメノ",
+      "title": "ショメ節",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
       "track_id": 1708,
       "artist": "Korekyojinn",
       "title": "Arabesque",
-      "movement": "↓3",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 2
+    },
+    {
+      "rank": 9,
+      "track_id": 1327,
+      "artist": "Weezer",
+      "title": "Buddy Holly",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 10,
+      "track_id": 334,
+      "artist": "UA",
+      "title": "甘い運命",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     }
   ]
 }

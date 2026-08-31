@@ -4,93 +4,93 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 707,
-      "artist": "チューリップ",
-      "title": "心の旅",
+      "track_id": 1650,
+      "artist": "Cokiyu",
+      "title": "Mirror Flake",
       "movement": "↑2",
       "days_at_number_1": 1,
-      "top10_streak": 2
+      "top10_streak": 4
     },
     {
       "rank": 2,
       "track_id": 1476,
       "artist": "スチャダラパー",
       "title": "大人になっても",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 9
+      "top10_streak": 7
     },
     {
       "rank": 3,
-      "track_id": 1324,
-      "artist": "Green Day",
-      "title": "Good Riddance (Time of Your Life)",
+      "track_id": 1641,
+      "artist": "Kyoto Jazz Massive",
+      "title": "Eclipse",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 4,
+      "track_id": 1024,
+      "artist": "SUPER BUTTER DOG",
+      "title": "サヨナラCOLOR",
+      "movement": "↑6",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 688,
+      "artist": "荒井由実",
+      "title": "海を見ていた午後",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 6,
+      "track_id": 566,
+      "artist": "the brilliant green",
+      "title": "冷たい花",
       "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 4,
-      "track_id": 1584,
-      "artist": "Elliott Smith",
-      "title": "Between the Bars",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 5,
-      "track_id": 1591,
-      "artist": "稲田カエ",
-      "title": "八丈太鼓囃し",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 6,
-      "track_id": 1650,
-      "artist": "Cokiyu",
-      "title": "Mirror Flake",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
       "rank": 7,
-      "track_id": 1254,
-      "artist": "The Chainsmokers",
-      "title": "Closer (feat. Halsey)",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 8,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 9,
-      "track_id": 1589,
-      "artist": "Massive Attack",
-      "title": "Unfinished Sympathy",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 10,
       "track_id": 402,
       "artist": "ROUND TABLE",
       "title": "Every Every Every",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 277,
+      "artist": "TAMTAM",
+      "title": "Beautiful Bad Dream",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 9,
+      "track_id": 585,
+      "artist": "スピッツ",
+      "title": "楓",
+      "movement": "↓8",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 10,
+      "track_id": 1588,
+      "artist": "Portishead",
+      "title": "Sour Times",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     }
   ]
 }

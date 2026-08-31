@@ -4,91 +4,91 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 852,
-      "artist": "Official髭男dism",
-      "title": "宿命",
-      "movement": "↑1",
-      "days_at_number_1": 1,
-      "top10_streak": 3
-    },
-    {
-      "rank": 2,
-      "track_id": 1206,
-      "artist": "Beyoncé",
-      "title": "Single Ladies (Put a Ring on It)",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 3,
-      "track_id": 1043,
-      "artist": "Television",
-      "title": "Marquee Moon",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 4,
       "track_id": 11,
       "artist": "MONO NO AWARE",
       "title": "異邦人",
-      "movement": "↑1",
-      "days_at_number_1": 0,
+      "movement": "→",
+      "days_at_number_1": 2,
       "top10_streak": 5
     },
     {
-      "rank": 5,
-      "track_id": 541,
-      "artist": "山崎まさよし",
-      "title": "セロリ",
+      "rank": 2,
+      "track_id": 863,
+      "artist": "Saucy Dog",
+      "title": "結",
       "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 3,
+      "track_id": 162,
+      "artist": "キセル",
+      "title": "くちなしの丘",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 4,
+      "track_id": 1705,
+      "artist": "大友良英 NEW JAZZ ENSEMBLE",
+      "title": "Eureka",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 5,
+      "track_id": 1058,
+      "artist": "ランカ・リー=中島愛",
+      "title": "星間飛行",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 7
     },
     {
       "rank": 6,
-      "track_id": 6,
-      "artist": "MIZ",
-      "title": "夏がきたら",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 7,
-      "track_id": 1705,
-      "artist": "大友良英 NEW JAZZ ENSEMBLE",
-      "title": "Eureka",
+      "track_id": 1658,
+      "artist": "Envy",
+      "title": "A Warm Room",
       "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 8,
-      "track_id": 1586,
-      "artist": "Teenage Fanclub",
-      "title": "Everything Flows",
-      "movement": "NEW",
+      "rank": 7,
+      "track_id": 1593,
+      "artist": "天田トメノ",
+      "title": "ショメ節",
+      "movement": "↓5",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 4
+    },
+    {
+      "rank": 8,
+      "track_id": 436,
+      "artist": "ハナレグミ",
+      "title": "光と影",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     },
     {
       "rank": 9,
-      "track_id": 693,
-      "artist": "RCサクセション",
-      "title": "雨あがりの夜空に",
-      "movement": "NEW",
+      "track_id": 1709,
+      "artist": "Satanicpornocultshop",
+      "title": "Anorexia Gas Balloon",
+      "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 1044,
-      "artist": "The Jackson 5",
-      "title": "I Want You Back",
-      "movement": "RE",
+      "track_id": 1157,
+      "artist": "藤井風",
+      "title": "旅路",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

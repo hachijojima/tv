@@ -4,12 +4,12 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1635,
-      "artist": "MIC JACK PRODUCTION",
-      "title": "Seven Seas Voyage",
+      "track_id": 1247,
+      "artist": "Swedish House Mafia",
+      "title": "Don't You Worry Child",
       "movement": "→",
       "days_at_number_1": 2,
-      "top10_streak": 8
+      "top10_streak": 4
     },
     {
       "rank": 2,
@@ -22,12 +22,12 @@
     },
     {
       "rank": 3,
-      "track_id": 259,
-      "artist": "ドミコ",
-      "title": "ペーパーロールスター",
-      "movement": "→",
+      "track_id": 1344,
+      "artist": "The Cranberries",
+      "title": "Linger",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 5
     },
     {
       "rank": 4,
@@ -58,39 +58,39 @@
     },
     {
       "rank": 7,
-      "track_id": 1584,
-      "artist": "Elliott Smith",
-      "title": "Between the Bars",
-      "movement": "↓3",
+      "track_id": 1214,
+      "artist": "Ariana Grande",
+      "title": "Into You",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 11
+      "top10_streak": 5
     },
     {
       "rank": 8,
       "track_id": 451,
       "artist": "WANDS",
       "title": "Secret Night ～It's My Treat～",
-      "movement": "↓3",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 9,
-      "track_id": 1247,
-      "artist": "Swedish House Mafia",
-      "title": "Don't You Worry Child",
-      "movement": "↓2",
+      "track_id": 1072,
+      "artist": "坂本龍一",
+      "title": "Thousand Knives",
+      "movement": "↓5",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 5
     },
     {
       "rank": 10,
-      "track_id": 998,
-      "artist": "Donald Fagen",
-      "title": "The Nightfly",
-      "movement": "↓8",
+      "track_id": 535,
+      "artist": "Every Little Thing",
+      "title": "For the moment",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 8
+      "top10_streak": 2
     }
   ]
 }

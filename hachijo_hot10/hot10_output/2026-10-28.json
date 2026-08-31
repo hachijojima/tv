@@ -4,51 +4,24 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1364,
-      "artist": "Linkin Park",
-      "title": "In the End",
-      "movement": "↑1",
-      "days_at_number_1": 1,
-      "top10_streak": 10
-    },
-    {
-      "rank": 2,
-      "track_id": 489,
-      "artist": "小泉今日子",
-      "title": "Fade Out",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 3,
-      "track_id": 1240,
-      "artist": "Pharrell Williams",
-      "title": "Happy",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 4,
-      "track_id": 1013,
-      "artist": "The Police",
-      "title": "Every Breath You Take",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
-      "rank": 5,
       "track_id": 1589,
       "artist": "Massive Attack",
       "title": "Unfinished Sympathy",
       "movement": "→",
-      "days_at_number_1": 0,
+      "days_at_number_1": 3,
       "top10_streak": 4
     },
     {
-      "rank": 6,
+      "rank": 2,
+      "track_id": 482,
+      "artist": "UNICORN",
+      "title": "すばらしい日々",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 3,
       "track_id": 623,
       "artist": "細野晴臣",
       "title": "恋は桃色",
@@ -57,16 +30,7 @@
       "top10_streak": 1
     },
     {
-      "rank": 7,
-      "track_id": 482,
-      "artist": "UNICORN",
-      "title": "すばらしい日々",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 8,
+      "rank": 4,
       "track_id": 1146,
       "artist": "TOMOO",
       "title": "Cinderella",
@@ -75,19 +39,55 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
-      "track_id": 1253,
-      "artist": "Martin Garrix",
-      "title": "Animals",
+      "rank": 5,
+      "track_id": 1631,
+      "artist": "ECD",
+      "title": "DIRECT DRIVE",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 6,
+      "track_id": 695,
+      "artist": "矢野顕子",
+      "title": "春咲小紅",
       "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 7,
+      "track_id": 1314,
+      "artist": "U2",
+      "title": "Beautiful Day",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 716,
+      "artist": "イルカ",
+      "title": "海岸通",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 1217,
+      "artist": "Katy Perry",
+      "title": "Firework",
+      "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 10,
-      "track_id": 10,
-      "artist": "MIZ",
-      "title": "パジャマでハイウェイ",
+      "track_id": 1345,
+      "artist": "The Cranberries",
+      "title": "Zombie",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1

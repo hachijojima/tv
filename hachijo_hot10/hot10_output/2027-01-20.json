@@ -7,30 +7,12 @@
       "track_id": 1473,
       "artist": "スチャダラパー",
       "title": "今夜はブギー・バック (smooth rap)",
-      "movement": "↑1",
-      "days_at_number_1": 1,
+      "movement": "→",
+      "days_at_number_1": 4,
       "top10_streak": 6
     },
     {
       "rank": 2,
-      "track_id": 1048,
-      "artist": "Ben E. King",
-      "title": "Stand By Me",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 3,
-      "track_id": 1542,
-      "artist": "COALTAR OF THE DEEPERS",
-      "title": "My Speedy Sarah",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 4,
       "track_id": 79,
       "artist": "奇妙礼太郎",
       "title": "君が誰かの彼女になりくさっても",
@@ -39,56 +21,74 @@
       "top10_streak": 1
     },
     {
-      "rank": 5,
-      "track_id": 563,
-      "artist": "ポルノグラフィティ",
-      "title": "サウダージ",
-      "movement": "↑1",
+      "rank": 3,
+      "track_id": 441,
+      "artist": "チャットモンチー",
+      "title": "恋愛スピリッツ",
+      "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 6,
-      "track_id": 1674,
-      "artist": "Pasteboard",
-      "title": "Flipper",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 7,
+      "rank": 4,
       "track_id": 432,
       "artist": "SUPERCAR",
       "title": "cream soda",
       "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 7
     },
     {
-      "rank": 8,
-      "track_id": 1386,
-      "artist": "Fishmans",
-      "title": "新しい人",
-      "movement": "↑2",
+      "rank": 5,
+      "track_id": 1533,
+      "artist": "大瀧詠一",
+      "title": "指切り",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 6,
+      "track_id": 6,
+      "artist": "MIZ",
+      "title": "夏がきたら",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 9,
-      "track_id": 459,
-      "artist": "B'z",
-      "title": "MOTEL",
-      "movement": "↓1",
+      "rank": 7,
+      "track_id": 1254,
+      "artist": "The Chainsmokers",
+      "title": "Closer (feat. Halsey)",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 352,
+      "artist": "Cymbals",
+      "title": "Highway Star, Speed Star",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 658,
+      "artist": "遠藤賢司",
+      "title": "カレーライス",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     },
     {
       "rank": 10,
-      "track_id": 489,
-      "artist": "小泉今日子",
-      "title": "Fade Out",
-      "movement": "RE",
+      "track_id": 386,
+      "artist": "NUMBER GIRL",
+      "title": "鉄風 鋭くなって",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

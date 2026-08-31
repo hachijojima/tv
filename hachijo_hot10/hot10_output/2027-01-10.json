@@ -4,51 +4,24 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1020,
-      "artist": "The Doobie Brothers",
-      "title": "What a Fool Believes",
-      "movement": "→",
-      "days_at_number_1": 4,
-      "top10_streak": 8
-    },
-    {
-      "rank": 2,
       "track_id": 281,
       "artist": "ピチカート・ファイヴ",
       "title": "東京は夜の七時",
       "movement": "→",
+      "days_at_number_1": 5,
+      "top10_streak": 6
+    },
+    {
+      "rank": 2,
+      "track_id": 1671,
+      "artist": "Cruyff in the Bedroom",
+      "title": "Cherry",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 2
     },
     {
       "rank": 3,
-      "track_id": 325,
-      "artist": "SAKEROCK",
-      "title": "慰安旅行",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
-      "rank": 4,
-      "track_id": 1134,
-      "artist": "Diana Ross",
-      "title": "I’m Coming Out",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 5,
-      "track_id": 1584,
-      "artist": "Elliott Smith",
-      "title": "Between the Bars",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 6,
       "track_id": 1590,
       "artist": "奥山熊雄",
       "title": "色のついたシャバタキ・すがる",
@@ -57,7 +30,7 @@
       "top10_streak": 6
     },
     {
-      "rank": 7,
+      "rank": 4,
       "track_id": 1359,
       "artist": "Franz Ferdinand",
       "title": "Take Me Out",
@@ -66,31 +39,58 @@
       "top10_streak": 1
     },
     {
-      "rank": 8,
-      "track_id": 1671,
-      "artist": "Cruyff in the Bedroom",
-      "title": "Cherry",
-      "movement": "↓4",
+      "rank": 5,
+      "track_id": 885,
+      "artist": "Tame Impala",
+      "title": "The Less I Know the Better",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 5
+    },
+    {
+      "rank": 6,
+      "track_id": 759,
+      "artist": "吉田美奈子",
+      "title": "TOWN",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 7,
+      "track_id": 711,
+      "artist": "井上陽水",
+      "title": "帰れない二人",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
+      "track_id": 495,
+      "artist": "MISIA",
+      "title": "つつみ込むように…",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 7
     },
     {
       "rank": 9,
-      "track_id": 1241,
-      "artist": "Avicii",
-      "title": "Wake Me Up",
+      "track_id": 1674,
+      "artist": "Pasteboard",
+      "title": "Flipper",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 12,
-      "artist": "MIZ",
-      "title": "丘",
-      "movement": "↓3",
+      "track_id": 1565,
+      "artist": "Yo La Tengo",
+      "title": "Tom Courtenay",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 15
+      "top10_streak": 1
     }
   ]
 }

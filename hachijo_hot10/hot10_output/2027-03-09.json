@@ -4,90 +4,90 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 762,
-      "artist": "ティン・パン・アレー",
-      "title": "北京ダック",
-      "movement": "→",
-      "days_at_number_1": 4,
-      "top10_streak": 16
+      "track_id": 1444,
+      "artist": "BLANKEY JET CITY",
+      "title": "SWEET DAYS",
+      "movement": "↑2",
+      "days_at_number_1": 1,
+      "top10_streak": 2
     },
     {
       "rank": 2,
-      "track_id": 1305,
-      "artist": "鼓童",
-      "title": "凰（おおとり）",
+      "track_id": 362,
+      "artist": "ART-SCHOOL",
+      "title": "斜陽",
       "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 4
     },
     {
       "rank": 3,
-      "track_id": 1542,
-      "artist": "COALTAR OF THE DEEPERS",
-      "title": "My Speedy Sarah",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 4,
-      "track_id": 1315,
-      "artist": "Nirvana",
-      "title": "Come As You Are",
-      "movement": "↑5",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 5,
       "track_id": 1672,
       "artist": "Hartfield",
       "title": "Today Forever",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 7
     },
     {
-      "rank": 6,
-      "track_id": 1584,
-      "artist": "Elliott Smith",
-      "title": "Between the Bars",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 7,
+      "rank": 4,
       "track_id": 1288,
       "artist": "BIGBANG",
       "title": "FANTASTIC BABY",
-      "movement": "↓4",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
-      "rank": 8,
-      "track_id": 1635,
-      "artist": "MIC JACK PRODUCTION",
-      "title": "Seven Seas Voyage",
-      "movement": "RE",
+      "rank": 5,
+      "track_id": 998,
+      "artist": "Donald Fagen",
+      "title": "The Nightfly",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 9,
-      "track_id": 1444,
-      "artist": "BLANKEY JET CITY",
-      "title": "SWEET DAYS",
-      "movement": "↓3",
+      "rank": 6,
+      "track_id": 125,
+      "artist": "羊文学",
+      "title": "光るとき",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 7,
+      "track_id": 683,
+      "artist": "原田知世",
+      "title": "時をかける少女",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
+      "rank": 8,
+      "track_id": 628,
+      "artist": "山下達郎",
+      "title": "SPARKLE",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 9,
+      "track_id": 1369,
+      "artist": "Muse",
+      "title": "Plug In Baby",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
       "rank": 10,
-      "track_id": 998,
-      "artist": "Donald Fagen",
-      "title": "The Nightfly",
+      "track_id": 1711,
+      "artist": "Sonic Coaster Pop",
+      "title": "Super Speed Pop Star",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1

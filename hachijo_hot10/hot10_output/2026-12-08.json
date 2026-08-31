@@ -4,42 +4,15 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1601,
-      "artist": "福島弘和",
-      "title": "吹奏楽のための「おじゃれ」",
-      "movement": "↑1",
-      "days_at_number_1": 1,
-      "top10_streak": 4
-    },
-    {
-      "rank": 2,
       "track_id": 379,
       "artist": "UA",
       "title": "悲しみジョニー",
-      "movement": "↓1",
-      "days_at_number_1": 0,
+      "movement": "→",
+      "days_at_number_1": 2,
       "top10_streak": 2
     },
     {
-      "rank": 3,
-      "track_id": 1305,
-      "artist": "鼓童",
-      "title": "凰（おおとり）",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
-      "rank": 4,
-      "track_id": 1508,
-      "artist": "RCサクセション",
-      "title": "多摩蘭坂",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 5,
+      "rank": 2,
       "track_id": 434,
       "artist": "ASIAN KUNG-FU GENERATION",
       "title": "ソラニン",
@@ -48,16 +21,16 @@
       "top10_streak": 1
     },
     {
-      "rank": 6,
-      "track_id": 12,
-      "artist": "MIZ",
-      "title": "丘",
-      "movement": "↓2",
+      "rank": 3,
+      "track_id": 762,
+      "artist": "ティン・パン・アレー",
+      "title": "北京ダック",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 10
+      "top10_streak": 3
     },
     {
-      "rank": 7,
+      "rank": 4,
       "track_id": 1644,
       "artist": "CAPTAIN FUNK",
       "title": "Bustin' Loose",
@@ -66,31 +39,58 @@
       "top10_streak": 1
     },
     {
-      "rank": 8,
-      "track_id": 13,
-      "artist": "MONO NO AWARE",
-      "title": "孤独になってみたい",
-      "movement": "↓5",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 9,
+      "rank": 5,
       "track_id": 1134,
       "artist": "Diana Ross",
       "title": "I’m Coming Out",
-      "movement": "↓2",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
     {
-      "rank": 10,
+      "rank": 6,
       "track_id": 1066,
       "artist": "Nujabes",
       "title": "Luv(sic.) pt3 (feat. Shing02)",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 7,
+      "track_id": 1038,
+      "artist": "Bob Dylan",
+      "title": "Like a Rolling Stone",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 8,
+      "track_id": 1694,
+      "artist": "ソウル・フラワー・モノノケ・サミット",
+      "title": "アリラン",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 1283,
+      "artist": "Stray Kids",
+      "title": "God's Menu",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 314,
+      "artist": "bloodthirsty butchers",
+      "title": "Jack Nicolson",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 4
     }
   ]
 }

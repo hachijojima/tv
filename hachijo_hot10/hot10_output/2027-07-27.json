@@ -4,12 +4,12 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1450,
-      "artist": "ゆらゆら帝国",
-      "title": "発光体",
-      "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 2
+      "track_id": 1219,
+      "artist": "Ed Sheeran",
+      "title": "Shape of You",
+      "movement": "↑4",
+      "days_at_number_1": 1,
+      "top10_streak": 3
     },
     {
       "rank": 2,
@@ -22,75 +22,75 @@
     },
     {
       "rank": 3,
-      "track_id": 1219,
-      "artist": "Ed Sheeran",
-      "title": "Shape of You",
-      "movement": "↑4",
+      "track_id": 1450,
+      "artist": "ゆらゆら帝国",
+      "title": "発光体",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 11
+    },
+    {
+      "rank": 4,
+      "track_id": 1383,
+      "artist": "Bon Jovi",
+      "title": "It's My Life",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 4,
-      "track_id": 476,
-      "artist": "シャ乱Q",
-      "title": "上・京・物・語",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
       "rank": 5,
-      "track_id": 1214,
-      "artist": "Ariana Grande",
-      "title": "Into You",
+      "track_id": 1242,
+      "artist": "Avicii",
+      "title": "Levels",
       "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
       "rank": 6,
-      "track_id": 1242,
-      "artist": "Avicii",
-      "title": "Levels",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 7,
       "track_id": 813,
       "artist": "Official髭男dism",
       "title": "Pretender",
-      "movement": "↓2",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 7,
+      "track_id": 720,
+      "artist": "遠藤賢司",
+      "title": "満足できるかな",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 8,
-      "track_id": 1503,
-      "artist": "じゃがたら",
-      "title": "裸の王様",
+      "track_id": 1215,
+      "artist": "Taylor Swift",
+      "title": "Shake It Off",
       "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 9,
-      "track_id": 1383,
-      "artist": "Bon Jovi",
-      "title": "It's My Life",
-      "movement": "→",
+      "track_id": 1238,
+      "artist": "Gotye",
+      "title": "Somebody That I Used to Know (feat. Kimbra)",
+      "movement": "RE",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 1589,
-      "artist": "Massive Attack",
-      "title": "Unfinished Sympathy",
-      "movement": "↓4",
+      "track_id": 762,
+      "artist": "ティン・パン・アレー",
+      "title": "北京ダック",
+      "movement": "RE",
       "days_at_number_1": 0,
-      "top10_streak": 14
+      "top10_streak": 1
     }
   ]
 }

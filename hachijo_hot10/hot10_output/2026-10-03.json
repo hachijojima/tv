@@ -4,60 +4,24 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1394,
-      "artist": "GOING STEADY",
-      "title": "BABY BABY",
+      "track_id": 679,
+      "artist": "太田裕美",
+      "title": "木綿のハンカチーフ",
       "movement": "→",
-      "days_at_number_1": 3,
-      "top10_streak": 10
+      "days_at_number_1": 2,
+      "top10_streak": 5
     },
     {
       "rank": 2,
-      "track_id": 1601,
-      "artist": "福島弘和",
-      "title": "吹奏楽のための「おじゃれ」",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 15
-    },
-    {
-      "rank": 3,
-      "track_id": 1686,
-      "artist": "有頂天",
-      "title": "BYE-BYE",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 4,
-      "track_id": 1625,
-      "artist": "NATSUMEN",
-      "title": "Cicada Sing The Galaxy",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 5,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 13
-    },
-    {
-      "rank": 6,
-      "track_id": 1219,
-      "artist": "Ed Sheeran",
-      "title": "Shape of You",
-      "movement": "↑4",
+      "track_id": 1598,
+      "artist": "天野花",
+      "title": "暁を泳いで",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 7,
+      "rank": 3,
       "track_id": 945,
       "artist": "Oasis",
       "title": "Don't Look Back in Anger",
@@ -66,31 +30,67 @@
       "top10_streak": 6
     },
     {
-      "rank": 8,
-      "track_id": 1446,
-      "artist": "Thee Michelle Gun Elephant",
-      "title": "G.W.D",
-      "movement": "↓3",
+      "rank": 4,
+      "track_id": 1219,
+      "artist": "Ed Sheeran",
+      "title": "Shape of You",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 1
     },
     {
-      "rank": 9,
-      "track_id": 1598,
-      "artist": "天野花",
-      "title": "暁を泳いで",
-      "movement": "↓1",
+      "rank": 5,
+      "track_id": 1308,
+      "artist": "鼓童",
+      "title": "屋台囃子",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 6,
+      "track_id": 1284,
+      "artist": "Stray Kids",
+      "title": "MANIAC",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 10,
-      "track_id": 1061,
-      "artist": "Cyndi Lauper",
-      "title": "Time After Time",
-      "movement": "RE",
+      "rank": 7,
+      "track_id": 601,
+      "artist": "KAN",
+      "title": "言えずのI LOVE YOU",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 8,
+      "track_id": 1013,
+      "artist": "The Police",
+      "title": "Every Breath You Take",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 1355,
+      "artist": "The Strokes",
+      "title": "Someday",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 734,
+      "artist": "濱田金吾",
+      "title": "Midnight Cruisin'",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 7
     }
   ]
 }

@@ -7,87 +7,87 @@
       "track_id": 1068,
       "artist": "Simon & Garfunkel",
       "title": "Bridge Over Troubled Water",
-      "movement": "↑1",
-      "days_at_number_1": 1,
+      "movement": "→",
+      "days_at_number_1": 3,
       "top10_streak": 3
     },
     {
       "rank": 2,
-      "track_id": 1633,
-      "artist": "キエるマキュウ",
-      "title": "ナゼナラ",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 3,
-      "track_id": 1375,
-      "artist": "Soundgarden",
-      "title": "Black Hole Sun",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 4,
-      "track_id": 1594,
-      "artist": "團伊玖磨",
-      "title": "オリンピック序曲",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 13
-    },
-    {
-      "rank": 5,
-      "track_id": 1364,
-      "artist": "Linkin Park",
-      "title": "In the End",
+      "track_id": 1652,
+      "artist": "Kiiiiiii",
+      "title": "4 Little Joeys",
       "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 6,
-      "track_id": 1275,
-      "artist": "TWICE",
-      "title": "TT",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 7,
-      "track_id": 1695,
-      "artist": "BO GUMBOS",
-      "title": "泥んこ道を二人",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 8,
-      "track_id": 239,
-      "artist": "さよならポニーテール",
-      "title": "光る街へ",
-      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 7
     },
     {
-      "rank": 9,
-      "track_id": 441,
-      "artist": "チャットモンチー",
-      "title": "恋愛スピリッツ",
-      "movement": "↓3",
+      "rank": 3,
+      "track_id": 524,
+      "artist": "サザンオールスターズ",
+      "title": "希望の轍",
+      "movement": "↑5",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 2
     },
     {
-      "rank": 10,
+      "rank": 4,
+      "track_id": 1311,
+      "artist": "Red Hot Chili Peppers",
+      "title": "Scar Tissue",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 5,
       "track_id": 1352,
       "artist": "Manic Street Preachers",
       "title": "A Design for Life",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 6,
+      "track_id": 1192,
+      "artist": "岡村靖幸",
+      "title": "カルアミルク",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 7,
+      "track_id": 239,
+      "artist": "さよならポニーテール",
+      "title": "光る街へ",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 8,
+      "track_id": 1253,
+      "artist": "Martin Garrix",
+      "title": "Animals",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 9,
+      "track_id": 1053,
+      "artist": "Radiohead",
+      "title": "Let Down",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 10,
+      "track_id": 89,
+      "artist": "For Tracy Hyde",
+      "title": "Underwater Girl",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1

@@ -13,69 +13,60 @@
     },
     {
       "rank": 2,
-      "track_id": 259,
-      "artist": "ドミコ",
-      "title": "ペーパーロールスター",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 3,
-      "track_id": 1635,
-      "artist": "MIC JACK PRODUCTION",
-      "title": "Seven Seas Voyage",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
-      "rank": 4,
       "track_id": 287,
       "artist": "Fishmans",
       "title": "いかれたBaby",
-      "movement": "↑2",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 3,
+      "track_id": 1247,
+      "artist": "Swedish House Mafia",
+      "title": "Don't You Worry Child",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 4,
+      "track_id": 1325,
+      "artist": "Green Day",
+      "title": "American Idiot",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 5,
-      "track_id": 1325,
-      "artist": "Green Day",
-      "title": "American Idiot",
-      "movement": "→",
+      "track_id": 634,
+      "artist": "吉田美奈子",
+      "title": "夢で逢えたら",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 6,
-      "track_id": 634,
-      "artist": "吉田美奈子",
-      "title": "夢で逢えたら",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 7,
       "track_id": 451,
       "artist": "WANDS",
       "title": "Secret Night ～It's My Treat～",
-      "movement": "↑1",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 8,
-      "track_id": 1584,
-      "artist": "Elliott Smith",
-      "title": "Between the Bars",
-      "movement": "↓1",
+      "rank": 7,
+      "track_id": 1344,
+      "artist": "The Cranberries",
+      "title": "Linger",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 12
+      "top10_streak": 6
     },
     {
-      "rank": 9,
+      "rank": 8,
       "track_id": 262,
       "artist": "Laura day romance",
       "title": "渚で会いましょう",
@@ -84,11 +75,20 @@
       "top10_streak": 1
     },
     {
+      "rank": 9,
+      "track_id": 535,
+      "artist": "Every Little Thing",
+      "title": "For the moment",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
       "rank": 10,
-      "track_id": 2,
-      "artist": "MIZ",
-      "title": "パレード",
-      "movement": "RE",
+      "track_id": 605,
+      "artist": "奥田民生",
+      "title": "イージュー★ライダー",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

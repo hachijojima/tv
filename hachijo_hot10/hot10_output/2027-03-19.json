@@ -4,91 +4,91 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1240,
-      "artist": "Pharrell Williams",
-      "title": "Happy",
-      "movement": "↑3",
-      "days_at_number_1": 1,
-      "top10_streak": 2
-    },
-    {
-      "rank": 2,
-      "track_id": 1635,
-      "artist": "MIC JACK PRODUCTION",
-      "title": "Seven Seas Voyage",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 11
-    },
-    {
-      "rank": 3,
       "track_id": 604,
       "artist": "斉藤和義",
       "title": "彼女",
+      "movement": "→",
+      "days_at_number_1": 3,
+      "top10_streak": 4
+    },
+    {
+      "rank": 2,
+      "track_id": 287,
+      "artist": "Fishmans",
+      "title": "いかれたBaby",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 3,
+      "track_id": 535,
+      "artist": "Every Little Thing",
+      "title": "For the moment",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 4,
+      "track_id": 451,
+      "artist": "WANDS",
+      "title": "Secret Night ～It's My Treat～",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 5,
+      "track_id": 1616,
+      "artist": "LITTLE TEMPO",
+      "title": "外道の森",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 6,
+      "track_id": 1247,
+      "artist": "Swedish House Mafia",
+      "title": "Don't You Worry Child",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 7,
+      "track_id": 1325,
+      "artist": "Green Day",
+      "title": "American Idiot",
       "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 4,
-      "track_id": 259,
-      "artist": "ドミコ",
-      "title": "ペーパーロールスター",
+      "rank": 8,
+      "track_id": 605,
+      "artist": "奥田民生",
+      "title": "イージュー★ライダー",
       "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 5,
-      "track_id": 2,
-      "artist": "MIZ",
-      "title": "パレード",
-      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 6,
-      "track_id": 287,
-      "artist": "Fishmans",
-      "title": "いかれたBaby",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 7,
-      "track_id": 1241,
-      "artist": "Avicii",
-      "title": "Wake Me Up",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 8,
-      "track_id": 1584,
-      "artist": "Elliott Smith",
-      "title": "Between the Bars",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 14
-    },
-    {
       "rank": 9,
-      "track_id": 839,
-      "artist": "Awesome City Club",
-      "title": "アウトサイダー",
+      "track_id": 1474,
+      "artist": "スチャダラパー",
+      "title": "GET UP AND DANCE",
       "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 10,
-      "track_id": 1651,
-      "artist": "Oorutaichi",
-      "title": "Hamihadarigeri",
-      "movement": "RE",
+      "track_id": 10,
+      "artist": "MIZ",
+      "title": "パジャマでハイウェイ",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

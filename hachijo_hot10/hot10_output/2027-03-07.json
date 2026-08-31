@@ -4,60 +4,24 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 762,
-      "artist": "ティン・パン・アレー",
-      "title": "北京ダック",
-      "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 14
-    },
-    {
-      "rank": 2,
       "track_id": 1288,
       "artist": "BIGBANG",
       "title": "FANTASTIC BABY",
       "movement": "→",
-      "days_at_number_1": 0,
+      "days_at_number_1": 3,
       "top10_streak": 3
     },
     {
-      "rank": 3,
-      "track_id": 1542,
-      "artist": "COALTAR OF THE DEEPERS",
-      "title": "My Speedy Sarah",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 4,
-      "track_id": 552,
-      "artist": "森高千里",
-      "title": "雨",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 5,
-      "track_id": 1305,
-      "artist": "鼓童",
-      "title": "凰（おおとり）",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 6,
+      "rank": 2,
       "track_id": 1672,
       "artist": "Hartfield",
       "title": "Today Forever",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 5
     },
     {
-      "rank": 7,
+      "rank": 3,
       "track_id": 1369,
       "artist": "Muse",
       "title": "Plug In Baby",
@@ -66,31 +30,67 @@
       "top10_streak": 1
     },
     {
-      "rank": 8,
-      "track_id": 1584,
-      "artist": "Elliott Smith",
-      "title": "Between the Bars",
-      "movement": "↑1",
+      "rank": 4,
+      "track_id": 1570,
+      "artist": "Stereolab",
+      "title": "French Disko",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 5,
+      "track_id": 1125,
+      "artist": "藤井風",
+      "title": "花",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 9,
-      "track_id": 1339,
-      "artist": "Blur",
-      "title": "Girls & Boys",
+      "rank": 6,
+      "track_id": 1133,
+      "artist": "Derek & The Dominos",
+      "title": "Layla",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 7,
+      "track_id": 362,
+      "artist": "ART-SCHOOL",
+      "title": "斜陽",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 627,
+      "artist": "大滝詠一",
+      "title": "君は天然色",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 10,
-      "track_id": 1315,
-      "artist": "Nirvana",
-      "title": "Come As You Are",
-      "movement": "RE",
+      "rank": 9,
+      "track_id": 628,
+      "artist": "山下達郎",
+      "title": "SPARKLE",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 3
+    },
+    {
+      "rank": 10,
+      "track_id": 1231,
+      "artist": "Sabrina Carpenter",
+      "title": "Espresso",
+      "movement": "↓7",
+      "days_at_number_1": 0,
+      "top10_streak": 4
     }
   ]
 }

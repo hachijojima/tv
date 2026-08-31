@@ -4,51 +4,24 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1021,
-      "artist": "スチャダラパー",
-      "title": "サマージャム’95",
-      "movement": "↑1",
-      "days_at_number_1": 1,
-      "top10_streak": 5
+      "track_id": 1542,
+      "artist": "COALTAR OF THE DEEPERS",
+      "title": "My Speedy Sarah",
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 3
     },
     {
       "rank": 2,
-      "track_id": 1314,
-      "artist": "U2",
-      "title": "Beautiful Day",
+      "track_id": 1241,
+      "artist": "Avicii",
+      "title": "Wake Me Up",
       "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 3,
-      "track_id": 799,
-      "artist": "チャラン・ポ・ランタン",
-      "title": "進め、たまに逃げても",
-      "movement": "↑4",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 4,
-      "track_id": 1542,
-      "artist": "COALTAR OF THE DEEPERS",
-      "title": "My Speedy Sarah",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 5,
-      "track_id": 1090,
-      "artist": "The Beatles",
-      "title": "Strawberry Fields Forever",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
-      "rank": 6,
       "track_id": 1665,
       "artist": "Guitar Wolf",
       "title": "Jet Generation",
@@ -57,40 +30,67 @@
       "top10_streak": 1
     },
     {
+      "rank": 4,
+      "track_id": 1354,
+      "artist": "The Strokes",
+      "title": "Last Nite",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 5,
+      "track_id": 471,
+      "artist": "TRF",
+      "title": "masquerade",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 6,
+      "track_id": 1381,
+      "artist": "Metallica",
+      "title": "Enter Sandman",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
       "rank": 7,
-      "track_id": 1241,
-      "artist": "Avicii",
-      "title": "Wake Me Up",
+      "track_id": 1317,
+      "artist": "Nirvana",
+      "title": "Lithium",
       "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 8,
-      "track_id": 1073,
-      "artist": "東京事変",
-      "title": "透明人間",
-      "movement": "↓3",
+      "track_id": 1370,
+      "artist": "The Killers",
+      "title": "Somebody Told Me",
+      "movement": "↓6",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 8
     },
     {
       "rank": 9,
-      "track_id": 1023,
-      "artist": "Carpenters",
-      "title": "(They Long To Be) Close To You",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 12
-    },
-    {
-      "rank": 10,
-      "track_id": 1711,
-      "artist": "Sonic Coaster Pop",
-      "title": "Super Speed Pop Star",
+      "track_id": 509,
+      "artist": "夏川りみ",
+      "title": "涙そうそう",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1073,
+      "artist": "東京事変",
+      "title": "透明人間",
+      "movement": "↓7",
+      "days_at_number_1": 0,
+      "top10_streak": 8
     }
   ]
 }

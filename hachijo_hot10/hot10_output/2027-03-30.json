@@ -4,93 +4,93 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1474,
-      "artist": "スチャダラパー",
-      "title": "GET UP AND DANCE",
+      "track_id": 1543,
+      "artist": "PEALOUT",
+      "title": "爆裂世界 ～世界に追い越されても～",
       "movement": "→",
-      "days_at_number_1": 5,
+      "days_at_number_1": 3,
       "top10_streak": 5
     },
     {
       "rank": 2,
-      "track_id": 1061,
-      "artist": "Cyndi Lauper",
-      "title": "Time After Time",
-      "movement": "↑2",
+      "track_id": 1022,
+      "artist": "10cc",
+      "title": "I’m Not In Love",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 3,
+      "track_id": 1286,
+      "artist": "SEVENTEEN",
+      "title": "Super",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 4,
+      "track_id": 1591,
+      "artist": "稲田カエ",
+      "title": "八丈太鼓囃し",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 5,
+      "track_id": 1685,
+      "artist": "BOaT",
+      "title": "ALL",
+      "movement": "↑5",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 6,
+      "track_id": 641,
+      "artist": "佐野元春",
+      "title": "SOMEDAY",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
     {
-      "rank": 3,
-      "track_id": 11,
-      "artist": "MONO NO AWARE",
-      "title": "異邦人",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 4,
-      "track_id": 1543,
-      "artist": "PEALOUT",
-      "title": "爆裂世界 ～世界に追い越されても～",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 10
-    },
-    {
-      "rank": 5,
-      "track_id": 1351,
-      "artist": "Alanis Morissette",
-      "title": "Ironic",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 6,
-      "track_id": 1214,
-      "artist": "Ariana Grande",
-      "title": "Into You",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
       "rank": 7,
-      "track_id": 1275,
-      "artist": "TWICE",
-      "title": "TT",
-      "movement": "↓1",
+      "track_id": 1592,
+      "artist": "浅沼亨年",
+      "title": "八丈太鼓",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 2
     },
     {
       "rank": 8,
-      "track_id": 1286,
-      "artist": "SEVENTEEN",
-      "title": "Super",
+      "track_id": 707,
+      "artist": "チューリップ",
+      "title": "心の旅",
       "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 9,
-      "track_id": 1355,
-      "artist": "The Strokes",
-      "title": "Someday",
-      "movement": "↑1",
+      "track_id": 541,
+      "artist": "山崎まさよし",
+      "title": "セロリ",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 4
     },
     {
       "rank": 10,
-      "track_id": 1289,
-      "artist": "2NE1",
-      "title": "I AM THE BEST",
-      "movement": "NEW",
+      "track_id": 1474,
+      "artist": "スチャダラパー",
+      "title": "GET UP AND DANCE",
+      "movement": "↓7",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 13
     }
   ]
 }

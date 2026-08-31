@@ -4,75 +4,75 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1072,
-      "artist": "坂本龍一",
-      "title": "Thousand Knives",
-      "movement": "→",
-      "days_at_number_1": 3,
-      "top10_streak": 3
-    },
-    {
-      "rank": 2,
-      "track_id": 1061,
-      "artist": "Cyndi Lauper",
-      "title": "Time After Time",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 14
-    },
-    {
-      "rank": 3,
       "track_id": 284,
       "artist": "Cornelius",
       "title": "THE SUN IS MY ENEMY",
       "movement": "NEW",
-      "days_at_number_1": 0,
+      "days_at_number_1": 1,
       "top10_streak": 1
     },
     {
-      "rank": 4,
+      "rank": 2,
       "track_id": 679,
       "artist": "太田裕美",
       "title": "木綿のハンカチーフ",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 5
+    },
+    {
+      "rank": 3,
+      "track_id": 57,
+      "artist": "君島大空",
+      "title": "遠視のコントラルト",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 4,
+      "track_id": 1457,
+      "artist": "羅針盤",
+      "title": "カラーズ",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     },
     {
       "rank": 5,
       "track_id": 1028,
       "artist": "Kendrick Lamar",
       "title": "Alright",
-      "movement": "→",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 8
     },
     {
       "rank": 6,
-      "track_id": 946,
-      "artist": "The Beach Boys",
-      "title": "Kokomo",
-      "movement": "NEW",
+      "track_id": 1668,
+      "artist": "割礼",
+      "title": "世界の中",
+      "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     },
     {
       "rank": 7,
-      "track_id": 1642,
-      "artist": "Jazztronik",
-      "title": "Samurai",
-      "movement": "↓3",
+      "track_id": 588,
+      "artist": "THE YELLOW MONKEY",
+      "title": "LOVE LOVE SHOW",
+      "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 2
     },
     {
       "rank": 8,
-      "track_id": 473,
-      "artist": "Every Little Thing",
-      "title": "Shapes Of Love",
-      "movement": "↓1",
+      "track_id": 1396,
+      "artist": "GOING STEADY",
+      "title": "東京少年",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 3
     },
     {
       "rank": 9,
@@ -85,12 +85,12 @@
     },
     {
       "rank": 10,
-      "track_id": 1457,
-      "artist": "羅針盤",
-      "title": "カラーズ",
-      "movement": "↓1",
+      "track_id": 416,
+      "artist": "YOUR SONG IS GOOD",
+      "title": "WALKIN' WALKIN'",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
     }
   ]
 }

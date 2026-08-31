@@ -4,93 +4,93 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1043,
-      "artist": "Television",
-      "title": "Marquee Moon",
-      "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 7
-    },
-    {
-      "rank": 2,
-      "track_id": 533,
-      "artist": "TRF",
-      "title": "survival dAnce ～no no cry more～",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 3,
       "track_id": 1035,
       "artist": "Queen",
       "title": "Don’t Stop Me Now",
-      "movement": "↑2",
-      "days_at_number_1": 0,
+      "movement": "↑1",
+      "days_at_number_1": 1,
       "top10_streak": 2
     },
     {
-      "rank": 4,
-      "track_id": 742,
-      "artist": "キャンディーズ",
-      "title": "やさしい悪魔",
-      "movement": "NEW",
+      "rank": 2,
+      "track_id": 1240,
+      "artist": "Pharrell Williams",
+      "title": "Happy",
+      "movement": "↑5",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 3
+    },
+    {
+      "rank": 3,
+      "track_id": 1046,
+      "artist": "星野源",
+      "title": "不思議",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 4,
+      "track_id": 1541,
+      "artist": "Cocco",
+      "title": "カウントダウン",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 5
     },
     {
       "rank": 5,
-      "track_id": 1594,
-      "artist": "團伊玖磨",
-      "title": "オリンピック序曲",
+      "track_id": 1277,
+      "artist": "aespa",
+      "title": "Next Level",
       "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 6
     },
     {
       "rank": 6,
-      "track_id": 4,
-      "artist": "MIZ",
-      "title": "空砲",
-      "movement": "↓2",
+      "track_id": 1600,
+      "artist": "いまみれん",
+      "title": "群青",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
       "rank": 7,
-      "track_id": 18,
-      "artist": "MONO NO AWARE",
-      "title": "アングル",
-      "movement": "↓5",
+      "track_id": 1646,
+      "artist": "Serani Poji",
+      "title": "スマイリーを探して",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 10
+      "top10_streak": 4
     },
     {
       "rank": 8,
-      "track_id": 1046,
-      "artist": "星野源",
-      "title": "不思議",
-      "movement": "→",
+      "track_id": 601,
+      "artist": "KAN",
+      "title": "言えずのI LOVE YOU",
+      "movement": "RE",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 1
     },
     {
       "rank": 9,
-      "track_id": 1240,
-      "artist": "Pharrell Williams",
-      "title": "Happy",
+      "track_id": 275,
+      "artist": "BREIMEN",
+      "title": "yonaki",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 1289,
-      "artist": "2NE1",
-      "title": "I AM THE BEST",
-      "movement": "RE",
+      "track_id": 1695,
+      "artist": "BO GUMBOS",
+      "title": "泥んこ道を二人",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 4
     }
   ]
 }

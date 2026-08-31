@@ -4,42 +4,33 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 7,
-      "artist": "MONO NO AWARE",
-      "title": "ゾッコン",
-      "movement": "↑1",
-      "days_at_number_1": 1,
-      "top10_streak": 12
+      "track_id": 552,
+      "artist": "森高千里",
+      "title": "雨",
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 4
     },
     {
       "rank": 2,
-      "track_id": 1542,
-      "artist": "COALTAR OF THE DEEPERS",
-      "title": "My Speedy Sarah",
-      "movement": "↑3",
+      "track_id": 1570,
+      "artist": "Stereolab",
+      "title": "French Disko",
+      "movement": "↑6",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 3,
-      "track_id": 552,
-      "artist": "森高千里",
-      "title": "雨",
-      "movement": "→",
+      "track_id": 1129,
+      "artist": "Bill Evans",
+      "title": "Waltz For Debby",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 3
     },
     {
       "rank": 4,
-      "track_id": 1010,
-      "artist": "Oasis",
-      "title": "Live Forever",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 5,
       "track_id": 1014,
       "artist": "Nirvana",
       "title": "Smells Like Teen Spirit",
@@ -48,49 +39,58 @@
       "top10_streak": 1
     },
     {
-      "rank": 6,
-      "track_id": 762,
-      "artist": "ティン・パン・アレー",
-      "title": "北京ダック",
-      "movement": "↑2",
+      "rank": 5,
+      "track_id": 1148,
+      "artist": "Vaundy",
+      "title": "踊り子",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 10
+      "top10_streak": 5
+    },
+    {
+      "rank": 6,
+      "track_id": 1669,
+      "artist": "Nav Katze",
+      "title": "Frozen Flower",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 6
     },
     {
       "rank": 7,
-      "track_id": 459,
-      "artist": "B'z",
-      "title": "MOTEL",
-      "movement": "RE",
+      "track_id": 1061,
+      "artist": "Cyndi Lauper",
+      "title": "Time After Time",
+      "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     },
     {
       "rank": 8,
-      "track_id": 615,
-      "artist": "米米CLUB",
-      "title": "Shake Hip!",
-      "movement": "↓4",
+      "track_id": 1244,
+      "artist": "Calvin Harris",
+      "title": "Feel So Close",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 9
+      "top10_streak": 2
     },
     {
       "rank": 9,
-      "track_id": 1291,
-      "artist": "KARA",
-      "title": "Mister",
-      "movement": "RE",
+      "track_id": 1133,
+      "artist": "Derek & The Dominos",
+      "title": "Layla",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 1129,
-      "artist": "Bill Evans",
-      "title": "Waltz For Debby",
-      "movement": "↓4",
+      "track_id": 1672,
+      "artist": "Hartfield",
+      "title": "Today Forever",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 1
     }
   ]
 }

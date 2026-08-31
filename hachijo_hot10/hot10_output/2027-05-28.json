@@ -4,39 +4,39 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1048,
-      "artist": "Ben E. King",
-      "title": "Stand By Me",
-      "movement": "↑7",
+      "track_id": 275,
+      "artist": "BREIMEN",
+      "title": "yonaki",
+      "movement": "↑2",
       "days_at_number_1": 1,
-      "top10_streak": 2
+      "top10_streak": 4
     },
     {
       "rank": 2,
-      "track_id": 1032,
-      "artist": "神聖かまってちゃん",
-      "title": "ロックンロールは鳴り止まないっ",
-      "movement": "NEW",
+      "track_id": 601,
+      "artist": "KAN",
+      "title": "言えずのI LOVE YOU",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 4
     },
     {
       "rank": 3,
-      "track_id": 298,
-      "artist": "BUMP OF CHICKEN",
-      "title": "車輪の唄",
-      "movement": "↑4",
+      "track_id": 1032,
+      "artist": "神聖かまってちゃん",
+      "title": "ロックンロールは鳴り止まないっ",
+      "movement": "RE",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
     },
     {
       "rank": 4,
-      "track_id": 1707,
-      "artist": "Naruyoshi Kikuchi Dub Sextet",
-      "title": "Dub Liz",
-      "movement": "NEW",
+      "track_id": 1240,
+      "artist": "Pharrell Williams",
+      "title": "Happy",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 6
     },
     {
       "rank": 5,
@@ -49,6 +49,24 @@
     },
     {
       "rank": 6,
+      "track_id": 116,
+      "artist": "ラッキーオールドサン",
+      "title": "坂の多い町と退屈",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 7,
+      "track_id": 1707,
+      "artist": "Naruyoshi Kikuchi Dub Sextet",
+      "title": "Dub Liz",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
       "track_id": 1035,
       "artist": "Queen",
       "title": "Don’t Stop Me Now",
@@ -57,40 +75,22 @@
       "top10_streak": 5
     },
     {
-      "rank": 7,
-      "track_id": 116,
-      "artist": "ラッキーオールドサン",
-      "title": "坂の多い町と退屈",
-      "movement": "↓6",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 8,
-      "track_id": 275,
-      "artist": "BREIMEN",
-      "title": "yonaki",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
       "rank": 9,
-      "track_id": 601,
-      "artist": "KAN",
-      "title": "言えずのI LOVE YOU",
-      "movement": "↓4",
+      "track_id": 415,
+      "artist": "bonobos",
+      "title": "Standing There ～いま、そこに行くよ～",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 20,
-      "artist": "MONO NO AWARE",
-      "title": "水が湧いた",
-      "movement": "↓1",
+      "track_id": 1403,
+      "artist": "NUMBER GIRL",
+      "title": "DESTRUCTION BABY",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
     }
   ]
 }

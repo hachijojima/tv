@@ -7,90 +7,90 @@
       "track_id": 1314,
       "artist": "U2",
       "title": "Beautiful Day",
-      "movement": "→",
-      "days_at_number_1": 4,
-      "top10_streak": 6
+      "movement": "↑1",
+      "days_at_number_1": 1,
+      "top10_streak": 4
     },
     {
       "rank": 2,
-      "track_id": 10,
-      "artist": "MIZ",
-      "title": "パジャマでハイウェイ",
-      "movement": "↑2",
+      "track_id": 1535,
+      "artist": "大瀧詠一",
+      "title": "雨のウェンズデイ",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 3,
-      "track_id": 470,
-      "artist": "TM NETWORK",
-      "title": "69/99",
-      "movement": "↓1",
+      "track_id": 509,
+      "artist": "夏川りみ",
+      "title": "涙そうそう",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 5
     },
     {
       "rank": 4,
-      "track_id": 1251,
-      "artist": "Kygo",
-      "title": "Firestone (feat. Conrad Sewell)",
-      "movement": "↑4",
+      "track_id": 1048,
+      "artist": "Ben E. King",
+      "title": "Stand By Me",
+      "movement": "↑5",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 5,
-      "track_id": 1535,
-      "artist": "大瀧詠一",
-      "title": "雨のウェンズデイ",
-      "movement": "↓2",
+      "track_id": 1230,
+      "artist": "Olivia Rodrigo",
+      "title": "good 4 u",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 6,
+      "track_id": 1362,
+      "artist": "Arctic Monkeys",
+      "title": "Fluorescent Adolescent",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 7,
+      "track_id": 1241,
+      "artist": "Avicii",
+      "title": "Wake Me Up",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 8,
       "track_id": 1542,
       "artist": "COALTAR OF THE DEEPERS",
       "title": "My Speedy Sarah",
-      "movement": "↑4",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 7
     },
     {
-      "rank": 7,
-      "track_id": 1262,
-      "artist": "Tiësto",
-      "title": "Red Lights",
-      "movement": "→",
+      "rank": 9,
+      "track_id": 573,
+      "artist": "THE BOOM",
+      "title": "風になりたい",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 8,
-      "track_id": 1048,
-      "artist": "Ben E. King",
-      "title": "Stand By Me",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 9,
-      "track_id": 603,
-      "artist": "山崎まさよし",
-      "title": "僕はここにいる",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
       "rank": 10,
-      "track_id": 1362,
-      "artist": "Arctic Monkeys",
-      "title": "Fluorescent Adolescent",
-      "movement": "↓4",
+      "track_id": 20,
+      "artist": "MONO NO AWARE",
+      "title": "水が湧いた",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 1
     }
   ]
 }

@@ -4,91 +4,91 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1364,
-      "artist": "Linkin Park",
-      "title": "In the End",
-      "movement": "→",
-      "days_at_number_1": 3,
-      "top10_streak": 8
+      "track_id": 591,
+      "artist": "LUNA SEA",
+      "title": "I for You",
+      "movement": "↑8",
+      "days_at_number_1": 1,
+      "top10_streak": 2
     },
     {
       "rank": 2,
-      "track_id": 1543,
-      "artist": "PEALOUT",
-      "title": "爆裂世界 ～世界に追い越されても～",
-      "movement": "→",
+      "track_id": 1440,
+      "artist": "BLANKEY JET CITY",
+      "title": "PUNKY BAD HIP",
+      "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
     {
       "rank": 3,
-      "track_id": 582,
-      "artist": "T-BOLAN",
-      "title": "Bye For Now",
-      "movement": "↑1",
+      "track_id": 1293,
+      "artist": "IU",
+      "title": "Good Day",
+      "movement": "↑5",
       "days_at_number_1": 0,
-      "top10_streak": 10
+      "top10_streak": 7
     },
     {
       "rank": 4,
-      "track_id": 591,
-      "artist": "LUNA SEA",
-      "title": "I for You",
-      "movement": "↑5",
+      "track_id": 1250,
+      "artist": "Zedd",
+      "title": "Stay (with Alessia Cara)",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 4
     },
     {
       "rank": 5,
-      "track_id": 1032,
-      "artist": "神聖かまってちゃん",
-      "title": "ロックンロールは鳴り止まないっ",
+      "track_id": 1626,
+      "artist": "イルリメ",
+      "title": "元気でやってるのかい？",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 6,
+      "track_id": 102,
+      "artist": "BREIMEN",
+      "title": "IWBYL",
       "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 6,
-      "track_id": 1534,
-      "artist": "大瀧詠一",
-      "title": "恋するカレン",
-      "movement": "→",
+      "rank": 7,
+      "track_id": 730,
+      "artist": "杉山清貴&オメガトライブ",
+      "title": "ふたりの夏物語",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 9
+      "top10_streak": 3
     },
     {
-      "rank": 7,
-      "track_id": 1626,
-      "artist": "イルリメ",
-      "title": "元気でやってるのかい？",
+      "rank": 8,
+      "track_id": 1153,
+      "artist": "ゴダイゴ",
+      "title": "銀河鉄道999",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 9,
+      "track_id": 1533,
+      "artist": "大瀧詠一",
+      "title": "指切り",
       "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
     {
-      "rank": 8,
-      "track_id": 565,
-      "artist": "hitomi",
-      "title": "CANDY GIRL",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 9,
-      "track_id": 813,
-      "artist": "Official髭男dism",
-      "title": "Pretender",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
       "rank": 10,
-      "track_id": 12,
-      "artist": "MIZ",
-      "title": "丘",
-      "movement": "RE",
+      "track_id": 499,
+      "artist": "SPEED",
+      "title": "White Love",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

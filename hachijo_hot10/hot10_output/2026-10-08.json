@@ -4,21 +4,21 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1219,
-      "artist": "Ed Sheeran",
-      "title": "Shape of You",
-      "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 7
-    },
-    {
-      "rank": 2,
       "track_id": 1653,
       "artist": "ミドリ",
       "title": "ゆきこさん",
-      "movement": "→",
-      "days_at_number_1": 0,
+      "movement": "↑1",
+      "days_at_number_1": 1,
       "top10_streak": 4
+    },
+    {
+      "rank": 2,
+      "track_id": 1219,
+      "artist": "Ed Sheeran",
+      "title": "Shape of You",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 6
     },
     {
       "rank": 3,
@@ -31,15 +31,6 @@
     },
     {
       "rank": 4,
-      "track_id": 1023,
-      "artist": "Carpenters",
-      "title": "(They Long To Be) Close To You",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 5,
       "track_id": 1534,
       "artist": "大瀧詠一",
       "title": "恋するカレン",
@@ -48,49 +39,58 @@
       "top10_streak": 1
     },
     {
-      "rank": 6,
-      "track_id": 1394,
-      "artist": "GOING STEADY",
-      "title": "BABY BABY",
-      "movement": "↓2",
+      "rank": 5,
+      "track_id": 1593,
+      "artist": "天田トメノ",
+      "title": "ショメ節",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 15
+      "top10_streak": 4
     },
     {
-      "rank": 7,
+      "rank": 6,
       "track_id": 596,
       "artist": "globe",
       "title": "Can't Stop Fallin' in Love",
-      "movement": "↓2",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
+      "rank": 7,
+      "track_id": 696,
+      "artist": "小坂忠",
+      "title": "しらけちまうぜ",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
       "rank": 8,
-      "track_id": 1020,
-      "artist": "The Doobie Brothers",
-      "title": "What a Fool Believes",
-      "movement": "→",
+      "track_id": 172,
+      "artist": "ドミコ",
+      "title": "まどろまない",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 9,
-      "track_id": 1601,
-      "artist": "福島弘和",
-      "title": "吹奏楽のための「おじゃれ」",
-      "movement": "↓3",
+      "track_id": 1238,
+      "artist": "Gotye",
+      "title": "Somebody That I Used to Know (feat. Kimbra)",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 20
+      "top10_streak": 4
     },
     {
       "rank": 10,
-      "track_id": 1021,
-      "artist": "スチャダラパー",
-      "title": "サマージャム’95",
-      "movement": "RE",
+      "track_id": 1327,
+      "artist": "Weezer",
+      "title": "Buddy Holly",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 5
     }
   ]
 }

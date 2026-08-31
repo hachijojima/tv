@@ -4,93 +4,93 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1023,
-      "artist": "Carpenters",
-      "title": "(They Long To Be) Close To You",
-      "movement": "↑3",
+      "track_id": 1584,
+      "artist": "Elliott Smith",
+      "title": "Between the Bars",
+      "movement": "↑2",
       "days_at_number_1": 1,
-      "top10_streak": 8
-    },
-    {
-      "rank": 2,
-      "track_id": 1333,
-      "artist": "R.E.M.",
-      "title": "Man on the Moon",
-      "movement": "↓1",
-      "days_at_number_1": 0,
       "top10_streak": 7
     },
     {
+      "rank": 2,
+      "track_id": 395,
+      "artist": "GO!GO!7188",
+      "title": "C7",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
       "rank": 3,
-      "track_id": 452,
-      "artist": "大黒摩季",
-      "title": "Harlem Night",
+      "track_id": 1295,
+      "artist": "SHINee",
+      "title": "Ring Ding Dong",
       "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 4,
-      "track_id": 1327,
-      "artist": "Weezer",
-      "title": "Buddy Holly",
+      "track_id": 1357,
+      "artist": "The White Stripes",
+      "title": "Seven Nation Army",
       "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 2
     },
     {
       "rank": 5,
-      "track_id": 1273,
-      "artist": "BTS",
-      "title": "Dynamite",
-      "movement": "→",
+      "track_id": 1283,
+      "artist": "Stray Kids",
+      "title": "God's Menu",
+      "movement": "↑4",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 2
     },
     {
       "rank": 6,
-      "track_id": 1603,
-      "artist": "ROVO",
-      "title": "SINO DUB",
-      "movement": "↑2",
+      "track_id": 1256,
+      "artist": "Major Lazer",
+      "title": "Lean On (with DJ Snake feat. MØ)",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 7,
-      "track_id": 1295,
-      "artist": "SHINee",
-      "title": "Ring Ding Dong",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 8,
-      "track_id": 1068,
-      "artist": "Simon & Garfunkel",
-      "title": "Bridge Over Troubled Water",
+      "track_id": 1606,
+      "artist": "audio active",
+      "title": "Mammoth Galactica",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 9,
-      "track_id": 1606,
-      "artist": "audio active",
-      "title": "Mammoth Galactica",
-      "movement": "NEW",
+      "rank": 8,
+      "track_id": 1333,
+      "artist": "R.E.M.",
+      "title": "Man on the Moon",
+      "movement": "↓7",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 7
+    },
+    {
+      "rank": 9,
+      "track_id": 1327,
+      "artist": "Weezer",
+      "title": "Buddy Holly",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 8
     },
     {
       "rank": 10,
-      "track_id": 1283,
-      "artist": "Stray Kids",
-      "title": "God's Menu",
-      "movement": "→",
+      "track_id": 425,
+      "artist": "サニーデイ・サービス",
+      "title": "白い恋人",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 5
     }
   ]
 }

@@ -4,91 +4,91 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1020,
-      "artist": "The Doobie Brothers",
-      "title": "What a Fool Believes",
-      "movement": "→",
-      "days_at_number_1": 5,
-      "top10_streak": 9
-    },
-    {
-      "rank": 2,
-      "track_id": 1134,
-      "artist": "Diana Ross",
-      "title": "I’m Coming Out",
-      "movement": "↑2",
-      "days_at_number_1": 0,
+      "track_id": 1359,
+      "artist": "Franz Ferdinand",
+      "title": "Take Me Out",
+      "movement": "↑3",
+      "days_at_number_1": 1,
       "top10_streak": 2
     },
     {
-      "rank": 3,
+      "rank": 2,
       "track_id": 1590,
       "artist": "奥山熊雄",
       "title": "色のついたシャバタキ・すがる",
-      "movement": "↑3",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 7
     },
     {
+      "rank": 3,
+      "track_id": 759,
+      "artist": "吉田美奈子",
+      "title": "TOWN",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
       "rank": 4,
-      "track_id": 1241,
-      "artist": "Avicii",
-      "title": "Wake Me Up",
+      "track_id": 1674,
+      "artist": "Pasteboard",
+      "title": "Flipper",
       "movement": "↑5",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 5,
-      "track_id": 1584,
-      "artist": "Elliott Smith",
-      "title": "Between the Bars",
-      "movement": "→",
+      "track_id": 1671,
+      "artist": "Cruyff in the Bedroom",
+      "title": "Cherry",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 3
     },
     {
       "rank": 6,
-      "track_id": 1028,
-      "artist": "Kendrick Lamar",
-      "title": "Alright",
-      "movement": "RE",
+      "track_id": 281,
+      "artist": "ピチカート・ファイヴ",
+      "title": "東京は夜の七時",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 7,
+      "track_id": 495,
+      "artist": "MISIA",
+      "title": "つつみ込むように…",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 8,
+      "track_id": 459,
+      "artist": "B'z",
+      "title": "MOTEL",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 7,
-      "track_id": 1359,
-      "artist": "Franz Ferdinand",
-      "title": "Take Me Out",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 8,
-      "track_id": 325,
-      "artist": "SAKEROCK",
-      "title": "慰安旅行",
-      "movement": "↓5",
-      "days_at_number_1": 0,
-      "top10_streak": 10
-    },
-    {
       "rank": 9,
-      "track_id": 281,
-      "artist": "ピチカート・ファイヴ",
-      "title": "東京は夜の七時",
-      "movement": "↓7",
+      "track_id": 711,
+      "artist": "井上陽水",
+      "title": "帰れない二人",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 4
     },
     {
       "rank": 10,
-      "track_id": 1205,
-      "artist": "Beyoncé",
-      "title": "Crazy in Love",
-      "movement": "RE",
+      "track_id": 1084,
+      "artist": "Parannoul",
+      "title": "아름다운 세상 Beautiful World",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

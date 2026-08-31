@@ -4,60 +4,24 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1315,
-      "artist": "Nirvana",
-      "title": "Come As You Are",
-      "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 5
-    },
-    {
-      "rank": 2,
-      "track_id": 762,
-      "artist": "ティン・パン・アレー",
-      "title": "北京ダック",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 18
-    },
-    {
-      "rank": 3,
       "track_id": 998,
       "artist": "Donald Fagen",
       "title": "The Nightfly",
-      "movement": "↑5",
-      "days_at_number_1": 0,
+      "movement": "→",
+      "days_at_number_1": 2,
       "top10_streak": 3
     },
     {
-      "rank": 4,
-      "track_id": 1584,
-      "artist": "Elliott Smith",
-      "title": "Between the Bars",
-      "movement": "↑1",
+      "rank": 2,
+      "track_id": 683,
+      "artist": "原田知世",
+      "title": "時をかける少女",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 4
     },
     {
-      "rank": 5,
-      "track_id": 1305,
-      "artist": "鼓童",
-      "title": "凰（おおとり）",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 6,
-      "track_id": 15,
-      "artist": "MONO NO AWARE",
-      "title": "もうけもん",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 7,
+      "rank": 3,
       "track_id": 1003,
       "artist": "The Beach Boys",
       "title": "Wouldn’t It Be Nice",
@@ -66,31 +30,67 @@
       "top10_streak": 1
     },
     {
-      "rank": 8,
-      "track_id": 1515,
-      "artist": "戸川純",
-      "title": "レーダーマン",
-      "movement": "↓6",
+      "rank": 4,
+      "track_id": 628,
+      "artist": "山下達郎",
+      "title": "SPARKLE",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 5,
+      "track_id": 362,
+      "artist": "ART-SCHOOL",
+      "title": "斜陽",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 6,
+      "track_id": 1711,
+      "artist": "Sonic Coaster Pop",
+      "title": "Super Speed Pop Star",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 7,
+      "track_id": 443,
+      "artist": "clammbon",
+      "title": "便箋歌",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 9,
-      "track_id": 1043,
-      "artist": "Television",
-      "title": "Marquee Moon",
-      "movement": "RE",
+      "rank": 8,
+      "track_id": 1209,
+      "artist": "The Weeknd",
+      "title": "Blinding Lights",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 10,
-      "track_id": 1635,
-      "artist": "MIC JACK PRODUCTION",
-      "title": "Seven Seas Voyage",
-      "movement": "↓4",
+      "rank": 9,
+      "track_id": 1444,
+      "artist": "BLANKEY JET CITY",
+      "title": "SWEET DAYS",
+      "movement": "↓5",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 4
+    },
+    {
+      "rank": 10,
+      "track_id": 1143,
+      "artist": "The Kinks",
+      "title": "Waterloo Sunset",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }

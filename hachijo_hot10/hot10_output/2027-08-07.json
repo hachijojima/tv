@@ -4,69 +4,51 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 6,
-      "artist": "MIZ",
-      "title": "夏がきたら",
-      "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 2
+      "track_id": 1058,
+      "artist": "ランカ・リー=中島愛",
+      "title": "星間飛行",
+      "movement": "↑1",
+      "days_at_number_1": 1,
+      "top10_streak": 4
     },
     {
       "rank": 2,
-      "track_id": 1206,
-      "artist": "Beyoncé",
-      "title": "Single Ladies (Put a Ring on It)",
-      "movement": "↑4",
+      "track_id": 293,
+      "artist": "くるり",
+      "title": "東京",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 3
     },
     {
       "rank": 3,
-      "track_id": 541,
-      "artist": "山崎まさよし",
-      "title": "セロリ",
-      "movement": "↓1",
+      "track_id": 487,
+      "artist": "PRINCESS PRINCESS",
+      "title": "OH YEAH!",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
       "rank": 4,
-      "track_id": 1043,
-      "artist": "Television",
-      "title": "Marquee Moon",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 5,
-      "track_id": 1252,
-      "artist": "Kygo",
-      "title": "Stole the Show (feat. Parson James)",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
-      "rank": 6,
-      "track_id": 293,
-      "artist": "くるり",
-      "title": "東京",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 7,
-      "track_id": 487,
-      "artist": "PRINCESS PRINCESS",
-      "title": "OH YEAH!",
-      "movement": "↑1",
+      "track_id": 11,
+      "artist": "MONO NO AWARE",
+      "title": "異邦人",
+      "movement": "↑6",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 8,
+      "rank": 5,
+      "track_id": 863,
+      "artist": "Saucy Dog",
+      "title": "結",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 6,
       "track_id": 1593,
       "artist": "天田トメノ",
       "title": "ショメ節",
@@ -75,22 +57,40 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
-      "track_id": 11,
-      "artist": "MONO NO AWARE",
-      "title": "異邦人",
-      "movement": "↑1",
+      "rank": 7,
+      "track_id": 265,
+      "artist": "NOT WONK",
+      "title": "Count",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
+      "track_id": 663,
+      "artist": "カルメン・マキ",
+      "title": "時には母のない子のように",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 9,
+      "track_id": 1397,
+      "artist": "GOING STEADY",
+      "title": "もしも君が泣くならば",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 1231,
-      "artist": "Sabrina Carpenter",
-      "title": "Espresso",
+      "track_id": 379,
+      "artist": "UA",
+      "title": "悲しみジョニー",
       "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 8
     }
   ]
 }

@@ -4,91 +4,91 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 500,
-      "artist": "モーニング娘。",
-      "title": "Memory 青春の光",
-      "movement": "→",
-      "days_at_number_1": 3,
-      "top10_streak": 7
-    },
-    {
-      "rank": 2,
       "track_id": 686,
       "artist": "細野晴臣",
       "title": "終りの季節",
-      "movement": "↑1",
-      "days_at_number_1": 0,
+      "movement": "→",
+      "days_at_number_1": 2,
       "top10_streak": 2
     },
     {
+      "rank": 2,
+      "track_id": 1677,
+      "artist": "te'",
+      "title": "言葉を用いて奏でる者は才能に在らず、ただの記憶に『過』ぎぬ。",
+      "movement": "↑6",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
       "rank": 3,
-      "track_id": 1590,
-      "artist": "奥山熊雄",
-      "title": "色のついたシャバタキ・すがる",
-      "movement": "↓1",
+      "track_id": 799,
+      "artist": "チャラン・ポ・ランタン",
+      "title": "進め、たまに逃げても",
+      "movement": "↑6",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 4,
-      "track_id": 1011,
-      "artist": "Underworld",
-      "title": "Born Slippy (Nuxx)",
-      "movement": "↑1",
+      "track_id": 1589,
+      "artist": "Massive Attack",
+      "title": "Unfinished Sympathy",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 6
     },
     {
       "rank": 5,
-      "track_id": 1584,
-      "artist": "Elliott Smith",
-      "title": "Between the Bars",
-      "movement": "↑1",
+      "track_id": 209,
+      "artist": "Yogee New Waves",
+      "title": "World is Mine",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 4
     },
     {
       "rank": 6,
-      "track_id": 1647,
-      "artist": "YMCK",
-      "title": "Magical 8bit Tour",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 7,
-      "track_id": 441,
-      "artist": "チャットモンチー",
-      "title": "恋愛スピリッツ",
+      "track_id": 568,
+      "artist": "54-71",
+      "title": "Life",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 8,
-      "track_id": 1061,
-      "artist": "Cyndi Lauper",
-      "title": "Time After Time",
-      "movement": "↑1",
+      "rank": 7,
+      "track_id": 71,
+      "artist": "VIDEOTAPEMUSIC",
+      "title": "世界各国の夜",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 7
+    },
+    {
+      "rank": 8,
+      "track_id": 1154,
+      "artist": "たま",
+      "title": "さよなら人類",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     },
     {
       "rank": 9,
-      "track_id": 495,
-      "artist": "MISIA",
-      "title": "つつみ込むように…",
-      "movement": "RE",
+      "track_id": 1559,
+      "artist": "Mr.Children",
+      "title": "Replay",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 1231,
-      "artist": "Sabrina Carpenter",
-      "title": "Espresso",
-      "movement": "→",
+      "track_id": 1691,
+      "artist": "非常階段",
+      "title": "Modern",
+      "movement": "↓7",
       "days_at_number_1": 0,
       "top10_streak": 4
     }

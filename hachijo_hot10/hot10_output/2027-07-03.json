@@ -4,93 +4,93 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1068,
-      "artist": "Simon & Garfunkel",
-      "title": "Bridge Over Troubled Water",
-      "movement": "↑3",
+      "track_id": 701,
+      "artist": "シュガー・ベイブ",
+      "title": "今日はなんだか",
+      "movement": "↑1",
       "days_at_number_1": 1,
-      "top10_streak": 6
+      "top10_streak": 2
     },
     {
       "rank": 2,
-      "track_id": 1395,
-      "artist": "GOING STEADY",
-      "title": "銀河鉄道の夜",
-      "movement": "↓1",
+      "track_id": 1645,
+      "artist": "CO-FUSION",
+      "title": "Material to Digital",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 3,
-      "track_id": 1327,
-      "artist": "Weezer",
-      "title": "Buddy Holly",
-      "movement": "↓1",
+      "track_id": 1462,
+      "artist": "Buffalo Daughter",
+      "title": "Cyclic",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 9
+      "top10_streak": 4
     },
     {
       "rank": 4,
-      "track_id": 585,
-      "artist": "スピッツ",
-      "title": "楓",
-      "movement": "↑5",
+      "track_id": 690,
+      "artist": "大滝詠一",
+      "title": "恋するカレン",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 4
     },
     {
       "rank": 5,
-      "track_id": 701,
-      "artist": "シュガー・ベイブ",
-      "title": "今日はなんだか",
-      "movement": "↓2",
+      "track_id": 673,
+      "artist": "寺尾聰",
+      "title": "ルビーの指環",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 6,
-      "track_id": 1603,
-      "artist": "ROVO",
-      "title": "SINO DUB",
-      "movement": "↓1",
+      "track_id": 819,
+      "artist": "ずっと真夜中でいいのに。",
+      "title": "正しくなれない",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 5
     },
     {
       "rank": 7,
-      "track_id": 552,
-      "artist": "森高千里",
-      "title": "雨",
-      "movement": "RE",
+      "track_id": 103,
+      "artist": "AAAMYYY",
+      "title": "Leeloo",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 4
     },
     {
       "rank": 8,
-      "track_id": 1237,
-      "artist": "ROSÉ",
-      "title": "APT. (with Bruno Mars)",
-      "movement": "RE",
+      "track_id": 937,
+      "artist": "Alvvays",
+      "title": "Archie, Marry Me",
+      "movement": "↓5",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 4
     },
     {
       "rank": 9,
-      "track_id": 810,
-      "artist": "サカナクション",
-      "title": "新宝島",
-      "movement": "↓2",
+      "track_id": 580,
+      "artist": "FIELD OF VIEW",
+      "title": "Last Good-bye",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 3
     },
     {
       "rank": 10,
-      "track_id": 1381,
-      "artist": "Metallica",
-      "title": "Enter Sandman",
-      "movement": "↓4",
+      "track_id": 854,
+      "artist": "Vaundy",
+      "title": "しわあわせ",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
     }
   ]
 }

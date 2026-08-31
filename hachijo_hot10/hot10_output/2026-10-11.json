@@ -7,21 +7,12 @@
       "track_id": 1653,
       "artist": "ミドリ",
       "title": "ゆきこさん",
-      "movement": "↑1",
-      "days_at_number_1": 1,
+      "movement": "→",
+      "days_at_number_1": 4,
       "top10_streak": 7
     },
     {
       "rank": 2,
-      "track_id": 1021,
-      "artist": "スチャダラパー",
-      "title": "サマージャム’95",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 3,
       "track_id": 1200,
       "artist": "尾崎紀世彦",
       "title": "また逢う日まで",
@@ -30,43 +21,34 @@
       "top10_streak": 1
     },
     {
+      "rank": 3,
+      "track_id": 319,
+      "artist": "Syrup16g",
+      "title": "生活",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
       "rank": 4,
-      "track_id": 1089,
-      "artist": "The Beatles",
-      "title": "Let It Be",
-      "movement": "↑3",
+      "track_id": 1080,
+      "artist": "Jeff Buckley",
+      "title": "Hallelujah",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 5,
-      "track_id": 1219,
-      "artist": "Ed Sheeran",
-      "title": "Shape of You",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 10
-    },
-    {
-      "rank": 6,
-      "track_id": 1080,
-      "artist": "Jeff Buckley",
-      "title": "Hallelujah",
-      "movement": "→",
+      "track_id": 1542,
+      "artist": "COALTAR OF THE DEEPERS",
+      "title": "My Speedy Sarah",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 7,
-      "track_id": 319,
-      "artist": "Syrup16g",
-      "title": "生活",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 8,
+      "rank": 6,
       "track_id": 1371,
       "artist": "The Killers",
       "title": "When You Were Young",
@@ -75,7 +57,16 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
+      "rank": 7,
+      "track_id": 1534,
+      "artist": "大瀧詠一",
+      "title": "恋するカレン",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 8,
       "track_id": 816,
       "artist": "藤井風",
       "title": "優しさ",
@@ -84,13 +75,22 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
-      "track_id": 1239,
-      "artist": "Carly Rae Jepsen",
-      "title": "Call Me Maybe",
-      "movement": "NEW",
+      "rank": 9,
+      "track_id": 1365,
+      "artist": "Linkin Park",
+      "title": "Numb",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 3
+    },
+    {
+      "rank": 10,
+      "track_id": 744,
+      "artist": "斉藤由貴",
+      "title": "悲しみよこんにちは",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     }
   ]
 }

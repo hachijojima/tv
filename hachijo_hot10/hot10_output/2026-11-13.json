@@ -4,42 +4,24 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1280,
-      "artist": "IVE",
-      "title": "I AM",
-      "movement": "↑2",
-      "days_at_number_1": 1,
-      "top10_streak": 7
-    },
-    {
-      "rank": 2,
-      "track_id": 1475,
-      "artist": "スチャダラパー",
-      "title": "ゲームボーイズ",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 11
-    },
-    {
-      "rank": 3,
-      "track_id": 1028,
-      "artist": "Kendrick Lamar",
-      "title": "Alright",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 4,
       "track_id": 568,
       "artist": "54-71",
       "title": "Life",
       "movement": "→",
-      "days_at_number_1": 0,
+      "days_at_number_1": 2,
       "top10_streak": 2
     },
     {
-      "rank": 5,
+      "rank": 2,
+      "track_id": 1280,
+      "artist": "IVE",
+      "title": "I AM",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 3,
       "track_id": 1145,
       "artist": "tofubeats",
       "title": "水星 (feat. オノマトペ大臣)",
@@ -48,16 +30,7 @@
       "top10_streak": 1
     },
     {
-      "rank": 6,
-      "track_id": 541,
-      "artist": "山崎まさよし",
-      "title": "セロリ",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 11
-    },
-    {
-      "rank": 7,
+      "rank": 4,
       "track_id": 170,
       "artist": "betcover!!",
       "title": "翔け夜の匂い草",
@@ -66,31 +39,58 @@
       "top10_streak": 3
     },
     {
-      "rank": 8,
-      "track_id": 16,
-      "artist": "MIZ",
-      "title": "暑中見舞い",
-      "movement": "↓2",
+      "rank": 5,
+      "track_id": 545,
+      "artist": "THE BLUE HEARTS",
+      "title": "TRAIN-TRAIN",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 5
     },
     {
-      "rank": 9,
+      "rank": 6,
       "track_id": 1680,
       "artist": "nhhmbase",
       "title": "9/8",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 10,
+      "rank": 7,
       "track_id": 612,
       "artist": "渡辺美里",
       "title": "サマータイム ブルース",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 4
+    },
+    {
+      "rank": 8,
+      "track_id": 1228,
+      "artist": "Maroon 5",
+      "title": "Sugar",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 9,
+      "track_id": 16,
+      "artist": "MIZ",
+      "title": "暑中見舞い",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 10,
+      "track_id": 819,
+      "artist": "ずっと真夜中でいいのに。",
+      "title": "正しくなれない",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }

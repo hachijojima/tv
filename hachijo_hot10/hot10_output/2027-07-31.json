@@ -7,88 +7,88 @@
       "track_id": 147,
       "artist": "mei ehara",
       "title": "蓋なしの彼",
-      "movement": "↑1",
-      "days_at_number_1": 1,
+      "movement": "→",
+      "days_at_number_1": 2,
       "top10_streak": 2
     },
     {
       "rank": 2,
-      "track_id": 1252,
-      "artist": "Kygo",
-      "title": "Stole the Show (feat. Parson James)",
-      "movement": "↑5",
+      "track_id": 1215,
+      "artist": "Taylor Swift",
+      "title": "Shake It Off",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 6
     },
     {
       "rank": 3,
-      "track_id": 701,
-      "artist": "シュガー・ベイブ",
-      "title": "今日はなんだか",
-      "movement": "↑7",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 4,
-      "track_id": 1542,
-      "artist": "COALTAR OF THE DEEPERS",
-      "title": "My Speedy Sarah",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 5,
-      "track_id": 768,
-      "artist": "小沢健二",
-      "title": "いちょう並木のセレナーデ",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 10
-    },
-    {
-      "rank": 6,
-      "track_id": 476,
-      "artist": "シャ乱Q",
-      "title": "上・京・物・語",
+      "track_id": 762,
+      "artist": "ティン・パン・アレー",
+      "title": "北京ダック",
       "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
-      "rank": 7,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "↓3",
+      "rank": 4,
+      "track_id": 283,
+      "artist": "小沢健二",
+      "title": "ぼくらが旅に出る理由",
+      "movement": "↑5",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 675,
+      "artist": "薬師丸ひろ子",
+      "title": "Woman “Wの悲劇”より",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 6,
+      "track_id": 1678,
+      "artist": "LITE",
+      "title": "Ef",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 8,
-      "track_id": 1450,
-      "artist": "ゆらゆら帝国",
-      "title": "発光体",
-      "movement": "↓7",
+      "rank": 7,
+      "track_id": 705,
+      "artist": "大江千里",
+      "title": "Rain",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
+      "track_id": 720,
+      "artist": "遠藤賢司",
+      "title": "満足できるかな",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 7
     },
     {
       "rank": 9,
-      "track_id": 1061,
-      "artist": "Cyndi Lauper",
-      "title": "Time After Time",
+      "track_id": 1257,
+      "artist": "Clean Bandit",
+      "title": "Rather Be (feat. Jess Glynne)",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 675,
-      "artist": "薬師丸ひろ子",
-      "title": "Woman “Wの悲劇”より",
-      "movement": "NEW",
+      "track_id": 379,
+      "artist": "UA",
+      "title": "悲しみジョニー",
+      "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

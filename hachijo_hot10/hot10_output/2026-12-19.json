@@ -7,30 +7,21 @@
       "track_id": 1584,
       "artist": "Elliott Smith",
       "title": "Between the Bars",
-      "movement": "NEW",
+      "movement": "↑4",
       "days_at_number_1": 1,
-      "top10_streak": 1
+      "top10_streak": 4
     },
     {
       "rank": 2,
-      "track_id": 539,
-      "artist": "KAN",
-      "title": "まゆみ",
-      "movement": "↓1",
+      "track_id": 1332,
+      "artist": "R.E.M.",
+      "title": "Everybody Hurts",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
       "rank": 3,
-      "track_id": 1332,
-      "artist": "R.E.M.",
-      "title": "Everybody Hurts",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 4,
       "track_id": 768,
       "artist": "小沢健二",
       "title": "いちょう並木のセレナーデ",
@@ -39,43 +30,25 @@
       "top10_streak": 1
     },
     {
-      "rank": 5,
-      "track_id": 1065,
-      "artist": "Marvin Gaye",
-      "title": "Mercy Mercy Me (The Ecology)",
+      "rank": 4,
+      "track_id": 1108,
+      "artist": "Portishead",
+      "title": "Glory Box",
       "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 5,
+      "track_id": 863,
+      "artist": "Saucy Dog",
+      "title": "結",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 6,
-      "track_id": 533,
-      "artist": "TRF",
-      "title": "survival dAnce ～no no cry more～",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 7,
-      "track_id": 1259,
-      "artist": "DJ Snake",
-      "title": "Turn Down for What (with Lil Jon)",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 8,
-      "track_id": 1020,
-      "artist": "The Doobie Brothers",
-      "title": "What a Fool Believes",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 10
-    },
-    {
-      "rank": 9,
       "track_id": 1537,
       "artist": "大貫妙子",
       "title": "色彩都市",
@@ -84,13 +57,40 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
-      "track_id": 1108,
-      "artist": "Portishead",
-      "title": "Glory Box",
-      "movement": "↓7",
+      "rank": 7,
+      "track_id": 539,
+      "artist": "KAN",
+      "title": "まゆみ",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 9
+    },
+    {
+      "rank": 8,
+      "track_id": 1093,
+      "artist": "The Smashing Pumpkins",
+      "title": "1979",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 1313,
+      "artist": "U2",
+      "title": "Where the Streets Have No Name",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1706,
+      "artist": "菊地成孔とペペ・トルメント・アスカラール",
+      "title": "京マチ子の夜",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     }
   ]
 }

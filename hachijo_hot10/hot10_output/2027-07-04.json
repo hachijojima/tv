@@ -4,93 +4,93 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1068,
-      "artist": "Simon & Garfunkel",
-      "title": "Bridge Over Troubled Water",
+      "track_id": 701,
+      "artist": "シュガー・ベイブ",
+      "title": "今日はなんだか",
       "movement": "→",
       "days_at_number_1": 2,
-      "top10_streak": 7
+      "top10_streak": 3
     },
     {
       "rank": 2,
-      "track_id": 1395,
-      "artist": "GOING STEADY",
-      "title": "銀河鉄道の夜",
+      "track_id": 1645,
+      "artist": "CO-FUSION",
+      "title": "Material to Digital",
       "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
       "rank": 3,
-      "track_id": 585,
-      "artist": "スピッツ",
-      "title": "楓",
-      "movement": "↑1",
+      "track_id": 1462,
+      "artist": "Buffalo Daughter",
+      "title": "Cyclic",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 5
     },
     {
       "rank": 4,
-      "track_id": 1327,
-      "artist": "Weezer",
-      "title": "Buddy Holly",
-      "movement": "↓1",
+      "track_id": 580,
+      "artist": "FIELD OF VIEW",
+      "title": "Last Good-bye",
+      "movement": "↑5",
       "days_at_number_1": 0,
-      "top10_streak": 10
+      "top10_streak": 4
     },
     {
       "rank": 5,
-      "track_id": 1237,
-      "artist": "ROSÉ",
-      "title": "APT. (with Bruno Mars)",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 6,
-      "track_id": 552,
-      "artist": "森高千里",
-      "title": "雨",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 7,
-      "track_id": 701,
-      "artist": "シュガー・ベイブ",
-      "title": "今日はなんだか",
-      "movement": "↓2",
+      "track_id": 673,
+      "artist": "寺尾聰",
+      "title": "ルビーの指環",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 8,
-      "track_id": 1603,
-      "artist": "ROVO",
-      "title": "SINO DUB",
-      "movement": "↓2",
+      "rank": 6,
+      "track_id": 819,
+      "artist": "ずっと真夜中でいいのに。",
+      "title": "正しくなれない",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 8
+      "top10_streak": 6
+    },
+    {
+      "rank": 7,
+      "track_id": 565,
+      "artist": "hitomi",
+      "title": "CANDY GIRL",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 843,
+      "artist": "Kroi",
+      "title": "Juden",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     },
     {
       "rank": 9,
-      "track_id": 1535,
-      "artist": "大瀧詠一",
-      "title": "雨のウェンズデイ",
-      "movement": "RE",
+      "track_id": 741,
+      "artist": "太田裕美",
+      "title": "さらばシベリア鉄道",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 810,
-      "artist": "サカナクション",
-      "title": "新宝島",
-      "movement": "↓1",
+      "track_id": 690,
+      "artist": "大滝詠一",
+      "title": "恋するカレン",
+      "movement": "↓6",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 5
     }
   ]
 }

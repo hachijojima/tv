@@ -4,60 +4,24 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1091,
-      "artist": "The Cure",
-      "title": "Boys Don’t Cry",
-      "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 8
+      "track_id": 30,
+      "artist": "カネコアヤノ",
+      "title": "祝日",
+      "movement": "↑1",
+      "days_at_number_1": 1,
+      "top10_streak": 5
     },
     {
       "rank": 2,
-      "track_id": 1247,
-      "artist": "Swedish House Mafia",
-      "title": "Don't You Worry Child",
-      "movement": "↑2",
+      "track_id": 298,
+      "artist": "BUMP OF CHICKEN",
+      "title": "車輪の唄",
+      "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 2
     },
     {
       "rank": 3,
-      "track_id": 1533,
-      "artist": "大瀧詠一",
-      "title": "指切り",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 4,
-      "track_id": 19,
-      "artist": "MONO NO AWARE",
-      "title": "幽霊船",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 5,
-      "track_id": 1013,
-      "artist": "The Police",
-      "title": "Every Breath You Take",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 6,
-      "track_id": 1264,
-      "artist": "Disclosure",
-      "title": "Latch (feat. Sam Smith)",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 10
-    },
-    {
-      "rank": 7,
       "track_id": 1350,
       "artist": "Alanis Morissette",
       "title": "You Oughta Know",
@@ -66,31 +30,67 @@
       "top10_streak": 1
     },
     {
-      "rank": 8,
-      "track_id": 1624,
-      "artist": "Love Tambourines",
-      "title": "Midnight Parade",
-      "movement": "↑1",
+      "rank": 4,
+      "track_id": 743,
+      "artist": "松本伊代",
+      "title": "TVの国からキラキラ",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 8
+      "top10_streak": 3
     },
     {
-      "rank": 9,
-      "track_id": 298,
-      "artist": "BUMP OF CHICKEN",
-      "title": "車輪の唄",
-      "movement": "↓1",
+      "rank": 5,
+      "track_id": 1045,
+      "artist": "YELLOW MAGIC ORCHESTRA",
+      "title": "RYDEEN",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 6,
+      "track_id": 1018,
+      "artist": "Marvin Gaye",
+      "title": "Ain’t No Mountain High Enough",
+      "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 10,
-      "track_id": 1605,
-      "artist": "ASA-CHANG&巡礼",
-      "title": "花",
-      "movement": "RE",
+      "rank": 7,
+      "track_id": 1044,
+      "artist": "The Jackson 5",
+      "title": "I Want You Back",
+      "movement": "↓6",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 8,
+      "track_id": 1252,
+      "artist": "Kygo",
+      "title": "Stole the Show (feat. Parson James)",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 9,
+      "track_id": 1434,
+      "artist": "SNAIL RAMP",
+      "title": "HOTARU NO HIKARI",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 229,
+      "artist": "柴田聡子",
+      "title": "ぼちぼち銀河",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 6
     }
   ]
 }

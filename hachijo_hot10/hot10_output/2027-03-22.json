@@ -13,69 +13,42 @@
     },
     {
       "rank": 2,
-      "track_id": 839,
-      "artist": "Awesome City Club",
-      "title": "アウトサイダー",
-      "movement": "↑1",
+      "track_id": 1474,
+      "artist": "スチャダラパー",
+      "title": "GET UP AND DANCE",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
       "rank": 3,
-      "track_id": 1543,
-      "artist": "PEALOUT",
-      "title": "爆裂世界 ～世界に追い越されても～",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 4,
-      "track_id": 1635,
-      "artist": "MIC JACK PRODUCTION",
-      "title": "Seven Seas Voyage",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 14
-    },
-    {
-      "rank": 5,
-      "track_id": 1029,
-      "artist": "m-flo",
-      "title": "come again",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 6,
-      "track_id": 348,
-      "artist": "レミオロメン",
-      "title": "電話",
+      "track_id": 1710,
+      "artist": "MOTOCOMPO",
+      "title": "Lemonade",
       "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 7,
-      "track_id": 1241,
-      "artist": "Avicii",
-      "title": "Wake Me Up",
-      "movement": "↓6",
+      "rank": 4,
+      "track_id": 1616,
+      "artist": "LITTLE TEMPO",
+      "title": "外道の森",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 8,
-      "track_id": 1106,
-      "artist": "New Order",
-      "title": "Ceremony",
-      "movement": "NEW",
+      "rank": 5,
+      "track_id": 605,
+      "artist": "奥田民生",
+      "title": "イージュー★ライダー",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 6
     },
     {
-      "rank": 9,
+      "rank": 6,
       "track_id": 1619,
       "artist": "Qomolangma Tomato",
       "title": "through your reality",
@@ -84,11 +57,38 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
-      "track_id": 489,
-      "artist": "小泉今日子",
-      "title": "Fade Out",
+      "rank": 7,
+      "track_id": 604,
+      "artist": "斉藤和義",
+      "title": "彼女",
       "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 8,
+      "track_id": 4,
+      "artist": "MIZ",
+      "title": "空砲",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 9,
+      "track_id": 1468,
+      "artist": "東京No.1 SOUL SET",
+      "title": "黄昏'95〜太陽の季節",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 10,
+      "track_id": 651,
+      "artist": "中島みゆき",
+      "title": "時代",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 3
     }

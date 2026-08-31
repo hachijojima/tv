@@ -4,42 +4,15 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1280,
-      "artist": "IVE",
-      "title": "I AM",
-      "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 8
-    },
-    {
-      "rank": 2,
-      "track_id": 1475,
-      "artist": "スチャダラパー",
-      "title": "ゲームボーイズ",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 12
-    },
-    {
-      "rank": 3,
-      "track_id": 1028,
-      "artist": "Kendrick Lamar",
-      "title": "Alright",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 4,
       "track_id": 1145,
       "artist": "tofubeats",
       "title": "水星 (feat. オノマトペ大臣)",
-      "movement": "↑1",
-      "days_at_number_1": 0,
+      "movement": "↑2",
+      "days_at_number_1": 1,
       "top10_streak": 2
     },
     {
-      "rank": 5,
+      "rank": 2,
       "track_id": 568,
       "artist": "54-71",
       "title": "Life",
@@ -48,16 +21,16 @@
       "top10_streak": 3
     },
     {
-      "rank": 6,
-      "track_id": 541,
-      "artist": "山崎まさよし",
-      "title": "セロリ",
-      "movement": "→",
+      "rank": 3,
+      "track_id": 1228,
+      "artist": "Maroon 5",
+      "title": "Sugar",
+      "movement": "↑5",
       "days_at_number_1": 0,
-      "top10_streak": 12
+      "top10_streak": 4
     },
     {
-      "rank": 7,
+      "rank": 4,
       "track_id": 170,
       "artist": "betcover!!",
       "title": "翔け夜の匂い草",
@@ -66,31 +39,58 @@
       "top10_streak": 4
     },
     {
-      "rank": 8,
-      "track_id": 1514,
-      "artist": "戸川純",
-      "title": "玉姫様",
-      "movement": "NEW",
+      "rank": 5,
+      "track_id": 1280,
+      "artist": "IVE",
+      "title": "I AM",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 8
+    },
+    {
+      "rank": 6,
+      "track_id": 545,
+      "artist": "THE BLUE HEARTS",
+      "title": "TRAIN-TRAIN",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 7,
+      "track_id": 1680,
+      "artist": "nhhmbase",
+      "title": "9/8",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
+      "track_id": 819,
+      "artist": "ずっと真夜中でいいのに。",
+      "title": "正しくなれない",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     },
     {
       "rank": 9,
-      "track_id": 1228,
-      "artist": "Maroon 5",
-      "title": "Sugar",
-      "movement": "NEW",
+      "track_id": 612,
+      "artist": "渡辺美里",
+      "title": "サマータイム ブルース",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 5
     },
     {
       "rank": 10,
-      "track_id": 16,
-      "artist": "MIZ",
-      "title": "暑中見舞い",
-      "movement": "↓2",
+      "track_id": 1215,
+      "artist": "Taylor Swift",
+      "title": "Shake It Off",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 1
     }
   ]
 }

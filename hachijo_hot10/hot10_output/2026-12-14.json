@@ -7,88 +7,88 @@
       "track_id": 1076,
       "artist": "Alicia Keys",
       "title": "If I Ain’t Got You",
-      "movement": "↑2",
+      "movement": "↑3",
       "days_at_number_1": 1,
       "top10_streak": 2
     },
     {
       "rank": 2,
-      "track_id": 1020,
-      "artist": "The Doobie Brothers",
-      "title": "What a Fool Believes",
-      "movement": "→",
+      "track_id": 539,
+      "artist": "KAN",
+      "title": "まゆみ",
+      "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 4
     },
     {
       "rank": 3,
       "track_id": 1242,
       "artist": "Avicii",
       "title": "Levels",
-      "movement": "↑1",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
       "rank": 4,
-      "track_id": 1601,
-      "artist": "福島弘和",
-      "title": "吹奏楽のための「おじゃれ」",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 10
-    },
-    {
-      "rank": 5,
-      "track_id": 533,
-      "artist": "TRF",
-      "title": "survival dAnce ～no no cry more～",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 6,
       "track_id": 1291,
       "artist": "KARA",
       "title": "Mister",
-      "movement": "→",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
-      "rank": 7,
-      "track_id": 1286,
-      "artist": "SEVENTEEN",
-      "title": "Super",
-      "movement": "↓6",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 8,
-      "track_id": 1269,
-      "artist": "LMFAO",
-      "title": "Party Rock Anthem",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 9,
+      "rank": 5,
       "track_id": 1283,
       "artist": "Stray Kids",
       "title": "God's Menu",
       "movement": "↓2",
       "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 6,
+      "track_id": 42,
+      "artist": "D.A.N.",
+      "title": "Native Dancer",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 7,
+      "track_id": 1642,
+      "artist": "Jazztronik",
+      "title": "Samurai",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 8,
+      "track_id": 1086,
+      "artist": "Queen",
+      "title": "Somebody to Love",
+      "movement": "↓1",
+      "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
+      "rank": 9,
+      "track_id": 421,
+      "artist": "Cornelius",
+      "title": "Point of View Point",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
       "rank": 10,
-      "track_id": 1247,
-      "artist": "Swedish House Mafia",
-      "title": "Don't You Worry Child",
-      "movement": "RE",
+      "track_id": 1047,
+      "artist": "Aphex Twin",
+      "title": "Xtal",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

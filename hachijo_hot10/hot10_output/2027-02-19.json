@@ -4,60 +4,42 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1011,
-      "artist": "Underworld",
-      "title": "Born Slippy (Nuxx)",
-      "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 2
+      "track_id": 825,
+      "artist": "マカロニえんぴつ",
+      "title": "恋人ごっこ",
+      "movement": "↑1",
+      "days_at_number_1": 1,
+      "top10_streak": 5
     },
     {
       "rank": 2,
-      "track_id": 1267,
-      "artist": "Eric Prydz",
-      "title": "Call on Me",
-      "movement": "↑1",
+      "track_id": 519,
+      "artist": "DEEN",
+      "title": "瞳そらさないで",
+      "movement": "↑7",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 3,
-      "track_id": 1247,
-      "artist": "Swedish House Mafia",
-      "title": "Don't You Worry Child",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 11
-    },
-    {
-      "rank": 4,
-      "track_id": 1013,
-      "artist": "The Police",
-      "title": "Every Breath You Take",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 10
-    },
-    {
-      "rank": 5,
-      "track_id": 519,
-      "artist": "DEEN",
-      "title": "瞳そらさないで",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 6,
-      "track_id": 520,
-      "artist": "T-BOLAN",
-      "title": "じれったい愛",
-      "movement": "↑3",
+      "track_id": 1246,
+      "artist": "David Guetta",
+      "title": "Memories (feat. Kid Cudi)",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 7,
+      "rank": 4,
+      "track_id": 1681,
+      "artist": "MASS OF THE FERMENTING DREGS",
+      "title": "ひきずるビート",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 5,
       "track_id": 844,
       "artist": "WONK",
       "title": "Fleeting Fantasy",
@@ -66,31 +48,49 @@
       "top10_streak": 1
     },
     {
-      "rank": 8,
+      "rank": 6,
       "track_id": 1204,
       "artist": "Rihanna",
       "title": "We Found Love",
-      "movement": "RE",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
+      "rank": 7,
+      "track_id": 647,
+      "artist": "風",
+      "title": "22才の別れ",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 8,
+      "track_id": 1726,
+      "artist": "想い出波止場",
+      "title": "アストロ・ヴォルカノ・ブレイク・ダウン",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
       "rank": 9,
-      "track_id": 1242,
-      "artist": "Avicii",
-      "title": "Levels",
-      "movement": "RE",
+      "track_id": 46,
+      "artist": "iri",
+      "title": "Wonderland",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 1309,
-      "artist": "Red Hot Chili Peppers",
-      "title": "Under the Bridge",
-      "movement": "RE",
+      "track_id": 426,
+      "artist": "UA",
+      "title": "ミルクティー",
+      "movement": "↓5",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     }
   ]
 }

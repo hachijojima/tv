@@ -4,27 +4,27 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1023,
-      "artist": "Carpenters",
-      "title": "(They Long To Be) Close To You",
-      "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 3
-    },
-    {
-      "rank": 2,
       "track_id": 1333,
       "artist": "R.E.M.",
       "title": "Man on the Moon",
       "movement": "→",
-      "days_at_number_1": 0,
+      "days_at_number_1": 2,
       "top10_streak": 2
     },
     {
+      "rank": 2,
+      "track_id": 820,
+      "artist": "YOASOBI",
+      "title": "群青",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
       "rank": 3,
-      "track_id": 1545,
-      "artist": "Susumu Yokota",
-      "title": "Saku",
+      "track_id": 1581,
+      "artist": "Sonic Youth",
+      "title": "Sugar Kane",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
@@ -36,58 +36,58 @@
       "title": "Titanium (feat. Sia)",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 5,
-      "track_id": 1581,
-      "artist": "Sonic Youth",
-      "title": "Sugar Kane",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 6,
-      "track_id": 459,
-      "artist": "B'z",
-      "title": "MOTEL",
-      "movement": "↓2",
-      "days_at_number_1": 0,
       "top10_streak": 7
     },
     {
-      "rank": 7,
-      "track_id": 1154,
-      "artist": "たま",
-      "title": "さよなら人類",
+      "rank": 5,
+      "track_id": 1327,
+      "artist": "Weezer",
+      "title": "Buddy Holly",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 10
+      "top10_streak": 3
     },
     {
-      "rank": 8,
-      "track_id": 820,
-      "artist": "YOASOBI",
-      "title": "群青",
+      "rank": 6,
+      "track_id": 1584,
+      "artist": "Elliott Smith",
+      "title": "Between the Bars",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 7,
+      "track_id": 1534,
+      "artist": "大瀧詠一",
+      "title": "恋するカレン",
       "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 9,
-      "track_id": 1228,
-      "artist": "Maroon 5",
-      "title": "Sugar",
-      "movement": "↓4",
+      "rank": 8,
+      "track_id": 635,
+      "artist": "南佳孝",
+      "title": "モンロー・ウォーク",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 1279,
+      "artist": "IVE",
+      "title": "LOVE DIVE",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 842,
-      "artist": "離婚伝説",
-      "title": "本日のおすすめ",
+      "track_id": 619,
+      "artist": "MISIA",
+      "title": "陽のあたる場所",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1

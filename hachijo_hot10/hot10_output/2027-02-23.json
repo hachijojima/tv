@@ -4,93 +4,93 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1247,
-      "artist": "Swedish House Mafia",
-      "title": "Don't You Worry Child",
-      "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 15
-    },
-    {
-      "rank": 2,
-      "track_id": 762,
-      "artist": "ティン・パン・アレー",
-      "title": "北京ダック",
-      "movement": "↑6",
-      "days_at_number_1": 0,
+      "track_id": 615,
+      "artist": "米米CLUB",
+      "title": "Shake Hip!",
+      "movement": "↑9",
+      "days_at_number_1": 1,
       "top10_streak": 2
     },
     {
-      "rank": 3,
-      "track_id": 16,
-      "artist": "MIZ",
-      "title": "暑中見舞い",
-      "movement": "↓1",
+      "rank": 2,
+      "track_id": 7,
+      "artist": "MONO NO AWARE",
+      "title": "ゾッコン",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 4,
-      "track_id": 1242,
-      "artist": "Avicii",
-      "title": "Levels",
-      "movement": "→",
+      "rank": 3,
+      "track_id": 1204,
+      "artist": "Rihanna",
+      "title": "We Found Love",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
-      "rank": 5,
-      "track_id": 1327,
-      "artist": "Weezer",
-      "title": "Buddy Holly",
-      "movement": "↓2",
+      "rank": 4,
+      "track_id": 611,
+      "artist": "PRINCESS PRINCESS",
+      "title": "世界でいちばん熱い夏",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 6,
-      "track_id": 615,
-      "artist": "米米CLUB",
-      "title": "Shake Hip!",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 7,
-      "track_id": 1275,
-      "artist": "TWICE",
-      "title": "TT",
+      "rank": 5,
+      "track_id": 1648,
+      "artist": "Plus-Tech Squeeze Box",
+      "title": "Early Riser",
       "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 8,
-      "track_id": 7,
-      "artist": "MONO NO AWARE",
-      "title": "ゾッコン",
-      "movement": "↓3",
+      "rank": 6,
+      "track_id": 1201,
+      "artist": "Lady Gaga",
+      "title": "Bad Romance",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
+      "rank": 7,
+      "track_id": 46,
+      "artist": "iri",
+      "title": "Wonderland",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 8,
+      "track_id": 1516,
+      "artist": "戸川純",
+      "title": "蛹化の女",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
       "rank": 9,
-      "track_id": 1089,
-      "artist": "The Beatles",
-      "title": "Let It Be",
-      "movement": "RE",
+      "track_id": 529,
+      "artist": "LUNA SEA",
+      "title": "TRUE BLUE",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 611,
-      "artist": "PRINCESS PRINCESS",
-      "title": "世界でいちばん熱い夏",
-      "movement": "↓3",
+      "track_id": 1265,
+      "artist": "Disclosure",
+      "title": "White Noise (feat. AlunaGeorge)",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
     }
   ]
 }

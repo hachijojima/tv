@@ -4,93 +4,93 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1534,
-      "artist": "大瀧詠一",
-      "title": "恋するカレン",
-      "movement": "→",
-      "days_at_number_1": 3,
-      "top10_streak": 6
-    },
-    {
-      "rank": 2,
-      "track_id": 1543,
-      "artist": "PEALOUT",
-      "title": "爆裂世界 ～世界に追い越されても～",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 3,
-      "track_id": 1364,
-      "artist": "Linkin Park",
-      "title": "In the End",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 4,
-      "track_id": 582,
-      "artist": "T-BOLAN",
-      "title": "Bye For Now",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 5,
       "track_id": 1626,
       "artist": "イルリメ",
       "title": "元気でやってるのかい？",
-      "movement": "↑2",
+      "movement": "→",
+      "days_at_number_1": 3,
+      "top10_streak": 4
+    },
+    {
+      "rank": 2,
+      "track_id": 1298,
+      "artist": "NCT 127",
+      "title": "Kick It",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 3,
+      "track_id": 1440,
+      "artist": "BLANKEY JET CITY",
+      "title": "PUNKY BAD HIP",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 6,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 7,
-      "track_id": 500,
-      "artist": "モーニング娘。",
-      "title": "Memory 青春の光",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 11
-    },
-    {
-      "rank": 8,
-      "track_id": 1679,
-      "artist": "mouse on the keys",
-      "title": "Spectres de Mouse",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 9,
-      "track_id": 1245,
-      "artist": "David Guetta",
-      "title": "Titanium (feat. Sia)",
-      "movement": "→",
+      "rank": 4,
+      "track_id": 540,
+      "artist": "槇原敬之",
+      "title": "もう恋なんてしない",
+      "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 10,
+      "rank": 5,
+      "track_id": 1293,
+      "artist": "IU",
+      "title": "Good Day",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 6,
       "track_id": 1250,
       "artist": "Zedd",
       "title": "Stay (with Alessia Cara)",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 7,
+      "track_id": 916,
+      "artist": "Cocteau Twins",
+      "title": "Heaven or Las Vegas",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 38,
+      "artist": "羊文学",
+      "title": "1999",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 9,
+      "track_id": 1533,
+      "artist": "大瀧詠一",
+      "title": "指切り",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 10,
+      "track_id": 1642,
+      "artist": "Jazztronik",
+      "title": "Samurai",
+      "movement": "↓6",
+      "days_at_number_1": 0,
+      "top10_streak": 6
     }
   ]
 }

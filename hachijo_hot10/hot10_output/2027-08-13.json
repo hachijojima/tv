@@ -4,90 +4,90 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1206,
-      "artist": "Beyoncé",
-      "title": "Single Ladies (Put a Ring on It)",
+      "track_id": 1705,
+      "artist": "大友良英 NEW JAZZ ENSEMBLE",
+      "title": "Eureka",
       "movement": "↑1",
       "days_at_number_1": 1,
-      "top10_streak": 11
+      "top10_streak": 6
     },
     {
       "rank": 2,
-      "track_id": 1586,
-      "artist": "Teenage Fanclub",
-      "title": "Everything Flows",
-      "movement": "↓1",
+      "track_id": 1690,
+      "artist": "あぶらだこ",
+      "title": "冬枯れ花火",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 3,
+      "track_id": 436,
+      "artist": "ハナレグミ",
+      "title": "光と影",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 4,
+      "track_id": 1347,
+      "artist": "Garbage",
+      "title": "Only Happy When It Rains",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 1157,
+      "artist": "藤井風",
+      "title": "旅路",
+      "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 3,
-      "track_id": 1690,
-      "artist": "あぶらだこ",
-      "title": "冬枯れ花火",
+      "rank": 6,
+      "track_id": 229,
+      "artist": "柴田聡子",
+      "title": "ぼちぼち銀河",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 7,
+      "track_id": 11,
+      "artist": "MONO NO AWARE",
+      "title": "異邦人",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 8,
+      "track_id": 650,
+      "artist": "安全地帯",
+      "title": "ワインレッドの心",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 9,
+      "track_id": 1138,
+      "artist": "Massive Attack",
+      "title": "Protection",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 4,
-      "track_id": 1043,
-      "artist": "Television",
-      "title": "Marquee Moon",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 5,
-      "track_id": 768,
-      "artist": "小沢健二",
-      "title": "いちょう並木のセレナーデ",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 6,
-      "track_id": 11,
-      "artist": "MONO NO AWARE",
-      "title": "異邦人",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 7,
-      "track_id": 852,
-      "artist": "Official髭男dism",
-      "title": "宿命",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 8,
-      "track_id": 566,
-      "artist": "the brilliant green",
-      "title": "冷たい花",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 9,
-      "track_id": 1719,
-      "artist": "Kaoru Inoue",
-      "title": "The Invisible Eclipse",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
       "rank": 10,
-      "track_id": 1601,
-      "artist": "福島弘和",
-      "title": "吹奏楽のための「おじゃれ」",
+      "track_id": 1031,
+      "artist": "宇多田ヒカル",
+      "title": "One Last Kiss",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1

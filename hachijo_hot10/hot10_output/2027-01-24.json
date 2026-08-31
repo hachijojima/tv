@@ -4,78 +4,33 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1473,
-      "artist": "スチャダラパー",
-      "title": "今夜はブギー・バック (smooth rap)",
-      "movement": "↑1",
+      "track_id": 369,
+      "artist": "bonobos",
+      "title": "Beautiful",
+      "movement": "↑8",
       "days_at_number_1": 1,
-      "top10_streak": 10
+      "top10_streak": 2
     },
     {
       "rank": 2,
-      "track_id": 945,
-      "artist": "Oasis",
-      "title": "Don't Look Back in Anger",
-      "movement": "RE",
+      "track_id": 441,
+      "artist": "チャットモンチー",
+      "title": "恋愛スピリッツ",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 6
     },
     {
       "rank": 3,
-      "track_id": 124,
-      "artist": "Tempalay",
-      "title": "そなちね",
-      "movement": "NEW",
+      "track_id": 1097,
+      "artist": "大澤誉志幸",
+      "title": "そして僕は途方に暮れる",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 3
     },
     {
       "rank": 4,
-      "track_id": 1542,
-      "artist": "COALTAR OF THE DEEPERS",
-      "title": "My Speedy Sarah",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
-      "rank": 5,
-      "track_id": 1023,
-      "artist": "Carpenters",
-      "title": "(They Long To Be) Close To You",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 6,
-      "track_id": 1674,
-      "artist": "Pasteboard",
-      "title": "Flipper",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
-      "rank": 7,
-      "track_id": 489,
-      "artist": "小泉今日子",
-      "title": "Fade Out",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 8,
-      "track_id": 1095,
-      "artist": "サニーデイ・サービス",
-      "title": "春の風",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 9,
       "track_id": 1085,
       "artist": "Procol Harum",
       "title": "A Whiter Shade of Pale",
@@ -84,10 +39,55 @@
       "top10_streak": 1
     },
     {
+      "rank": 5,
+      "track_id": 1254,
+      "artist": "The Chainsmokers",
+      "title": "Closer (feat. Halsey)",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 6,
+      "track_id": 1473,
+      "artist": "スチャダラパー",
+      "title": "今夜はブギー・バック (smooth rap)",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 10
+    },
+    {
+      "rank": 7,
+      "track_id": 386,
+      "artist": "NUMBER GIRL",
+      "title": "鉄風 鋭くなって",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 8,
+      "track_id": 1270,
+      "artist": "Galantis",
+      "title": "Runaway (U & I)",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 9,
+      "track_id": 352,
+      "artist": "Cymbals",
+      "title": "Highway Star, Speed Star",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
       "rank": 10,
-      "track_id": 369,
-      "artist": "bonobos",
-      "title": "Beautiful",
+      "track_id": 1699,
+      "artist": "湯川潮音",
+      "title": "緑のアーチ",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1

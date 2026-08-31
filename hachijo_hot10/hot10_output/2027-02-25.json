@@ -7,66 +7,57 @@
       "track_id": 615,
       "artist": "米米CLUB",
       "title": "Shake Hip!",
-      "movement": "↑1",
-      "days_at_number_1": 1,
-      "top10_streak": 3
+      "movement": "→",
+      "days_at_number_1": 3,
+      "top10_streak": 4
     },
     {
       "rank": 2,
-      "track_id": 762,
-      "artist": "ティン・パン・アレー",
-      "title": "北京ダック",
-      "movement": "↓1",
+      "track_id": 7,
+      "artist": "MONO NO AWARE",
+      "title": "ゾッコン",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 3,
+      "track_id": 1648,
+      "artist": "Plus-Tech Squeeze Box",
+      "title": "Early Riser",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 3,
-      "track_id": 1089,
-      "artist": "The Beatles",
-      "title": "Let It Be",
-      "movement": "→",
+      "rank": 4,
+      "track_id": 611,
+      "artist": "PRINCESS PRINCESS",
+      "title": "世界でいちばん熱い夏",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 5,
+      "track_id": 155,
+      "artist": "パスピエ",
+      "title": "MATATABISTEP",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 6,
+      "track_id": 529,
+      "artist": "LUNA SEA",
+      "title": "TRUE BLUE",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 4,
-      "track_id": 7,
-      "artist": "MONO NO AWARE",
-      "title": "ゾッコン",
-      "movement": "↑5",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 5,
-      "track_id": 1023,
-      "artist": "Carpenters",
-      "title": "(They Long To Be) Close To You",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 6,
-      "track_id": 1602,
-      "artist": "Boredoms",
-      "title": "SUPER ARE",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
       "rank": 7,
-      "track_id": 1242,
-      "artist": "Avicii",
-      "title": "Levels",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 8,
       "track_id": 36,
       "artist": "never young beach",
       "title": "明るい未来",
@@ -75,22 +66,31 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
-      "track_id": 1634,
-      "artist": "THA BLUE HERB",
-      "title": "未来は俺等の手の中",
-      "movement": "RE",
+      "rank": 8,
+      "track_id": 1626,
+      "artist": "イルリメ",
+      "title": "元気でやってるのかい？",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 10,
-      "track_id": 701,
-      "artist": "シュガー・ベイブ",
-      "title": "今日はなんだか",
-      "movement": "NEW",
+      "rank": 9,
+      "track_id": 1201,
+      "artist": "Lady Gaga",
+      "title": "Bad Romance",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 6
+    },
+    {
+      "rank": 10,
+      "track_id": 795,
+      "artist": "Base Ball Bear",
+      "title": "17才",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     }
   ]
 }

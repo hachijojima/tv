@@ -4,78 +4,60 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1450,
-      "artist": "ゆらゆら帝国",
-      "title": "発光体",
+      "track_id": 1219,
+      "artist": "Ed Sheeran",
+      "title": "Shape of You",
       "movement": "→",
-      "days_at_number_1": 4,
-      "top10_streak": 4
+      "days_at_number_1": 3,
+      "top10_streak": 5
     },
     {
       "rank": 2,
+      "track_id": 1215,
+      "artist": "Taylor Swift",
+      "title": "Shake It Off",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 3,
       "track_id": 768,
       "artist": "小沢健二",
       "title": "いちょう並木のセレナーデ",
-      "movement": "↑1",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 8
     },
     {
-      "rank": 3,
-      "track_id": 476,
-      "artist": "シャ乱Q",
-      "title": "上・京・物・語",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
       "rank": 4,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "↑4",
+      "track_id": 1678,
+      "artist": "LITE",
+      "title": "Ef",
+      "movement": "↑6",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 5,
-      "track_id": 1219,
-      "artist": "Ed Sheeran",
-      "title": "Shape of You",
-      "movement": "↓1",
+      "track_id": 762,
+      "artist": "ティン・パン・アレー",
+      "title": "北京ダック",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 6,
+      "track_id": 720,
+      "artist": "遠藤賢司",
+      "title": "満足できるかな",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
-      "rank": 6,
-      "track_id": 155,
-      "artist": "パスピエ",
-      "title": "MATATABISTEP",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
       "rank": 7,
-      "track_id": 1214,
-      "artist": "Ariana Grande",
-      "title": "Into You",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 8,
-      "track_id": 1678,
-      "artist": "LITE",
-      "title": "Ef",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 9,
       "track_id": 1242,
       "artist": "Avicii",
       "title": "Levels",
@@ -84,13 +66,31 @@
       "top10_streak": 6
     },
     {
-      "rank": 10,
-      "track_id": 1542,
-      "artist": "COALTAR OF THE DEEPERS",
-      "title": "My Speedy Sarah",
+      "rank": 8,
+      "track_id": 705,
+      "artist": "大江千里",
+      "title": "Rain",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 576,
+      "artist": "大黒摩季",
+      "title": "あなただけ見つめてる",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1238,
+      "artist": "Gotye",
+      "title": "Somebody That I Used to Know (feat. Kimbra)",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     }
   ]
 }

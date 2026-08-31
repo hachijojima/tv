@@ -13,84 +13,84 @@
     },
     {
       "rank": 2,
-      "track_id": 660,
-      "artist": "岡林信康",
-      "title": "山谷ブルース",
-      "movement": "↑4",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 3,
-      "track_id": 1541,
-      "artist": "Cocco",
-      "title": "カウントダウン",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 4,
-      "track_id": 1002,
-      "artist": "Jamiroquai",
-      "title": "Virtual Insanity",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 5,
       "track_id": 1709,
       "artist": "Satanicpornocultshop",
       "title": "Anorexia Gas Balloon",
-      "movement": "→",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 6,
-      "track_id": 641,
-      "artist": "佐野元春",
-      "title": "SOMEDAY",
-      "movement": "↑2",
+      "rank": 3,
+      "track_id": 1002,
+      "artist": "Jamiroquai",
+      "title": "Virtual Insanity",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 5
     },
     {
-      "rank": 7,
-      "track_id": 1040,
-      "artist": "METAFIVE",
-      "title": "環境と心理",
-      "movement": "→",
+      "rank": 4,
+      "track_id": 1541,
+      "artist": "Cocco",
+      "title": "カウントダウン",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 8
+      "top10_streak": 6
     },
     {
-      "rank": 8,
-      "track_id": 1028,
-      "artist": "Kendrick Lamar",
-      "title": "Alright",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 13
-    },
-    {
-      "rank": 9,
-      "track_id": 1021,
-      "artist": "スチャダラパー",
-      "title": "サマージャム’95",
+      "rank": 5,
+      "track_id": 1615,
+      "artist": "DRY&HEAVY",
+      "title": "New Creation",
       "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 10,
-      "track_id": 1615,
-      "artist": "DRY&HEAVY",
-      "title": "New Creation",
-      "movement": "↓1",
+      "rank": 6,
+      "track_id": 1301,
+      "artist": "爆風スランプ",
+      "title": "旅人よ ～The Longest Journey～",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
+    },
+    {
+      "rank": 7,
+      "track_id": 1001,
+      "artist": "Earth, Wind & Fire",
+      "title": "September",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 8,
+      "track_id": 641,
+      "artist": "佐野元春",
+      "title": "SOMEDAY",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 9,
+      "track_id": 547,
+      "artist": "JUN SKY WALKER(S)",
+      "title": "すてきな夜空",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 660,
+      "artist": "岡林信康",
+      "title": "山谷ブルース",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 8
     }
   ]
 }

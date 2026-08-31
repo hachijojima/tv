@@ -4,91 +4,91 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1647,
-      "artist": "YMCK",
-      "title": "Magical 8bit Tour",
-      "movement": "↑1",
-      "days_at_number_1": 1,
+      "track_id": 1394,
+      "artist": "GOING STEADY",
+      "title": "BABY BABY",
+      "movement": "→",
+      "days_at_number_1": 2,
       "top10_streak": 3
     },
     {
       "rank": 2,
-      "track_id": 1048,
-      "artist": "Ben E. King",
-      "title": "Stand By Me",
-      "movement": "↓1",
+      "track_id": 1666,
+      "artist": "Supersnazz",
+      "title": "I Wanna Be Your Love",
+      "movement": "↑7",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 2
     },
     {
       "rank": 3,
-      "track_id": 520,
-      "artist": "T-BOLAN",
-      "title": "じれったい愛",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 4,
-      "track_id": 1584,
-      "artist": "Elliott Smith",
-      "title": "Between the Bars",
+      "track_id": 71,
+      "artist": "VIDEOTAPEMUSIC",
+      "title": "世界各国の夜",
       "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 5,
-      "track_id": 500,
-      "artist": "モーニング娘。",
-      "title": "Memory 青春の光",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 6,
-      "track_id": 1394,
-      "artist": "GOING STEADY",
-      "title": "BABY BABY",
+      "rank": 4,
+      "track_id": 1032,
+      "artist": "神聖かまってちゃん",
+      "title": "ロックンロールは鳴り止まないっ",
       "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 5
     },
     {
-      "rank": 7,
-      "track_id": 1719,
-      "artist": "Kaoru Inoue",
-      "title": "The Invisible Eclipse",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 8,
-      "track_id": 1666,
-      "artist": "Supersnazz",
-      "title": "I Wanna Be Your Love",
+      "rank": 5,
+      "track_id": 787,
+      "artist": "クリープハイプ",
+      "title": "栞",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
+      "rank": 6,
+      "track_id": 862,
+      "artist": "緑黄色社会",
+      "title": "花になって",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 7,
+      "track_id": 558,
+      "artist": "宇多田ヒカル",
+      "title": "First Love",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 1589,
+      "artist": "Massive Attack",
+      "title": "Unfinished Sympathy",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
       "rank": 9,
-      "track_id": 298,
-      "artist": "BUMP OF CHICKEN",
-      "title": "車輪の唄",
+      "track_id": 867,
+      "artist": "ゲスの極み乙女",
+      "title": "キラーボール",
       "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 5
     },
     {
       "rank": 10,
-      "track_id": 1673,
-      "artist": "My Dead Girlfriend",
-      "title": "Hades (The Nine Stages of Change at the Deceased Remains)",
-      "movement": "NEW",
+      "track_id": 1290,
+      "artist": "Girls' Generation",
+      "title": "Gee",
+      "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

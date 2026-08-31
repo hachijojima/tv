@@ -4,33 +4,24 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1441,
-      "artist": "BLANKEY JET CITY",
-      "title": "ガソリンの揺れかた",
-      "movement": "→",
-      "days_at_number_1": 4,
-      "top10_streak": 7
+      "track_id": 1091,
+      "artist": "The Cure",
+      "title": "Boys Don’t Cry",
+      "movement": "↑2",
+      "days_at_number_1": 1,
+      "top10_streak": 3
     },
     {
       "rank": 2,
-      "track_id": 12,
-      "artist": "MIZ",
-      "title": "丘",
-      "movement": "↑1",
+      "track_id": 1305,
+      "artist": "鼓童",
+      "title": "凰（おおとり）",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 3
     },
     {
       "rank": 3,
-      "track_id": 1257,
-      "artist": "Clean Bandit",
-      "title": "Rather Be (feat. Jess Glynne)",
-      "movement": "↑7",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 4,
       "track_id": 1225,
       "artist": "Sia",
       "title": "Chandelier",
@@ -39,58 +30,67 @@
       "top10_streak": 1
     },
     {
-      "rank": 5,
-      "track_id": 1305,
-      "artist": "鼓童",
-      "title": "凰（おおとり）",
-      "movement": "→",
+      "rank": 4,
+      "track_id": 1353,
+      "artist": "Manic Street Preachers",
+      "title": "If You Tolerate This Your Children Will Be Next",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 937,
+      "artist": "Alvvays",
+      "title": "Archie, Marry Me",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 5
     },
     {
       "rank": 6,
-      "track_id": 1718,
-      "artist": "Calm",
-      "title": "Light Years",
-      "movement": "→",
+      "track_id": 1587,
+      "artist": "Teenage Fanclub",
+      "title": "The Concept",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 14
+      "top10_streak": 2
     },
     {
       "rank": 7,
-      "track_id": 1205,
-      "artist": "Beyoncé",
-      "title": "Crazy in Love",
-      "movement": "↓5",
+      "track_id": 1640,
+      "artist": "AOKI takamasa",
+      "title": "Mirabeau",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 2
     },
     {
       "rank": 8,
-      "track_id": 1685,
-      "artist": "BOaT",
-      "title": "ALL",
-      "movement": "RE",
+      "track_id": 733,
+      "artist": "亜蘭知子",
+      "title": "I'm In Love",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 9,
-      "track_id": 937,
-      "artist": "Alvvays",
-      "title": "Archie, Marry Me",
-      "movement": "↓2",
+      "track_id": 595,
+      "artist": "TRF",
+      "title": "BOY MEETS GIRL",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 4
     },
     {
       "rank": 10,
-      "track_id": 1353,
-      "artist": "Manic Street Preachers",
-      "title": "If You Tolerate This Your Children Will Be Next",
-      "movement": "↓1",
+      "track_id": 799,
+      "artist": "チャラン・ポ・ランタン",
+      "title": "進め、たまに逃げても",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
     }
   ]
 }

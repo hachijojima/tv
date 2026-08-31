@@ -4,60 +4,42 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1584,
-      "artist": "Elliott Smith",
-      "title": "Between the Bars",
-      "movement": "↑3",
-      "days_at_number_1": 1,
-      "top10_streak": 4
+      "track_id": 1650,
+      "artist": "Cokiyu",
+      "title": "Mirror Flake",
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 5
     },
     {
       "rank": 2,
-      "track_id": 707,
-      "artist": "チューリップ",
-      "title": "心の旅",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 3,
-      "track_id": 1476,
-      "artist": "スチャダラパー",
-      "title": "大人になっても",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 10
-    },
-    {
-      "rank": 4,
       "track_id": 402,
       "artist": "ROUND TABLE",
       "title": "Every Every Every",
-      "movement": "↑6",
+      "movement": "↑5",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 5,
-      "track_id": 1650,
-      "artist": "Cokiyu",
-      "title": "Mirror Flake",
+      "rank": 3,
+      "track_id": 1024,
+      "artist": "SUPER BUTTER DOG",
+      "title": "サヨナラCOLOR",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 4,
+      "track_id": 688,
+      "artist": "荒井由実",
+      "title": "海を見ていた午後",
       "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 6,
-      "track_id": 1589,
-      "artist": "Massive Attack",
-      "title": "Unfinished Sympathy",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 7,
+      "rank": 5,
       "track_id": 428,
       "artist": "My Little Lover",
       "title": "DESTINY",
@@ -66,31 +48,49 @@
       "top10_streak": 1
     },
     {
-      "rank": 8,
-      "track_id": 741,
-      "artist": "太田裕美",
-      "title": "さらばシベリア鉄道",
-      "movement": "NEW",
+      "rank": 6,
+      "track_id": 1641,
+      "artist": "Kyoto Jazz Massive",
+      "title": "Eclipse",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 6
     },
     {
-      "rank": 9,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "↓1",
+      "rank": 7,
+      "track_id": 585,
+      "artist": "スピッツ",
+      "title": "楓",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 8,
+      "track_id": 1476,
+      "artist": "スチャダラパー",
+      "title": "大人になっても",
+      "movement": "↓6",
       "days_at_number_1": 0,
       "top10_streak": 8
     },
     {
-      "rank": 10,
-      "track_id": 1324,
-      "artist": "Green Day",
-      "title": "Good Riddance (Time of Your Life)",
-      "movement": "↓7",
+      "rank": 9,
+      "track_id": 1364,
+      "artist": "Linkin Park",
+      "title": "In the End",
+      "movement": "RE",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1301,
+      "artist": "爆風スランプ",
+      "title": "旅人よ ～The Longest Journey～",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }

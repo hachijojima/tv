@@ -4,69 +4,42 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 10,
-      "artist": "MIZ",
-      "title": "パジャマでハイウェイ",
-      "movement": "↑3",
-      "days_at_number_1": 1,
+      "track_id": 623,
+      "artist": "細野晴臣",
+      "title": "恋は桃色",
+      "movement": "→",
+      "days_at_number_1": 2,
       "top10_streak": 3
     },
     {
       "rank": 2,
-      "track_id": 1240,
-      "artist": "Pharrell Williams",
-      "title": "Happy",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 10
-    },
-    {
-      "rank": 3,
-      "track_id": 1629,
-      "artist": "Boris",
-      "title": "Farewell",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 4,
-      "track_id": 1364,
-      "artist": "Linkin Park",
-      "title": "In the End",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 12
-    },
-    {
-      "rank": 5,
-      "track_id": 623,
-      "artist": "細野晴臣",
-      "title": "恋は桃色",
-      "movement": "↓3",
+      "track_id": 1146,
+      "artist": "TOMOO",
+      "title": "Cinderella",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 6,
-      "track_id": 489,
-      "artist": "小泉今日子",
-      "title": "Fade Out",
+      "rank": 3,
+      "track_id": 1345,
+      "artist": "The Cranberries",
+      "title": "Zombie",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 3
     },
     {
-      "rank": 7,
-      "track_id": 1013,
-      "artist": "The Police",
-      "title": "Every Breath You Take",
-      "movement": "→",
+      "rank": 4,
+      "track_id": 716,
+      "artist": "イルカ",
+      "title": "海岸通",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 11
+      "top10_streak": 3
     },
     {
-      "rank": 8,
+      "rank": 5,
       "track_id": 913,
       "artist": "Sonic Youth",
       "title": "Sunday",
@@ -75,20 +48,47 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
-      "track_id": 1253,
-      "artist": "Martin Garrix",
-      "title": "Animals",
-      "movement": "↓1",
+      "rank": 6,
+      "track_id": 1589,
+      "artist": "Massive Attack",
+      "title": "Unfinished Sympathy",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 6
+    },
+    {
+      "rank": 7,
+      "track_id": 1442,
+      "artist": "BLANKEY JET CITY",
+      "title": "赤いタンバリン",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 618,
+      "artist": "久保田利伸",
+      "title": "LOVE RAIN ～恋の雨～",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 9,
+      "track_id": 842,
+      "artist": "離婚伝説",
+      "title": "本日のおすすめ",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 1188,
-      "artist": "スピッツ",
-      "title": "チェリー",
-      "movement": "↓5",
+      "track_id": 736,
+      "artist": "来生たかお",
+      "title": "Goodbye Day",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 2
     }

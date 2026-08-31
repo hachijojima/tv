@@ -4,51 +4,15 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1375,
-      "artist": "Soundgarden",
-      "title": "Black Hole Sun",
-      "movement": "↑1",
-      "days_at_number_1": 1,
-      "top10_streak": 6
-    },
-    {
-      "rank": 2,
-      "track_id": 377,
-      "artist": "Fishmans",
-      "title": "ナイトクルージング",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 3,
-      "track_id": 1011,
-      "artist": "Underworld",
-      "title": "Born Slippy (Nuxx)",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 4,
-      "track_id": 1364,
-      "artist": "Linkin Park",
-      "title": "In the End",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 5,
       "track_id": 806,
       "artist": "imase",
       "title": "NIGHT DANCER",
       "movement": "→",
-      "days_at_number_1": 0,
+      "days_at_number_1": 2,
       "top10_streak": 2
     },
     {
-      "rank": 6,
+      "rank": 2,
       "track_id": 1229,
       "artist": "Harry Styles",
       "title": "As It Was",
@@ -57,40 +21,76 @@
       "top10_streak": 1
     },
     {
-      "rank": 7,
-      "track_id": 331,
-      "artist": "ORIGINAL LOVE",
-      "title": "朝日のあたる道 AS TIME GOES BY",
-      "movement": "RE",
+      "rank": 3,
+      "track_id": 1455,
+      "artist": "羅針盤",
+      "title": "永遠のうた",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 3
+    },
+    {
+      "rank": 4,
+      "track_id": 1011,
+      "artist": "Underworld",
+      "title": "Born Slippy (Nuxx)",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 5,
+      "track_id": 544,
+      "artist": "UNICORN",
+      "title": "大迷惑",
+      "movement": "↑5",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 6,
+      "track_id": 1661,
+      "artist": "bluebeard",
+      "title": "Room 501",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 7,
+      "track_id": 1004,
+      "artist": "ゆらゆら帝国",
+      "title": "空洞です",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 6
     },
     {
       "rank": 8,
-      "track_id": 1061,
-      "artist": "Cyndi Lauper",
-      "title": "Time After Time",
-      "movement": "↓7",
+      "track_id": 588,
+      "artist": "THE YELLOW MONKEY",
+      "title": "LOVE LOVE SHOW",
+      "movement": "↓5",
       "days_at_number_1": 0,
-      "top10_streak": 20
+      "top10_streak": 8
     },
     {
       "rank": 9,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
+      "track_id": 1023,
+      "artist": "Carpenters",
+      "title": "(They Long To Be) Close To You",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 1072,
-      "artist": "坂本龍一",
-      "title": "Thousand Knives",
-      "movement": "↓3",
+      "track_id": 643,
+      "artist": "小沢健二",
+      "title": "天使たちのシーン",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 9
+      "top10_streak": 1
     }
   ]
 }

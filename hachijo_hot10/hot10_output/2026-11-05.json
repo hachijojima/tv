@@ -4,42 +4,33 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1358,
-      "artist": "The White Stripes",
-      "title": "Fell in Love with a Girl",
-      "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 2
-    },
-    {
-      "rank": 2,
       "track_id": 1475,
       "artist": "スチャダラパー",
       "title": "ゲームボーイズ",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 3
+      "movement": "↑1",
+      "days_at_number_1": 1,
+      "top10_streak": 4
     },
     {
-      "rank": 3,
-      "track_id": 1125,
-      "artist": "藤井風",
-      "title": "花",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 4,
-      "track_id": 1227,
-      "artist": "OneRepublic",
-      "title": "Counting Stars",
-      "movement": "↑3",
+      "rank": 2,
+      "track_id": 1358,
+      "artist": "The White Stripes",
+      "title": "Fell in Love with a Girl",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 5,
+      "rank": 3,
+      "track_id": 1227,
+      "artist": "OneRepublic",
+      "title": "Counting Stars",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 4,
       "track_id": 1046,
       "artist": "星野源",
       "title": "不思議",
@@ -48,25 +39,16 @@
       "top10_streak": 5
     },
     {
+      "rank": 5,
+      "track_id": 542,
+      "artist": "斉藤和義",
+      "title": "歩いて帰ろう",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
       "rank": 6,
-      "track_id": 1383,
-      "artist": "Bon Jovi",
-      "title": "It's My Life",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 7,
-      "track_id": 1068,
-      "artist": "Simon & Garfunkel",
-      "title": "Bridge Over Troubled Water",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 8,
       "track_id": 784,
       "artist": "緑黄色社会",
       "title": "Mela!",
@@ -75,20 +57,38 @@
       "top10_streak": 1
     },
     {
+      "rank": 7,
+      "track_id": 1249,
+      "artist": "Zedd",
+      "title": "Clarity (feat. Foxes)",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 8,
+      "track_id": 1704,
+      "artist": "Bondage Fruit",
+      "title": "Odd-Job",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
       "rank": 9,
-      "track_id": 1040,
-      "artist": "METAFIVE",
-      "title": "環境と心理",
-      "movement": "↓3",
+      "track_id": 1068,
+      "artist": "Simon & Garfunkel",
+      "title": "Bridge Over Troubled Water",
+      "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
     {
       "rank": 10,
-      "track_id": 541,
-      "artist": "山崎まさよし",
-      "title": "セロリ",
-      "movement": "→",
+      "track_id": 28,
+      "artist": "トリプルファイヤー",
+      "title": "次やったら殴る",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 3
     }

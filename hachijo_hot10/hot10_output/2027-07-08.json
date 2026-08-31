@@ -4,90 +4,90 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 585,
-      "artist": "スピッツ",
-      "title": "楓",
-      "movement": "↑1",
-      "days_at_number_1": 1,
-      "top10_streak": 7
+      "track_id": 565,
+      "artist": "hitomi",
+      "title": "CANDY GIRL",
+      "movement": "→",
+      "days_at_number_1": 3,
+      "top10_streak": 5
     },
     {
       "rank": 2,
-      "track_id": 1395,
-      "artist": "GOING STEADY",
-      "title": "銀河鉄道の夜",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 3,
       "track_id": 1476,
       "artist": "スチャダラパー",
       "title": "大人になっても",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 4,
-      "track_id": 541,
-      "artist": "山崎まさよし",
-      "title": "セロリ",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 5,
-      "track_id": 1681,
-      "artist": "MASS OF THE FERMENTING DREGS",
-      "title": "ひきずるビート",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 6,
-      "track_id": 1327,
-      "artist": "Weezer",
-      "title": "Buddy Holly",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 14
-    },
-    {
-      "rank": 7,
-      "track_id": 552,
-      "artist": "森高千里",
-      "title": "雨",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 8,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "RE",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
+      "rank": 3,
+      "track_id": 551,
+      "artist": "小泉今日子",
+      "title": "木枯しに抱かれて",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 4,
+      "track_id": 1110,
+      "artist": "Red Hot Chili Peppers",
+      "title": "Can’t Stop",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 277,
+      "artist": "TAMTAM",
+      "title": "Beautiful Bad Dream",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 6,
+      "track_id": 1645,
+      "artist": "CO-FUSION",
+      "title": "Material to Digital",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 7,
+      "track_id": 538,
+      "artist": "シャ乱Q",
+      "title": "ズルい女",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 741,
+      "artist": "太田裕美",
+      "title": "さらばシベリア鉄道",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
       "rank": 9,
-      "track_id": 644,
-      "artist": "オフコース",
-      "title": "さよなら",
+      "track_id": 693,
+      "artist": "RCサクセション",
+      "title": "雨あがりの夜空に",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 1610,
-      "artist": "Small Circle of Friends",
-      "title": "波よせて",
+      "track_id": 1670,
+      "artist": "Paint in Watercolour",
+      "title": "Velocity",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1

@@ -4,19 +4,19 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1589,
-      "artist": "Massive Attack",
-      "title": "Unfinished Sympathy",
-      "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 8
+      "track_id": 1450,
+      "artist": "ゆらゆら帝国",
+      "title": "発光体",
+      "movement": "↑1",
+      "days_at_number_1": 1,
+      "top10_streak": 5
     },
     {
       "rank": 2,
       "track_id": 1002,
       "artist": "Jamiroquai",
       "title": "Virtual Insanity",
-      "movement": "→",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -31,48 +31,48 @@
     },
     {
       "rank": 4,
-      "track_id": 1301,
-      "artist": "爆風スランプ",
-      "title": "旅人よ ～The Longest Journey～",
-      "movement": "→",
+      "track_id": 864,
+      "artist": "マカロニえんぴつ",
+      "title": "なんでもないよ、",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 3
     },
     {
       "rank": 5,
-      "track_id": 449,
-      "artist": "ROUND TABLE",
-      "title": "Bossa Rossa",
-      "movement": "↑2",
+      "track_id": 1301,
+      "artist": "爆風スランプ",
+      "title": "旅人よ ～The Longest Journey～",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 7
     },
     {
       "rank": 6,
-      "track_id": 1252,
-      "artist": "Kygo",
-      "title": "Stole the Show (feat. Parson James)",
-      "movement": "→",
+      "track_id": 1519,
+      "artist": "P-MODEL",
+      "title": "美術館で会った人だろ",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 7,
-      "track_id": 348,
-      "artist": "レミオロメン",
-      "title": "電話",
-      "movement": "RE",
+      "track_id": 47,
+      "artist": "yonawo",
+      "title": "tokyo",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 4
     },
     {
       "rank": 8,
-      "track_id": 1246,
-      "artist": "David Guetta",
-      "title": "Memories (feat. Kid Cudi)",
-      "movement": "↓5",
+      "track_id": 759,
+      "artist": "吉田美奈子",
+      "title": "TOWN",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 4
     },
     {
       "rank": 9,
@@ -85,12 +85,12 @@
     },
     {
       "rank": 10,
-      "track_id": 759,
-      "artist": "吉田美奈子",
-      "title": "TOWN",
-      "movement": "↓1",
+      "track_id": 214,
+      "artist": "CHAI",
+      "title": "アイム・ミー",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 1
     }
   ]
 }

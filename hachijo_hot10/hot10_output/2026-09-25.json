@@ -4,69 +4,24 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1601,
-      "artist": "福島弘和",
-      "title": "吹奏楽のための「おじゃれ」",
-      "movement": "→",
-      "days_at_number_1": 6,
-      "top10_streak": 7
-    },
-    {
-      "rank": 2,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 3,
       "track_id": 348,
       "artist": "レミオロメン",
       "title": "電話",
       "movement": "→",
-      "days_at_number_1": 0,
+      "days_at_number_1": 2,
       "top10_streak": 5
     },
     {
-      "rank": 4,
-      "track_id": 1394,
-      "artist": "GOING STEADY",
-      "title": "BABY BABY",
-      "movement": "↑2",
+      "rank": 2,
+      "track_id": 1601,
+      "artist": "福島弘和",
+      "title": "吹奏楽のための「おじゃれ」",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 9
     },
     {
-      "rank": 5,
-      "track_id": 1040,
-      "artist": "METAFIVE",
-      "title": "環境と心理",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 10
-    },
-    {
-      "rank": 6,
-      "track_id": 636,
-      "artist": "鈴木茂",
-      "title": "砂の女",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 10
-    },
-    {
-      "rank": 7,
-      "track_id": 361,
-      "artist": "ACIDMAN",
-      "title": "造花が笑う",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 8,
+      "rank": 3,
       "track_id": 548,
       "artist": "REBECCA",
       "title": "RASPBERRY DREAM",
@@ -75,7 +30,43 @@
       "top10_streak": 4
     },
     {
-      "rank": 9,
+      "rank": 4,
+      "track_id": 1286,
+      "artist": "SEVENTEEN",
+      "title": "Super",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 5,
+      "track_id": 1446,
+      "artist": "Thee Michelle Gun Elephant",
+      "title": "G.W.D",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 6,
+      "track_id": 361,
+      "artist": "ACIDMAN",
+      "title": "造花が笑う",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 7,
+      "track_id": 1543,
+      "artist": "PEALOUT",
+      "title": "爆裂世界 ～世界に追い越されても～",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
       "track_id": 1267,
       "artist": "Eric Prydz",
       "title": "Call on Me",
@@ -84,13 +75,22 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
+      "rank": 9,
       "track_id": 1686,
       "artist": "有頂天",
       "title": "BYE-BYE",
-      "movement": "↓3",
+      "movement": "↓6",
       "days_at_number_1": 0,
       "top10_streak": 6
+    },
+    {
+      "rank": 10,
+      "track_id": 1719,
+      "artist": "Kaoru Inoue",
+      "title": "The Invisible Eclipse",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     }
   ]
 }

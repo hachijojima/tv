@@ -4,51 +4,42 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 568,
-      "artist": "54-71",
-      "title": "Life",
+      "track_id": 429,
+      "artist": "キリンジ",
+      "title": "双子座グラフィティ",
       "movement": "→",
       "days_at_number_1": 3,
-      "top10_streak": 12
+      "top10_streak": 5
     },
     {
       "rank": 2,
-      "track_id": 415,
-      "artist": "bonobos",
-      "title": "Standing There ～いま、そこに行くよ～",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 10
-    },
-    {
-      "rank": 3,
       "track_id": 249,
       "artist": "キセル",
       "title": "ビューティフル デイ",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 3,
+      "track_id": 133,
+      "artist": "iri",
+      "title": "rhythm",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 4,
+      "track_id": 644,
+      "artist": "オフコース",
+      "title": "さよなら",
       "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 4,
-      "track_id": 133,
-      "artist": "iri",
-      "title": "rhythm",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
       "rank": 5,
-      "track_id": 459,
-      "artist": "B'z",
-      "title": "MOTEL",
-      "movement": "↑4",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 6,
       "track_id": 447,
       "artist": "Spangle call Lilli line",
       "title": "cast a spell on her",
@@ -57,38 +48,47 @@
       "top10_streak": 1
     },
     {
-      "rank": 7,
-      "track_id": 1154,
-      "artist": "たま",
-      "title": "さよなら人類",
-      "movement": "↑1",
+      "rank": 6,
+      "track_id": 343,
+      "artist": "BUMP OF CHICKEN",
+      "title": "ロストマン",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 3
+    },
+    {
+      "rank": 7,
+      "track_id": 1315,
+      "artist": "Nirvana",
+      "title": "Come As You Are",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
     },
     {
       "rank": 8,
-      "track_id": 1336,
-      "artist": "Coldplay",
-      "title": "Clocks",
-      "movement": "↑2",
+      "track_id": 1716,
+      "artist": "COSA NOSTRA",
+      "title": "Jolie",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 9,
-      "track_id": 429,
-      "artist": "キリンジ",
-      "title": "双子座グラフィティ",
-      "movement": "NEW",
+      "track_id": 1245,
+      "artist": "David Guetta",
+      "title": "Titanium (feat. Sia)",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     },
     {
       "rank": 10,
-      "track_id": 523,
-      "artist": "スピッツ",
-      "title": "渚",
-      "movement": "NEW",
+      "track_id": 1251,
+      "artist": "Kygo",
+      "title": "Firestone (feat. Conrad Sewell)",
+      "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

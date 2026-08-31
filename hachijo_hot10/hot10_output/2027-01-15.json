@@ -4,12 +4,12 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 542,
-      "artist": "斉藤和義",
-      "title": "歩いて帰ろう",
-      "movement": "↑1",
+      "track_id": 459,
+      "artist": "B'z",
+      "title": "MOTEL",
+      "movement": "↑8",
       "days_at_number_1": 1,
-      "top10_streak": 3
+      "top10_streak": 5
     },
     {
       "rank": 2,
@@ -22,60 +22,51 @@
     },
     {
       "rank": 3,
-      "track_id": 459,
-      "artist": "B'z",
-      "title": "MOTEL",
-      "movement": "NEW",
+      "track_id": 1674,
+      "artist": "Pasteboard",
+      "title": "Flipper",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 6
     },
     {
       "rank": 4,
-      "track_id": 95,
-      "artist": "リーガルリリー",
-      "title": "リッケンバッカー",
+      "track_id": 432,
+      "artist": "SUPERCAR",
+      "title": "cream soda",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 520,
+      "artist": "T-BOLAN",
+      "title": "じれったい愛",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 6,
+      "track_id": 1659,
+      "artist": "fOUL",
+      "title": "枯槁",
       "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 5,
-      "track_id": 1590,
-      "artist": "奥山熊雄",
-      "title": "色のついたシャバタキ・すがる",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 11
-    },
-    {
-      "rank": 6,
-      "track_id": 432,
-      "artist": "SUPERCAR",
-      "title": "cream soda",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
       "rank": 7,
-      "track_id": 1134,
-      "artist": "Diana Ross",
-      "title": "I’m Coming Out",
-      "movement": "↑2",
+      "track_id": 58,
+      "artist": "崎山蒼志",
+      "title": "五月雨",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 2
     },
     {
       "rank": 8,
-      "track_id": 1048,
-      "artist": "Ben E. King",
-      "title": "Stand By Me",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 9,
       "track_id": 1473,
       "artist": "スチャダラパー",
       "title": "今夜はブギー・バック (smooth rap)",
@@ -84,13 +75,22 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
-      "track_id": 1245,
-      "artist": "David Guetta",
-      "title": "Titanium (feat. Sia)",
-      "movement": "RE",
+      "rank": 9,
+      "track_id": 481,
+      "artist": "奥田民生",
+      "title": "愛のために",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 4
+    },
+    {
+      "rank": 10,
+      "track_id": 759,
+      "artist": "吉田美奈子",
+      "title": "TOWN",
+      "movement": "↓6",
+      "days_at_number_1": 0,
+      "top10_streak": 8
     }
   ]
 }

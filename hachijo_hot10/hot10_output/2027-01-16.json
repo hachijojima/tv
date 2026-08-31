@@ -7,90 +7,90 @@
       "track_id": 459,
       "artist": "B'z",
       "title": "MOTEL",
-      "movement": "↑2",
-      "days_at_number_1": 1,
-      "top10_streak": 2
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 6
     },
     {
       "rank": 2,
-      "track_id": 542,
-      "artist": "斉藤和義",
-      "title": "歩いて帰ろう",
-      "movement": "↓1",
+      "track_id": 1674,
+      "artist": "Pasteboard",
+      "title": "Flipper",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 7
     },
     {
       "rank": 3,
-      "track_id": 1245,
-      "artist": "David Guetta",
-      "title": "Titanium (feat. Sia)",
-      "movement": "↑7",
+      "track_id": 432,
+      "artist": "SUPERCAR",
+      "title": "cream soda",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 3
     },
     {
       "rank": 4,
-      "track_id": 1048,
-      "artist": "Ben E. King",
-      "title": "Stand By Me",
+      "track_id": 1473,
+      "artist": "スチャダラパー",
+      "title": "今夜はブギー・バック (smooth rap)",
       "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 5,
-      "track_id": 1359,
-      "artist": "Franz Ferdinand",
-      "title": "Take Me Out",
-      "movement": "↓3",
+      "track_id": 1659,
+      "artist": "fOUL",
+      "title": "枯槁",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 4
     },
     {
       "rank": 6,
-      "track_id": 432,
-      "artist": "SUPERCAR",
-      "title": "cream soda",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 7,
-      "track_id": 1674,
-      "artist": "Pasteboard",
-      "title": "Flipper",
+      "track_id": 1690,
+      "artist": "あぶらだこ",
+      "title": "冬枯れ花火",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 8,
-      "track_id": 1473,
-      "artist": "スチャダラパー",
-      "title": "今夜はブギー・バック (smooth rap)",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 9,
-      "track_id": 1134,
-      "artist": "Diana Ross",
-      "title": "I’m Coming Out",
-      "movement": "↓2",
+      "rank": 7,
+      "track_id": 1359,
+      "artist": "Franz Ferdinand",
+      "title": "Take Me Out",
+      "movement": "↓5",
       "days_at_number_1": 0,
       "top10_streak": 7
     },
     {
-      "rank": 10,
-      "track_id": 1542,
-      "artist": "COALTAR OF THE DEEPERS",
-      "title": "My Speedy Sarah",
-      "movement": "RE",
+      "rank": 8,
+      "track_id": 520,
+      "artist": "T-BOLAN",
+      "title": "じれったい愛",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 9,
+      "track_id": 493,
+      "artist": "DREAMS COME TRUE",
+      "title": "眼鏡越しの空",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 58,
+      "artist": "崎山蒼志",
+      "title": "五月雨",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-09-01",
-  "generated_at": "2026-09-01T03:00:00+09:00",
+  "generated_at": "2026-09-01T07:34:38.837445+09:00",
   "chart": [
     {
       "rank": 1,
@@ -22,60 +22,51 @@
     },
     {
       "rank": 3,
-      "track_id": 1028,
-      "artist": "Kendrick Lamar",
-      "title": "Alright",
-      "movement": "↑7",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 4,
       "track_id": 541,
       "artist": "山崎まさよし",
       "title": "セロリ",
-      "movement": "→",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 5,
-      "track_id": 1011,
-      "artist": "Underworld",
-      "title": "Born Slippy (Nuxx)",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "track_id": 1400,
       "artist": "フジファブリック",
       "title": "銀河",
-      "movement": "↓5",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 7,
+      "rank": 5,
       "track_id": 331,
       "artist": "ORIGINAL LOVE",
       "title": "朝日のあたる道 AS TIME GOES BY",
-      "movement": "↓2",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 8,
+      "rank": 6,
+      "track_id": 1028,
+      "artist": "Kendrick Lamar",
+      "title": "Alright",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 7,
       "track_id": 1311,
       "artist": "Red Hot Chili Peppers",
       "title": "Scar Tissue",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 9,
+      "rank": 8,
       "track_id": 1625,
       "artist": "NATSUMEN",
       "title": "Cicada Sing The Galaxy",
@@ -84,10 +75,19 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
+      "rank": 9,
       "track_id": 776,
       "artist": "Vaundy",
       "title": "東京フラッシュ",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1465,
+      "artist": "GREAT3",
+      "title": "玉突き",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1

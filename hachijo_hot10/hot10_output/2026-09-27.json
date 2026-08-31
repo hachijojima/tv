@@ -4,51 +4,15 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
+      "track_id": 1446,
+      "artist": "Thee Michelle Gun Elephant",
+      "title": "G.W.D",
       "movement": "↑1",
       "days_at_number_1": 1,
-      "top10_streak": 7
-    },
-    {
-      "rank": 2,
-      "track_id": 1601,
-      "artist": "福島弘和",
-      "title": "吹奏楽のための「おじゃれ」",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
-      "rank": 3,
-      "track_id": 1394,
-      "artist": "GOING STEADY",
-      "title": "BABY BABY",
-      "movement": "↑1",
-      "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 4,
-      "track_id": 348,
-      "artist": "レミオロメン",
-      "title": "電話",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 5,
-      "track_id": 1625,
-      "artist": "NATSUMEN",
-      "title": "Cicada Sing The Galaxy",
-      "movement": "↑5",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 6,
+      "rank": 2,
       "track_id": 268,
       "artist": "リーガルリリー",
       "title": "ハナヒカリ",
@@ -57,7 +21,34 @@
       "top10_streak": 1
     },
     {
-      "rank": 7,
+      "rank": 3,
+      "track_id": 1505,
+      "artist": "じゃがたら",
+      "title": "都市生活者の夜",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 4,
+      "track_id": 576,
+      "artist": "大黒摩季",
+      "title": "あなただけ見つめてる",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 348,
+      "artist": "レミオロメン",
+      "title": "電話",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 6,
       "track_id": 530,
       "artist": "X JAPAN",
       "title": "Rusty Nail",
@@ -66,28 +57,37 @@
       "top10_streak": 1
     },
     {
-      "rank": 8,
-      "track_id": 1505,
-      "artist": "じゃがたら",
-      "title": "都市生活者の夜",
+      "rank": 7,
+      "track_id": 1508,
+      "artist": "RCサクセション",
+      "title": "多摩蘭坂",
       "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 9,
-      "track_id": 636,
-      "artist": "鈴木茂",
-      "title": "砂の女",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 12
-    },
-    {
-      "rank": 10,
+      "rank": 8,
       "track_id": 1510,
       "artist": "たま",
       "title": "オゾンのダンス",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 548,
+      "artist": "REBECCA",
+      "title": "RASPBERRY DREAM",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 10,
+      "track_id": 734,
+      "artist": "濱田金吾",
+      "title": "Midnight Cruisin'",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1

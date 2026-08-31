@@ -4,93 +4,93 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1013,
-      "artist": "The Police",
-      "title": "Every Breath You Take",
-      "movement": "↑5",
-      "days_at_number_1": 1,
-      "top10_streak": 2
+      "track_id": 1058,
+      "artist": "ランカ・リー=中島愛",
+      "title": "星間飛行",
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 4
     },
     {
       "rank": 2,
-      "track_id": 1544,
-      "artist": "Cocco",
-      "title": "樹海の糸",
-      "movement": "→",
+      "track_id": 1240,
+      "artist": "Pharrell Williams",
+      "title": "Happy",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
       "rank": 3,
-      "track_id": 1089,
-      "artist": "The Beatles",
-      "title": "Let It Be",
-      "movement": "↓2",
+      "track_id": 1032,
+      "artist": "神聖かまってちゃん",
+      "title": "ロックンロールは鳴り止まないっ",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 12
+      "top10_streak": 5
     },
     {
       "rank": 4,
       "track_id": 409,
       "artist": "LOST IN TIME",
       "title": "花",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 5,
-      "track_id": 1394,
-      "artist": "GOING STEADY",
-      "title": "BABY BABY",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 6,
-      "track_id": 319,
-      "artist": "Syrup16g",
-      "title": "生活",
       "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
+      "rank": 5,
+      "track_id": 585,
+      "artist": "スピッツ",
+      "title": "楓",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 6,
+      "track_id": 1057,
+      "artist": "キリンジ",
+      "title": "スウィートソウル",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
       "rank": 7,
-      "track_id": 1058,
-      "artist": "ランカ・リー=中島愛",
-      "title": "星間飛行",
+      "track_id": 381,
+      "artist": "My Little Lover",
+      "title": "白いカイト",
       "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 8,
-      "track_id": 1364,
-      "artist": "Linkin Park",
-      "title": "In the End",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 9,
-      "track_id": 1240,
-      "artist": "Pharrell Williams",
-      "title": "Happy",
+      "track_id": 1140,
+      "artist": "STUTS",
+      "title": "夜を使いはたして feat. PUNPEE",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 10,
-      "track_id": 524,
-      "artist": "サザンオールスターズ",
-      "title": "希望の轍",
-      "movement": "↓7",
+      "rank": 9,
+      "track_id": 1253,
+      "artist": "Martin Garrix",
+      "title": "Animals",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 10
+      "top10_streak": 3
+    },
+    {
+      "rank": 10,
+      "track_id": 375,
+      "artist": "カヒミ・カリィ",
+      "title": "Good Morning World",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }

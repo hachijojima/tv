@@ -13,69 +13,33 @@
     },
     {
       "rank": 2,
-      "track_id": 1242,
-      "artist": "Avicii",
-      "title": "Levels",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 3,
-      "track_id": 1589,
-      "artist": "Massive Attack",
-      "title": "Unfinished Sympathy",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 12
-    },
-    {
-      "rank": 4,
-      "track_id": 1214,
-      "artist": "Ariana Grande",
-      "title": "Into You",
-      "movement": "↑5",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 5,
-      "track_id": 1327,
-      "artist": "Weezer",
-      "title": "Buddy Holly",
-      "movement": "↓2",
+      "track_id": 813,
+      "artist": "Official髭男dism",
+      "title": "Pretender",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 6,
-      "track_id": 611,
-      "artist": "PRINCESS PRINCESS",
-      "title": "世界でいちばん熱い夏",
-      "movement": "RE",
+      "rank": 3,
+      "track_id": 1242,
+      "artist": "Avicii",
+      "title": "Levels",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     },
     {
-      "rank": 7,
-      "track_id": 813,
-      "artist": "Official髭男dism",
-      "title": "Pretender",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 8,
+      "rank": 4,
       "track_id": 553,
       "artist": "米米CLUB",
       "title": "君がいるだけで",
-      "movement": "↓4",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
-      "rank": 9,
+      "rank": 5,
       "track_id": 1219,
       "artist": "Ed Sheeran",
       "title": "Shape of You",
@@ -84,13 +48,49 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
-      "track_id": 348,
-      "artist": "レミオロメン",
-      "title": "電話",
-      "movement": "↓4",
+      "rank": 6,
+      "track_id": 42,
+      "artist": "D.A.N.",
+      "title": "Native Dancer",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 2
+    },
+    {
+      "rank": 7,
+      "track_id": 1450,
+      "artist": "ゆらゆら帝国",
+      "title": "発光体",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 9
+    },
+    {
+      "rank": 8,
+      "track_id": 1383,
+      "artist": "Bon Jovi",
+      "title": "It's My Life",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 310,
+      "artist": "空気公団",
+      "title": "夕暮れ電車に飛び乗れ",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 10,
+      "track_id": 720,
+      "artist": "遠藤賢司",
+      "title": "満足できるかな",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }

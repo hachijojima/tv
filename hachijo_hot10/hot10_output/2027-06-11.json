@@ -8,20 +8,11 @@
       "artist": "54-71",
       "title": "Life",
       "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 5
+      "days_at_number_1": 4,
+      "top10_streak": 6
     },
     {
       "rank": 2,
-      "track_id": 1011,
-      "artist": "Underworld",
-      "title": "Born Slippy (Nuxx)",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 3,
       "track_id": 228,
       "artist": "スカート",
       "title": "ストーリー",
@@ -30,25 +21,7 @@
       "top10_streak": 1
     },
     {
-      "rank": 4,
-      "track_id": 19,
-      "artist": "MONO NO AWARE",
-      "title": "幽霊船",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 5,
-      "track_id": 1061,
-      "artist": "Cyndi Lauper",
-      "title": "Time After Time",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 6,
+      "rank": 3,
       "track_id": 1066,
       "artist": "Nujabes",
       "title": "Luv(sic.) pt3 (feat. Shing02)",
@@ -57,40 +30,67 @@
       "top10_streak": 1
     },
     {
-      "rank": 7,
-      "track_id": 1306,
-      "artist": "鼓童",
-      "title": "族",
-      "movement": "↓2",
+      "rank": 4,
+      "track_id": 1013,
+      "artist": "The Police",
+      "title": "Every Breath You Take",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 5,
+      "track_id": 1507,
+      "artist": "じゃがたら",
+      "title": "タンゴ",
+      "movement": "↑5",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 8,
-      "track_id": 1044,
-      "artist": "The Jackson 5",
-      "title": "I Want You Back",
+      "rank": 6,
+      "track_id": 1221,
+      "artist": "Billie Eilish",
+      "title": "bad guy",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 7,
+      "track_id": 923,
+      "artist": "Prince",
+      "title": "I Wanna Be Your Lover",
       "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
+      "track_id": 1493,
+      "artist": "Melt-Banana",
+      "title": "Candy Gun",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 9,
-      "track_id": 1541,
-      "artist": "Cocco",
-      "title": "カウントダウン",
-      "movement": "RE",
+      "track_id": 1239,
+      "artist": "Carly Rae Jepsen",
+      "title": "Call Me Maybe",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 415,
-      "artist": "bonobos",
-      "title": "Standing There ～いま、そこに行くよ～",
-      "movement": "↓1",
+      "track_id": 1339,
+      "artist": "Blur",
+      "title": "Girls & Boys",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 1
     }
   ]
 }

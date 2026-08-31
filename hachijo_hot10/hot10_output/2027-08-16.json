@@ -4,51 +4,42 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1705,
-      "artist": "大友良英 NEW JAZZ ENSEMBLE",
-      "title": "Eureka",
-      "movement": "→",
-      "days_at_number_1": 3,
-      "top10_streak": 3
+      "track_id": 1347,
+      "artist": "Garbage",
+      "title": "Only Happy When It Rains",
+      "movement": "↑2",
+      "days_at_number_1": 1,
+      "top10_streak": 5
     },
     {
       "rank": 2,
-      "track_id": 20,
-      "artist": "MONO NO AWARE",
-      "title": "水が湧いた",
-      "movement": "↑6",
+      "track_id": 1705,
+      "artist": "大友良英 NEW JAZZ ENSEMBLE",
+      "title": "Eureka",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 9
     },
     {
       "rank": 3,
-      "track_id": 1601,
-      "artist": "福島弘和",
-      "title": "吹奏楽のための「おじゃれ」",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 4,
-      "track_id": 901,
-      "artist": "R.E.M.",
-      "title": "Nightswimming",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 5,
       "track_id": 1091,
       "artist": "The Cure",
       "title": "Boys Don’t Cry",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 6,
+      "rank": 4,
+      "track_id": 699,
+      "artist": "鈴木茂",
+      "title": "八月の匂い",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 5,
       "track_id": 1634,
       "artist": "THA BLUE HERB",
       "title": "未来は俺等の手の中",
@@ -57,40 +48,49 @@
       "top10_streak": 1
     },
     {
-      "rank": 7,
-      "track_id": 1206,
-      "artist": "Beyoncé",
-      "title": "Single Ladies (Put a Ring on It)",
-      "movement": "↓5",
-      "days_at_number_1": 0,
-      "top10_streak": 14
-    },
-    {
-      "rank": 8,
+      "rank": 6,
       "track_id": 548,
       "artist": "REBECCA",
       "title": "RASPBERRY DREAM",
-      "movement": "↓1",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
+      "rank": 7,
+      "track_id": 1704,
+      "artist": "Bondage Fruit",
+      "title": "Odd-Job",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
+      "track_id": 1690,
+      "artist": "あぶらだこ",
+      "title": "冬枯れ花火",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
       "rank": 9,
-      "track_id": 1072,
-      "artist": "坂本龍一",
-      "title": "Thousand Knives",
-      "movement": "→",
+      "track_id": 563,
+      "artist": "ポルノグラフィティ",
+      "title": "サウダージ",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 10,
-      "track_id": 1347,
-      "artist": "Garbage",
-      "title": "Only Happy When It Rains",
-      "movement": "NEW",
+      "track_id": 229,
+      "artist": "柴田聡子",
+      "title": "ぼちぼち銀河",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 4
     }
   ]
 }

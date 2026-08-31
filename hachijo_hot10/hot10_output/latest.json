@@ -1,96 +1,96 @@
 {
-  "date": "2026-08-31",
-  "generated_at": "2026-08-31T05:40:18.692107+09:00",
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01T07:34:38.837445+09:00",
   "chart": [
     {
       "rank": 1,
-      "track_id": 1400,
-      "artist": "フジファブリック",
-      "title": "銀河",
-      "movement": "↑1",
+      "track_id": 1247,
+      "artist": "Swedish House Mafia",
+      "title": "Don't You Worry Child",
+      "movement": "↑5",
       "days_at_number_1": 1,
       "top10_streak": 3
     },
     {
       "rank": 2,
-      "track_id": 19,
-      "artist": "MONO NO AWARE",
-      "title": "幽霊船",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 3,
       "track_id": 1288,
       "artist": "BIGBANG",
       "title": "FANTASTIC BABY",
-      "movement": "NEW",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     },
     {
-      "rank": 4,
+      "rank": 3,
       "track_id": 541,
       "artist": "山崎まさよし",
       "title": "セロリ",
-      "movement": "↑3",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 3
+    },
+    {
+      "rank": 4,
+      "track_id": 1400,
+      "artist": "フジファブリック",
+      "title": "銀河",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 4
     },
     {
       "rank": 5,
       "track_id": 331,
       "artist": "ORIGINAL LOVE",
       "title": "朝日のあたる道 AS TIME GOES BY",
-      "movement": "NEW",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     },
     {
       "rank": 6,
-      "track_id": 1247,
-      "artist": "Swedish House Mafia",
-      "title": "Don't You Worry Child",
-      "movement": "↑2",
+      "track_id": 1028,
+      "artist": "Kendrick Lamar",
+      "title": "Alright",
+      "movement": "↑4",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 5
     },
     {
       "rank": 7,
       "track_id": 1311,
       "artist": "Red Hot Chili Peppers",
       "title": "Scar Tissue",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 8,
-      "track_id": 1011,
-      "artist": "Underworld",
-      "title": "Born Slippy (Nuxx)",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 9,
-      "track_id": 1021,
-      "artist": "スチャダラパー",
-      "title": "サマージャム’95",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 10,
-      "track_id": 1028,
-      "artist": "Kendrick Lamar",
-      "title": "Alright",
       "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 4
+    },
+    {
+      "rank": 8,
+      "track_id": 1625,
+      "artist": "NATSUMEN",
+      "title": "Cicada Sing The Galaxy",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 776,
+      "artist": "Vaundy",
+      "title": "東京フラッシュ",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1465,
+      "artist": "GREAT3",
+      "title": "玉突き",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }

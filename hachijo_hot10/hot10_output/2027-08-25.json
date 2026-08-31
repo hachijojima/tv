@@ -4,42 +4,15 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 500,
-      "artist": "モーニング娘。",
-      "title": "Memory 青春の光",
+      "track_id": 582,
+      "artist": "T-BOLAN",
+      "title": "Bye For Now",
       "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 4
-    },
-    {
-      "rank": 2,
-      "track_id": 330,
-      "artist": "カヒミ・カリィ",
-      "title": "Mike Alway's Diary",
-      "movement": "→",
-      "days_at_number_1": 0,
+      "days_at_number_1": 3,
       "top10_streak": 5
     },
     {
-      "rank": 3,
-      "track_id": 1091,
-      "artist": "The Cure",
-      "title": "Boys Don’t Cry",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 4,
-      "track_id": 1473,
-      "artist": "スチャダラパー",
-      "title": "今夜はブギー・バック (smooth rap)",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 5,
+      "rank": 2,
       "track_id": 1499,
       "artist": "MUTE BEAT",
       "title": "Dub No.5",
@@ -48,46 +21,73 @@
       "top10_streak": 1
     },
     {
-      "rank": 6,
+      "rank": 3,
       "track_id": 1254,
       "artist": "The Chainsmokers",
       "title": "Closer (feat. Halsey)",
-      "movement": "↑3",
+      "movement": "↑5",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 4,
+      "track_id": 1272,
+      "artist": "BLACKPINK",
+      "title": "How You Like That",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 5,
+      "track_id": 1015,
+      "artist": "Thee Michelle Gun Elephant",
+      "title": "世界の終わり",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 6,
+      "track_id": 1728,
+      "artist": "いまみれん",
+      "title": "求める nor i",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 7,
-      "track_id": 1728,
-      "artist": "いまみれん",
-      "title": "求める nor i",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 8,
-      "track_id": 331,
-      "artist": "ORIGINAL LOVE",
-      "title": "朝日のあたる道 AS TIME GOES BY",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
-      "rank": 9,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
+      "track_id": 482,
+      "artist": "UNICORN",
+      "title": "すばらしい日々",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
+      "rank": 8,
+      "track_id": 1078,
+      "artist": "Daft Punk",
+      "title": "Get Lucky (feat. Pharrell Williams and Nile Rodgers)",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 9,
+      "track_id": 607,
+      "artist": "THE BLUE HEARTS",
+      "title": "青空",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 9
+    },
+    {
       "rank": 10,
-      "track_id": 1130,
-      "artist": "Billy Joel",
-      "title": "Honesty",
+      "track_id": 1040,
+      "artist": "METAFIVE",
+      "title": "環境と心理",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1

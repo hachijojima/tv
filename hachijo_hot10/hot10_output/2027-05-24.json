@@ -4,42 +4,15 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1043,
-      "artist": "Television",
-      "title": "Marquee Moon",
-      "movement": "↑4",
-      "days_at_number_1": 1,
-      "top10_streak": 6
+      "track_id": 1541,
+      "artist": "Cocco",
+      "title": "カウントダウン",
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 4
     },
     {
       "rank": 2,
-      "track_id": 18,
-      "artist": "MONO NO AWARE",
-      "title": "アングル",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
-      "rank": 3,
-      "track_id": 533,
-      "artist": "TRF",
-      "title": "survival dAnce ～no no cry more～",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 4,
-      "track_id": 4,
-      "artist": "MIZ",
-      "title": "空砲",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 5,
       "track_id": 1035,
       "artist": "Queen",
       "title": "Don’t Stop Me Now",
@@ -48,49 +21,76 @@
       "top10_streak": 1
     },
     {
-      "rank": 6,
-      "track_id": 1594,
-      "artist": "團伊玖磨",
-      "title": "オリンピック序曲",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 7,
+      "rank": 3,
       "track_id": 1646,
       "artist": "Serani Poji",
       "title": "スマイリーを探して",
-      "movement": "↓4",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 8,
+      "rank": 4,
       "track_id": 1046,
       "artist": "星野源",
       "title": "不思議",
-      "movement": "→",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 1600,
+      "artist": "いまみれん",
+      "title": "群青",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 6,
+      "track_id": 1277,
+      "artist": "aespa",
+      "title": "Next Level",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 7,
+      "track_id": 1240,
+      "artist": "Pharrell Williams",
+      "title": "Happy",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 1695,
+      "artist": "BO GUMBOS",
+      "title": "泥んこ道を二人",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     },
     {
       "rank": 9,
-      "track_id": 1248,
-      "artist": "Swedish House Mafia",
-      "title": "Save the World",
-      "movement": "↓2",
+      "track_id": 1696,
+      "artist": "カーネーション",
+      "title": "Edo River",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 8
+      "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 1541,
-      "artist": "Cocco",
-      "title": "カウントダウン",
-      "movement": "↓1",
+      "track_id": 23,
+      "artist": "乙女絵画",
+      "title": "川",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
     }
   ]
 }

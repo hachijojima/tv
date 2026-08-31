@@ -4,90 +4,90 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1288,
-      "artist": "BIGBANG",
-      "title": "FANTASTIC BABY",
+      "track_id": 1383,
+      "artist": "Bon Jovi",
+      "title": "It's My Life",
       "movement": "↑3",
       "days_at_number_1": 1,
-      "top10_streak": 4
+      "top10_streak": 3
     },
     {
       "rank": 2,
-      "track_id": 641,
-      "artist": "佐野元春",
-      "title": "SOMEDAY",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 12
-    },
-    {
-      "rank": 3,
       "track_id": 1043,
       "artist": "Television",
       "title": "Marquee Moon",
-      "movement": "↑3",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
+      "rank": 3,
+      "track_id": 1191,
+      "artist": "宇多田ヒカル",
+      "title": "Beautiful World",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
       "rank": 4,
-      "track_id": 1394,
-      "artist": "GOING STEADY",
-      "title": "BABY BABY",
+      "track_id": 1615,
+      "artist": "DRY&HEAVY",
+      "title": "New Creation",
       "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
-      "rank": 5,
-      "track_id": 660,
-      "artist": "岡林信康",
-      "title": "山谷ブルース",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 13
-    },
-    {
-      "rank": 6,
-      "track_id": 1021,
-      "artist": "スチャダラパー",
-      "title": "サマージャム’95",
-      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 7
     },
     {
-      "rank": 7,
-      "track_id": 1541,
-      "artist": "Cocco",
-      "title": "カウントダウン",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 11
-    },
-    {
-      "rank": 8,
-      "track_id": 12,
-      "artist": "MIZ",
-      "title": "丘",
-      "movement": "→",
+      "rank": 5,
+      "track_id": 925,
+      "artist": "Donald Fagen",
+      "title": "I.G.Y.",
+      "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
+      "rank": 6,
+      "track_id": 12,
+      "artist": "MIZ",
+      "title": "丘",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 7,
+      "track_id": 1394,
+      "artist": "GOING STEADY",
+      "title": "BABY BABY",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 9
+    },
+    {
+      "rank": 8,
+      "track_id": 356,
+      "artist": "ROUND TABLE",
+      "title": "Chocolate",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
       "rank": 9,
-      "track_id": 1383,
-      "artist": "Bon Jovi",
-      "title": "It's My Life",
+      "track_id": 1707,
+      "artist": "Naruyoshi Kikuchi Dub Sextet",
+      "title": "Dub Liz",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 1191,
-      "artist": "宇多田ヒカル",
-      "title": "Beautiful World",
+      "track_id": 1561,
+      "artist": "Mr.Children",
+      "title": "【es】〜Theme of es〜",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1

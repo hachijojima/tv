@@ -7,66 +7,21 @@
       "track_id": 539,
       "artist": "KAN",
       "title": "まゆみ",
-      "movement": "↑1",
-      "days_at_number_1": 1,
-      "top10_streak": 3
+      "movement": "→",
+      "days_at_number_1": 3,
+      "top10_streak": 7
     },
     {
       "rank": 2,
-      "track_id": 1020,
-      "artist": "The Doobie Brothers",
-      "title": "What a Fool Believes",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 3,
       "track_id": 1332,
       "artist": "R.E.M.",
       "title": "Everybody Hurts",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 4,
-      "track_id": 533,
-      "artist": "TRF",
-      "title": "survival dAnce ～no no cry more～",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 5,
-      "track_id": 1108,
-      "artist": "Portishead",
-      "title": "Glory Box",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 6,
-      "track_id": 1222,
-      "artist": "Billie Eilish",
-      "title": "BIRDS OF A FEATHER",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 7,
-      "track_id": 1251,
-      "artist": "Kygo",
-      "title": "Firestone (feat. Conrad Sewell)",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 8,
+      "rank": 3,
       "track_id": 779,
       "artist": "ヨルシカ",
       "title": "ただ君に晴れ",
@@ -75,7 +30,43 @@
       "top10_streak": 3
     },
     {
-      "rank": 9,
+      "rank": 4,
+      "track_id": 1108,
+      "artist": "Portishead",
+      "title": "Glory Box",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 5,
+      "track_id": 1222,
+      "artist": "Billie Eilish",
+      "title": "BIRDS OF A FEATHER",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 6,
+      "track_id": 1553,
+      "artist": "BONNIE PINK",
+      "title": "Forget Me Not",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 7,
+      "track_id": 1076,
+      "artist": "Alicia Keys",
+      "title": "If I Ain’t Got You",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 8,
       "track_id": 190,
       "artist": "AAAMYYY",
       "title": "HOME",
@@ -84,13 +75,22 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
-      "track_id": 1076,
-      "artist": "Alicia Keys",
-      "title": "If I Ain’t Got You",
+      "rank": 9,
+      "track_id": 1584,
+      "artist": "Elliott Smith",
+      "title": "Between the Bars",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 2
+    },
+    {
+      "rank": 10,
+      "track_id": 1206,
+      "artist": "Beyoncé",
+      "title": "Single Ladies (Put a Ring on It)",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     }
   ]
 }

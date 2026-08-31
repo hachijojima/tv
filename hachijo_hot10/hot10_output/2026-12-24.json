@@ -4,78 +4,42 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 597,
-      "artist": "Every Little Thing",
-      "title": "Dear My Friend",
-      "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 2
-    },
-    {
-      "rank": 2,
       "track_id": 1207,
       "artist": "Bruno Mars",
       "title": "Just the Way You Are",
-      "movement": "↑2",
+      "movement": "→",
+      "days_at_number_1": 3,
+      "top10_streak": 4
+    },
+    {
+      "rank": 2,
+      "track_id": 1441,
+      "artist": "BLANKEY JET CITY",
+      "title": "ガソリンの揺れかた",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
       "rank": 3,
-      "track_id": 481,
-      "artist": "奥田民生",
-      "title": "愛のために",
-      "movement": "↑4",
+      "track_id": 738,
+      "artist": "松田聖子",
+      "title": "瑠璃色の地球",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 4,
-      "track_id": 1584,
-      "artist": "Elliott Smith",
-      "title": "Between the Bars",
-      "movement": "↓2",
+      "track_id": 144,
+      "artist": "君島大空",
+      "title": "午後の反射光",
+      "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 2
     },
     {
       "rank": 5,
-      "track_id": 533,
-      "artist": "TRF",
-      "title": "survival dAnce ～no no cry more～",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 11
-    },
-    {
-      "rank": 6,
-      "track_id": 539,
-      "artist": "KAN",
-      "title": "まゆみ",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 10
-    },
-    {
-      "rank": 7,
-      "track_id": 1259,
-      "artist": "DJ Snake",
-      "title": "Turn Down for What (with Lil Jon)",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 8,
-      "track_id": 738,
-      "artist": "松田聖子",
-      "title": "瑠璃色の地球",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 9,
       "track_id": 1128,
       "artist": "Big Thief",
       "title": "Simulation Swarm",
@@ -84,13 +48,49 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
-      "track_id": 1371,
-      "artist": "The Killers",
-      "title": "When You Were Young",
-      "movement": "RE",
+      "rank": 6,
+      "track_id": 1635,
+      "artist": "MIC JACK PRODUCTION",
+      "title": "Seven Seas Voyage",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 7,
+      "track_id": 1639,
+      "artist": "Ametsub",
+      "title": "The Nothings of The North",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 993,
+      "artist": "The Velvet Underground",
+      "title": "Pale Blue Eyes",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 1688,
+      "artist": "EP-4",
+      "title": "Lingua Franca-1",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 10,
+      "track_id": 1624,
+      "artist": "Love Tambourines",
+      "title": "Midnight Parade",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 5
     }
   ]
 }

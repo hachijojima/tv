@@ -7,7 +7,7 @@
       "track_id": 1394,
       "artist": "GOING STEADY",
       "title": "BABY BABY",
-      "movement": "↑2",
+      "movement": "↑1",
       "days_at_number_1": 1,
       "top10_streak": 3
     },
@@ -25,57 +25,30 @@
       "track_id": 1541,
       "artist": "Cocco",
       "title": "カウントダウン",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
       "rank": 4,
-      "track_id": 1028,
-      "artist": "Kendrick Lamar",
-      "title": "Alright",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 12
-    },
-    {
-      "rank": 5,
       "track_id": 1709,
       "artist": "Satanicpornocultshop",
       "title": "Anorexia Gas Balloon",
-      "movement": "→",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 6,
-      "track_id": 660,
-      "artist": "岡林信康",
-      "title": "山谷ブルース",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 7,
-      "track_id": 1040,
-      "artist": "METAFIVE",
-      "title": "環境と心理",
+      "rank": 5,
+      "track_id": 1001,
+      "artist": "Earth, Wind & Fire",
+      "title": "September",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 5
     },
     {
-      "rank": 8,
-      "track_id": 641,
-      "artist": "佐野元春",
-      "title": "SOMEDAY",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 9,
+      "rank": 6,
       "track_id": 1615,
       "artist": "DRY&HEAVY",
       "title": "New Creation",
@@ -84,13 +57,40 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
-      "track_id": 1021,
-      "artist": "スチャダラパー",
-      "title": "サマージャム’95",
-      "movement": "RE",
+      "rank": 7,
+      "track_id": 641,
+      "artist": "佐野元春",
+      "title": "SOMEDAY",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 8,
+      "track_id": 580,
+      "artist": "FIELD OF VIEW",
+      "title": "Last Good-bye",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 9,
+      "track_id": 1301,
+      "artist": "爆風スランプ",
+      "title": "旅人よ ～The Longest Journey～",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 660,
+      "artist": "岡林信康",
+      "title": "山谷ブルース",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 7
     }
   ]
 }

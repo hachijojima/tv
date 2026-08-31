@@ -4,42 +4,15 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 18,
-      "artist": "MONO NO AWARE",
-      "title": "アングル",
-      "movement": "→",
-      "days_at_number_1": 5,
+      "track_id": 14,
+      "artist": "MIZ",
+      "title": "とびうおのうた",
+      "movement": "↑4",
+      "days_at_number_1": 1,
       "top10_streak": 7
     },
     {
       "rank": 2,
-      "track_id": 1043,
-      "artist": "Television",
-      "title": "Marquee Moon",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 3,
-      "track_id": 1608,
-      "artist": "rei harakami",
-      "title": "joy",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 4,
-      "track_id": 1594,
-      "artist": "團伊玖磨",
-      "title": "オリンピック序曲",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 5,
       "track_id": 1646,
       "artist": "Serani Poji",
       "title": "スマイリーを探して",
@@ -48,47 +21,74 @@
       "top10_streak": 1
     },
     {
-      "rank": 6,
-      "track_id": 4,
-      "artist": "MIZ",
-      "title": "空砲",
-      "movement": "RE",
+      "rank": 3,
+      "track_id": 1541,
+      "artist": "Cocco",
+      "title": "カウントダウン",
+      "movement": "↑6",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     },
     {
-      "rank": 7,
+      "rank": 4,
       "track_id": 1248,
       "artist": "Swedish House Mafia",
       "title": "Save the World",
       "movement": "↓2",
       "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 5,
+      "track_id": 1277,
+      "artist": "aespa",
+      "title": "Next Level",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 6,
+      "track_id": 1338,
+      "artist": "Coldplay",
+      "title": "In My Place",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 7,
+      "track_id": 965,
+      "artist": "Norah Jones",
+      "title": "Sunrise",
+      "movement": "↓1",
+      "days_at_number_1": 0,
       "top10_streak": 6
     },
     {
       "rank": 8,
-      "track_id": 1655,
-      "artist": "モーモールルギャバン",
-      "title": "サイケな恋人",
-      "movement": "RE",
+      "track_id": 1600,
+      "artist": "いまみれん",
+      "title": "群青",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 9,
-      "track_id": 57,
-      "artist": "君島大空",
-      "title": "遠視のコントラルト",
-      "movement": "↑1",
+      "track_id": 1178,
+      "artist": "The Brand New Heavies",
+      "title": "You Are The Universe",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 1107,
-      "artist": "Pixies",
-      "title": "Debaser",
-      "movement": "NEW",
+      "track_id": 1695,
+      "artist": "BO GUMBOS",
+      "title": "泥んこ道を二人",
+      "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

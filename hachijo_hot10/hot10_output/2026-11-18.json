@@ -4,51 +4,33 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1028,
-      "artist": "Kendrick Lamar",
-      "title": "Alright",
-      "movement": "→",
-      "days_at_number_1": 3,
-      "top10_streak": 11
-    },
-    {
-      "rank": 2,
-      "track_id": 1061,
-      "artist": "Cyndi Lauper",
-      "title": "Time After Time",
-      "movement": "↑1",
-      "days_at_number_1": 0,
+      "track_id": 829,
+      "artist": "Mrs. GREEN APPLE",
+      "title": "僕のこと",
+      "movement": "↑2",
+      "days_at_number_1": 1,
       "top10_streak": 3
     },
     {
-      "rank": 3,
-      "track_id": 19,
-      "artist": "MONO NO AWARE",
-      "title": "幽霊船",
-      "movement": "↑7",
+      "rank": 2,
+      "track_id": 1257,
+      "artist": "Clean Bandit",
+      "title": "Rather Be (feat. Jess Glynne)",
+      "movement": "↑6",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 4,
-      "track_id": 1257,
-      "artist": "Clean Bandit",
-      "title": "Rather Be (feat. Jess Glynne)",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 5,
+      "rank": 3,
       "track_id": 1008,
       "artist": "Marvin Gaye",
       "title": "What’s Going On",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 6,
+      "rank": 4,
       "track_id": 1721,
       "artist": "Towa Tei",
       "title": "Technova",
@@ -57,37 +39,55 @@
       "top10_streak": 1
     },
     {
-      "rank": 7,
-      "track_id": 1125,
-      "artist": "藤井風",
-      "title": "花",
+      "rank": 5,
+      "track_id": 1245,
+      "artist": "David Guetta",
+      "title": "Titanium (feat. Sia)",
       "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 8,
-      "track_id": 1191,
-      "artist": "宇多田ヒカル",
-      "title": "Beautiful World",
-      "movement": "RE",
+      "rank": 6,
+      "track_id": 1215,
+      "artist": "Taylor Swift",
+      "title": "Shake It Off",
+      "movement": "↓5",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 5
+    },
+    {
+      "rank": 7,
+      "track_id": 1264,
+      "artist": "Disclosure",
+      "title": "Latch (feat. Sam Smith)",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 921,
+      "artist": "Lou Reed",
+      "title": "Perfect Day",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     },
     {
       "rank": 9,
-      "track_id": 1601,
-      "artist": "福島弘和",
-      "title": "吹奏楽のための「おじゃれ」",
-      "movement": "RE",
+      "track_id": 507,
+      "artist": "aiko",
+      "title": "カブトムシ",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     },
     {
       "rank": 10,
-      "track_id": 829,
-      "artist": "Mrs. GREEN APPLE",
-      "title": "僕のこと",
+      "track_id": 805,
+      "artist": "WONK",
+      "title": "Rollin'",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1

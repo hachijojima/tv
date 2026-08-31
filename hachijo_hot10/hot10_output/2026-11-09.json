@@ -7,90 +7,90 @@
       "track_id": 1280,
       "artist": "IVE",
       "title": "I AM",
-      "movement": "↑1",
+      "movement": "↑2",
       "days_at_number_1": 1,
       "top10_streak": 3
     },
     {
       "rank": 2,
-      "track_id": 1475,
-      "artist": "スチャダラパー",
-      "title": "ゲームボーイズ",
-      "movement": "↓1",
+      "track_id": 16,
+      "artist": "MIZ",
+      "title": "暑中見舞い",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 3
     },
     {
       "rank": 3,
-      "track_id": 1028,
-      "artist": "Kendrick Lamar",
-      "title": "Alright",
+      "track_id": 1677,
+      "artist": "te'",
+      "title": "言葉を用いて奏でる者は才能に在らず、ただの記憶に『過』ぎぬ。",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 4,
+      "track_id": 1030,
+      "artist": "Radiohead",
+      "title": "Creep",
       "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 4,
-      "track_id": 16,
-      "artist": "MIZ",
-      "title": "暑中見舞い",
-      "movement": "↑6",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
       "rank": 5,
-      "track_id": 1677,
-      "artist": "te'",
-      "title": "言葉を用いて奏でる者は才能に在らず、ただの記憶に『過』ぎぬ。",
-      "movement": "↓2",
+      "track_id": 1475,
+      "artist": "スチャダラパー",
+      "title": "ゲームボーイズ",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 8
     },
     {
       "rank": 6,
       "track_id": 784,
       "artist": "緑黄色社会",
       "title": "Mela!",
-      "movement": "↑2",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
       "rank": 7,
-      "track_id": 1030,
-      "artist": "Radiohead",
-      "title": "Creep",
-      "movement": "NEW",
+      "track_id": 15,
+      "artist": "MONO NO AWARE",
+      "title": "もうけもん",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 3
     },
     {
       "rank": 8,
+      "track_id": 275,
+      "artist": "BREIMEN",
+      "title": "yonaki",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 9,
       "track_id": 1358,
       "artist": "The White Stripes",
       "title": "Fell in Love with a Girl",
-      "movement": "↓4",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
     {
-      "rank": 9,
-      "track_id": 541,
-      "artist": "山崎まさよし",
-      "title": "セロリ",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
       "rank": 10,
-      "track_id": 1040,
-      "artist": "METAFIVE",
-      "title": "環境と心理",
-      "movement": "↓1",
+      "track_id": 545,
+      "artist": "THE BLUE HEARTS",
+      "title": "TRAIN-TRAIN",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 10
+      "top10_streak": 1
     }
   ]
 }

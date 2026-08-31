@@ -4,78 +4,51 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 734,
-      "artist": "濱田金吾",
-      "title": "Midnight Cruisin'",
+      "track_id": 1018,
+      "artist": "Marvin Gaye",
+      "title": "Ain’t No Mountain High Enough",
       "movement": "↑1",
       "days_at_number_1": 1,
-      "top10_streak": 2
+      "top10_streak": 5
     },
     {
       "rank": 2,
-      "track_id": 1247,
-      "artist": "Swedish House Mafia",
-      "title": "Don't You Worry Child",
+      "track_id": 1350,
+      "artist": "Alanis Morissette",
+      "title": "You Oughta Know",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 4
     },
     {
       "rank": 3,
-      "track_id": 1533,
-      "artist": "大瀧詠一",
-      "title": "指切り",
-      "movement": "↑1",
+      "track_id": 1252,
+      "artist": "Kygo",
+      "title": "Stole the Show (feat. Parson James)",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
     {
       "rank": 4,
-      "track_id": 1013,
-      "artist": "The Police",
-      "title": "Every Breath You Take",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 5,
-      "track_id": 1091,
-      "artist": "The Cure",
-      "title": "Boys Don’t Cry",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 11
-    },
-    {
-      "rank": 6,
-      "track_id": 19,
-      "artist": "MONO NO AWARE",
-      "title": "幽霊船",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
-      "rank": 7,
-      "track_id": 1543,
-      "artist": "PEALOUT",
-      "title": "爆裂世界 ～世界に追い越されても～",
-      "movement": "↑1",
+      "track_id": 1681,
+      "artist": "MASS OF THE FERMENTING DREGS",
+      "title": "ひきずるビート",
+      "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 8,
-      "track_id": 1350,
-      "artist": "Alanis Morissette",
-      "title": "You Oughta Know",
-      "movement": "↑2",
+      "rank": 5,
+      "track_id": 1378,
+      "artist": "The Offspring",
+      "title": "The Kids Aren't Alright",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 2
     },
     {
-      "rank": 9,
+      "rank": 6,
       "track_id": 825,
       "artist": "マカロニえんぴつ",
       "title": "恋人ごっこ",
@@ -84,13 +57,40 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
-      "track_id": 1476,
-      "artist": "スチャダラパー",
-      "title": "大人になっても",
-      "movement": "RE",
+      "rank": 7,
+      "track_id": 30,
+      "artist": "カネコアヤノ",
+      "title": "祝日",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 8,
+      "track_id": 1029,
+      "artist": "m-flo",
+      "title": "come again",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 367,
+      "artist": "スネオヘアー",
+      "title": "逆様ブリッジ",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 10,
+      "track_id": 743,
+      "artist": "松本伊代",
+      "title": "TVの国からキラキラ",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 6
     }
   ]
 }

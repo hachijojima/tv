@@ -4,42 +4,15 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1394,
-      "artist": "GOING STEADY",
-      "title": "BABY BABY",
-      "movement": "→",
-      "days_at_number_1": 4,
-      "top10_streak": 11
-    },
-    {
-      "rank": 2,
       "track_id": 1219,
       "artist": "Ed Sheeran",
       "title": "Shape of You",
-      "movement": "↑4",
-      "days_at_number_1": 0,
-      "top10_streak": 3
+      "movement": "↑3",
+      "days_at_number_1": 1,
+      "top10_streak": 2
     },
     {
-      "rank": 3,
-      "track_id": 1601,
-      "artist": "福島弘和",
-      "title": "吹奏楽のための「おじゃれ」",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 16
-    },
-    {
-      "rank": 4,
-      "track_id": 1625,
-      "artist": "NATSUMEN",
-      "title": "Cicada Sing The Galaxy",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
-      "rank": 5,
+      "rank": 2,
       "track_id": 596,
       "artist": "globe",
       "title": "Can't Stop Fallin' in Love",
@@ -48,7 +21,7 @@
       "top10_streak": 1
     },
     {
-      "rank": 6,
+      "rank": 3,
       "track_id": 1026,
       "artist": "Björk",
       "title": "Hyper-ballad",
@@ -57,40 +30,67 @@
       "top10_streak": 1
     },
     {
-      "rank": 7,
+      "rank": 4,
+      "track_id": 1598,
+      "artist": "天野花",
+      "title": "暁を泳いで",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 5,
+      "track_id": 679,
+      "artist": "太田裕美",
+      "title": "木綿のハンカチーフ",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 6,
       "track_id": 945,
       "artist": "Oasis",
       "title": "Don't Look Back in Anger",
-      "movement": "→",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 7
     },
     {
+      "rank": 7,
+      "track_id": 1308,
+      "artist": "鼓童",
+      "title": "屋台囃子",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
       "rank": 8,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 14
-    },
-    {
-      "rank": 9,
-      "track_id": 1686,
-      "artist": "有頂天",
-      "title": "BYE-BYE",
-      "movement": "↓6",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 10,
-      "track_id": 1061,
-      "artist": "Cyndi Lauper",
-      "title": "Time After Time",
+      "track_id": 1013,
+      "artist": "The Police",
+      "title": "Every Breath You Take",
       "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
+    },
+    {
+      "rank": 9,
+      "track_id": 1284,
+      "artist": "Stray Kids",
+      "title": "MANIAC",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 10,
+      "track_id": 1327,
+      "artist": "Weezer",
+      "title": "Buddy Holly",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }

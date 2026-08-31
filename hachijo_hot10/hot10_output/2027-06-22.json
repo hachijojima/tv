@@ -4,78 +4,60 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1023,
-      "artist": "Carpenters",
-      "title": "(They Long To Be) Close To You",
-      "movement": "↑5",
-      "days_at_number_1": 1,
-      "top10_streak": 2
-    },
-    {
-      "rank": 2,
       "track_id": 1333,
       "artist": "R.E.M.",
       "title": "Man on the Moon",
-      "movement": "RE",
-      "days_at_number_1": 0,
+      "movement": "NEW",
+      "days_at_number_1": 1,
       "top10_streak": 1
+    },
+    {
+      "rank": 2,
+      "track_id": 820,
+      "artist": "YOASOBI",
+      "title": "群青",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     },
     {
       "rank": 3,
       "track_id": 1245,
       "artist": "David Guetta",
       "title": "Titanium (feat. Sia)",
-      "movement": "↓1",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 6
     },
     {
       "rank": 4,
-      "track_id": 459,
-      "artist": "B'z",
-      "title": "MOTEL",
-      "movement": "↓3",
+      "track_id": 1327,
+      "artist": "Weezer",
+      "title": "Buddy Holly",
+      "movement": "↑4",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 2
     },
     {
       "rank": 5,
-      "track_id": 1228,
-      "artist": "Maroon 5",
-      "title": "Sugar",
-      "movement": "→",
+      "track_id": 890,
+      "artist": "Clairo",
+      "title": "Sofia",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 6,
+      "track_id": 521,
+      "artist": "B'z",
+      "title": "裸足の女神",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 6,
-      "track_id": 1154,
-      "artist": "たま",
-      "title": "さよなら人類",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
       "rank": 7,
-      "track_id": 1336,
-      "artist": "Coldplay",
-      "title": "Clocks",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 8,
-      "track_id": 820,
-      "artist": "YOASOBI",
-      "title": "群青",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 9,
       "track_id": 1534,
       "artist": "大瀧詠一",
       "title": "恋するカレン",
@@ -84,13 +66,31 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
-      "track_id": 680,
-      "artist": "キャンディーズ",
-      "title": "春一番",
+      "rank": 8,
+      "track_id": 967,
+      "artist": "Nick Drake",
+      "title": "Northern Sky",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 9,
+      "track_id": 1584,
+      "artist": "Elliott Smith",
+      "title": "Between the Bars",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 596,
+      "artist": "globe",
+      "title": "Can't Stop Fallin' in Love",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     }
   ]
 }

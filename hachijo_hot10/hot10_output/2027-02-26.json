@@ -4,91 +4,91 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1474,
-      "artist": "スチャダラパー",
-      "title": "GET UP AND DANCE",
-      "movement": "RE",
-      "days_at_number_1": 1,
-      "top10_streak": 1
-    },
-    {
-      "rank": 2,
       "track_id": 615,
       "artist": "米米CLUB",
       "title": "Shake Hip!",
-      "movement": "↓1",
+      "movement": "→",
+      "days_at_number_1": 4,
+      "top10_streak": 5
+    },
+    {
+      "rank": 2,
+      "track_id": 7,
+      "artist": "MONO NO AWARE",
+      "title": "ゾッコン",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 3,
+      "track_id": 529,
+      "artist": "LUNA SEA",
+      "title": "TRUE BLUE",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 3,
-      "track_id": 762,
-      "artist": "ティン・パン・アレー",
-      "title": "北京ダック",
+      "rank": 4,
+      "track_id": 1648,
+      "artist": "Plus-Tech Squeeze Box",
+      "title": "Early Riser",
       "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
-      "rank": 4,
-      "track_id": 1023,
-      "artist": "Carpenters",
-      "title": "(They Long To Be) Close To You",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
       "rank": 5,
-      "track_id": 7,
-      "artist": "MONO NO AWARE",
-      "title": "ゾッコン",
+      "track_id": 611,
+      "artist": "PRINCESS PRINCESS",
+      "title": "世界でいちばん熱い夏",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 5
     },
     {
       "rank": 6,
-      "track_id": 1560,
-      "artist": "Mr.Children",
-      "title": "innocent world",
+      "track_id": 271,
+      "artist": "PK shampoo",
+      "title": "君の秘密になりたい",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 7,
-      "track_id": 1220,
-      "artist": "Justin Bieber",
-      "title": "Sorry",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 8,
-      "track_id": 1634,
-      "artist": "THA BLUE HERB",
-      "title": "未来は俺等の手の中",
-      "movement": "↑1",
+      "track_id": 36,
+      "artist": "never young beach",
+      "title": "明るい未来",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
+      "rank": 8,
+      "track_id": 155,
+      "artist": "パスピエ",
+      "title": "MATATABISTEP",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
       "rank": 9,
-      "track_id": 1695,
-      "artist": "BO GUMBOS",
-      "title": "泥んこ道を二人",
+      "track_id": 1669,
+      "artist": "Nav Katze",
+      "title": "Frozen Flower",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 1280,
-      "artist": "IVE",
-      "title": "I AM",
-      "movement": "RE",
+      "track_id": 302,
+      "artist": "サンボマスター",
+      "title": "世界はそれを愛と呼ぶんだぜ",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

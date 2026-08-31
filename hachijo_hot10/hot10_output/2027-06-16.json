@@ -4,93 +4,93 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 568,
-      "artist": "54-71",
-      "title": "Life",
-      "movement": "↑1",
+      "track_id": 429,
+      "artist": "キリンジ",
+      "title": "双子座グラフィティ",
+      "movement": "↑3",
       "days_at_number_1": 1,
-      "top10_streak": 10
+      "top10_streak": 3
     },
     {
       "rank": 2,
-      "track_id": 19,
-      "artist": "MONO NO AWARE",
-      "title": "幽霊船",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
-      "rank": 3,
-      "track_id": 415,
-      "artist": "bonobos",
-      "title": "Standing There ～いま、そこに行くよ～",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 4,
       "track_id": 249,
       "artist": "キセル",
       "title": "ビューティフル デイ",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 5,
-      "track_id": 1106,
-      "artist": "New Order",
-      "title": "Ceremony",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 6,
-      "track_id": 1006,
-      "artist": "NewJeans",
-      "title": "Ditto",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 7,
-      "track_id": 1154,
-      "artist": "たま",
-      "title": "さよなら人類",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 8,
-      "track_id": 1011,
-      "artist": "Underworld",
-      "title": "Born Slippy (Nuxx)",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 13
-    },
-    {
-      "rank": 9,
-      "track_id": 1695,
-      "artist": "BO GUMBOS",
-      "title": "泥んこ道を二人",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 10,
+      "rank": 3,
       "track_id": 1507,
       "artist": "じゃがたら",
       "title": "タンゴ",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 7
+    },
+    {
+      "rank": 4,
+      "track_id": 1422,
+      "artist": "Hi-STANDARD",
+      "title": "DEAR MY FRIEND",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 5,
+      "track_id": 1315,
+      "artist": "Nirvana",
+      "title": "Come As You Are",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 6,
+      "track_id": 644,
+      "artist": "オフコース",
+      "title": "さよなら",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 7,
+      "track_id": 1339,
+      "artist": "Blur",
+      "title": "Girls & Boys",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 8,
+      "track_id": 343,
+      "artist": "BUMP OF CHICKEN",
+      "title": "ロストマン",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 1636,
+      "artist": "降神",
+      "title": "帰り道",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 10,
+      "track_id": 771,
+      "artist": "サカナクション",
+      "title": "夜の踊り子",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }

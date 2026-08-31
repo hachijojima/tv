@@ -16,21 +16,12 @@
       "track_id": 533,
       "artist": "TRF",
       "title": "survival dAnce ～no no cry more～",
-      "movement": "→",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 3,
-      "track_id": 1028,
-      "artist": "Kendrick Lamar",
-      "title": "Alright",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 4,
       "track_id": 1040,
       "artist": "METAFIVE",
       "title": "環境と心理",
@@ -39,7 +30,7 @@
       "top10_streak": 2
     },
     {
-      "rank": 5,
+      "rank": 4,
       "track_id": 1247,
       "artist": "Swedish House Mafia",
       "title": "Don't You Worry Child",
@@ -48,16 +39,16 @@
       "top10_streak": 5
     },
     {
-      "rank": 6,
-      "track_id": 541,
-      "artist": "山崎まさよし",
-      "title": "セロリ",
-      "movement": "↓5",
+      "rank": 5,
+      "track_id": 1028,
+      "artist": "Kendrick Lamar",
+      "title": "Alright",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 7
     },
     {
-      "rank": 7,
+      "rank": 6,
       "track_id": 660,
       "artist": "岡林信康",
       "title": "山谷ブルース",
@@ -66,22 +57,31 @@
       "top10_streak": 2
     },
     {
-      "rank": 8,
-      "track_id": 725,
-      "artist": "カルメン・マキ",
-      "title": "山羊にひかれて",
-      "movement": "NEW",
+      "rank": 7,
+      "track_id": 541,
+      "artist": "山崎まさよし",
+      "title": "セロリ",
+      "movement": "↓6",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 5
     },
     {
-      "rank": 9,
+      "rank": 8,
       "track_id": 1288,
       "artist": "BIGBANG",
       "title": "FANTASTIC BABY",
       "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 4
+    },
+    {
+      "rank": 9,
+      "track_id": 725,
+      "artist": "カルメン・マキ",
+      "title": "山羊にひかれて",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     },
     {
       "rank": 10,
