@@ -1,0 +1,281 @@
+{
+  "canonical_seed": 20260826,
+  "start_date": "2026-08-26",
+  "master": "HACHIJO_HOT10_master_1728_F41_EDGE125_IMAMIREN4_FACEPATCH.csv",
+  "seed_summaries": [
+    {
+      "seed": 20260826,
+      "days": 365,
+      "overall_replacements_per_day": 2.3763736263736264,
+      "retention_per_day": 7.623626373626374,
+      "ever_appeared_tracks": 550,
+      "artist_hhi": 0.006813586038656396,
+      "longest_number_1_streak": 11,
+      "longest_top10_streak": 21,
+      "top10_concentration": 0.023287671232876714,
+      "top25_concentration": 0.2452054794520548,
+      "top50_concentration": 0.37945205479452054,
+      "top100_concentration": 0.5575342465753425
+    },
+    {
+      "seed": 12345,
+      "days": 365,
+      "overall_replacements_per_day": 2.3846153846153846,
+      "retention_per_day": 7.615384615384615,
+      "ever_appeared_tracks": 554,
+      "artist_hhi": 0.007897766935635205,
+      "longest_number_1_streak": 7,
+      "longest_top10_streak": 22,
+      "top10_concentration": 0.02684931506849315,
+      "top25_concentration": 0.24465753424657535,
+      "top50_concentration": 0.37753424657534246,
+      "top100_concentration": 0.5495890410958905
+    },
+    {
+      "seed": 20260901,
+      "days": 365,
+      "overall_replacements_per_day": 2.381868131868132,
+      "retention_per_day": 7.618131868131869,
+      "ever_appeared_tracks": 539,
+      "artist_hhi": 0.006456595984237182,
+      "longest_number_1_streak": 6,
+      "longest_top10_streak": 18,
+      "top10_concentration": 0.01780821917808219,
+      "top25_concentration": 0.23095890410958905,
+      "top50_concentration": 0.35698630136986303,
+      "top100_concentration": 0.538082191780822
+    },
+    {
+      "seed": 777,
+      "days": 365,
+      "overall_replacements_per_day": 2.392857142857143,
+      "retention_per_day": 7.607142857142858,
+      "ever_appeared_tracks": 531,
+      "artist_hhi": 0.007108425595796566,
+      "longest_number_1_streak": 9,
+      "longest_top10_streak": 18,
+      "top10_concentration": 0.020273972602739727,
+      "top25_concentration": 0.2586301369863014,
+      "top50_concentration": 0.40164383561643835,
+      "top100_concentration": 0.5780821917808219
+    },
+    {
+      "seed": 424242,
+      "days": 365,
+      "overall_replacements_per_day": 2.370879120879121,
+      "retention_per_day": 7.6291208791208796,
+      "ever_appeared_tracks": 532,
+      "artist_hhi": 0.007769863013698617,
+      "longest_number_1_streak": 7,
+      "longest_top10_streak": 19,
+      "top10_concentration": 0.021369863013698632,
+      "top25_concentration": 0.2556164383561644,
+      "top50_concentration": 0.38958904109589043,
+      "top100_concentration": 0.5739726027397261
+    }
+  ],
+  "canonical_focus_artists": [
+    {
+      "artist": "いまみれん",
+      "baseline_1726_slots": 1,
+      "total_top10_slots": 20,
+      "appearance_days": 20,
+      "number_1_days": 5,
+      "reentry_total": 2,
+      "appeared_track_count": 3,
+      "longest_top10_streak": 7
+    },
+    {
+      "artist": "Fishmans",
+      "baseline_1726_slots": 7,
+      "total_top10_slots": 5,
+      "appearance_days": 5,
+      "number_1_days": 0,
+      "reentry_total": 0,
+      "appeared_track_count": 3,
+      "longest_top10_streak": 3
+    },
+    {
+      "artist": "フジファブリック",
+      "baseline_1726_slots": 4,
+      "total_top10_slots": 24,
+      "appearance_days": 24,
+      "number_1_days": 1,
+      "reentry_total": 3,
+      "appeared_track_count": 4,
+      "longest_top10_streak": 8
+    },
+    {
+      "artist": "ゆらゆら帝国",
+      "baseline_1726_slots": 2,
+      "total_top10_slots": 26,
+      "appearance_days": 26,
+      "number_1_days": 5,
+      "reentry_total": 1,
+      "appeared_track_count": 3,
+      "longest_top10_streak": 13
+    },
+    {
+      "artist": "パスピエ",
+      "baseline_1726_slots": 0,
+      "total_top10_slots": 0,
+      "appearance_days": 0,
+      "number_1_days": 0,
+      "reentry_total": 0,
+      "appeared_track_count": 0,
+      "longest_top10_streak": 0
+    }
+  ],
+  "canonical_artist_slots_top30": [
+    {
+      "rank": 1,
+      "artist": "スチャダラパー",
+      "top10_slots": 104
+    },
+    {
+      "rank": 2,
+      "artist": "MONO NO AWARE",
+      "top10_slots": 92
+    },
+    {
+      "rank": 3,
+      "artist": "團伊玖磨",
+      "top10_slots": 85
+    },
+    {
+      "rank": 4,
+      "artist": "MIZ",
+      "top10_slots": 58
+    },
+    {
+      "rank": 5,
+      "artist": "Massive Attack",
+      "top10_slots": 53
+    },
+    {
+      "rank": 6,
+      "artist": "The Doobie Brothers",
+      "top10_slots": 48
+    },
+    {
+      "rank": 7,
+      "artist": "Cyndi Lauper",
+      "top10_slots": 46
+    },
+    {
+      "rank": 8,
+      "artist": "Carpenters",
+      "top10_slots": 46
+    },
+    {
+      "rank": 9,
+      "artist": "Ben E. King",
+      "top10_slots": 45
+    },
+    {
+      "rank": 10,
+      "artist": "鼓童",
+      "top10_slots": 44
+    },
+    {
+      "rank": 11,
+      "artist": "COALTAR OF THE DEEPERS",
+      "top10_slots": 42
+    },
+    {
+      "rank": 12,
+      "artist": "David Guetta",
+      "top10_slots": 41
+    },
+    {
+      "rank": 13,
+      "artist": "Thee Michelle Gun Elephant",
+      "top10_slots": 39
+    },
+    {
+      "rank": 14,
+      "artist": "PEALOUT",
+      "top10_slots": 38
+    },
+    {
+      "rank": 15,
+      "artist": "Jamiroquai",
+      "top10_slots": 35
+    },
+    {
+      "rank": 16,
+      "artist": "TRF",
+      "top10_slots": 32
+    },
+    {
+      "rank": 17,
+      "artist": "U2",
+      "top10_slots": 30
+    },
+    {
+      "rank": 18,
+      "artist": "Susumu Yokota",
+      "top10_slots": 30
+    },
+    {
+      "rank": 19,
+      "artist": "Oasis",
+      "top10_slots": 29
+    },
+    {
+      "rank": 20,
+      "artist": "斉藤和義",
+      "top10_slots": 29
+    },
+    {
+      "rank": 21,
+      "artist": "レミオロメン",
+      "top10_slots": 28
+    },
+    {
+      "rank": 22,
+      "artist": "The Police",
+      "top10_slots": 28
+    },
+    {
+      "rank": 23,
+      "artist": "GOING STEADY",
+      "top10_slots": 28
+    },
+    {
+      "rank": 24,
+      "artist": "ORIGINAL LOVE",
+      "top10_slots": 27
+    },
+    {
+      "rank": 25,
+      "artist": "宇多田ヒカル",
+      "top10_slots": 27
+    },
+    {
+      "rank": 26,
+      "artist": "Queen",
+      "top10_slots": 26
+    },
+    {
+      "rank": 27,
+      "artist": "LUNA SEA",
+      "top10_slots": 26
+    },
+    {
+      "rank": 28,
+      "artist": "ゆらゆら帝国",
+      "top10_slots": 26
+    },
+    {
+      "rank": 29,
+      "artist": "The Beatles",
+      "top10_slots": 26
+    },
+    {
+      "rank": 30,
+      "artist": "福島弘和",
+      "top10_slots": 26
+    }
+  ]
+}
