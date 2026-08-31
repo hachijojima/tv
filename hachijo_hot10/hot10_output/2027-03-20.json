@@ -16,7 +16,7 @@
       "track_id": 1241,
       "artist": "Avicii",
       "title": "Wake Me Up",
-      "movement": "↑4",
+      "movement": "↑5",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -25,7 +25,7 @@
       "track_id": 259,
       "artist": "ドミコ",
       "title": "ペーパーロールスター",
-      "movement": "↑2",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
@@ -43,12 +43,21 @@
       "track_id": 1651,
       "artist": "Oorutaichi",
       "title": "Hamihadarigeri",
-      "movement": "↑4",
+      "movement": "↑5",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 6,
+      "track_id": 604,
+      "artist": "斉藤和義",
+      "title": "彼女",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 7,
       "track_id": 839,
       "artist": "Awesome City Club",
       "title": "アウトサイダー",
@@ -57,38 +66,29 @@
       "top10_streak": 3
     },
     {
-      "rank": 7,
-      "track_id": 604,
-      "artist": "斉藤和義",
-      "title": "彼女",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
       "rank": 8,
-      "track_id": 451,
-      "artist": "WANDS",
-      "title": "Secret Night ～It's My Treat～",
-      "movement": "↑2",
+      "track_id": 1616,
+      "artist": "LITTLE TEMPO",
+      "title": "外道の森",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 1
     },
     {
       "rank": 9,
       "track_id": 1584,
       "artist": "Elliott Smith",
       "title": "Between the Bars",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 15
     },
     {
       "rank": 10,
-      "track_id": 1616,
-      "artist": "LITTLE TEMPO",
-      "title": "外道の森",
-      "movement": "NEW",
+      "track_id": 489,
+      "artist": "小泉今日子",
+      "title": "Fade Out",
+      "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

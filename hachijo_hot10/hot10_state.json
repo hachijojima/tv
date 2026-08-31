@@ -15541,6 +15541,24 @@
       "days_outside_top10": 0,
       "ever_charted": false,
       "last_rank": null
+    },
+    "1727": {
+      "heat": 0.0,
+      "shock": 0.0,
+      "top10_streak": 0,
+      "number1_streak": 0,
+      "days_outside_top10": 0,
+      "ever_charted": false,
+      "last_rank": null
+    },
+    "1728": {
+      "heat": 0.0,
+      "shock": 0.0,
+      "top10_streak": 0,
+      "number1_streak": 0,
+      "days_outside_top10": 0,
+      "ever_charted": false,
+      "last_rank": null
     }
   }
 }

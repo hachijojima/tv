@@ -13,15 +13,24 @@
     },
     {
       "rank": 2,
+      "track_id": 287,
+      "artist": "Fishmans",
+      "title": "いかれたBaby",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 3,
       "track_id": 1635,
       "artist": "MIC JACK PRODUCTION",
       "title": "Seven Seas Voyage",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 10
     },
     {
-      "rank": 3,
+      "rank": 4,
       "track_id": 1240,
       "artist": "Pharrell Williams",
       "title": "Happy",
@@ -30,22 +39,13 @@
       "top10_streak": 1
     },
     {
-      "rank": 4,
+      "rank": 5,
       "track_id": 2,
       "artist": "MIZ",
       "title": "パレード",
-      "movement": "↑6",
+      "movement": "↑5",
       "days_at_number_1": 0,
       "top10_streak": 2
-    },
-    {
-      "rank": 5,
-      "track_id": 287,
-      "artist": "Fishmans",
-      "title": "いかれたBaby",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
     },
     {
       "rank": 6,

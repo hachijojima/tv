@@ -22,21 +22,21 @@
     },
     {
       "rank": 3,
-      "track_id": 603,
-      "artist": "山崎まさよし",
-      "title": "僕はここにいる",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 4,
       "track_id": 829,
       "artist": "Mrs. GREEN APPLE",
       "title": "僕のこと",
-      "movement": "↑5",
+      "movement": "↑7",
       "days_at_number_1": 0,
       "top10_streak": 2
+    },
+    {
+      "rank": 4,
+      "track_id": 603,
+      "artist": "山崎まさよし",
+      "title": "僕はここにいる",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     },
     {
       "rank": 5,
@@ -58,15 +58,24 @@
     },
     {
       "rank": 7,
+      "track_id": 1727,
+      "artist": "いまみれん",
+      "title": "それだけで",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
       "track_id": 1594,
       "artist": "團伊玖磨",
       "title": "オリンピック序曲",
-      "movement": "↓2",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 7
     },
     {
-      "rank": 8,
+      "rank": 9,
       "track_id": 1088,
       "artist": "The Beatles",
       "title": "Here, There And Everywhere",
@@ -75,20 +84,11 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
+      "rank": 10,
       "track_id": 1264,
       "artist": "Disclosure",
       "title": "Latch (feat. Sam Smith)",
       "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 10,
-      "track_id": 1335,
-      "artist": "Coldplay",
-      "title": "The Scientist",
-      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

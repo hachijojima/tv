@@ -1,0 +1,10 @@
+track_id,artist,title,old_base_strength,new_base_strength,delta,state_action
+287,Fishmans,いかれたBaby,79,81,2,preserve_dynamic_state
+377,Fishmans,ナイトクルージング,75,77,2,preserve_dynamic_state
+1384,Fishmans,LONG SEASON,73,75,2,preserve_dynamic_state
+339,フジファブリック,茜色の夕日,80,81,1,preserve_dynamic_state
+384,フジファブリック,赤黄色の金木犀,75,76,1,preserve_dynamic_state
+1399,フジファブリック,桜の季節,76,77,1,preserve_dynamic_state
+1004,ゆらゆら帝国,空洞です,80,82,2,preserve_dynamic_state
+1450,ゆらゆら帝国,発光体,77,79,2,preserve_dynamic_state
+155,パスピエ,MATATABISTEP,79,81,2,preserve_dynamic_state

@@ -49,21 +49,21 @@
     },
     {
       "rank": 6,
-      "track_id": 1584,
-      "artist": "Elliott Smith",
-      "title": "Between the Bars",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 11
-    },
-    {
-      "rank": 7,
       "track_id": 287,
       "artist": "Fishmans",
       "title": "いかれたBaby",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 7,
+      "track_id": 1584,
+      "artist": "Elliott Smith",
+      "title": "Between the Bars",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 11
     },
     {
       "rank": 8,

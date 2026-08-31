@@ -4,21 +4,21 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1068,
-      "artist": "Simon & Garfunkel",
-      "title": "Bridge Over Troubled Water",
-      "movement": "→",
-      "days_at_number_1": 4,
-      "top10_streak": 9
-    },
-    {
-      "rank": 2,
       "track_id": 829,
       "artist": "Mrs. GREEN APPLE",
       "title": "僕のこと",
       "movement": "↑2",
-      "days_at_number_1": 0,
+      "days_at_number_1": 1,
       "top10_streak": 3
+    },
+    {
+      "rank": 2,
+      "track_id": 1068,
+      "artist": "Simon & Garfunkel",
+      "title": "Bridge Over Troubled Water",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 9
     },
     {
       "rank": 3,
@@ -34,7 +34,7 @@
       "track_id": 603,
       "artist": "山崎まさよし",
       "title": "僕はここにいる",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
@@ -43,27 +43,27 @@
       "track_id": 1264,
       "artist": "Disclosure",
       "title": "Latch (feat. Sam Smith)",
-      "movement": "↑4",
+      "movement": "↑5",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 6,
-      "track_id": 1088,
-      "artist": "The Beatles",
-      "title": "Here, There And Everywhere",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 7,
       "track_id": 909,
       "artist": "Wilco",
       "title": "Jesus, Etc.",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 7,
+      "track_id": 1088,
+      "artist": "The Beatles",
+      "title": "Here, There And Everywhere",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     },
     {
       "rank": 8,

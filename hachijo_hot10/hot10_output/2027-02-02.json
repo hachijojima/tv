@@ -49,10 +49,10 @@
     },
     {
       "rank": 6,
-      "track_id": 603,
-      "artist": "山崎まさよし",
-      "title": "僕はここにいる",
-      "movement": "↑3",
+      "track_id": 1727,
+      "artist": "いまみれん",
+      "title": "それだけで",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -67,6 +67,15 @@
     },
     {
       "rank": 8,
+      "track_id": 603,
+      "artist": "山崎まさよし",
+      "title": "僕はここにいる",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 9,
       "track_id": 1052,
       "artist": "Pixies",
       "title": "Where Is My Mind?",
@@ -75,22 +84,13 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
+      "rank": 10,
       "track_id": 829,
       "artist": "Mrs. GREEN APPLE",
       "title": "僕のこと",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
-    },
-    {
-      "rank": 10,
-      "track_id": 1394,
-      "artist": "GOING STEADY",
-      "title": "BABY BABY",
-      "movement": "↓8",
-      "days_at_number_1": 0,
-      "top10_streak": 4
     }
   ]
 }

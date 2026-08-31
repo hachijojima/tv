@@ -40,39 +40,39 @@
     },
     {
       "rank": 5,
+      "track_id": 377,
+      "artist": "Fishmans",
+      "title": "ナイトクルージング",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 6,
       "track_id": 1011,
       "artist": "Underworld",
       "title": "Born Slippy (Nuxx)",
-      "movement": "↓2",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 10
     },
     {
-      "rank": 6,
+      "rank": 7,
       "track_id": 7,
       "artist": "MONO NO AWARE",
       "title": "ゾッコン",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 7,
+      "rank": 8,
       "track_id": 1570,
       "artist": "Stereolab",
       "title": "French Disko",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
-    },
-    {
-      "rank": 8,
-      "track_id": 377,
-      "artist": "Fishmans",
-      "title": "ナイトクルージング",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 4
     },
     {
       "rank": 9,

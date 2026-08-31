@@ -52,7 +52,7 @@
       "track_id": 348,
       "artist": "レミオロメン",
       "title": "電話",
-      "movement": "↑2",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -85,12 +85,12 @@
     },
     {
       "rank": 10,
-      "track_id": 259,
-      "artist": "ドミコ",
-      "title": "ペーパーロールスター",
-      "movement": "↓5",
+      "track_id": 489,
+      "artist": "小泉今日子",
+      "title": "Fade Out",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 8
+      "top10_streak": 3
     }
   ]
 }

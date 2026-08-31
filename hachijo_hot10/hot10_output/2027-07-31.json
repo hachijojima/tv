@@ -7,8 +7,8 @@
       "track_id": 147,
       "artist": "mei ehara",
       "title": "蓋なしの彼",
-      "movement": "→",
-      "days_at_number_1": 2,
+      "movement": "↑1",
+      "days_at_number_1": 1,
       "top10_streak": 2
     },
     {
@@ -16,7 +16,7 @@
       "track_id": 1252,
       "artist": "Kygo",
       "title": "Stole the Show (feat. Parson James)",
-      "movement": "↑6",
+      "movement": "↑5",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -49,15 +49,6 @@
     },
     {
       "rank": 6,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 7,
       "track_id": 476,
       "artist": "シャ乱Q",
       "title": "上・京・物・語",
@@ -66,7 +57,25 @@
       "top10_streak": 5
     },
     {
+      "rank": 7,
+      "track_id": 14,
+      "artist": "MIZ",
+      "title": "とびうおのうた",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
       "rank": 8,
+      "track_id": 1450,
+      "artist": "ゆらゆら帝国",
+      "title": "発光体",
+      "movement": "↓7",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 9,
       "track_id": 1061,
       "artist": "Cyndi Lauper",
       "title": "Time After Time",
@@ -75,22 +84,13 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
+      "rank": 10,
       "track_id": 675,
       "artist": "薬師丸ひろ子",
       "title": "Woman “Wの悲劇”より",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
-    },
-    {
-      "rank": 10,
-      "track_id": 1450,
-      "artist": "ゆらゆら帝国",
-      "title": "発光体",
-      "movement": "↓8",
-      "days_at_number_1": 0,
-      "top10_streak": 6
     }
   ]
 }

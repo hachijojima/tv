@@ -58,15 +58,6 @@
     },
     {
       "rank": 7,
-      "track_id": 1011,
-      "artist": "Underworld",
-      "title": "Born Slippy (Nuxx)",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 11
-    },
-    {
-      "rank": 8,
       "track_id": 335,
       "artist": "Chara",
       "title": "タイムマシーン",
@@ -75,20 +66,29 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
-      "track_id": 1570,
-      "artist": "Stereolab",
-      "title": "French Disko",
-      "movement": "↓2",
+      "rank": 8,
+      "track_id": 1601,
+      "artist": "福島弘和",
+      "title": "吹奏楽のための「おじゃれ」",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
+      "rank": 9,
+      "track_id": 1011,
+      "artist": "Underworld",
+      "title": "Born Slippy (Nuxx)",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 11
+    },
+    {
       "rank": 10,
-      "track_id": 1601,
-      "artist": "福島弘和",
-      "title": "吹奏楽のための「おじゃれ」",
-      "movement": "→",
+      "track_id": 1570,
+      "artist": "Stereolab",
+      "title": "French Disko",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 2
     }

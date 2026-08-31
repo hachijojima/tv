@@ -58,21 +58,21 @@
     },
     {
       "rank": 7,
+      "track_id": 1314,
+      "artist": "U2",
+      "title": "Beautiful Day",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 16
+    },
+    {
+      "rank": 8,
       "track_id": 1257,
       "artist": "Clean Bandit",
       "title": "Rather Be (feat. Jess Glynne)",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
-    },
-    {
-      "rank": 8,
-      "track_id": 1314,
-      "artist": "U2",
-      "title": "Beautiful Day",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 16
     },
     {
       "rank": 9,

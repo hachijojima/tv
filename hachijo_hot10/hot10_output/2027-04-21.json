@@ -34,9 +34,9 @@
       "track_id": 369,
       "artist": "bonobos",
       "title": "Beautiful",
-      "movement": "↑3",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 3
     },
     {
       "rank": 5,
@@ -54,7 +54,7 @@
       "title": "Strawberry Fields Forever",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 4
     },
     {
       "rank": 7,
@@ -88,7 +88,7 @@
       "track_id": 524,
       "artist": "サザンオールスターズ",
       "title": "希望の轍",
-      "movement": "↓4",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 7
     }

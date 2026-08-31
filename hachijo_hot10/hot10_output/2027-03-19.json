@@ -7,7 +7,7 @@
       "track_id": 1240,
       "artist": "Pharrell Williams",
       "title": "Happy",
-      "movement": "↑2",
+      "movement": "↑3",
       "days_at_number_1": 1,
       "top10_streak": 2
     },
@@ -16,7 +16,7 @@
       "track_id": 1635,
       "artist": "MIC JACK PRODUCTION",
       "title": "Seven Seas Voyage",
-      "movement": "→",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 11
     },
@@ -31,6 +31,15 @@
     },
     {
       "rank": 4,
+      "track_id": 259,
+      "artist": "ドミコ",
+      "title": "ペーパーロールスター",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 5,
       "track_id": 2,
       "artist": "MIZ",
       "title": "パレード",
@@ -39,16 +48,16 @@
       "top10_streak": 3
     },
     {
-      "rank": 5,
-      "track_id": 259,
-      "artist": "ドミコ",
-      "title": "ペーパーロールスター",
-      "movement": "↑1",
+      "rank": 6,
+      "track_id": 287,
+      "artist": "Fishmans",
+      "title": "いかれたBaby",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 4
     },
     {
-      "rank": 6,
+      "rank": 7,
       "track_id": 1241,
       "artist": "Avicii",
       "title": "Wake Me Up",
@@ -57,40 +66,31 @@
       "top10_streak": 1
     },
     {
-      "rank": 7,
+      "rank": 8,
       "track_id": 1584,
       "artist": "Elliott Smith",
       "title": "Between the Bars",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 14
     },
     {
-      "rank": 8,
+      "rank": 9,
       "track_id": 839,
       "artist": "Awesome City Club",
       "title": "アウトサイダー",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 9,
+      "rank": 10,
       "track_id": 1651,
       "artist": "Oorutaichi",
       "title": "Hamihadarigeri",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
-    },
-    {
-      "rank": 10,
-      "track_id": 451,
-      "artist": "WANDS",
-      "title": "Secret Night ～It's My Treat～",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 6
     }
   ]
 }

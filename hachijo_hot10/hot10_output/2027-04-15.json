@@ -31,21 +31,21 @@
     },
     {
       "rank": 4,
-      "track_id": 1375,
-      "artist": "Soundgarden",
-      "title": "Black Hole Sun",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 5,
       "track_id": 377,
       "artist": "Fishmans",
       "title": "ナイトクルージング",
-      "movement": "↓3",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 3
+    },
+    {
+      "rank": 5,
+      "track_id": 1375,
+      "artist": "Soundgarden",
+      "title": "Black Hole Sun",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 8
     },
     {
       "rank": 6,

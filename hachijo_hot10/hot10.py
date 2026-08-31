@@ -38,7 +38,7 @@ def resolve_master_path(config: dict[str, Any]) -> Path:
     return path if path.is_absolute() else ROOT / path
 
 
-def load_tracks(path: Path, expected_count: int = 1726) -> list[dict[str, Any]]:
+def load_tracks(path: Path, expected_count: int = 1728) -> list[dict[str, Any]]:
     with path.open(encoding="utf-8-sig", newline="") as handle:
         reader = csv.DictReader(handle)
         if tuple(reader.fieldnames or ()) != CSV_COLUMNS:

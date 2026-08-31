@@ -14,6 +14,7 @@ from zoneinfo import ZoneInfo
 import hot10
 import migrate_state_1601
 import migrate_state_1726
+import migrate_state_1728
 
 
 def summary(charts):
@@ -38,8 +39,8 @@ class Hot10ProductionTests(unittest.TestCase):
         cls.legacy_tracks = hot10.load_tracks(hot10.ROOT / "HACHIJO_HOT10_master_1389_F41_input.csv", 1389)
 
     def test_master_schema_and_ids(self):
-        self.assertEqual(len(self.tracks), 1726)
-        self.assertEqual({track["track_id"] for track in self.tracks}, set(range(1, 1727)))
+        self.assertEqual(len(self.tracks), 1728)
+        self.assertEqual({track["track_id"] for track in self.tracks}, set(range(1, 1729)))
         self.assertTrue(all(track["enabled"] in (0, 1) for track in self.tracks))
         self.assertTrue(all(0 <= track[field] <= 100 for track in self.tracks for field in hot10.SCORE_COLUMNS))
 
@@ -132,6 +133,23 @@ class Hot10ProductionTests(unittest.TestCase):
         self.assertEqual(after["tracks"]["1"], snapshot["tracks"]["1"])
         self.assertTrue(all(after["tracks"][str(value)] == hot10.blank_track_state() for value in reset_ids))
         self.assertTrue(all(after["tracks"][str(value)] == hot10.blank_track_state() for value in range(1602, 1727)))
+
+    def test_1728_state_migration_preserves_1726c_and_adds_only_two_tracks(self):
+        old_tracks = hot10.load_tracks(
+            hot10.ROOT / "HACHIJO_HOT10_master_1726_F41_EDGE125_90S00S_FULL.csv", 1726
+        )
+        before = hot10.initial_state(old_tracks, self.config)
+        before["last_generated_chart_date"] = "2026-08-31"
+        before["mood"]["emo"] = 1.25
+        before["tracks"]["1"]["heat"] = 2.5
+        snapshot = copy.deepcopy(before)
+        after = migrate_state_1728.migrate_state(before, self.tracks, self.config)
+        migrate_state_1728.audit(before, after, self.tracks, self.config)
+        self.assertEqual(before, snapshot)
+        self.assertEqual(after["last_generated_chart_date"], snapshot["last_generated_chart_date"])
+        self.assertEqual(after["mood"], snapshot["mood"])
+        self.assertEqual({key: after["tracks"][key] for key in map(str, range(1, 1727))}, snapshot["tracks"])
+        self.assertTrue(all(after["tracks"][str(value)] == hot10.blank_track_state() for value in (1727, 1728)))
 
     def test_today_idempotence_and_atomic_outputs(self):
         with tempfile.TemporaryDirectory() as directory:

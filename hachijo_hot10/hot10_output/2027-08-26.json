@@ -31,19 +31,19 @@
     },
     {
       "rank": 4,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 5,
       "track_id": 1499,
       "artist": "MUTE BEAT",
       "title": "Dub No.5",
-      "movement": "→",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 14,
+      "artist": "MIZ",
+      "title": "とびうおのうた",
+      "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 2
     },

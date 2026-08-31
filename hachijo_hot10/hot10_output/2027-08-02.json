@@ -49,21 +49,21 @@
     },
     {
       "rank": 6,
+      "track_id": 701,
+      "artist": "シュガー・ベイブ",
+      "title": "今日はなんだか",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 7,
       "track_id": 379,
       "artist": "UA",
       "title": "悲しみジョニー",
       "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
-    },
-    {
-      "rank": 7,
-      "track_id": 701,
-      "artist": "シュガー・ベイブ",
-      "title": "今日はなんだか",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 4
     },
     {
       "rank": 8,

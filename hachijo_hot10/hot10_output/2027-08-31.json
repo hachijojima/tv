@@ -16,7 +16,7 @@
       "track_id": 1364,
       "artist": "Linkin Park",
       "title": "In the End",
-      "movement": "↑2",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
@@ -25,7 +25,7 @@
       "track_id": 582,
       "artist": "T-BOLAN",
       "title": "Bye For Now",
-      "movement": "↑2",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
@@ -43,36 +43,36 @@
       "track_id": 1543,
       "artist": "PEALOUT",
       "title": "爆裂世界 ～世界に追い越されても～",
-      "movement": "↑4",
+      "movement": "↑5",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 6,
+      "track_id": 500,
+      "artist": "モーニング娘。",
+      "title": "Memory 青春の光",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 10
+    },
+    {
+      "rank": 7,
+      "track_id": 1626,
+      "artist": "イルリメ",
+      "title": "元気でやってるのかい？",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
       "track_id": 14,
       "artist": "MIZ",
       "title": "とびうおのうた",
       "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 7,
-      "track_id": 500,
-      "artist": "モーニング娘。",
-      "title": "Memory 青春の光",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 10
-    },
-    {
-      "rank": 8,
-      "track_id": 1626,
-      "artist": "イルリメ",
-      "title": "元気でやってるのかい？",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 7
     },
     {
       "rank": 9,
