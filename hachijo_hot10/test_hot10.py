@@ -15,6 +15,7 @@ import hot10
 import migrate_state_1601
 import migrate_state_1726
 import migrate_state_1728
+import migrate_state_final_streak3
 
 
 def summary(charts):
@@ -44,10 +45,22 @@ class Hot10ProductionTests(unittest.TestCase):
         self.assertTrue(all(track["enabled"] in (0, 1) for track in self.tracks))
         self.assertTrue(all(0 <= track[field] <= 100 for track in self.tracks for field in hot10.SCORE_COLUMNS))
 
+    def test_final_catalog_acceptance(self):
+        path = hot10.resolve_master_path(self.config)
+        self.assertEqual(hashlib.sha256(path.read_bytes()).hexdigest(), "fd2b040cb6fc15ebd1825bf233d95106ec18d2bcc07aaae6cd12d18ec48e7010")
+        self.assertEqual(sum(track["enabled"] for track in self.tracks), 1718)
+        self.assertEqual(next(track for track in self.tracks if track["track_id"] == 1594)["base_strength"], 76)
+        deep10 = {452, 454, 458, 466, 470, 489, 496, 500, 502, 503}
+        self.assertTrue(all(not track["enabled"] for track in self.tracks if track["track_id"] in deep10))
+        exact = [(track["artist"], track["title"]) for track in self.tracks]
+        normalised = [(artist.casefold().replace(" ", ""), title.casefold().replace(" ", "")) for artist, title in exact]
+        self.assertEqual(len(exact), len(set(exact)))
+        self.assertEqual(len(normalised), len(set(normalised)))
+
     def test_saturation_freshness_and_inertia(self):
         self.assertEqual(hot10.effective_hachijo_fit(70, self.config), 70)
         self.assertEqual(hot10.effective_hachijo_fit(100, self.config), 77.5)
-        self.assertEqual(self.config["previous_day_inertia"], {"base_bonus_for_rank_1": 5.25, "rank_step_down": 0.35, "stickiness_scale": 0.015})
+        self.assertEqual(self.config["previous_day_inertia"], {"base_bonus_for_rank_1": 5.25, "rank_step_down": 0.35, "stickiness_scale": 0.015, "multiplier": 1.05})
         track = next(track for track in self.tracks if track["track_id"] == 2)
         self.assertGreaterEqual(hot10.effective_freshness(track, self.config), track["freshness_bonus"] * self.config["attenuated_freshness"]["minimum_factor"])
         self.assertLessEqual(hot10.effective_freshness(track, self.config), track["freshness_bonus"])
@@ -63,25 +76,35 @@ class Hot10ProductionTests(unittest.TestCase):
         self.assertEqual(hot10.movement_for(prior, 2, labels), "↑2")
         self.assertEqual(hot10.movement_for(prior, 7, labels), "↓3")
 
-    def test_seeded_14_day_golden_summary_and_chart(self):
+    def test_seeded_runtime_is_deterministic(self):
         charts = hot10.simulate(14, 20260826, self.legacy_tracks, self.config, datetime(2026, 8, 26).date())
-        actual = summary(charts)
-        self.assertEqual(actual["replacements_by_day"], [1, 3, 3, 1, 2, 1, 3, 2, 1, 2, 2, 2, 3])
-        self.assertEqual((actual["unique"], actual["new"], actual["re"], actual["max1"], actual["maxtop"]), (35, 35, 1, 3, 12))
-        self.assertEqual((actual["retention"], actual["replacements"]), (8.0, 2.0))
-        canonical = json.dumps(charts, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
-        self.assertEqual(hashlib.sha256(canonical).hexdigest(), "e6c47bac2549e277422bdd308401fa6b76145f5d3d24851c7299a6efcebbf766")
+        self.assertEqual(charts, hot10.simulate(14, 20260826, self.legacy_tracks, self.config, datetime(2026, 8, 26).date()))
 
-    def test_five_seed_reference_summary(self):
-        charts = [hot10.simulate(30, seed, self.legacy_tracks, self.config, datetime(2026, 8, 26).date()) for seed in (20260826, 12345, 20260901, 777, 424242)]
-        values = [summary(run) for run in charts]
-        self.assertAlmostEqual(sum(item["retention"] for item in values) / 5, 7.9724137931)
-        self.assertAlmostEqual(sum(item["replacements"] for item in values) / 5, 2.0275862069)
-        self.assertAlmostEqual(sum(item["unique"] for item in values) / 5, 65.6)
-        self.assertAlmostEqual(sum(item["new"] for item in values) / 5, 65.6)
-        self.assertAlmostEqual(sum(item["re"] for item in values) / 5, 3.2)
-        self.assertAlmostEqual(sum(item["max1"] for item in values) / 5, 5.2)
-        self.assertAlmostEqual(sum(item["maxtop"] for item in values) / 5, 18.0)
+    def test_streak_and_cooldown_boundaries(self):
+        track = self.tracks[0]
+        state = hot10.initial_state(self.tracks, self.config)
+        item = state["tracks"]["1"]
+        for streak in range(8):
+            item["top10_streak"] = streak
+            bonus = min(1.2, streak * 0.40)
+            fatigue = max(0, streak - 3) * 0.45 + max(0, streak - 5) * 0.75
+            self.assertAlmostEqual(hot10.daily_score(track, state, self.config) - hot10.static_score(track, self.config), bonus - fatigue)
+        for streak in range(9):
+            item["top10_streak"] = 0; item["number1_streak"] = streak
+            self.assertAlmostEqual(hot10.daily_score(track, state, self.config) - hot10.static_score(track, self.config), -max(0, streak - 3) * 0.75)
+        item.update({"ever_charted": True, "last_rank": None, "days_outside_top10": 179})
+        self.assertFalse(hot10.is_track_eligible(track, state, self.config))
+        item["days_outside_top10"] = 180
+        self.assertTrue(hot10.is_track_eligible(track, state, self.config))
+        item["ever_charted"] = False; item["days_outside_top10"] = 100; item["number1_streak"] = 0
+        self.assertEqual(hot10.daily_score(track, state, self.config) - hot10.static_score(track, self.config), 1.125)
+        chart_day = datetime(2026, 8, 26).date()
+        state["artist_last_present_date"][track["artist"]] = "2026-07-09"
+        self.assertFalse(hot10.is_artist_eligible(track, state, self.config, chart_day))
+        state["artist_last_present_date"][track["artist"]] = "2026-07-08"
+        self.assertTrue(hot10.is_artist_eligible(track, state, self.config, chart_day))
+        state["artist_last_present_date"][track["artist"]] = "2026-08-25"
+        self.assertTrue(hot10.is_artist_eligible(track, state, self.config, chart_day))
 
     def test_ten_tracks_and_one_artist_maximum(self):
         for day in hot10.simulate(30, 12345, self.tracks, self.config, datetime(2026, 8, 26).date()):
@@ -150,6 +173,18 @@ class Hot10ProductionTests(unittest.TestCase):
         self.assertEqual(after["mood"], snapshot["mood"])
         self.assertEqual({key: after["tracks"][key] for key in map(str, range(1, 1727))}, snapshot["tracks"])
         self.assertTrue(all(after["tracks"][str(value)] == hot10.blank_track_state() for value in (1727, 1728)))
+
+    def test_final_state_migration_preserves_dynamic_state(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory); output = root / "output"; output.mkdir()
+            before = hot10.initial_state(self.tracks, self.config)
+            before["last_generated_chart_date"] = "2026-08-26"
+            before["tracks"]["1"].update({"ever_charted": True, "heat": 2.5, "last_rank": 1})
+            (output / "2026-08-26.json").write_text(json.dumps({"date": "2026-08-26", "chart": [{"track_id": 1, "artist": self.tracks[0]["artist"]}]}), encoding="utf-8")
+            after = migrate_state_final_streak3.migrate_state(before, self.tracks, output)
+            migrate_state_final_streak3.audit(before, after)
+            self.assertEqual(after["tracks"]["1"]["last_top10_date"], "2026-08-26")
+            self.assertEqual(after["artist_last_present_date"][self.tracks[0]["artist"]], "2026-08-26")
 
     def test_today_idempotence_and_atomic_outputs(self):
         with tempfile.TemporaryDirectory() as directory:

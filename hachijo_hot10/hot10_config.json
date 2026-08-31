@@ -1,6 +1,6 @@
 {
   "version": "F4.1-B",
-  "master_path": "HACHIJO_HOT10_master_1728_F41_EDGE125_IMAMIREN4_FACEPATCH.csv",
+  "master_path": "HACHIJO_HOT10_master_1728_FINAL_STREAK3_105_100.csv",
   "top_n": 10,
   "timezone": "Asia/Tokyo",
   "chart_boundary_hour": 3,
@@ -36,13 +36,20 @@
   "previous_day_inertia": {
     "base_bonus_for_rank_1": 5.25,
     "rank_step_down": 0.35,
-    "stickiness_scale": 0.015
+    "stickiness_scale": 0.015,
+    "multiplier": 1.05
   },
   "streak": {
     "top10_bonus_per_day": 0.4,
-    "top10_bonus_cap": 2.4,
-    "fatigue_starts_after_days": 8,
-    "fatigue_per_extra_day": 0.45
+    "top10_bonus_cap": 1.2,
+    "fatigue_starts_after_days": 3,
+    "fatigue_per_extra_day": 0.45,
+    "additional_fatigue_starts_after_days": 5,
+    "additional_fatigue_per_extra_day": 0.75
+  },
+  "number1_streak": {
+    "fatigue_starts_after_days": 3,
+    "fatigue_per_extra_day": 0.75
   },
   "wildcard_shock": {
     "base_probability": 0.0012,
@@ -52,9 +59,13 @@
     "bonus_max": 13.0,
     "decay_next_day": 0.68
   },
-  "return_bonus": {
+  "exploration_bonus": {
     "per_day_outside_top10": 0.025,
     "max_days": 45
+  },
+  "cooldown": {
+    "track_days": 180,
+    "artist_days": 49
   },
   "movement_labels": {
     "first_ever_top10": "NEW",

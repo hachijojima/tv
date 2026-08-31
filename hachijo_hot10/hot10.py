@@ -67,12 +67,14 @@ def load_tracks(path: Path, expected_count: int = 1728) -> list[dict[str, Any]]:
 
 def blank_track_state() -> dict[str, Any]:
     return {"heat": 0.0, "shock": 0.0, "top10_streak": 0, "number1_streak": 0,
-            "days_outside_top10": 0, "ever_charted": False, "last_rank": None}
+            "days_outside_top10": 0, "ever_charted": False, "last_rank": None,
+            "last_top10_date": None}
 
 
 def initial_state(tracks: list[dict[str, Any]], config: dict[str, Any]) -> dict[str, Any]:
     return {"version": config["version"], "last_generated_chart_date": None,
             "mood": {axis: 0.0 for axis in config["daily_mood"]["axes"]},
+            "artist_last_present_date": {},
             "tracks": {str(track["track_id"]): blank_track_state() for track in tracks}}
 
 
@@ -81,6 +83,7 @@ def normalise_state(state: dict[str, Any], tracks: list[dict[str, Any]], config:
     state.setdefault("last_generated_chart_date", None)
     state.setdefault("mood", {})
     state.setdefault("tracks", {})
+    state.setdefault("artist_last_present_date", {})
     for axis in config["daily_mood"]["axes"]:
         state["mood"].setdefault(axis, 0.0)
     for track in tracks:
@@ -129,12 +132,27 @@ def daily_score(track: dict[str, Any], state: dict[str, Any], config: dict[str, 
     score += sum(state["mood"][axis] * (track[axis] - 50) / mood["contribution_divisor"] for axis in mood["axes"])
     if item["last_rank"] is not None:
         inertia = config["previous_day_inertia"]
-        score += inertia["base_bonus_for_rank_1"] - inertia["rank_step_down"] * (item["last_rank"] - 1) + inertia["stickiness_scale"] * (track["stickiness"] - 50)
+        score += (inertia["base_bonus_for_rank_1"] - inertia["rank_step_down"] * (item["last_rank"] - 1) + inertia["stickiness_scale"] * (track["stickiness"] - 50)) * inertia["multiplier"]
     streak = config["streak"]
     score += min(streak["top10_bonus_cap"], item["top10_streak"] * streak["top10_bonus_per_day"])
     score -= max(0, item["top10_streak"] - streak["fatigue_starts_after_days"]) * streak["fatigue_per_extra_day"]
-    returning = config["return_bonus"]
-    return score + min(item["days_outside_top10"], returning["max_days"]) * returning["per_day_outside_top10"]
+    score -= max(0, item["top10_streak"] - streak["additional_fatigue_starts_after_days"]) * streak["additional_fatigue_per_extra_day"]
+    score -= max(0, item["number1_streak"] - config["number1_streak"]["fatigue_starts_after_days"]) * config["number1_streak"]["fatigue_per_extra_day"]
+    exploration = config["exploration_bonus"]
+    return score + (min(item["days_outside_top10"], exploration["max_days"]) * exploration["per_day_outside_top10"] if not item["ever_charted"] else 0.0)
+
+
+def is_track_eligible(track: dict[str, Any], state: dict[str, Any], config: dict[str, Any]) -> bool:
+    item = state["tracks"][str(track["track_id"])]
+    return not (item["ever_charted"] and item["last_rank"] is None and item["days_outside_top10"] < config["cooldown"]["track_days"])
+
+
+def is_artist_eligible(track: dict[str, Any], state: dict[str, Any], config: dict[str, Any], chart_day: date) -> bool:
+    last_present = state["artist_last_present_date"].get(track["artist"])
+    if last_present is None:
+        return True
+    last_day = date.fromisoformat(last_present)
+    return last_day == chart_day - timedelta(days=1) or (chart_day - last_day).days >= config["cooldown"]["artist_days"]
 
 
 def movement_for(previous: dict[str, Any], rank: int, labels: dict[str, str]) -> str:
@@ -151,7 +169,7 @@ def movement_for(previous: dict[str, Any], rank: int, labels: dict[str, str]) ->
 def generate_chart(chart_day: date, tracks: list[dict[str, Any]], state: dict[str, Any], config: dict[str, Any], rng: random.Random) -> dict[str, Any]:
     normalise_state(state, tracks, config)
     update_daily_random_state(state, tracks, config, rng)
-    ranked = sorted(((daily_score(track, state, config), track) for track in tracks if track["enabled"]), key=lambda row: (-row[0], row[1]["track_id"]))
+    ranked = sorted(((daily_score(track, state, config), track) for track in tracks if track["enabled"] and is_track_eligible(track, state, config) and is_artist_eligible(track, state, config, chart_day)), key=lambda row: (-row[0], row[1]["track_id"]))
     selected, artists = [], set()
     for _, track in ranked:
         if track["artist"] in artists:
@@ -175,7 +193,9 @@ def generate_chart(chart_day: date, tracks: list[dict[str, Any]], state: dict[st
         if rank is None:
             item["last_rank"] = None; item["top10_streak"] = 0; item["number1_streak"] = 0; item["days_outside_top10"] += 1
         else:
-            item["last_rank"] = rank; item["top10_streak"] += 1; item["number1_streak"] = item["number1_streak"] + 1 if rank == 1 else 0; item["days_outside_top10"] = 0; item["ever_charted"] = True
+            item["last_rank"] = rank; item["top10_streak"] += 1; item["number1_streak"] = item["number1_streak"] + 1 if rank == 1 else 0; item["days_outside_top10"] = 0; item["ever_charted"] = True; item["last_top10_date"] = chart_day.isoformat()
+    for artist in artists:
+        state["artist_last_present_date"][artist] = chart_day.isoformat()
     state["last_generated_chart_date"] = chart_day.isoformat()
     return {"date": chart_day.isoformat(), "chart": chart}
 
