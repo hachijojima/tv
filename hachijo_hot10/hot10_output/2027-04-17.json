@@ -8,26 +8,26 @@
       "artist": "NewJeans",
       "title": "Ditto",
       "movement": "→",
-      "days_at_number_1": 2,
+      "days_at_number_1": 3,
       "top10_streak": 3
     },
     {
       "rank": 2,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 3,
       "track_id": 1023,
       "artist": "Carpenters",
       "title": "(They Long To Be) Close To You",
-      "movement": "↑1",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 3
+    },
+    {
+      "rank": 3,
+      "track_id": 14,
+      "artist": "MIZ",
+      "title": "とびうおのうた",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
     },
     {
       "rank": 4,
@@ -43,7 +43,7 @@
       "track_id": 541,
       "artist": "山崎まさよし",
       "title": "セロリ",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 12
     },
@@ -67,15 +67,6 @@
     },
     {
       "rank": 8,
-      "track_id": 7,
-      "artist": "MONO NO AWARE",
-      "title": "ゾッコン",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 9,
       "track_id": 335,
       "artist": "Chara",
       "title": "タイムマシーン",
@@ -84,11 +75,20 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
+      "rank": 9,
       "track_id": 1570,
       "artist": "Stereolab",
       "title": "French Disko",
-      "movement": "↓3",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 10,
+      "track_id": 1601,
+      "artist": "福島弘和",
+      "title": "吹奏楽のための「おじゃれ」",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
     }

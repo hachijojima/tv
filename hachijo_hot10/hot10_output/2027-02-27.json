@@ -7,8 +7,8 @@
       "track_id": 615,
       "artist": "米米CLUB",
       "title": "Shake Hip!",
-      "movement": "↑1",
-      "days_at_number_1": 1,
+      "movement": "→",
+      "days_at_number_1": 4,
       "top10_streak": 5
     },
     {
@@ -16,7 +16,7 @@
       "track_id": 1474,
       "artist": "スチャダラパー",
       "title": "GET UP AND DANCE",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -25,9 +25,9 @@
       "track_id": 7,
       "artist": "MONO NO AWARE",
       "title": "ゾッコン",
-      "movement": "↓2",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 10
+      "top10_streak": 8
     },
     {
       "rank": 4,
@@ -67,6 +67,15 @@
     },
     {
       "rank": 8,
+      "track_id": 1280,
+      "artist": "IVE",
+      "title": "I AM",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 9,
       "track_id": 1149,
       "artist": "エレファントカシマシ",
       "title": "今宵の月のように",
@@ -75,22 +84,13 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
-      "track_id": 1247,
-      "artist": "Swedish House Mafia",
-      "title": "Don't You Worry Child",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 17
-    },
-    {
       "rank": 10,
-      "track_id": 1280,
-      "artist": "IVE",
-      "title": "I AM",
-      "movement": "↓1",
+      "track_id": 1315,
+      "artist": "Nirvana",
+      "title": "Come As You Are",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 1
     }
   ]
 }

@@ -22,15 +22,6 @@
     },
     {
       "rank": 3,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 4,
       "track_id": 582,
       "artist": "T-BOLAN",
       "title": "Bye For Now",
@@ -39,11 +30,20 @@
       "top10_streak": 6
     },
     {
+      "rank": 4,
+      "track_id": 14,
+      "artist": "MIZ",
+      "title": "とびうおのうた",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
       "rank": 5,
       "track_id": 330,
       "artist": "カヒミ・カリィ",
       "title": "Mike Alway's Diary",
-      "movement": "↓1",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 7
     },
@@ -85,12 +85,12 @@
     },
     {
       "rank": 10,
-      "track_id": 1364,
-      "artist": "Linkin Park",
-      "title": "In the End",
-      "movement": "RE",
+      "track_id": 1499,
+      "artist": "MUTE BEAT",
+      "title": "Dub No.5",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 3
     }
   ]
 }

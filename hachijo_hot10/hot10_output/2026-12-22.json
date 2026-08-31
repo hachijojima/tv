@@ -49,21 +49,21 @@
     },
     {
       "rank": 6,
+      "track_id": 481,
+      "artist": "奥田民生",
+      "title": "愛のために",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 7,
       "track_id": 738,
       "artist": "松田聖子",
       "title": "瑠璃色の地球",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
-    },
-    {
-      "rank": 7,
-      "track_id": 11,
-      "artist": "MONO NO AWARE",
-      "title": "異邦人",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 3
     },
     {
       "rank": 8,
@@ -76,21 +76,21 @@
     },
     {
       "rank": 9,
-      "track_id": 481,
-      "artist": "奥田民生",
-      "title": "愛のために",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 10,
       "track_id": 768,
       "artist": "小沢健二",
       "title": "いちょう並木のセレナーデ",
       "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 4
+    },
+    {
+      "rank": 10,
+      "track_id": 1117,
+      "artist": "The Who",
+      "title": "Baba O’Riley",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }

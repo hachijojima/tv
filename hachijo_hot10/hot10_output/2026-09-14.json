@@ -67,21 +67,21 @@
     },
     {
       "rank": 8,
-      "track_id": 12,
-      "artist": "MIZ",
-      "title": "丘",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 9,
       "track_id": 1383,
       "artist": "Bon Jovi",
       "title": "It's My Life",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 12,
+      "artist": "MIZ",
+      "title": "丘",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     },
     {
       "rank": 10,

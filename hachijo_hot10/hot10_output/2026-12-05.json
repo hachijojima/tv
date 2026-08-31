@@ -40,42 +40,24 @@
     },
     {
       "rank": 5,
-      "track_id": 9,
-      "artist": "MONO NO AWARE",
-      "title": "そこにあったから",
-      "movement": "↑1",
+      "track_id": 1601,
+      "artist": "福島弘和",
+      "title": "吹奏楽のための「おじゃれ」",
+      "movement": "RE",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 1
     },
     {
       "rank": 6,
-      "track_id": 1305,
-      "artist": "鼓童",
-      "title": "凰（おおとり）",
-      "movement": "↑2",
+      "track_id": 1011,
+      "artist": "Underworld",
+      "title": "Born Slippy (Nuxx)",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
     {
       "rank": 7,
-      "track_id": 333,
-      "artist": "サニーデイ・サービス",
-      "title": "サマー・ソルジャー",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 8,
-      "track_id": 1011,
-      "artist": "Underworld",
-      "title": "Born Slippy (Nuxx)",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 9,
       "track_id": 1134,
       "artist": "Diana Ross",
       "title": "I’m Coming Out",
@@ -84,10 +66,28 @@
       "top10_streak": 3
     },
     {
-      "rank": 10,
+      "rank": 8,
+      "track_id": 333,
+      "artist": "サニーデイ・サービス",
+      "title": "サマー・ソルジャー",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
       "track_id": 1364,
       "artist": "Linkin Park",
       "title": "In the End",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 829,
+      "artist": "Mrs. GREEN APPLE",
+      "title": "僕のこと",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1

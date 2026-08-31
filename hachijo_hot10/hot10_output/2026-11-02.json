@@ -8,7 +8,7 @@
       "artist": "Simon & Garfunkel",
       "title": "Bridge Over Troubled Water",
       "movement": "→",
-      "days_at_number_1": 2,
+      "days_at_number_1": 3,
       "top10_streak": 3
     },
     {
@@ -31,24 +31,15 @@
     },
     {
       "rank": 4,
-      "track_id": 10,
-      "artist": "MIZ",
-      "title": "パジャマでハイウェイ",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 12
-    },
-    {
-      "rank": 5,
       "track_id": 1046,
       "artist": "星野源",
       "title": "不思議",
-      "movement": "↑1",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 6,
+      "rank": 5,
       "track_id": 1295,
       "artist": "SHINee",
       "title": "Ring Ding Dong",
@@ -57,29 +48,38 @@
       "top10_streak": 1
     },
     {
-      "rank": 7,
-      "track_id": 1040,
-      "artist": "METAFIVE",
-      "title": "環境と心理",
-      "movement": "↑1",
+      "rank": 6,
+      "track_id": 10,
+      "artist": "MIZ",
+      "title": "パジャマでハイウェイ",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 5
     },
     {
-      "rank": 8,
+      "rank": 7,
       "track_id": 1240,
       "artist": "Pharrell Williams",
       "title": "Happy",
-      "movement": "↓3",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 12
     },
     {
-      "rank": 9,
+      "rank": 8,
       "track_id": 1267,
       "artist": "Eric Prydz",
       "title": "Call on Me",
       "movement": "↓6",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 9,
+      "track_id": 1040,
+      "artist": "METAFIVE",
+      "title": "環境と心理",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 3
     },

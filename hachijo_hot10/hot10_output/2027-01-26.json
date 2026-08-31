@@ -58,39 +58,39 @@
     },
     {
       "rank": 7,
-      "track_id": 16,
-      "artist": "MIZ",
-      "title": "暑中見舞い",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 8,
       "track_id": 489,
       "artist": "小泉今日子",
       "title": "あなたに会えてよかった",
-      "movement": "↑1",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 7
     },
     {
-      "rank": 9,
+      "rank": 8,
       "track_id": 945,
       "artist": "Oasis",
       "title": "Don't Look Back in Anger",
-      "movement": "↓6",
+      "movement": "↓5",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 10,
+      "rank": 9,
       "track_id": 463,
       "artist": "JUDY AND MARY",
       "title": "Over Drive",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 124,
+      "artist": "Tempalay",
+      "title": "そなちね",
+      "movement": "↓6",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     }
   ]
 }

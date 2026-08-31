@@ -34,7 +34,7 @@
       "track_id": 1091,
       "artist": "The Cure",
       "title": "Boys Don’t Cry",
-      "movement": "↑2",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
@@ -58,12 +58,12 @@
     },
     {
       "rank": 7,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "RE",
+      "track_id": 1261,
+      "artist": "Tiësto",
+      "title": "The Business",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     },
     {
       "rank": 8,
@@ -76,21 +76,21 @@
     },
     {
       "rank": 9,
-      "track_id": 1261,
-      "artist": "Tiësto",
-      "title": "The Business",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 10,
       "track_id": 582,
       "artist": "T-BOLAN",
       "title": "Bye For Now",
-      "movement": "→",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 3
+    },
+    {
+      "rank": 10,
+      "track_id": 14,
+      "artist": "MIZ",
+      "title": "とびうおのうた",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }

@@ -67,15 +67,6 @@
     },
     {
       "rank": 8,
-      "track_id": 2,
-      "artist": "MIZ",
-      "title": "パレード",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 9,
       "track_id": 487,
       "artist": "PRINCESS PRINCESS",
       "title": "M",
@@ -84,13 +75,22 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
+      "rank": 9,
       "track_id": 1569,
       "artist": "My Bloody Valentine",
       "title": "You Made Me Realise",
-      "movement": "↓5",
+      "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 3
+    },
+    {
+      "rank": 10,
+      "track_id": 2,
+      "artist": "MIZ",
+      "title": "パレード",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }

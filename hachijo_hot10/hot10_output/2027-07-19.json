@@ -13,57 +13,57 @@
     },
     {
       "rank": 2,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 12
-    },
-    {
-      "rank": 3,
       "track_id": 615,
       "artist": "米米CLUB",
       "title": "Shake Hip!",
-      "movement": "→",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
+      "rank": 3,
+      "track_id": 1254,
+      "artist": "The Chainsmokers",
+      "title": "Closer (feat. Halsey)",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
       "rank": 4,
-      "track_id": 1301,
-      "artist": "爆風スランプ",
-      "title": "旅人よ ～The Longest Journey～",
-      "movement": "↑4",
+      "track_id": 1206,
+      "artist": "Beyoncé",
+      "title": "Single Ladies (Put a Ring on It)",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 5,
-      "track_id": 1206,
-      "artist": "Beyoncé",
-      "title": "Single Ladies (Put a Ring on It)",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 6,
       "track_id": 759,
       "artist": "吉田美奈子",
       "title": "TOWN",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 7,
+      "rank": 6,
       "track_id": 1252,
       "artist": "Kygo",
       "title": "Stole the Show (feat. Parson James)",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 7,
+      "track_id": 1301,
+      "artist": "爆風スランプ",
+      "title": "旅人よ ～The Longest Journey～",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     },
     {
       "rank": 8,
@@ -76,21 +76,21 @@
     },
     {
       "rank": 9,
-      "track_id": 544,
-      "artist": "UNICORN",
-      "title": "大迷惑",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 10,
       "track_id": 585,
       "artist": "スピッツ",
       "title": "楓",
       "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 18
+    },
+    {
+      "rank": 10,
+      "track_id": 544,
+      "artist": "UNICORN",
+      "title": "大迷惑",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }

@@ -31,48 +31,48 @@
     },
     {
       "rank": 4,
-      "track_id": 1375,
-      "artist": "Soundgarden",
-      "title": "Black Hole Sun",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 5,
       "track_id": 588,
       "artist": "THE YELLOW MONKEY",
       "title": "LOVE LOVE SHOW",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 6,
-      "track_id": 1011,
-      "artist": "Underworld",
-      "title": "Born Slippy (Nuxx)",
       "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 7
     },
     {
-      "rank": 7,
-      "track_id": 1061,
-      "artist": "Cyndi Lauper",
-      "title": "Time After Time",
-      "movement": "↓6",
+      "rank": 5,
+      "track_id": 1011,
+      "artist": "Underworld",
+      "title": "Born Slippy (Nuxx)",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 17
+      "top10_streak": 7
     },
     {
-      "rank": 8,
+      "rank": 6,
+      "track_id": 1375,
+      "artist": "Soundgarden",
+      "title": "Black Hole Sun",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 7,
       "track_id": 1229,
       "artist": "Harry Styles",
       "title": "As It Was",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 1061,
+      "artist": "Cyndi Lauper",
+      "title": "Time After Time",
+      "movement": "↓7",
+      "days_at_number_1": 0,
+      "top10_streak": 18
     },
     {
       "rank": 9,
@@ -85,9 +85,9 @@
     },
     {
       "rank": 10,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
+      "track_id": 331,
+      "artist": "ORIGINAL LOVE",
+      "title": "朝日のあたる道 AS TIME GOES BY",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1

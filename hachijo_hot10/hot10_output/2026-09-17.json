@@ -7,7 +7,7 @@
       "track_id": 636,
       "artist": "鈴木茂",
       "title": "砂の女",
-      "movement": "↑8",
+      "movement": "↑6",
       "days_at_number_1": 1,
       "top10_streak": 2
     },
@@ -49,21 +49,21 @@
     },
     {
       "rank": 6,
-      "track_id": 12,
-      "artist": "MIZ",
-      "title": "丘",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 7,
       "track_id": 1040,
       "artist": "METAFIVE",
       "title": "環境と心理",
-      "movement": "↑3",
+      "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 2
+    },
+    {
+      "rank": 7,
+      "track_id": 12,
+      "artist": "MIZ",
+      "title": "丘",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 5
     },
     {
       "rank": 8,
@@ -79,18 +79,18 @@
       "track_id": 1383,
       "artist": "Bon Jovi",
       "title": "It's My Life",
-      "movement": "↓2",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
       "rank": 10,
-      "track_id": 1288,
-      "artist": "BIGBANG",
-      "title": "FANTASTIC BABY",
-      "movement": "↓2",
+      "track_id": 1601,
+      "artist": "福島弘和",
+      "title": "吹奏楽のための「おじゃれ」",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 1
     }
   ]
 }

@@ -40,12 +40,12 @@
     },
     {
       "rank": 5,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "→",
+      "track_id": 768,
+      "artist": "小沢健二",
+      "title": "いちょう並木のセレナーデ",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 11
     },
     {
       "rank": 6,
@@ -58,12 +58,12 @@
     },
     {
       "rank": 7,
-      "track_id": 768,
-      "artist": "小沢健二",
-      "title": "いちょう並木のセレナーデ",
+      "track_id": 14,
+      "artist": "MIZ",
+      "title": "とびうおのうた",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 11
+      "top10_streak": 5
     },
     {
       "rank": 8,

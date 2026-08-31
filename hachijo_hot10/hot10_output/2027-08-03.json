@@ -25,7 +25,7 @@
       "track_id": 768,
       "artist": "小沢健二",
       "title": "いちょう並木のセレナーデ",
-      "movement": "↑2",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 13
     },
@@ -43,7 +43,7 @@
       "track_id": 663,
       "artist": "カルメン・マキ",
       "title": "時には母のない子のように",
-      "movement": "↑4",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -58,21 +58,21 @@
     },
     {
       "rank": 7,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 8,
       "track_id": 1569,
       "artist": "My Bloody Valentine",
       "title": "You Made Me Realise",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 379,
+      "artist": "UA",
+      "title": "悲しみジョニー",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     },
     {
       "rank": 9,
@@ -85,12 +85,12 @@
     },
     {
       "rank": 10,
-      "track_id": 379,
-      "artist": "UA",
-      "title": "悲しみジョニー",
-      "movement": "↓2",
+      "track_id": 14,
+      "artist": "MIZ",
+      "title": "とびうおのうた",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 7
     }
   ]
 }

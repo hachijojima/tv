@@ -76,21 +76,21 @@
     },
     {
       "rank": 9,
-      "track_id": 11,
-      "artist": "MONO NO AWARE",
-      "title": "異邦人",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 10,
       "track_id": 1065,
       "artist": "Marvin Gaye",
       "title": "Mercy Mercy Me (The Ecology)",
-      "movement": "↓5",
+      "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 3
+    },
+    {
+      "rank": 10,
+      "track_id": 1215,
+      "artist": "Taylor Swift",
+      "title": "Shake It Off",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }

@@ -7,9 +7,9 @@
       "track_id": 1061,
       "artist": "Cyndi Lauper",
       "title": "Time After Time",
-      "movement": "↑2",
+      "movement": "↑3",
       "days_at_number_1": 1,
-      "top10_streak": 15
+      "top10_streak": 16
     },
     {
       "rank": 2,
@@ -31,21 +31,21 @@
     },
     {
       "rank": 4,
-      "track_id": 1265,
-      "artist": "Disclosure",
-      "title": "White Noise (feat. AlunaGeorge)",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 5,
       "track_id": 1028,
       "artist": "Kendrick Lamar",
       "title": "Alright",
       "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 8
+    },
+    {
+      "rank": 5,
+      "track_id": 1265,
+      "artist": "Disclosure",
+      "title": "White Noise (feat. AlunaGeorge)",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     },
     {
       "rank": 6,
@@ -58,9 +58,9 @@
     },
     {
       "rank": 7,
-      "track_id": 13,
-      "artist": "MONO NO AWARE",
-      "title": "孤独になってみたい",
+      "track_id": 553,
+      "artist": "米米CLUB",
+      "title": "君がいるだけで",
       "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2

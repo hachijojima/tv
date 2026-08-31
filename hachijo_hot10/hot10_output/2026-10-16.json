@@ -25,7 +25,7 @@
       "track_id": 1542,
       "artist": "Cocco",
       "title": "強く儚い者たち",
-      "movement": "↑2",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
@@ -70,27 +70,27 @@
       "track_id": 1219,
       "artist": "Ed Sheeran",
       "title": "Shape of You",
-      "movement": "↓1",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 15
+      "top10_streak": 14
     },
     {
       "rank": 9,
-      "track_id": 572,
-      "artist": "BEGIN",
-      "title": "恋しくて",
-      "movement": "↓1",
+      "track_id": 1593,
+      "artist": "天田トメノ",
+      "title": "ショメ節",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 1
     },
     {
       "rank": 10,
       "track_id": 1021,
       "artist": "スチャダラパー",
       "title": "サマージャム’95",
-      "movement": "↓4",
+      "movement": "↓6",
       "days_at_number_1": 0,
-      "top10_streak": 8
+      "top10_streak": 9
     }
   ]
 }

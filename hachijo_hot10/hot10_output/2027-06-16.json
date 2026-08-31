@@ -18,34 +18,34 @@
       "title": "幽霊船",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 15
+      "top10_streak": 9
     },
     {
       "rank": 3,
+      "track_id": 1013,
+      "artist": "The Police",
+      "title": "Every Breath You Take",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 10
+    },
+    {
+      "rank": 4,
       "track_id": 249,
       "artist": "キセル",
       "title": "ビューティフル デイ",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 4,
+      "rank": 5,
       "track_id": 1106,
       "artist": "New Order",
       "title": "Ceremony",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
-    },
-    {
-      "rank": 5,
-      "track_id": 1154,
-      "artist": "たま",
-      "title": "さよなら人類",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 3
     },
     {
       "rank": 6,
@@ -58,39 +58,39 @@
     },
     {
       "rank": 7,
+      "track_id": 1154,
+      "artist": "たま",
+      "title": "さよなら人類",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
+      "track_id": 1315,
+      "artist": "Nirvana",
+      "title": "Come As You Are",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 9,
       "track_id": 1011,
       "artist": "Underworld",
       "title": "Born Slippy (Nuxx)",
-      "movement": "↓3",
+      "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 14
     },
     {
-      "rank": 8,
+      "rank": 10,
       "track_id": 1507,
       "artist": "じゃがたら",
       "title": "タンゴ",
       "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 4
-    },
-    {
-      "rank": 9,
-      "track_id": 429,
-      "artist": "キリンジ",
-      "title": "双子座グラフィティ",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 10,
-      "track_id": 1315,
-      "artist": "Nirvana",
-      "title": "Come As You Are",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 3
     }
   ]
 }

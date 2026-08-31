@@ -49,24 +49,15 @@
     },
     {
       "rank": 6,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "↓3",
+      "track_id": 1240,
+      "artist": "Pharrell Williams",
+      "title": "Happy",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
     {
       "rank": 7,
-      "track_id": 1240,
-      "artist": "Pharrell Williams",
-      "title": "Happy",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 8,
       "track_id": 1395,
       "artist": "GOING STEADY",
       "title": "銀河鉄道の夜",
@@ -75,19 +66,28 @@
       "top10_streak": 13
     },
     {
+      "rank": 8,
+      "track_id": 14,
+      "artist": "MIZ",
+      "title": "とびうおのうた",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
       "rank": 9,
-      "track_id": 1024,
-      "artist": "SUPER BUTTER DOG",
-      "title": "サヨナラCOLOR",
+      "track_id": 1591,
+      "artist": "稲田カエ",
+      "title": "八丈太鼓囃し",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 1267,
-      "artist": "Eric Prydz",
-      "title": "Call on Me",
+      "track_id": 1024,
+      "artist": "SUPER BUTTER DOG",
+      "title": "サヨナラCOLOR",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1

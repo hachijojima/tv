@@ -40,57 +40,57 @@
     },
     {
       "rank": 5,
+      "track_id": 533,
+      "artist": "TRF",
+      "title": "survival dAnce ～no no cry more～",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 6,
       "track_id": 1048,
       "artist": "Ben E. King",
       "title": "Stand By Me",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
-      "rank": 6,
-      "track_id": 470,
-      "artist": "TM NETWORK",
-      "title": "Get Wild",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
       "rank": 7,
-      "track_id": 764,
-      "artist": "EPO",
-      "title": "土曜の夜はパラダイス",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 8,
-      "track_id": 790,
-      "artist": "Mrs. GREEN APPLE",
-      "title": "青と夏",
+      "track_id": 1594,
+      "artist": "團伊玖磨",
+      "title": "オリンピック序曲",
       "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 9,
-      "track_id": 1241,
-      "artist": "Avicii",
-      "title": "Wake Me Up",
-      "movement": "↓3",
+      "rank": 8,
+      "track_id": 470,
+      "artist": "TM NETWORK",
+      "title": "Get Wild",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 7
+    },
+    {
+      "rank": 9,
+      "track_id": 764,
+      "artist": "EPO",
+      "title": "土曜の夜はパラダイス",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     },
     {
       "rank": 10,
-      "track_id": 20,
-      "artist": "MONO NO AWARE",
-      "title": "水が湧いた",
-      "movement": "RE",
+      "track_id": 1241,
+      "artist": "Avicii",
+      "title": "Wake Me Up",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 4
     }
   ]
 }

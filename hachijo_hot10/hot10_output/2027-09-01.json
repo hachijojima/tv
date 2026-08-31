@@ -27,7 +27,7 @@
       "title": "In the End",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 5
     },
     {
       "rank": 4,
@@ -40,21 +40,21 @@
     },
     {
       "rank": 5,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
-      "rank": 6,
       "track_id": 496,
       "artist": "宇多田ヒカル",
       "title": "Automatic",
-      "movement": "↑1",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 3
+    },
+    {
+      "rank": 6,
+      "track_id": 14,
+      "artist": "MIZ",
+      "title": "とびうおのうた",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 9
     },
     {
       "rank": 7,

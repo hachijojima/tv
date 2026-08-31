@@ -25,12 +25,21 @@
       "track_id": 539,
       "artist": "KAN",
       "title": "まゆみ",
-      "movement": "↑3",
+      "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
       "rank": 4,
+      "track_id": 1601,
+      "artist": "福島弘和",
+      "title": "吹奏楽のための「おじゃれ」",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 10
+    },
+    {
+      "rank": 5,
       "track_id": 533,
       "artist": "TRF",
       "title": "survival dAnce ～no no cry more～",
@@ -39,7 +48,7 @@
       "top10_streak": 1
     },
     {
-      "rank": 5,
+      "rank": 6,
       "track_id": 1291,
       "artist": "KARA",
       "title": "Mister",
@@ -48,16 +57,16 @@
       "top10_streak": 5
     },
     {
-      "rank": 6,
+      "rank": 7,
       "track_id": 1286,
       "artist": "SEVENTEEN",
       "title": "Super",
-      "movement": "↓5",
+      "movement": "↓6",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
     {
-      "rank": 7,
+      "rank": 8,
       "track_id": 1242,
       "artist": "Avicii",
       "title": "Levels",
@@ -66,31 +75,22 @@
       "top10_streak": 3
     },
     {
-      "rank": 8,
-      "track_id": 1269,
-      "artist": "LMFAO",
-      "title": "Party Rock Anthem",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
       "rank": 9,
-      "track_id": 1283,
-      "artist": "Stray Kids",
-      "title": "God's Menu",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 10,
       "track_id": 1247,
       "artist": "Swedish House Mafia",
       "title": "Don't You Worry Child",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1269,
+      "artist": "LMFAO",
+      "title": "Party Rock Anthem",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     }
   ]
 }

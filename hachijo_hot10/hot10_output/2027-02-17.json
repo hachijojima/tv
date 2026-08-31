@@ -9,7 +9,7 @@
       "title": "Don't You Worry Child",
       "movement": "→",
       "days_at_number_1": 2,
-      "top10_streak": 7
+      "top10_streak": 9
     },
     {
       "rank": 2,
@@ -58,6 +58,15 @@
     },
     {
       "rank": 7,
+      "track_id": 1091,
+      "artist": "The Cure",
+      "title": "Boys Don’t Cry",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 13
+    },
+    {
+      "rank": 8,
       "track_id": 1123,
       "artist": "坂本真綾",
       "title": "プラチナ",
@@ -66,22 +75,13 @@
       "top10_streak": 1
     },
     {
-      "rank": 8,
+      "rank": 9,
       "track_id": 520,
       "artist": "T-BOLAN",
       "title": "じれったい愛",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
-    },
-    {
-      "rank": 9,
-      "track_id": 1091,
-      "artist": "The Cure",
-      "title": "Boys Don’t Cry",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 13
     },
     {
       "rank": 10,

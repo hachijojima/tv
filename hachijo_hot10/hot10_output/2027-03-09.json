@@ -13,19 +13,19 @@
     },
     {
       "rank": 2,
-      "track_id": 1315,
-      "artist": "Nirvana",
-      "title": "Come As You Are",
+      "track_id": 459,
+      "artist": "B'z",
+      "title": "ALONE",
       "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 7
     },
     {
       "rank": 3,
       "track_id": 1305,
       "artist": "鼓童",
       "title": "凰（おおとり）",
-      "movement": "↑4",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
@@ -67,27 +67,27 @@
     },
     {
       "rank": 8,
-      "track_id": 19,
-      "artist": "MONO NO AWARE",
-      "title": "幽霊船",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 9,
       "track_id": 1444,
       "artist": "BLANKEY JET CITY",
       "title": "SWEET DAYS",
-      "movement": "↓3",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 10,
+      "rank": 9,
       "track_id": 998,
       "artist": "Donald Fagen",
       "title": "The Nightfly",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 125,
+      "artist": "羊文学",
+      "title": "光るとき",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1

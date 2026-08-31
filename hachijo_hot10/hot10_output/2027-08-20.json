@@ -4,21 +4,21 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 2,
-      "artist": "MIZ",
-      "title": "パレード",
-      "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 3
-    },
-    {
-      "rank": 2,
       "track_id": 331,
       "artist": "ORIGINAL LOVE",
       "title": "朝日のあたる道 AS TIME GOES BY",
       "movement": "→",
-      "days_at_number_1": 0,
+      "days_at_number_1": 4,
       "top10_streak": 4
+    },
+    {
+      "rank": 2,
+      "track_id": 2,
+      "artist": "MIZ",
+      "title": "パレード",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     },
     {
       "rank": 3,
@@ -31,19 +31,19 @@
     },
     {
       "rank": 4,
-      "track_id": 901,
-      "artist": "R.E.M.",
-      "title": "Nightswimming",
-      "movement": "↓1",
+      "track_id": 1347,
+      "artist": "Garbage",
+      "title": "Only Happy When It Rains",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
       "rank": 5,
-      "track_id": 1347,
-      "artist": "Garbage",
-      "title": "Only Happy When It Rains",
-      "movement": "↑3",
+      "track_id": 901,
+      "artist": "R.E.M.",
+      "title": "Nightswimming",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
@@ -70,27 +70,27 @@
       "track_id": 1215,
       "artist": "Taylor Swift",
       "title": "Shake It Off",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
       "rank": 9,
-      "track_id": 563,
-      "artist": "ポルノグラフィティ",
-      "title": "サウダージ",
-      "movement": "↓2",
+      "track_id": 659,
+      "artist": "加川良",
+      "title": "教訓I",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 2
     },
     {
       "rank": 10,
-      "track_id": 20,
-      "artist": "MONO NO AWARE",
-      "title": "水が湧いた",
-      "movement": "→",
+      "track_id": 993,
+      "artist": "The Velvet Underground",
+      "title": "Pale Blue Eyes",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 1
     }
   ]
 }

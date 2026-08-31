@@ -58,12 +58,12 @@
     },
     {
       "rank": 7,
-      "track_id": 471,
+      "track_id": 533,
       "artist": "TRF",
-      "title": "寒い夜だから…",
-      "movement": "↑1",
+      "title": "survival dAnce ～no no cry more～",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 10
+      "top10_streak": 7
     },
     {
       "rank": 8,
@@ -76,21 +76,21 @@
     },
     {
       "rank": 9,
-      "track_id": 603,
-      "artist": "山崎まさよし",
-      "title": "僕はここにいる",
-      "movement": "↓3",
+      "track_id": 1594,
+      "artist": "團伊玖磨",
+      "title": "オリンピック序曲",
+      "movement": "RE",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 790,
-      "artist": "Mrs. GREEN APPLE",
-      "title": "青と夏",
-      "movement": "NEW",
+      "track_id": 603,
+      "artist": "山崎まさよし",
+      "title": "僕はここにいる",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 4
     }
   ]
 }

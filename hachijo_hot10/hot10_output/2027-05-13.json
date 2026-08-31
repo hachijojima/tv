@@ -4,15 +4,24 @@
   "chart": [
     {
       "rank": 1,
+      "track_id": 1594,
+      "artist": "團伊玖磨",
+      "title": "オリンピック序曲",
+      "movement": "→",
+      "days_at_number_1": 7,
+      "top10_streak": 11
+    },
+    {
+      "rank": 2,
       "track_id": 1375,
       "artist": "Soundgarden",
       "title": "Black Hole Sun",
       "movement": "RE",
-      "days_at_number_1": 1,
+      "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 2,
+      "rank": 3,
       "track_id": 1068,
       "artist": "Simon & Garfunkel",
       "title": "Bridge Over Troubled Water",
@@ -21,49 +30,40 @@
       "top10_streak": 1
     },
     {
-      "rank": 3,
-      "track_id": 1364,
-      "artist": "Linkin Park",
-      "title": "In the End",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
       "rank": 4,
-      "track_id": 239,
-      "artist": "さよならポニーテール",
-      "title": "光る街へ",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 5,
       "track_id": 441,
       "artist": "チャットモンチー",
       "title": "恋愛スピリッツ",
-      "movement": "↑2",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
+      "rank": 5,
+      "track_id": 1364,
+      "artist": "Linkin Park",
+      "title": "In the End",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
       "rank": 6,
+      "track_id": 239,
+      "artist": "さよならポニーテール",
+      "title": "光る街へ",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 7,
       "track_id": 573,
       "artist": "THE BOOM",
       "title": "風になりたい",
       "movement": "↓5",
       "days_at_number_1": 0,
       "top10_streak": 9
-    },
-    {
-      "rank": 7,
-      "track_id": 20,
-      "artist": "MONO NO AWARE",
-      "title": "水が湧いた",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 10
     },
     {
       "rank": 8,
@@ -85,12 +85,12 @@
     },
     {
       "rank": 10,
-      "track_id": 1257,
-      "artist": "Clean Bandit",
-      "title": "Rather Be (feat. Jess Glynne)",
-      "movement": "↓5",
+      "track_id": 1570,
+      "artist": "Stereolab",
+      "title": "French Disko",
+      "movement": "RE",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 1
     }
   ]
 }

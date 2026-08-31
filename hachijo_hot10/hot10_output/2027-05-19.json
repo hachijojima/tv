@@ -76,21 +76,21 @@
     },
     {
       "rank": 9,
-      "track_id": 1379,
-      "artist": "Blink-182",
-      "title": "All the Small Things",
-      "movement": "↓4",
+      "track_id": 1594,
+      "artist": "團伊玖磨",
+      "title": "オリンピック序曲",
+      "movement": "RE",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 742,
-      "artist": "キャンディーズ",
-      "title": "やさしい悪魔",
-      "movement": "↓1",
+      "track_id": 1379,
+      "artist": "Blink-182",
+      "title": "All the Small Things",
+      "movement": "↓5",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 3
     }
   ]
 }

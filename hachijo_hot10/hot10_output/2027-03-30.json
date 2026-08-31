@@ -13,6 +13,15 @@
     },
     {
       "rank": 2,
+      "track_id": 1061,
+      "artist": "Cyndi Lauper",
+      "title": "Time After Time",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 3,
       "track_id": 11,
       "artist": "MONO NO AWARE",
       "title": "異邦人",
@@ -21,16 +30,16 @@
       "top10_streak": 4
     },
     {
-      "rank": 3,
-      "track_id": 1061,
-      "artist": "Cyndi Lauper",
-      "title": "Time After Time",
-      "movement": "↑4",
+      "rank": 4,
+      "track_id": 1543,
+      "artist": "Cocco",
+      "title": "Raining",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 10
     },
     {
-      "rank": 4,
+      "rank": 5,
       "track_id": 1351,
       "artist": "Alanis Morissette",
       "title": "Ironic",
@@ -39,22 +48,13 @@
       "top10_streak": 1
     },
     {
-      "rank": 5,
+      "rank": 6,
       "track_id": 1214,
       "artist": "Ariana Grande",
       "title": "Into You",
-      "movement": "↓1",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 4
-    },
-    {
-      "rank": 6,
-      "track_id": 1543,
-      "artist": "Cocco",
-      "title": "Raining",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 10
     },
     {
       "rank": 7,
@@ -76,21 +76,21 @@
     },
     {
       "rank": 9,
+      "track_id": 1355,
+      "artist": "The Strokes",
+      "title": "Someday",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 10,
       "track_id": 541,
       "artist": "山崎まさよし",
       "title": "セロリ",
       "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 7
-    },
-    {
-      "rank": 10,
-      "track_id": 459,
-      "artist": "B'z",
-      "title": "ALONE",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 11
     }
   ]
 }

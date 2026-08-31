@@ -9,7 +9,7 @@
       "title": "Time After Time",
       "movement": "→",
       "days_at_number_1": 2,
-      "top10_streak": 16
+      "top10_streak": 17
     },
     {
       "rank": 2,
@@ -58,21 +58,21 @@
     },
     {
       "rank": 7,
-      "track_id": 1375,
-      "artist": "Soundgarden",
-      "title": "Black Hole Sun",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 8,
       "track_id": 1028,
       "artist": "Kendrick Lamar",
       "title": "Alright",
       "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 9
+    },
+    {
+      "rank": 8,
+      "track_id": 1375,
+      "artist": "Soundgarden",
+      "title": "Black Hole Sun",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     },
     {
       "rank": 9,
@@ -85,12 +85,12 @@
     },
     {
       "rank": 10,
-      "track_id": 13,
-      "artist": "MONO NO AWARE",
-      "title": "孤独になってみたい",
-      "movement": "↓3",
+      "track_id": 451,
+      "artist": "WANDS",
+      "title": "時の扉",
+      "movement": "RE",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 1
     }
   ]
 }

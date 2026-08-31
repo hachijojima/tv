@@ -22,15 +22,24 @@
     },
     {
       "rank": 3,
-      "track_id": 459,
-      "artist": "B'z",
-      "title": "ALONE",
-      "movement": "→",
+      "track_id": 541,
+      "artist": "山崎まさよし",
+      "title": "セロリ",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 4,
+      "track_id": 489,
+      "artist": "小泉今日子",
+      "title": "あなたに会えてよかった",
+      "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 7
     },
     {
-      "rank": 4,
+      "rank": 5,
       "track_id": 18,
       "artist": "MONO NO AWARE",
       "title": "アングル",
@@ -39,25 +48,7 @@
       "top10_streak": 3
     },
     {
-      "rank": 5,
-      "track_id": 541,
-      "artist": "山崎まさよし",
-      "title": "セロリ",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
       "rank": 6,
-      "track_id": 489,
-      "artist": "小泉今日子",
-      "title": "あなたに会えてよかった",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 7,
       "track_id": 458,
       "artist": "T-BOLAN",
       "title": "離したくはない",
@@ -66,11 +57,20 @@
       "top10_streak": 3
     },
     {
+      "rank": 7,
+      "track_id": 459,
+      "artist": "B'z",
+      "title": "ALONE",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
       "rank": 8,
       "track_id": 348,
       "artist": "レミオロメン",
       "title": "電話",
-      "movement": "↓1",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
@@ -79,7 +79,7 @@
       "track_id": 1204,
       "artist": "Rihanna",
       "title": "We Found Love",
-      "movement": "↓5",
+      "movement": "↓6",
       "days_at_number_1": 0,
       "top10_streak": 4
     },

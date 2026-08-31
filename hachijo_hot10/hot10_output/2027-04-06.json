@@ -18,7 +18,7 @@
       "title": "Time After Time",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 10
+      "top10_streak": 11
     },
     {
       "rank": 3,
@@ -31,21 +31,21 @@
     },
     {
       "rank": 4,
-      "track_id": 473,
-      "artist": "Every Little Thing",
-      "title": "Time goes by",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 5,
       "track_id": 1028,
       "artist": "Kendrick Lamar",
       "title": "Alright",
-      "movement": "↑3",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 3
+    },
+    {
+      "rank": 5,
+      "track_id": 473,
+      "artist": "Every Little Thing",
+      "title": "Time goes by",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 5
     },
     {
       "rank": 6,
@@ -58,24 +58,15 @@
     },
     {
       "rank": 7,
-      "track_id": 18,
-      "artist": "MONO NO AWARE",
-      "title": "アングル",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 8,
       "track_id": 1578,
       "artist": "Pixies",
       "title": "Here Comes Your Man",
-      "movement": "↑1",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 9,
+      "rank": 8,
       "track_id": 468,
       "artist": "X JAPAN",
       "title": "ENDLESS RAIN",
@@ -84,11 +75,20 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
+      "rank": 9,
       "track_id": 541,
       "artist": "山崎まさよし",
       "title": "セロリ",
       "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1457,
+      "artist": "羅針盤",
+      "title": "カラーズ",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

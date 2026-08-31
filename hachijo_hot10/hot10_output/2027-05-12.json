@@ -4,15 +4,24 @@
   "chart": [
     {
       "rank": 1,
+      "track_id": 1594,
+      "artist": "團伊玖磨",
+      "title": "オリンピック序曲",
+      "movement": "→",
+      "days_at_number_1": 6,
+      "top10_streak": 10
+    },
+    {
+      "rank": 2,
       "track_id": 573,
       "artist": "THE BOOM",
       "title": "風になりたい",
       "movement": "↑1",
-      "days_at_number_1": 1,
+      "days_at_number_1": 0,
       "top10_streak": 8
     },
     {
-      "rank": 2,
+      "rank": 3,
       "track_id": 1364,
       "artist": "Linkin Park",
       "title": "In the End",
@@ -21,7 +30,7 @@
       "top10_streak": 3
     },
     {
-      "rank": 3,
+      "rank": 4,
       "track_id": 239,
       "artist": "さよならポニーテール",
       "title": "光る街へ",
@@ -30,22 +39,13 @@
       "top10_streak": 3
     },
     {
-      "rank": 4,
-      "track_id": 20,
-      "artist": "MONO NO AWARE",
-      "title": "水が湧いた",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
       "rank": 5,
-      "track_id": 1257,
-      "artist": "Clean Bandit",
-      "title": "Rather Be (feat. Jess Glynne)",
-      "movement": "↓2",
+      "track_id": 441,
+      "artist": "チャットモンチー",
+      "title": "恋愛スピリッツ",
+      "movement": "↑4",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 2
     },
     {
       "rank": 6,
@@ -58,21 +58,21 @@
     },
     {
       "rank": 7,
-      "track_id": 441,
-      "artist": "チャットモンチー",
-      "title": "恋愛スピリッツ",
-      "movement": "↑3",
+      "track_id": 528,
+      "artist": "GLAY",
+      "title": "HOWEVER",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 8,
-      "track_id": 528,
-      "artist": "GLAY",
-      "title": "HOWEVER",
-      "movement": "→",
+      "track_id": 1257,
+      "artist": "Clean Bandit",
+      "title": "Rather Be (feat. Jess Glynne)",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 3
     },
     {
       "rank": 9,

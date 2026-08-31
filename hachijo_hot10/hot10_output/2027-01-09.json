@@ -31,12 +31,12 @@
     },
     {
       "rank": 4,
-      "track_id": 1584,
-      "artist": "Elliott Smith",
-      "title": "Between the Bars",
+      "track_id": 1590,
+      "artist": "奥山熊雄",
+      "title": "色のついたシャバタキ・すがる",
       "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 5
     },
     {
       "rank": 5,
@@ -54,10 +54,19 @@
       "title": "丘",
       "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 15
+      "top10_streak": 14
     },
     {
       "rank": 7,
+      "track_id": 1584,
+      "artist": "Elliott Smith",
+      "title": "Between the Bars",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
       "track_id": 1242,
       "artist": "Avicii",
       "title": "Levels",
@@ -66,31 +75,22 @@
       "top10_streak": 2
     },
     {
-      "rank": 8,
-      "track_id": 481,
-      "artist": "奥田民生",
-      "title": "愛のために",
+      "rank": 9,
+      "track_id": 728,
+      "artist": "角松敏生",
+      "title": "If You Wanna Dance",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 9,
-      "track_id": 495,
-      "artist": "MISIA",
-      "title": "つつみ込むように…",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 9
     },
     {
       "rank": 10,
-      "track_id": 19,
-      "artist": "MONO NO AWARE",
-      "title": "幽霊船",
-      "movement": "↓3",
+      "track_id": 481,
+      "artist": "奥田民生",
+      "title": "愛のために",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 7
     }
   ]
 }

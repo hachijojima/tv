@@ -40,21 +40,21 @@
     },
     {
       "rank": 5,
-      "track_id": 19,
-      "artist": "MONO NO AWARE",
-      "title": "幽霊船",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 6,
       "track_id": 536,
       "artist": "PUFFY",
       "title": "これが私の生きる道",
-      "movement": "↓4",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 3
+    },
+    {
+      "rank": 6,
+      "track_id": 19,
+      "artist": "MONO NO AWARE",
+      "title": "幽霊船",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     },
     {
       "rank": 7,
@@ -85,12 +85,12 @@
     },
     {
       "rank": 10,
-      "track_id": 1543,
-      "artist": "Cocco",
-      "title": "Raining",
-      "movement": "RE",
+      "track_id": 1068,
+      "artist": "Simon & Garfunkel",
+      "title": "Bridge Over Troubled Water",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 12
     }
   ]
 }

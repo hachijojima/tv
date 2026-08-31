@@ -13,30 +13,30 @@
     },
     {
       "rank": 2,
+      "track_id": 1601,
+      "artist": "福島弘和",
+      "title": "吹奏楽のための「おじゃれ」",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 3,
+      "track_id": 470,
+      "artist": "TM NETWORK",
+      "title": "Get Wild",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 9
+    },
+    {
+      "rank": 4,
       "track_id": 19,
       "artist": "MONO NO AWARE",
       "title": "幽霊船",
       "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 7
-    },
-    {
-      "rank": 3,
-      "track_id": 660,
-      "artist": "岡林信康",
-      "title": "山谷ブルース",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 4,
-      "track_id": 470,
-      "artist": "TM NETWORK",
-      "title": "Get Wild",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 9
     },
     {
       "rank": 5,
@@ -76,19 +76,19 @@
     },
     {
       "rank": 9,
-      "track_id": 4,
-      "artist": "MIZ",
-      "title": "空砲",
+      "track_id": 1113,
+      "artist": "The Beatles",
+      "title": "Blackbird",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 1113,
-      "artist": "The Beatles",
-      "title": "Blackbird",
-      "movement": "NEW",
+      "track_id": 420,
+      "artist": "小沢健二",
+      "title": "今夜はブギー・バック",
+      "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

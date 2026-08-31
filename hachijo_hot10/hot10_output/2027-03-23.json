@@ -16,7 +16,7 @@
       "track_id": 1543,
       "artist": "Cocco",
       "title": "Raining",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
@@ -31,51 +31,42 @@
     },
     {
       "rank": 4,
-      "track_id": 459,
-      "artist": "B'z",
-      "title": "ALONE",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 5,
       "track_id": 1241,
       "artist": "Avicii",
       "title": "Wake Me Up",
-      "movement": "↑1",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
-      "rank": 6,
-      "track_id": 839,
-      "artist": "Awesome City Club",
-      "title": "アウトサイダー",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 7,
+      "rank": 5,
       "track_id": 489,
       "artist": "小泉今日子",
       "title": "あなたに会えてよかった",
-      "movement": "↑1",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 8,
+      "rank": 6,
       "track_id": 1029,
       "artist": "m-flo",
       "title": "come again",
-      "movement": "↓4",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 9,
+      "rank": 7,
+      "track_id": 1247,
+      "artist": "Swedish House Mafia",
+      "title": "Don't You Worry Child",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 11
+    },
+    {
+      "rank": 8,
       "track_id": 1204,
       "artist": "Rihanna",
       "title": "We Found Love",
@@ -84,13 +75,22 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
+      "rank": 9,
       "track_id": 1106,
       "artist": "New Order",
       "title": "Ceremony",
       "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
+    },
+    {
+      "rank": 10,
+      "track_id": 459,
+      "artist": "B'z",
+      "title": "ALONE",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }

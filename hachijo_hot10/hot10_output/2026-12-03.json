@@ -13,21 +13,21 @@
     },
     {
       "rank": 2,
-      "track_id": 4,
-      "artist": "MIZ",
-      "title": "空砲",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 11
-    },
-    {
-      "rank": 3,
       "track_id": 1441,
       "artist": "BLANKEY JET CITY",
       "title": "ガソリンの揺れかた",
       "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 8
+    },
+    {
+      "rank": 3,
+      "track_id": 4,
+      "artist": "MIZ",
+      "title": "空砲",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 10
     },
     {
       "rank": 4,
@@ -52,30 +52,21 @@
       "track_id": 1225,
       "artist": "Sia",
       "title": "Chandelier",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 7,
-      "track_id": 9,
-      "artist": "MONO NO AWARE",
-      "title": "そこにあったから",
-      "movement": "NEW",
+      "track_id": 1024,
+      "artist": "SUPER BUTTER DOG",
+      "title": "サヨナラCOLOR",
+      "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     },
     {
       "rank": 8,
-      "track_id": 1305,
-      "artist": "鼓童",
-      "title": "凰（おおとり）",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 9,
       "track_id": 1134,
       "artist": "Diana Ross",
       "title": "I’m Coming Out",
@@ -84,13 +75,22 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
+      "rank": 9,
       "track_id": 1246,
       "artist": "David Guetta",
       "title": "Memories (feat. Kid Cudi)",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 937,
+      "artist": "Alvvays",
+      "title": "Archie, Marry Me",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 6
     }
   ]
 }

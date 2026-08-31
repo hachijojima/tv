@@ -9,14 +9,14 @@
       "title": "丘",
       "movement": "→",
       "days_at_number_1": 3,
-      "top10_streak": 8
+      "top10_streak": 7
     },
     {
       "rank": 2,
       "track_id": 728,
       "artist": "角松敏生",
       "title": "If You Wanna Dance",
-      "movement": "↑1",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -40,21 +40,21 @@
     },
     {
       "rank": 5,
-      "track_id": 1109,
-      "artist": "Radiohead",
-      "title": "Everything In Its Right Place",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 6,
       "track_id": 11,
       "artist": "MONO NO AWARE",
       "title": "異邦人",
       "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 14
+      "top10_streak": 8
+    },
+    {
+      "rank": 6,
+      "track_id": 1109,
+      "artist": "Radiohead",
+      "title": "Everything In Its Right Place",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
     },
     {
       "rank": 7,
@@ -67,21 +67,21 @@
     },
     {
       "rank": 8,
-      "track_id": 325,
-      "artist": "SAKEROCK",
-      "title": "慰安旅行",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 9,
       "track_id": 1220,
       "artist": "Justin Bieber",
       "title": "Sorry",
       "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
+    },
+    {
+      "rank": 9,
+      "track_id": 325,
+      "artist": "SAKEROCK",
+      "title": "慰安旅行",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     },
     {
       "rank": 10,

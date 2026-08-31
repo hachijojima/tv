@@ -16,7 +16,7 @@
       "track_id": 1333,
       "artist": "R.E.M.",
       "title": "Man on the Moon",
-      "movement": "NEW",
+      "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
@@ -43,7 +43,7 @@
       "track_id": 1228,
       "artist": "Maroon 5",
       "title": "Sugar",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
@@ -52,7 +52,7 @@
       "track_id": 1336,
       "artist": "Coldplay",
       "title": "Clocks",
-      "movement": "↓3",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 6
     },

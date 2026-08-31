@@ -22,12 +22,12 @@
     },
     {
       "rank": 3,
-      "track_id": 541,
-      "artist": "山崎まさよし",
-      "title": "セロリ",
+      "track_id": 1021,
+      "artist": "スチャダラパー",
+      "title": "サマージャム’95",
       "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 4
     },
     {
       "rank": 4,
@@ -40,21 +40,21 @@
     },
     {
       "rank": 5,
-      "track_id": 1073,
-      "artist": "東京事変",
-      "title": "透明人間",
-      "movement": "↓3",
+      "track_id": 541,
+      "artist": "山崎まさよし",
+      "title": "セロリ",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 3
     },
     {
       "rank": 6,
-      "track_id": 471,
-      "artist": "TRF",
-      "title": "寒い夜だから…",
-      "movement": "↑2",
+      "track_id": 1073,
+      "artist": "東京事変",
+      "title": "透明人間",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 5
     },
     {
       "rank": 7,
@@ -76,18 +76,18 @@
     },
     {
       "rank": 9,
-      "track_id": 1241,
-      "artist": "Avicii",
-      "title": "Wake Me Up",
-      "movement": "RE",
+      "track_id": 839,
+      "artist": "Awesome City Club",
+      "title": "アウトサイダー",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     },
     {
       "rank": 10,
-      "track_id": 1021,
-      "artist": "スチャダラパー",
-      "title": "サマージャム’95",
+      "track_id": 1241,
+      "artist": "Avicii",
+      "title": "Wake Me Up",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1

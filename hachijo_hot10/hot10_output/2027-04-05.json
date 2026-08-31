@@ -18,7 +18,7 @@
       "title": "Time After Time",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 9
+      "top10_streak": 10
     },
     {
       "rank": 3,
@@ -49,12 +49,12 @@
     },
     {
       "rank": 6,
-      "track_id": 18,
-      "artist": "MONO NO AWARE",
-      "title": "アングル",
-      "movement": "↑1",
+      "track_id": 1028,
+      "artist": "Kendrick Lamar",
+      "title": "Alright",
+      "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 2
     },
     {
       "rank": 7,
@@ -67,12 +67,12 @@
     },
     {
       "rank": 8,
-      "track_id": 1028,
-      "artist": "Kendrick Lamar",
-      "title": "Alright",
-      "movement": "↑2",
+      "track_id": 1100,
+      "artist": "Bon Jovi",
+      "title": "Livin’ On A Prayer",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 3
     },
     {
       "rank": 9,

@@ -31,33 +31,15 @@
     },
     {
       "rank": 4,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
+      "track_id": 1240,
+      "artist": "Pharrell Williams",
+      "title": "Happy",
       "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 8
     },
     {
       "rank": 5,
-      "track_id": 402,
-      "artist": "ROUND TABLE",
-      "title": "Every Every Every",
-      "movement": "↑5",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 6,
-      "track_id": 1240,
-      "artist": "Pharrell Williams",
-      "title": "Happy",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 7,
       "track_id": 428,
       "artist": "My Little Lover",
       "title": "DESTINY",
@@ -66,7 +48,7 @@
       "top10_streak": 1
     },
     {
-      "rank": 8,
+      "rank": 6,
       "track_id": 741,
       "artist": "太田裕美",
       "title": "さらばシベリア鉄道",
@@ -75,22 +57,40 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
+      "rank": 7,
       "track_id": 585,
       "artist": "スピッツ",
       "title": "楓",
-      "movement": "→",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 14
     },
     {
-      "rank": 10,
+      "rank": 8,
       "track_id": 1024,
       "artist": "SUPER BUTTER DOG",
       "title": "サヨナラCOLOR",
-      "movement": "↓2",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 3
+    },
+    {
+      "rank": 9,
+      "track_id": 1254,
+      "artist": "The Chainsmokers",
+      "title": "Closer (feat. Halsey)",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 10,
+      "track_id": 402,
+      "artist": "ROUND TABLE",
+      "title": "Every Every Every",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }

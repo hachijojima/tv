@@ -13,19 +13,19 @@
     },
     {
       "rank": 2,
-      "track_id": 7,
-      "artist": "MONO NO AWARE",
-      "title": "ゾッコン",
-      "movement": "↑4",
+      "track_id": 1011,
+      "artist": "Underworld",
+      "title": "Born Slippy (Nuxx)",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 3,
-      "track_id": 1011,
-      "artist": "Underworld",
-      "title": "Born Slippy (Nuxx)",
-      "movement": "↓2",
+      "track_id": 519,
+      "artist": "DEEN",
+      "title": "瞳そらさないで",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
@@ -34,21 +34,12 @@
       "track_id": 1247,
       "artist": "Swedish House Mafia",
       "title": "Don't You Worry Child",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 10
+      "top10_streak": 12
     },
     {
       "rank": 5,
-      "track_id": 519,
-      "artist": "DEEN",
-      "title": "瞳そらさないで",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 6,
       "track_id": 1267,
       "artist": "Eric Prydz",
       "title": "Call on Me",
@@ -57,7 +48,7 @@
       "top10_streak": 3
     },
     {
-      "rank": 7,
+      "rank": 6,
       "track_id": 1242,
       "artist": "Avicii",
       "title": "Levels",
@@ -66,16 +57,16 @@
       "top10_streak": 2
     },
     {
-      "rank": 8,
-      "track_id": 46,
-      "artist": "iri",
-      "title": "Wonderland",
+      "rank": 7,
+      "track_id": 7,
+      "artist": "MONO NO AWARE",
+      "title": "ゾッコン",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 9,
+      "rank": 8,
       "track_id": 1204,
       "artist": "Rihanna",
       "title": "We Found Love",
@@ -84,13 +75,22 @@
       "top10_streak": 2
     },
     {
-      "rank": 10,
-      "track_id": 759,
-      "artist": "吉田美奈子",
-      "title": "TOWN",
+      "rank": 9,
+      "track_id": 46,
+      "artist": "iri",
+      "title": "Wonderland",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 844,
+      "artist": "WONK",
+      "title": "Fleeting Fantasy",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     }
   ]
 }

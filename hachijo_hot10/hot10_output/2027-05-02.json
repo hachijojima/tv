@@ -16,7 +16,7 @@
       "track_id": 1048,
       "artist": "Ben E. King",
       "title": "Stand By Me",
-      "movement": "↑3",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
@@ -34,7 +34,7 @@
       "track_id": 1241,
       "artist": "Avicii",
       "title": "Wake Me Up",
-      "movement": "↑4",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -43,7 +43,7 @@
       "track_id": 470,
       "artist": "TM NETWORK",
       "title": "Get Wild",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
@@ -58,21 +58,21 @@
     },
     {
       "rank": 7,
-      "track_id": 10,
-      "artist": "MIZ",
-      "title": "パジャマでハイウェイ",
-      "movement": "↓3",
+      "track_id": 533,
+      "artist": "TRF",
+      "title": "survival dAnce ～no no cry more～",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 6
     },
     {
       "rank": 8,
-      "track_id": 471,
-      "artist": "TRF",
-      "title": "寒い夜だから…",
-      "movement": "↓1",
+      "track_id": 10,
+      "artist": "MIZ",
+      "title": "パジャマでハイウェイ",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 9
+      "top10_streak": 4
     },
     {
       "rank": 9,
@@ -88,7 +88,7 @@
       "track_id": 1262,
       "artist": "Tiësto",
       "title": "Red Lights",
-      "movement": "↓1",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 4
     }

@@ -25,7 +25,7 @@
       "track_id": 1584,
       "artist": "Elliott Smith",
       "title": "Between the Bars",
-      "movement": "→",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
@@ -43,30 +43,21 @@
       "track_id": 1394,
       "artist": "GOING STEADY",
       "title": "BABY BABY",
-      "movement": "↓1",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 6,
-      "track_id": 1028,
-      "artist": "Kendrick Lamar",
-      "title": "Alright",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 16
-    },
-    {
-      "rank": 7,
       "track_id": 601,
       "artist": "KAN",
       "title": "言えずのI LOVE YOU",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 8
     },
     {
-      "rank": 8,
+      "rank": 7,
       "track_id": 1262,
       "artist": "Tiësto",
       "title": "Red Lights",
@@ -75,10 +66,19 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
+      "rank": 8,
       "track_id": 1274,
       "artist": "BTS",
       "title": "DNA",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 842,
+      "artist": "離婚伝説",
+      "title": "本日のおすすめ",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
@@ -88,7 +88,7 @@
       "track_id": 298,
       "artist": "BUMP OF CHICKEN",
       "title": "車輪の唄",
-      "movement": "↓4",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 6
     }

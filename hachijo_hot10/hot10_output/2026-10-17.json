@@ -58,39 +58,39 @@
     },
     {
       "rank": 7,
-      "track_id": 1021,
-      "artist": "スチャダラパー",
-      "title": "サマージャム’95",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
-      "rank": 8,
       "track_id": 1205,
       "artist": "Beyoncé",
       "title": "Crazy in Love",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 9,
-      "track_id": 572,
-      "artist": "BEGIN",
-      "title": "恋しくて",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 10,
+      "rank": 8,
       "track_id": 1219,
       "artist": "Ed Sheeran",
       "title": "Shape of You",
-      "movement": "↓2",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 16
+      "top10_streak": 15
+    },
+    {
+      "rank": 9,
+      "track_id": 1021,
+      "artist": "スチャダラパー",
+      "title": "サマージャム’95",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 10
+    },
+    {
+      "rank": 10,
+      "track_id": 1285,
+      "artist": "SEVENTEEN",
+      "title": "VERY NICE",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 6
     }
   ]
 }

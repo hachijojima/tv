@@ -45,10 +45,19 @@
       "title": "とびうおのうた",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 12
+      "top10_streak": 11
     },
     {
       "rank": 6,
+      "track_id": 1021,
+      "artist": "スチャダラパー",
+      "title": "サマージャム’95",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 7,
       "track_id": 541,
       "artist": "山崎まさよし",
       "title": "セロリ",
@@ -57,20 +66,11 @@
       "top10_streak": 2
     },
     {
-      "rank": 7,
+      "rank": 8,
       "track_id": 1482,
       "artist": "ZAZEN BOYS",
       "title": "半透明少女関係",
       "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 8,
-      "track_id": 471,
-      "artist": "TRF",
-      "title": "寒い夜だから…",
-      "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
@@ -85,12 +85,12 @@
     },
     {
       "rank": 10,
-      "track_id": 1261,
-      "artist": "Tiësto",
-      "title": "The Business",
-      "movement": "↓1",
+      "track_id": 839,
+      "artist": "Awesome City Club",
+      "title": "アウトサイダー",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
     }
   ]
 }

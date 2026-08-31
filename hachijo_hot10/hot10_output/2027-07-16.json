@@ -16,66 +16,57 @@
       "track_id": 585,
       "artist": "スピッツ",
       "title": "楓",
-      "movement": "↑7",
+      "movement": "↑5",
       "days_at_number_1": 0,
       "top10_streak": 15
     },
     {
       "rank": 3,
+      "track_id": 1240,
+      "artist": "Pharrell Williams",
+      "title": "Happy",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 9
+    },
+    {
+      "rank": 4,
       "track_id": 1476,
       "artist": "スチャダラパー",
       "title": "大人になっても",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 11
     },
     {
-      "rank": 4,
-      "track_id": 402,
-      "artist": "ROUND TABLE",
-      "title": "Every Every Every",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
       "rank": 5,
-      "track_id": 707,
-      "artist": "チューリップ",
-      "title": "心の旅",
-      "movement": "↓3",
+      "track_id": 1024,
+      "artist": "SUPER BUTTER DOG",
+      "title": "サヨナラCOLOR",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
       "rank": 6,
-      "track_id": 1240,
-      "artist": "Pharrell Williams",
-      "title": "Happy",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
-      "rank": 7,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
-      "rank": 8,
-      "track_id": 1024,
-      "artist": "SUPER BUTTER DOG",
-      "title": "サヨナラCOLOR",
-      "movement": "↑2",
+      "track_id": 707,
+      "artist": "チューリップ",
+      "title": "心の旅",
+      "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 9,
+      "rank": 7,
+      "track_id": 1589,
+      "artist": "Massive Attack",
+      "title": "Unfinished Sympathy",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
       "track_id": 1246,
       "artist": "David Guetta",
       "title": "Memories (feat. Kid Cudi)",
@@ -84,13 +75,22 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
-      "track_id": 1589,
-      "artist": "Massive Attack",
-      "title": "Unfinished Sympathy",
-      "movement": "RE",
+      "rank": 9,
+      "track_id": 428,
+      "artist": "My Little Lover",
+      "title": "DESTINY",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
+    },
+    {
+      "rank": 10,
+      "track_id": 1254,
+      "artist": "The Chainsmokers",
+      "title": "Closer (feat. Halsey)",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     }
   ]
 }

@@ -13,30 +13,30 @@
     },
     {
       "rank": 2,
-      "track_id": 1219,
-      "artist": "Ed Sheeran",
-      "title": "Shape of You",
-      "movement": "↑1",
+      "track_id": 1601,
+      "artist": "福島弘和",
+      "title": "吹奏楽のための「おじゃれ」",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 16
     },
     {
       "rank": 3,
+      "track_id": 1219,
+      "artist": "Ed Sheeran",
+      "title": "Shape of You",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 4,
       "track_id": 596,
       "artist": "globe",
       "title": "Can't Stop Fallin' in Love",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
-    },
-    {
-      "rank": 4,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 5
     },
     {
       "rank": 5,
@@ -58,39 +58,39 @@
     },
     {
       "rank": 7,
+      "track_id": 14,
+      "artist": "MIZ",
+      "title": "とびうおのうた",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 15
+    },
+    {
+      "rank": 8,
       "track_id": 1061,
       "artist": "Cyndi Lauper",
       "title": "Time After Time",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 8,
-      "track_id": 734,
-      "artist": "濱田金吾",
-      "title": "Midnight Cruisin'",
-      "movement": "↑2",
+      "rank": 9,
+      "track_id": 1598,
+      "artist": "天野花",
+      "title": "暁を泳いで",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 3
     },
     {
-      "rank": 9,
+      "rank": 10,
       "track_id": 1013,
       "artist": "The Police",
       "title": "Every Breath You Take",
       "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 2
-    },
-    {
-      "rank": 10,
-      "track_id": 1544,
-      "artist": "Cocco",
-      "title": "樹海の糸",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
     }
   ]
 }

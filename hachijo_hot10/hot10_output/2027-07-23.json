@@ -34,27 +34,27 @@
       "track_id": 348,
       "artist": "レミオロメン",
       "title": "電話",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 5,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 16
-    },
-    {
-      "rank": 6,
       "track_id": 1327,
       "artist": "Weezer",
       "title": "Buddy Holly",
-      "movement": "↑1",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
+    },
+    {
+      "rank": 6,
+      "track_id": 759,
+      "artist": "吉田美奈子",
+      "title": "TOWN",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 6
     },
     {
       "rank": 7,
@@ -67,6 +67,15 @@
     },
     {
       "rank": 8,
+      "track_id": 1252,
+      "artist": "Kygo",
+      "title": "Stole the Show (feat. Parson James)",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 9,
       "track_id": 883,
       "artist": "Vampire Weekend",
       "title": "A-Punk",
@@ -75,22 +84,13 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
+      "rank": 10,
       "track_id": 588,
       "artist": "THE YELLOW MONKEY",
       "title": "LOVE LOVE SHOW",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
-    },
-    {
-      "rank": 10,
-      "track_id": 1252,
-      "artist": "Kygo",
-      "title": "Stole the Show (feat. Parson James)",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 5
     }
   ]
 }

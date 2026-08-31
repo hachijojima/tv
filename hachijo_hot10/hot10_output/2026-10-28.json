@@ -4,33 +4,24 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 10,
-      "artist": "MIZ",
-      "title": "パジャマでハイウェイ",
-      "movement": "↑2",
-      "days_at_number_1": 1,
-      "top10_streak": 7
-    },
-    {
-      "rank": 2,
       "track_id": 489,
       "artist": "小泉今日子",
       "title": "あなたに会えてよかった",
-      "movement": "↓1",
-      "days_at_number_1": 0,
+      "movement": "→",
+      "days_at_number_1": 4,
       "top10_streak": 5
     },
     {
-      "rank": 3,
+      "rank": 2,
       "track_id": 1364,
       "artist": "Linkin Park",
       "title": "In the End",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 11
     },
     {
-      "rank": 4,
+      "rank": 3,
       "track_id": 1240,
       "artist": "Pharrell Williams",
       "title": "Happy",
@@ -39,7 +30,7 @@
       "top10_streak": 7
     },
     {
-      "rank": 5,
+      "rank": 4,
       "track_id": 1013,
       "artist": "The Police",
       "title": "Every Breath You Take",
@@ -48,22 +39,31 @@
       "top10_streak": 9
     },
     {
-      "rank": 6,
+      "rank": 5,
       "track_id": 482,
       "artist": "UNICORN",
       "title": "すばらしい日々",
-      "movement": "→",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 7,
+      "rank": 6,
       "track_id": 623,
       "artist": "細野晴臣",
       "title": "恋は桃色",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 7,
+      "track_id": 1589,
+      "artist": "Massive Attack",
+      "title": "Unfinished Sympathy",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
     },
     {
       "rank": 8,
@@ -76,21 +76,21 @@
     },
     {
       "rank": 9,
-      "track_id": 1589,
-      "artist": "Massive Attack",
-      "title": "Unfinished Sympathy",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 10,
       "track_id": 1253,
       "artist": "Martin Garrix",
       "title": "Animals",
       "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 3
+    },
+    {
+      "rank": 10,
+      "track_id": 1048,
+      "artist": "Ben E. King",
+      "title": "Stand By Me",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 6
     }
   ]
 }

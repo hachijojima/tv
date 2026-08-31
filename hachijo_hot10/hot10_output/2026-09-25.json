@@ -4,55 +4,55 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1394,
-      "artist": "GOING STEADY",
-      "title": "BABY BABY",
-      "movement": "↑1",
-      "days_at_number_1": 1,
-      "top10_streak": 3
+      "track_id": 1601,
+      "artist": "福島弘和",
+      "title": "吹奏楽のための「おじゃれ」",
+      "movement": "→",
+      "days_at_number_1": 5,
+      "top10_streak": 7
     },
     {
       "rank": 2,
-      "track_id": 348,
-      "artist": "レミオロメン",
-      "title": "電話",
-      "movement": "↓1",
+      "track_id": 14,
+      "artist": "MIZ",
+      "title": "とびうおのうた",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
     {
       "rank": 3,
-      "track_id": 12,
-      "artist": "MIZ",
-      "title": "丘",
-      "movement": "→",
+      "track_id": 1394,
+      "artist": "GOING STEADY",
+      "title": "BABY BABY",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 13
+      "top10_streak": 3
     },
     {
       "rank": 4,
-      "track_id": 1267,
-      "artist": "Eric Prydz",
-      "title": "Call on Me",
-      "movement": "↑6",
+      "track_id": 348,
+      "artist": "レミオロメン",
+      "title": "電話",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 5
     },
     {
       "rank": 5,
       "track_id": 548,
       "artist": "REBECCA",
       "title": "RASPBERRY DREAM",
-      "movement": "↑3",
+      "movement": "↑4",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 4
     },
     {
       "rank": 6,
       "track_id": 1040,
       "artist": "METAFIVE",
       "title": "環境と心理",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 10
     },
@@ -61,7 +61,7 @@
       "track_id": 636,
       "artist": "鈴木茂",
       "title": "砂の女",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 10
     },
@@ -70,25 +70,25 @@
       "track_id": 361,
       "artist": "ACIDMAN",
       "title": "造花が笑う",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
     {
       "rank": 9,
+      "track_id": 1267,
+      "artist": "Eric Prydz",
+      "title": "Call on Me",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
       "track_id": 580,
       "artist": "FIELD OF VIEW",
       "title": "Last Good-bye",
       "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 10,
-      "track_id": 1286,
-      "artist": "SEVENTEEN",
-      "title": "Super",
-      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 4
     }

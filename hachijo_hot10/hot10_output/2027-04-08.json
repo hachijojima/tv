@@ -7,8 +7,8 @@
       "track_id": 1072,
       "artist": "坂本龍一",
       "title": "Thousand Knives",
-      "movement": "↑1",
-      "days_at_number_1": 1,
+      "movement": "→",
+      "days_at_number_1": 4,
       "top10_streak": 4
     },
     {
@@ -16,9 +16,9 @@
       "track_id": 1061,
       "artist": "Cyndi Lauper",
       "title": "Time After Time",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 12
+      "top10_streak": 13
     },
     {
       "rank": 3,

@@ -7,7 +7,7 @@
       "track_id": 1247,
       "artist": "Swedish House Mafia",
       "title": "Don't You Worry Child",
-      "movement": "↑5",
+      "movement": "↑4",
       "days_at_number_1": 1,
       "top10_streak": 3
     },
@@ -16,7 +16,7 @@
       "track_id": 1288,
       "artist": "BIGBANG",
       "title": "FANTASTIC BABY",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -25,7 +25,7 @@
       "track_id": 541,
       "artist": "山崎まさよし",
       "title": "セロリ",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
@@ -61,7 +61,7 @@
       "track_id": 331,
       "artist": "ORIGINAL LOVE",
       "title": "朝日のあたる道 AS TIME GOES BY",
-      "movement": "↓2",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },

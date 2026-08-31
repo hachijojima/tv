@@ -4,24 +4,15 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 7,
-      "artist": "MONO NO AWARE",
-      "title": "ゾッコン",
-      "movement": "→",
-      "days_at_number_1": 3,
-      "top10_streak": 6
-    },
-    {
-      "rank": 2,
       "track_id": 1247,
       "artist": "Swedish House Mafia",
       "title": "Don't You Worry Child",
       "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 13
+      "days_at_number_1": 2,
+      "top10_streak": 15
     },
     {
-      "rank": 3,
+      "rank": 2,
       "track_id": 615,
       "artist": "米米CLUB",
       "title": "Shake Hip!",
@@ -30,22 +21,31 @@
       "top10_streak": 1
     },
     {
-      "rank": 4,
-      "track_id": 16,
-      "artist": "MIZ",
-      "title": "暑中見舞い",
+      "rank": 3,
+      "track_id": 1327,
+      "artist": "Weezer",
+      "title": "Buddy Holly",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 2
     },
     {
-      "rank": 5,
+      "rank": 4,
       "track_id": 762,
       "artist": "ティン・パン・アレー",
       "title": "北京ダック",
-      "movement": "↑4",
+      "movement": "↑5",
       "days_at_number_1": 0,
       "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 16,
+      "artist": "MIZ",
+      "title": "暑中見舞い",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     },
     {
       "rank": 6,
@@ -58,12 +58,12 @@
     },
     {
       "rank": 7,
-      "track_id": 1327,
-      "artist": "Weezer",
-      "title": "Buddy Holly",
+      "track_id": 7,
+      "artist": "MONO NO AWARE",
+      "title": "ゾッコン",
       "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 4
     },
     {
       "rank": 8,
@@ -76,21 +76,21 @@
     },
     {
       "rank": 9,
-      "track_id": 611,
-      "artist": "PRINCESS PRINCESS",
-      "title": "世界でいちばん熱い夏",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 10,
       "track_id": 1089,
       "artist": "The Beatles",
       "title": "Let It Be",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 611,
+      "artist": "PRINCESS PRINCESS",
+      "title": "世界でいちばん熱い夏",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     }
   ]
 }

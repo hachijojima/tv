@@ -9,7 +9,7 @@
       "title": "In the End",
       "movement": "→",
       "days_at_number_1": 2,
-      "top10_streak": 8
+      "top10_streak": 7
     },
     {
       "rank": 2,
@@ -34,7 +34,7 @@
       "track_id": 496,
       "artist": "宇多田ヒカル",
       "title": "Automatic",
-      "movement": "↑3",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
@@ -85,12 +85,12 @@
     },
     {
       "rank": 10,
-      "track_id": 102,
-      "artist": "BREIMEN",
-      "title": "IWBYL",
-      "movement": "↓4",
+      "track_id": 466,
+      "artist": "GLAY",
+      "title": "BELOVED",
+      "movement": "RE",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
     }
   ]
 }

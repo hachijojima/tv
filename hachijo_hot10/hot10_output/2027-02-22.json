@@ -4,33 +4,15 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 7,
-      "artist": "MONO NO AWARE",
-      "title": "ゾッコン",
-      "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 5
-    },
-    {
-      "rank": 2,
       "track_id": 1247,
       "artist": "Swedish House Mafia",
       "title": "Don't You Worry Child",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 12
-    },
-    {
-      "rank": 3,
-      "track_id": 16,
-      "artist": "MIZ",
-      "title": "暑中見舞い",
       "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
+      "days_at_number_1": 1,
+      "top10_streak": 14
     },
     {
-      "rank": 4,
+      "rank": 2,
       "track_id": 1327,
       "artist": "Weezer",
       "title": "Buddy Holly",
@@ -39,16 +21,43 @@
       "top10_streak": 1
     },
     {
+      "rank": 3,
+      "track_id": 16,
+      "artist": "MIZ",
+      "title": "暑中見舞い",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 4,
+      "track_id": 7,
+      "artist": "MONO NO AWARE",
+      "title": "ゾッコン",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
       "rank": 5,
       "track_id": 1242,
       "artist": "Avicii",
       "title": "Levels",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
       "rank": 6,
+      "track_id": 519,
+      "artist": "DEEN",
+      "title": "瞳そらさないで",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 7,
       "track_id": 611,
       "artist": "PRINCESS PRINCESS",
       "title": "世界でいちばん熱い夏",
@@ -57,20 +66,11 @@
       "top10_streak": 1
     },
     {
-      "rank": 7,
-      "track_id": 519,
-      "artist": "DEEN",
-      "title": "瞳そらさないで",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
       "rank": 8,
       "track_id": 1013,
       "artist": "The Police",
       "title": "Every Breath You Take",
-      "movement": "↓6",
+      "movement": "↓7",
       "days_at_number_1": 0,
       "top10_streak": 13
     },
@@ -88,7 +88,7 @@
       "track_id": 1275,
       "artist": "TWICE",
       "title": "TT",
-      "movement": "NEW",
+      "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

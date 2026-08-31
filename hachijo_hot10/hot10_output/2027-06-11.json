@@ -7,21 +7,12 @@
       "track_id": 568,
       "artist": "椎名林檎",
       "title": "本能",
-      "movement": "↑1",
-      "days_at_number_1": 1,
+      "movement": "→",
+      "days_at_number_1": 2,
       "top10_streak": 5
     },
     {
       "rank": 2,
-      "track_id": 19,
-      "artist": "MONO NO AWARE",
-      "title": "幽霊船",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 10
-    },
-    {
-      "rank": 3,
       "track_id": 1011,
       "artist": "Underworld",
       "title": "Born Slippy (Nuxx)",
@@ -30,7 +21,7 @@
       "top10_streak": 9
     },
     {
-      "rank": 4,
+      "rank": 3,
       "track_id": 228,
       "artist": "スカート",
       "title": "ストーリー",
@@ -39,34 +30,25 @@
       "top10_streak": 1
     },
     {
+      "rank": 4,
+      "track_id": 19,
+      "artist": "MONO NO AWARE",
+      "title": "幽霊船",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
       "rank": 5,
       "track_id": 1061,
       "artist": "Cyndi Lauper",
       "title": "Time After Time",
-      "movement": "↓2",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 7
     },
     {
       "rank": 6,
-      "track_id": 1541,
-      "artist": "Cocco",
-      "title": "カウントダウン",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 7,
-      "track_id": 10,
-      "artist": "MIZ",
-      "title": "パジャマでハイウェイ",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 8,
       "track_id": 1066,
       "artist": "Nujabes",
       "title": "Luv(sic.) pt3 (feat. Shing02)",
@@ -75,22 +57,40 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
-      "track_id": 1306,
-      "artist": "鼓童",
-      "title": "族",
-      "movement": "↓4",
+      "rank": 7,
+      "track_id": 1044,
+      "artist": "The Jackson 5",
+      "title": "I Want You Back",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 10,
-      "track_id": 1044,
-      "artist": "The Jackson 5",
-      "title": "I Want You Back",
-      "movement": "↓2",
+      "rank": 8,
+      "track_id": 1306,
+      "artist": "鼓童",
+      "title": "族",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 2
+    },
+    {
+      "rank": 9,
+      "track_id": 1541,
+      "artist": "Cocco",
+      "title": "カウントダウン",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1013,
+      "artist": "The Police",
+      "title": "Every Breath You Take",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 5
     }
   ]
 }

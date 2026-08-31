@@ -4,21 +4,21 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "↑3",
-      "days_at_number_1": 1,
-      "top10_streak": 3
-    },
-    {
-      "rank": 2,
       "track_id": 1006,
       "artist": "NewJeans",
       "title": "Ditto",
       "movement": "NEW",
-      "days_at_number_1": 0,
+      "days_at_number_1": 1,
       "top10_streak": 1
+    },
+    {
+      "rank": 2,
+      "track_id": 14,
+      "artist": "MIZ",
+      "title": "とびうおのうた",
+      "movement": "↑7",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     },
     {
       "rank": 3,
@@ -31,21 +31,21 @@
     },
     {
       "rank": 4,
-      "track_id": 7,
-      "artist": "MONO NO AWARE",
-      "title": "ゾッコン",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 5,
       "track_id": 377,
       "artist": "Fishmans",
       "title": "ナイトクルージング",
-      "movement": "↓3",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 3
+    },
+    {
+      "rank": 5,
+      "track_id": 1011,
+      "artist": "Underworld",
+      "title": "Born Slippy (Nuxx)",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 9
     },
     {
       "rank": 6,
@@ -58,12 +58,12 @@
     },
     {
       "rank": 7,
-      "track_id": 1011,
-      "artist": "Underworld",
-      "title": "Born Slippy (Nuxx)",
-      "movement": "↑2",
+      "track_id": 7,
+      "artist": "MONO NO AWARE",
+      "title": "ゾッコン",
+      "movement": "RE",
       "days_at_number_1": 0,
-      "top10_streak": 9
+      "top10_streak": 1
     },
     {
       "rank": 8,
@@ -76,21 +76,21 @@
     },
     {
       "rank": 9,
-      "track_id": 1375,
-      "artist": "Soundgarden",
-      "title": "Black Hole Sun",
-      "movement": "↓6",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 10,
       "track_id": 1229,
       "artist": "Harry Styles",
       "title": "As It Was",
-      "movement": "↓4",
+      "movement": "↓5",
       "days_at_number_1": 0,
       "top10_streak": 3
+    },
+    {
+      "rank": 10,
+      "track_id": 1375,
+      "artist": "Soundgarden",
+      "title": "Black Hole Sun",
+      "movement": "↓7",
+      "days_at_number_1": 0,
+      "top10_streak": 5
     }
   ]
 }

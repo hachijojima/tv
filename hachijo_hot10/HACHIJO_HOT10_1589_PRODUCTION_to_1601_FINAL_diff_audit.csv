@@ -1,0 +1,33 @@
+scope,track_id,artist,title,field,from_value,to_value,classification
+existing,1,MONO NO AWARE,東京,base_strength,88,84,final_mono_minus4
+existing,2,MIZ,パレード,base_strength,81,79,final_miz_minus2
+existing,3,MONO NO AWARE,イワンコッチャナイ,base_strength,79,75,final_mono_minus4
+existing,4,MIZ,空砲,base_strength,84,82,final_miz_minus2
+existing,5,MONO NO AWARE,かむかもしかもにどもかも！,base_strength,79,75,final_mono_minus4
+existing,6,MIZ,夏がきたら,base_strength,83,81,final_miz_minus2
+existing,7,MONO NO AWARE,ゾッコン,base_strength,88,84,final_mono_minus4
+existing,8,MIZ,君に会った日は,base_strength,83,81,final_miz_minus2
+existing,9,MONO NO AWARE,そこにあったから,base_strength,84,80,final_mono_minus4
+existing,10,MIZ,パジャマでハイウェイ,base_strength,87,85,final_miz_minus2
+existing,11,MONO NO AWARE,異邦人,base_strength,87,83,final_mono_minus4
+existing,12,MIZ,丘,base_strength,80,78,final_miz_minus2
+existing,13,MONO NO AWARE,孤独になってみたい,base_strength,79,75,final_mono_minus4
+existing,14,MIZ,とびうおのうた,base_strength,85,83,final_miz_minus2
+existing,15,MONO NO AWARE,もうけもん,base_strength,83,79,final_mono_minus4
+existing,16,MIZ,暑中見舞い,base_strength,82,80,final_miz_minus2
+existing,17,MONO NO AWARE,風の向きが変わって,base_strength,84,80,final_mono_minus4
+existing,18,MONO NO AWARE,アングル,base_strength,87,83,final_mono_minus4
+existing,19,MONO NO AWARE,幽霊船,base_strength,87,83,final_mono_minus4
+existing,20,MONO NO AWARE,水が湧いた,base_strength,86,82,final_mono_minus4
+appended,1590,,,,,new_track
+appended,1591,,,,,new_track
+appended,1592,,,,,new_track
+appended,1593,,,,,new_track
+appended,1594,,,,,new_track
+appended,1595,,,,,new_track
+appended,1596,,,,,new_track
+appended,1597,,,,,new_track
+appended,1598,,,,,new_track
+appended,1599,,,,,new_track
+appended,1600,,,,,new_track
+appended,1601,,,,,new_track

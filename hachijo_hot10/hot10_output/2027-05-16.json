@@ -7,7 +7,7 @@
       "track_id": 454,
       "artist": "爆風スランプ",
       "title": "Runner",
-      "movement": "↑2",
+      "movement": "↑3",
       "days_at_number_1": 1,
       "top10_streak": 3
     },
@@ -16,7 +16,7 @@
       "track_id": 1364,
       "artist": "Linkin Park",
       "title": "In the End",
-      "movement": "↑3",
+      "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 7
     },
@@ -31,15 +31,42 @@
     },
     {
       "rank": 4,
+      "track_id": 441,
+      "artist": "チャットモンチー",
+      "title": "恋愛スピリッツ",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 5,
+      "track_id": 1375,
+      "artist": "Soundgarden",
+      "title": "Black Hole Sun",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 6,
       "track_id": 1275,
       "artist": "TWICE",
       "title": "TT",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 5,
+      "rank": 7,
+      "track_id": 1594,
+      "artist": "團伊玖磨",
+      "title": "オリンピック序曲",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 14
+    },
+    {
+      "rank": 8,
       "track_id": 18,
       "artist": "MONO NO AWARE",
       "title": "アングル",
@@ -48,38 +75,11 @@
       "top10_streak": 1
     },
     {
-      "rank": 6,
-      "track_id": 441,
-      "artist": "チャットモンチー",
-      "title": "恋愛スピリッツ",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 7,
-      "track_id": 1375,
-      "artist": "Soundgarden",
-      "title": "Black Hole Sun",
-      "movement": "↓5",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 8,
-      "track_id": 1228,
-      "artist": "Maroon 5",
-      "title": "Sugar",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
       "rank": 9,
       "track_id": 573,
       "artist": "THE BOOM",
       "title": "風になりたい",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 12
     },

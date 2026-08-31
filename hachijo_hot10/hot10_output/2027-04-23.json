@@ -7,7 +7,7 @@
       "track_id": 1090,
       "artist": "The Beatles",
       "title": "Strawberry Fields Forever",
-      "movement": "↑6",
+      "movement": "↑5",
       "days_at_number_1": 1,
       "top10_streak": 5
     },
@@ -36,7 +36,7 @@
       "title": "とびうおのうた",
       "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 11
+      "top10_streak": 10
     },
     {
       "rank": 5,
@@ -49,30 +49,30 @@
     },
     {
       "rank": 6,
-      "track_id": 7,
-      "artist": "MONO NO AWARE",
-      "title": "ゾッコン",
-      "movement": "↓1",
+      "track_id": 1021,
+      "artist": "スチャダラパー",
+      "title": "サマージャム’95",
+      "movement": "↑4",
       "days_at_number_1": 0,
-      "top10_streak": 9
+      "top10_streak": 2
     },
     {
       "rank": 7,
-      "track_id": 541,
-      "artist": "山崎まさよし",
-      "title": "セロリ",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 8,
       "track_id": 369,
       "artist": "bonobos",
       "title": "Beautiful",
       "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 4
+    },
+    {
+      "rank": 8,
+      "track_id": 541,
+      "artist": "山崎まさよし",
+      "title": "セロリ",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     },
     {
       "rank": 9,

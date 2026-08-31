@@ -22,15 +22,6 @@
     },
     {
       "rank": 3,
-      "track_id": 2,
-      "artist": "MIZ",
-      "title": "パレード",
-      "movement": "↑6",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 4,
       "track_id": 1240,
       "artist": "Pharrell Williams",
       "title": "Happy",
@@ -39,56 +30,65 @@
       "top10_streak": 1
     },
     {
-      "rank": 5,
+      "rank": 4,
       "track_id": 259,
       "artist": "ドミコ",
       "title": "ペーパーロールスター",
-      "movement": "↓3",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 6,
+      "rank": 5,
       "track_id": 762,
       "artist": "ティン・パン・アレー",
       "title": "北京ダック",
-      "movement": "↓3",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 13
+    },
+    {
+      "rank": 6,
+      "track_id": 287,
+      "artist": "Fishmans",
+      "title": "いかれたBaby",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     },
     {
       "rank": 7,
       "track_id": 1584,
       "artist": "Elliott Smith",
       "title": "Between the Bars",
-      "movement": "↑1",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 13
     },
     {
       "rank": 8,
-      "track_id": 287,
-      "artist": "Fishmans",
-      "title": "いかれたBaby",
-      "movement": "↓1",
+      "track_id": 1247,
+      "artist": "Swedish House Mafia",
+      "title": "Don't You Worry Child",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 6
     },
     {
       "rank": 9,
-      "track_id": 500,
-      "artist": "モーニング娘。",
-      "title": "LOVEマシーン",
+      "track_id": 2,
+      "artist": "MIZ",
+      "title": "パレード",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 839,
-      "artist": "Awesome City Club",
-      "title": "アウトサイダー",
-      "movement": "NEW",
+      "track_id": 500,
+      "artist": "モーニング娘。",
+      "title": "LOVEマシーン",
+      "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

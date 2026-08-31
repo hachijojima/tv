@@ -22,21 +22,21 @@
     },
     {
       "rank": 3,
-      "track_id": 603,
-      "artist": "山崎まさよし",
-      "title": "僕はここにいる",
-      "movement": "↑7",
+      "track_id": 1594,
+      "artist": "團伊玖磨",
+      "title": "オリンピック序曲",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 6
     },
     {
       "rank": 4,
-      "track_id": 566,
-      "artist": "the brilliant green",
-      "title": "冷たい花",
-      "movement": "↑1",
+      "track_id": 603,
+      "artist": "山崎まさよし",
+      "title": "僕はここにいる",
+      "movement": "↑5",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 2
     },
     {
       "rank": 5,
@@ -85,12 +85,12 @@
     },
     {
       "rank": 10,
-      "track_id": 1023,
-      "artist": "Carpenters",
-      "title": "(They Long To Be) Close To You",
-      "movement": "↓3",
+      "track_id": 566,
+      "artist": "the brilliant green",
+      "title": "冷たい花",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 16
+      "top10_streak": 2
     }
   ]
 }

@@ -7,7 +7,7 @@
       "track_id": 1542,
       "artist": "Cocco",
       "title": "強く儚い者たち",
-      "movement": "↑2",
+      "movement": "↑1",
       "days_at_number_1": 1,
       "top10_streak": 3
     },
@@ -25,9 +25,9 @@
       "track_id": 7,
       "artist": "MONO NO AWARE",
       "title": "ゾッコン",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 15
+      "top10_streak": 13
     },
     {
       "rank": 4,
@@ -49,12 +49,12 @@
     },
     {
       "rank": 6,
-      "track_id": 1315,
+      "track_id": 1014,
       "artist": "Nirvana",
-      "title": "Come As You Are",
-      "movement": "NEW",
+      "title": "Smells Like Teen Spirit",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     },
     {
       "rank": 7,

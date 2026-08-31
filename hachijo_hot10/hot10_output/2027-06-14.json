@@ -9,7 +9,7 @@
       "title": "幽霊船",
       "movement": "→",
       "days_at_number_1": 2,
-      "top10_streak": 13
+      "top10_streak": 7
     },
     {
       "rank": 2,
@@ -25,54 +25,54 @@
       "track_id": 1011,
       "artist": "Underworld",
       "title": "Born Slippy (Nuxx)",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 12
     },
     {
       "rank": 4,
+      "track_id": 1013,
+      "artist": "The Police",
+      "title": "Every Breath You Take",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 5,
       "track_id": 1541,
       "artist": "Cocco",
       "title": "カウントダウン",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 4
     },
     {
-      "rank": 5,
+      "rank": 6,
       "track_id": 1507,
       "artist": "じゃがたら",
       "title": "タンゴ",
-      "movement": "↑4",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 6,
-      "track_id": 1061,
-      "artist": "Cyndi Lauper",
-      "title": "Time After Time",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 10
-    },
-    {
       "rank": 7,
-      "track_id": 10,
-      "artist": "MIZ",
-      "title": "パジャマでハイウェイ",
-      "movement": "↓1",
+      "track_id": 1315,
+      "artist": "Nirvana",
+      "title": "Come As You Are",
+      "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 8
+      "top10_streak": 2
     },
     {
       "rank": 8,
-      "track_id": 1589,
-      "artist": "Massive Attack",
-      "title": "Unfinished Sympathy",
-      "movement": "↑2",
+      "track_id": 1061,
+      "artist": "Cyndi Lauper",
+      "title": "Time After Time",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 10
     },
     {
       "rank": 9,
@@ -85,12 +85,12 @@
     },
     {
       "rank": 10,
-      "track_id": 1315,
-      "artist": "Nirvana",
-      "title": "Come As You Are",
-      "movement": "RE",
+      "track_id": 228,
+      "artist": "スカート",
+      "title": "ストーリー",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 4
     }
   ]
 }

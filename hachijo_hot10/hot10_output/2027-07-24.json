@@ -34,7 +34,7 @@
       "track_id": 1327,
       "artist": "Weezer",
       "title": "Buddy Holly",
-      "movement": "↑2",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
@@ -58,12 +58,12 @@
     },
     {
       "rank": 7,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "↓2",
+      "track_id": 759,
+      "artist": "吉田美奈子",
+      "title": "TOWN",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 17
+      "top10_streak": 7
     },
     {
       "rank": 8,
@@ -88,7 +88,7 @@
       "track_id": 42,
       "artist": "D.A.N.",
       "title": "Native Dancer",
-      "movement": "RE",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

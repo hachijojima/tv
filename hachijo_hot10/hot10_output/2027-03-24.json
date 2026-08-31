@@ -22,21 +22,21 @@
     },
     {
       "rank": 3,
-      "track_id": 459,
-      "artist": "B'z",
-      "title": "ALONE",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 4,
       "track_id": 1204,
       "artist": "Rihanna",
       "title": "We Found Love",
       "movement": "↑5",
       "days_at_number_1": 0,
       "top10_streak": 2
+    },
+    {
+      "rank": 4,
+      "track_id": 1241,
+      "artist": "Avicii",
+      "title": "Wake Me Up",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 6
     },
     {
       "rank": 5,
@@ -67,30 +67,30 @@
     },
     {
       "rank": 8,
-      "track_id": 1241,
-      "artist": "Avicii",
-      "title": "Wake Me Up",
-      "movement": "↓3",
+      "track_id": 459,
+      "artist": "B'z",
+      "title": "ALONE",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 2
     },
     {
       "rank": 9,
+      "track_id": 489,
+      "artist": "小泉今日子",
+      "title": "あなたに会えてよかった",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 10,
       "track_id": 18,
       "artist": "MONO NO AWARE",
       "title": "アングル",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
-    },
-    {
-      "rank": 10,
-      "track_id": 489,
-      "artist": "小泉今日子",
-      "title": "あなたに会えてよかった",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 5
     }
   ]
 }

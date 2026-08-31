@@ -7,8 +7,8 @@
       "track_id": 1006,
       "artist": "NewJeans",
       "title": "Ditto",
-      "movement": "↑1",
-      "days_at_number_1": 1,
+      "movement": "→",
+      "days_at_number_1": 2,
       "top10_streak": 2
     },
     {
@@ -16,9 +16,9 @@
       "track_id": 14,
       "artist": "MIZ",
       "title": "とびうおのうた",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 3
     },
     {
       "rank": 3,
@@ -40,21 +40,21 @@
     },
     {
       "rank": 5,
-      "track_id": 7,
-      "artist": "MONO NO AWARE",
-      "title": "ゾッコン",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 6,
       "track_id": 541,
       "artist": "山崎まさよし",
       "title": "セロリ",
-      "movement": "↓3",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 11
+    },
+    {
+      "rank": 6,
+      "track_id": 7,
+      "artist": "MONO NO AWARE",
+      "title": "ゾッコン",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     },
     {
       "rank": 7,
@@ -70,7 +70,7 @@
       "track_id": 377,
       "artist": "Fishmans",
       "title": "ナイトクルージング",
-      "movement": "↓3",
+      "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
@@ -79,15 +79,15 @@
       "track_id": 1011,
       "artist": "Underworld",
       "title": "Born Slippy (Nuxx)",
-      "movement": "↓2",
+      "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 10
     },
     {
       "rank": 10,
-      "track_id": 452,
-      "artist": "大黒摩季",
-      "title": "ら・ら・ら",
+      "track_id": 1601,
+      "artist": "福島弘和",
+      "title": "吹奏楽のための「おじゃれ」",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1

@@ -12,6 +12,7 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 import hot10
+import migrate_state_1601
 
 
 def summary(charts):
@@ -36,8 +37,8 @@ class Hot10ProductionTests(unittest.TestCase):
         cls.legacy_tracks = hot10.load_tracks(hot10.ROOT / "HACHIJO_HOT10_master_1389_F41_input.csv", 1389)
 
     def test_master_schema_and_ids(self):
-        self.assertEqual(len(self.tracks), 1589)
-        self.assertEqual({track["track_id"] for track in self.tracks}, set(range(1, 1590)))
+        self.assertEqual(len(self.tracks), 1601)
+        self.assertEqual({track["track_id"] for track in self.tracks}, set(range(1, 1602)))
         self.assertTrue(all(track["enabled"] in (0, 1) for track in self.tracks))
         self.assertTrue(all(0 <= track[field] <= 100 for track in self.tracks for field in hot10.SCORE_COLUMNS))
 
@@ -90,6 +91,27 @@ class Hot10ProductionTests(unittest.TestCase):
         original = copy.deepcopy(state)
         hot10.simulate(14, 20260826, self.tracks, self.config, datetime(2026, 8, 26).date())
         self.assertEqual(state, original)
+
+    def test_1601_state_migration_preserves_existing_production_state(self):
+        legacy_tracks = hot10.load_tracks(
+            hot10.ROOT / "HACHIJO_HOT10_master_1589_F41_MICROTUNE.csv", 1589
+        )
+        before = hot10.initial_state(legacy_tracks, self.config)
+        before["last_generated_chart_date"] = "2026-08-30"
+        before["mood"]["emo"] = 1.25
+        before["tracks"]["1"]["heat"] = 2.5
+        snapshot = copy.deepcopy(before)
+        after = migrate_state_1601.migrate_state(before)
+        self.assertEqual(before, snapshot)
+        self.assertEqual(after["version"], snapshot["version"])
+        self.assertEqual(after["last_generated_chart_date"], snapshot["last_generated_chart_date"])
+        self.assertEqual(after["mood"], snapshot["mood"])
+        self.assertEqual(
+            {key: after["tracks"][key] for key in map(str, range(1, 1590))},
+            snapshot["tracks"],
+        )
+        self.assertEqual(set(after["tracks"]), {str(value) for value in range(1, 1602)})
+        self.assertTrue(all(after["tracks"][str(value)] == hot10.blank_track_state() for value in range(1590, 1602)))
 
     def test_today_idempotence_and_atomic_outputs(self):
         with tempfile.TemporaryDirectory() as directory:

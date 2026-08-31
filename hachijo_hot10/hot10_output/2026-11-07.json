@@ -67,30 +67,30 @@
     },
     {
       "rank": 8,
-      "track_id": 15,
-      "artist": "MONO NO AWARE",
-      "title": "もうけもん",
-      "movement": "NEW",
+      "track_id": 1227,
+      "artist": "OneRepublic",
+      "title": "Counting Stars",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 4
     },
     {
       "rank": 9,
+      "track_id": 1068,
+      "artist": "Simon & Garfunkel",
+      "title": "Bridge Over Troubled Water",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 10,
       "track_id": 16,
       "artist": "MIZ",
       "title": "暑中見舞い",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
-    },
-    {
-      "rank": 10,
-      "track_id": 1227,
-      "artist": "OneRepublic",
-      "title": "Counting Stars",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 4
     }
   ]
 }

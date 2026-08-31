@@ -16,25 +16,25 @@
       "track_id": 799,
       "artist": "チャラン・ポ・ランタン",
       "title": "進め、たまに逃げても",
-      "movement": "↑1",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 3,
-      "track_id": 471,
-      "artist": "TRF",
-      "title": "寒い夜だから…",
-      "movement": "↑1",
+      "track_id": 1021,
+      "artist": "スチャダラパー",
+      "title": "サマージャム’95",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 6
     },
     {
       "rank": 4,
       "track_id": 1542,
       "artist": "Cocco",
       "title": "強く儚い者たち",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
@@ -58,15 +58,6 @@
     },
     {
       "rank": 7,
-      "track_id": 1021,
-      "artist": "スチャダラパー",
-      "title": "サマージャム’95",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 8,
       "track_id": 1073,
       "artist": "東京事変",
       "title": "透明人間",
@@ -75,7 +66,7 @@
       "top10_streak": 7
     },
     {
-      "rank": 9,
+      "rank": 8,
       "track_id": 509,
       "artist": "夏川りみ",
       "title": "涙そうそう",
@@ -84,11 +75,20 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
+      "rank": 9,
       "track_id": 1244,
       "artist": "Calvin Harris",
       "title": "Feel So Close",
       "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 533,
+      "artist": "TRF",
+      "title": "survival dAnce ～no no cry more～",
+      "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

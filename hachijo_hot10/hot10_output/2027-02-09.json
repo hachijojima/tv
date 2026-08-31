@@ -22,21 +22,21 @@
     },
     {
       "rank": 3,
-      "track_id": 19,
-      "artist": "MONO NO AWARE",
-      "title": "幽霊船",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 4,
       "track_id": 829,
       "artist": "Mrs. GREEN APPLE",
       "title": "僕のこと",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 8
+    },
+    {
+      "rank": 4,
+      "track_id": 19,
+      "artist": "MONO NO AWARE",
+      "title": "幽霊船",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
     },
     {
       "rank": 5,
@@ -85,12 +85,12 @@
     },
     {
       "rank": 10,
-      "track_id": 1543,
-      "artist": "Cocco",
-      "title": "Raining",
-      "movement": "↓3",
+      "track_id": 1247,
+      "artist": "Swedish House Mafia",
+      "title": "Don't You Worry Child",
+      "movement": "RE",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 1
     }
   ]
 }

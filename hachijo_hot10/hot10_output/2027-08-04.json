@@ -43,7 +43,7 @@
       "track_id": 1569,
       "artist": "My Bloody Valentine",
       "title": "You Made Me Realise",
-      "movement": "↑3",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -85,12 +85,12 @@
     },
     {
       "rank": 10,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "↓3",
+      "track_id": 1305,
+      "artist": "鼓童",
+      "title": "凰（おおとり）",
+      "movement": "RE",
       "days_at_number_1": 0,
-      "top10_streak": 8
+      "top10_streak": 1
     }
   ]
 }

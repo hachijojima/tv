@@ -13,6 +13,15 @@
     },
     {
       "rank": 2,
+      "track_id": 533,
+      "artist": "TRF",
+      "title": "survival dAnce ～no no cry more～",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 3,
       "track_id": 1541,
       "artist": "Cocco",
       "title": "カウントダウン",
@@ -21,40 +30,31 @@
       "top10_streak": 9
     },
     {
-      "rank": 3,
-      "track_id": 533,
-      "artist": "TRF",
-      "title": "survival dAnce ～no no cry more～",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
       "rank": 4,
-      "track_id": 1035,
-      "artist": "Queen",
-      "title": "Don’t Stop Me Now",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 5,
-      "track_id": 4,
-      "artist": "MIZ",
-      "title": "空砲",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 6,
       "track_id": 601,
       "artist": "KAN",
       "title": "言えずのI LOVE YOU",
-      "movement": "RE",
+      "movement": "↑6",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 1035,
+      "artist": "Queen",
+      "title": "Don’t Stop Me Now",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 6,
+      "track_id": 20,
+      "artist": "MONO NO AWARE",
+      "title": "水が湧いた",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     },
     {
       "rank": 7,
@@ -67,12 +67,12 @@
     },
     {
       "rank": 8,
-      "track_id": 1028,
-      "artist": "Kendrick Lamar",
-      "title": "Alright",
-      "movement": "↓4",
+      "track_id": 4,
+      "artist": "MIZ",
+      "title": "空砲",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 10
+      "top10_streak": 5
     },
     {
       "rank": 9,
@@ -85,12 +85,12 @@
     },
     {
       "rank": 10,
-      "track_id": 1046,
-      "artist": "星野源",
-      "title": "不思議",
-      "movement": "↓1",
+      "track_id": 1594,
+      "artist": "團伊玖磨",
+      "title": "オリンピック序曲",
+      "movement": "↓5",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 8
     }
   ]
 }

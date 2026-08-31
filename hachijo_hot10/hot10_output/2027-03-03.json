@@ -13,21 +13,21 @@
     },
     {
       "rank": 2,
+      "track_id": 1542,
+      "artist": "Cocco",
+      "title": "強く儚い者たち",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 3,
       "track_id": 7,
       "artist": "MONO NO AWARE",
       "title": "ゾッコン",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 14
-    },
-    {
-      "rank": 3,
-      "track_id": 1542,
-      "artist": "Cocco",
-      "title": "強く儚い者たち",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 12
     },
     {
       "rank": 4,
@@ -52,7 +52,7 @@
       "track_id": 615,
       "artist": "米米CLUB",
       "title": "Shake Hip!",
-      "movement": "↓3",
+      "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 9
     },

@@ -22,21 +22,21 @@
     },
     {
       "rank": 3,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 4,
       "track_id": 1395,
       "artist": "GOING STEADY",
       "title": "銀河鉄道の夜",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 12
+    },
+    {
+      "rank": 4,
+      "track_id": 14,
+      "artist": "MIZ",
+      "title": "とびうおのうた",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 5
     },
     {
       "rank": 5,

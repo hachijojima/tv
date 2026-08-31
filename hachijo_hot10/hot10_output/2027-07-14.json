@@ -40,21 +40,21 @@
     },
     {
       "rank": 5,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 6,
       "track_id": 1240,
       "artist": "Pharrell Williams",
       "title": "Happy",
       "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 7
+    },
+    {
+      "rank": 6,
+      "track_id": 1591,
+      "artist": "稲田カエ",
+      "title": "八丈太鼓囃し",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     },
     {
       "rank": 7,
@@ -70,7 +70,7 @@
       "track_id": 1024,
       "artist": "SUPER BUTTER DOG",
       "title": "サヨナラCOLOR",
-      "movement": "↑1",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -85,12 +85,12 @@
     },
     {
       "rank": 10,
-      "track_id": 402,
-      "artist": "ROUND TABLE",
-      "title": "Every Every Every",
-      "movement": "NEW",
+      "track_id": 14,
+      "artist": "MIZ",
+      "title": "とびうおのうた",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 7
     }
   ]
 }

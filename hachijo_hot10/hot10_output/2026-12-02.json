@@ -4,21 +4,21 @@
   "chart": [
     {
       "rank": 1,
+      "track_id": 1441,
+      "artist": "BLANKEY JET CITY",
+      "title": "ガソリンの揺れかた",
+      "movement": "→",
+      "days_at_number_1": 4,
+      "top10_streak": 7
+    },
+    {
+      "rank": 2,
       "track_id": 4,
       "artist": "MIZ",
       "title": "空砲",
       "movement": "↑1",
-      "days_at_number_1": 1,
-      "top10_streak": 10
-    },
-    {
-      "rank": 2,
-      "track_id": 1441,
-      "artist": "BLANKEY JET CITY",
-      "title": "ガソリンの揺れかた",
-      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 9
     },
     {
       "rank": 3,
@@ -34,21 +34,12 @@
       "track_id": 1011,
       "artist": "Underworld",
       "title": "Born Slippy (Nuxx)",
-      "movement": "↑3",
+      "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 5,
-      "track_id": 1305,
-      "artist": "鼓童",
-      "title": "凰（おおとり）",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 6,
       "track_id": 1225,
       "artist": "Sia",
       "title": "Chandelier",
@@ -57,20 +48,29 @@
       "top10_streak": 1
     },
     {
-      "rank": 7,
-      "track_id": 19,
-      "artist": "MONO NO AWARE",
-      "title": "幽霊船",
-      "movement": "↓2",
+      "rank": 6,
+      "track_id": 1305,
+      "artist": "鼓童",
+      "title": "凰（おおとり）",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 16
+      "top10_streak": 3
+    },
+    {
+      "rank": 7,
+      "track_id": 1205,
+      "artist": "Beyoncé",
+      "title": "Crazy in Love",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     },
     {
       "rank": 8,
       "track_id": 937,
       "artist": "Alvvays",
       "title": "Archie, Marry Me",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
@@ -79,18 +79,18 @@
       "track_id": 1353,
       "artist": "Manic Street Preachers",
       "title": "If You Tolerate This Your Children Will Be Next",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 10,
-      "track_id": 1205,
-      "artist": "Beyoncé",
-      "title": "Crazy in Love",
-      "movement": "↓7",
+      "track_id": 1024,
+      "artist": "SUPER BUTTER DOG",
+      "title": "サヨナラCOLOR",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 1
     }
   ]
 }

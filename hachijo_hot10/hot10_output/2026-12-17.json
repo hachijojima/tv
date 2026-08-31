@@ -25,7 +25,7 @@
       "track_id": 1332,
       "artist": "R.E.M.",
       "title": "Everybody Hurts",
-      "movement": "↑2",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
@@ -34,12 +34,21 @@
       "track_id": 533,
       "artist": "TRF",
       "title": "survival dAnce ～no no cry more～",
-      "movement": "→",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
       "rank": 5,
+      "track_id": 779,
+      "artist": "ヨルシカ",
+      "title": "ただ君に晴れ",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 6,
       "track_id": 1108,
       "artist": "Portishead",
       "title": "Glory Box",
@@ -48,22 +57,13 @@
       "top10_streak": 1
     },
     {
-      "rank": 6,
+      "rank": 7,
       "track_id": 1222,
       "artist": "Billie Eilish",
       "title": "BIRDS OF A FEATHER",
-      "movement": "↓3",
+      "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 2
-    },
-    {
-      "rank": 7,
-      "track_id": 779,
-      "artist": "ヨルシカ",
-      "title": "ただ君に晴れ",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 3
     },
     {
       "rank": 8,
@@ -85,12 +85,12 @@
     },
     {
       "rank": 10,
-      "track_id": 1553,
-      "artist": "BONNIE PINK",
-      "title": "Forget Me Not",
+      "track_id": 1076,
+      "artist": "Alicia Keys",
+      "title": "If I Ain’t Got You",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 5
     }
   ]
 }

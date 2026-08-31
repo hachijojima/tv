@@ -4,30 +4,30 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 7,
-      "artist": "MONO NO AWARE",
-      "title": "ゾッコン",
-      "movement": "→",
-      "days_at_number_1": 6,
-      "top10_streak": 9
-    },
-    {
-      "rank": 2,
       "track_id": 615,
       "artist": "米米CLUB",
       "title": "Shake Hip!",
       "movement": "→",
-      "days_at_number_1": 0,
+      "days_at_number_1": 3,
       "top10_streak": 4
     },
     {
-      "rank": 3,
+      "rank": 2,
       "track_id": 1474,
       "artist": "スチャダラパー",
       "title": "GET UP AND DANCE",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 3,
+      "track_id": 7,
+      "artist": "MONO NO AWARE",
+      "title": "ゾッコン",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 7
     },
     {
       "rank": 4,
@@ -58,12 +58,12 @@
     },
     {
       "rank": 7,
-      "track_id": 1247,
-      "artist": "Swedish House Mafia",
-      "title": "Don't You Worry Child",
-      "movement": "↓1",
+      "track_id": 1280,
+      "artist": "IVE",
+      "title": "I AM",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 16
+      "top10_streak": 2
     },
     {
       "rank": 8,
@@ -76,21 +76,21 @@
     },
     {
       "rank": 9,
-      "track_id": 1280,
-      "artist": "IVE",
-      "title": "I AM",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 10,
       "track_id": 701,
       "artist": "シュガー・ベイブ",
       "title": "今日はなんだか",
       "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 2
+    },
+    {
+      "rank": 10,
+      "track_id": 1247,
+      "artist": "Swedish House Mafia",
+      "title": "Don't You Worry Child",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 18
     }
   ]
 }

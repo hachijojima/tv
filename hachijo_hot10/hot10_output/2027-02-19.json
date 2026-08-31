@@ -13,21 +13,21 @@
     },
     {
       "rank": 2,
-      "track_id": 1247,
-      "artist": "Swedish House Mafia",
-      "title": "Don't You Worry Child",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 9
-    },
-    {
-      "rank": 3,
       "track_id": 1267,
       "artist": "Eric Prydz",
       "title": "Call on Me",
-      "movement": "→",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
+    },
+    {
+      "rank": 3,
+      "track_id": 1247,
+      "artist": "Swedish House Mafia",
+      "title": "Don't You Worry Child",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 11
     },
     {
       "rank": 4,
@@ -43,30 +43,21 @@
       "track_id": 519,
       "artist": "DEEN",
       "title": "瞳そらさないで",
-      "movement": "↑4",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 6,
-      "track_id": 7,
-      "artist": "MONO NO AWARE",
-      "title": "ゾッコン",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 7,
       "track_id": 520,
       "artist": "T-BOLAN",
       "title": "じれったい愛",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 8,
+      "rank": 7,
       "track_id": 844,
       "artist": "WONK",
       "title": "Fleeting Fantasy",
@@ -75,7 +66,7 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
+      "rank": 8,
       "track_id": 1204,
       "artist": "Rihanna",
       "title": "We Found Love",
@@ -84,10 +75,19 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
+      "rank": 9,
       "track_id": 1242,
       "artist": "Avicii",
       "title": "Levels",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1309,
+      "artist": "Red Hot Chili Peppers",
+      "title": "Under the Bridge",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1

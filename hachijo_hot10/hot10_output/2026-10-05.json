@@ -16,36 +16,36 @@
       "track_id": 1219,
       "artist": "Ed Sheeran",
       "title": "Shape of You",
-      "movement": "→",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 3
     },
     {
       "rank": 3,
       "track_id": 596,
       "artist": "globe",
       "title": "Can't Stop Fallin' in Love",
-      "movement": "→",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 4,
+      "track_id": 1601,
+      "artist": "福島弘和",
+      "title": "吹奏楽のための「おじゃれ」",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 17
+    },
+    {
+      "rank": 5,
       "track_id": 334,
       "artist": "UA",
       "title": "甘い運命",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
-    },
-    {
-      "rank": 5,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 6
     },
     {
       "rank": 6,
@@ -67,15 +67,6 @@
     },
     {
       "rank": 8,
-      "track_id": 1544,
-      "artist": "Cocco",
-      "title": "樹海の糸",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 9,
       "track_id": 1212,
       "artist": "Dua Lipa",
       "title": "Levitating",
@@ -84,13 +75,22 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
-      "track_id": 734,
-      "artist": "濱田金吾",
-      "title": "Midnight Cruisin'",
-      "movement": "↓2",
+      "rank": 9,
+      "track_id": 1023,
+      "artist": "Carpenters",
+      "title": "(They Long To Be) Close To You",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 8
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1238,
+      "artist": "Gotye",
+      "title": "Somebody That I Used to Know (feat. Kimbra)",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }

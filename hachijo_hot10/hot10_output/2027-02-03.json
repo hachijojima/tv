@@ -16,7 +16,7 @@
       "track_id": 603,
       "artist": "山崎まさよし",
       "title": "僕はここにいる",
-      "movement": "↑1",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
@@ -49,21 +49,21 @@
     },
     {
       "rank": 6,
+      "track_id": 1594,
+      "artist": "團伊玖磨",
+      "title": "オリンピック序曲",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 7,
       "track_id": 458,
       "artist": "T-BOLAN",
       "title": "離したくはない",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
-    },
-    {
-      "rank": 7,
-      "track_id": 566,
-      "artist": "the brilliant green",
-      "title": "冷たい花",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 4
     },
     {
       "rank": 8,

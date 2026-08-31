@@ -31,21 +31,21 @@
     },
     {
       "rank": 4,
-      "track_id": 1288,
-      "artist": "BIGBANG",
-      "title": "FANTASTIC BABY",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 5,
       "track_id": 1383,
       "artist": "Bon Jovi",
       "title": "It's My Life",
       "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 1288,
+      "artist": "BIGBANG",
+      "title": "FANTASTIC BABY",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 5
     },
     {
       "rank": 6,
@@ -67,30 +67,30 @@
     },
     {
       "rank": 8,
-      "track_id": 12,
-      "artist": "MIZ",
-      "title": "丘",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 9,
       "track_id": 1394,
       "artist": "GOING STEADY",
       "title": "BABY BABY",
-      "movement": "↓5",
+      "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 10
     },
     {
-      "rank": 10,
+      "rank": 9,
       "track_id": 1389,
       "artist": "Fishmans",
       "title": "ひこうき",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 12,
+      "artist": "MIZ",
+      "title": "丘",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     }
   ]
 }

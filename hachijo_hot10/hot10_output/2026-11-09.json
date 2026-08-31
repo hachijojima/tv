@@ -40,57 +40,57 @@
     },
     {
       "rank": 5,
+      "track_id": 1030,
+      "artist": "Radiohead",
+      "title": "Creep",
+      "movement": "↑5",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 6,
       "track_id": 784,
       "artist": "緑黄色社会",
       "title": "Mela!",
-      "movement": "↑4",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
-      "rank": 6,
+      "rank": 7,
       "track_id": 541,
       "artist": "山崎まさよし",
       "title": "セロリ",
-      "movement": "↓3",
+      "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 9
     },
     {
-      "rank": 7,
-      "track_id": 1030,
-      "artist": "Radiohead",
-      "title": "Creep",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
       "rank": 8,
-      "track_id": 15,
-      "artist": "MONO NO AWARE",
-      "title": "もうけもん",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 9,
       "track_id": 1358,
       "artist": "The White Stripes",
       "title": "Fell in Love with a Girl",
-      "movement": "↓4",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
     {
-      "rank": 10,
+      "rank": 9,
       "track_id": 1040,
       "artist": "METAFIVE",
       "title": "環境と心理",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 10
+    },
+    {
+      "rank": 10,
+      "track_id": 1125,
+      "artist": "藤井風",
+      "title": "花",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 5
     }
   ]
 }

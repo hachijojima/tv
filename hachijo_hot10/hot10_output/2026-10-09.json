@@ -9,7 +9,7 @@
       "title": "Shape of You",
       "movement": "→",
       "days_at_number_1": 4,
-      "top10_streak": 8
+      "top10_streak": 7
     },
     {
       "rank": 2,
@@ -27,7 +27,7 @@
       "title": "(They Long To Be) Close To You",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 5
     },
     {
       "rank": 4,
@@ -49,24 +49,15 @@
     },
     {
       "rank": 6,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 10
-    },
-    {
-      "rank": 7,
       "track_id": 1021,
       "artist": "スチャダラパー",
       "title": "サマージャム’95",
-      "movement": "RE",
+      "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     },
     {
-      "rank": 8,
+      "rank": 7,
       "track_id": 1365,
       "artist": "Linkin Park",
       "title": "Numb",
@@ -75,22 +66,31 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
-      "track_id": 734,
-      "artist": "濱田金吾",
-      "title": "Midnight Cruisin'",
-      "movement": "↓3",
+      "rank": 8,
+      "track_id": 1394,
+      "artist": "GOING STEADY",
+      "title": "BABY BABY",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 12
+      "top10_streak": 17
+    },
+    {
+      "rank": 9,
+      "track_id": 1020,
+      "artist": "The Doobie Brothers",
+      "title": "What a Fool Believes",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     },
     {
       "rank": 10,
-      "track_id": 1010,
-      "artist": "Oasis",
-      "title": "Live Forever",
-      "movement": "NEW",
+      "track_id": 596,
+      "artist": "globe",
+      "title": "Can't Stop Fallin' in Love",
+      "movement": "↓5",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 6
     }
   ]
 }

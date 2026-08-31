@@ -9,7 +9,7 @@
       "title": "Time After Time",
       "movement": "→",
       "days_at_number_1": 2,
-      "top10_streak": 6
+      "top10_streak": 7
     },
     {
       "rank": 2,
@@ -43,7 +43,7 @@
       "track_id": 293,
       "artist": "くるり",
       "title": "東京",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -58,15 +58,6 @@
     },
     {
       "rank": 7,
-      "track_id": 541,
-      "artist": "山崎まさよし",
-      "title": "セロリ",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 10
-    },
-    {
-      "rank": 8,
       "track_id": 630,
       "artist": "RCサクセション",
       "title": "スローバラード",
@@ -75,11 +66,20 @@
       "top10_streak": 1
     },
     {
+      "rank": 8,
+      "track_id": 1543,
+      "artist": "Cocco",
+      "title": "Raining",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 13
+    },
+    {
       "rank": 9,
       "track_id": 1351,
       "artist": "Alanis Morissette",
       "title": "Ironic",
-      "movement": "↑1",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 4
     },

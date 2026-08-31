@@ -13,21 +13,21 @@
     },
     {
       "rank": 2,
-      "track_id": 7,
-      "artist": "MONO NO AWARE",
-      "title": "ゾッコン",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 13
-    },
-    {
-      "rank": 3,
       "track_id": 615,
       "artist": "米米CLUB",
       "title": "Shake Hip!",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 8
+    },
+    {
+      "rank": 3,
+      "track_id": 7,
+      "artist": "MONO NO AWARE",
+      "title": "ゾッコン",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 11
     },
     {
       "rank": 4,

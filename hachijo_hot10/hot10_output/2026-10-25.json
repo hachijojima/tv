@@ -16,7 +16,7 @@
       "track_id": 1013,
       "artist": "The Police",
       "title": "Every Breath You Take",
-      "movement": "↑2",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
@@ -34,45 +34,45 @@
       "track_id": 1240,
       "artist": "Pharrell Williams",
       "title": "Happy",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
       "rank": 5,
-      "track_id": 10,
-      "artist": "MIZ",
-      "title": "パジャマでハイウェイ",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 6,
       "track_id": 381,
       "artist": "My Little Lover",
       "title": "白いカイト",
-      "movement": "→",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 7,
+      "rank": 6,
       "track_id": 1089,
       "artist": "The Beatles",
       "title": "Let It Be",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 16
     },
     {
-      "rank": 8,
+      "rank": 7,
       "track_id": 1048,
       "artist": "Ben E. King",
       "title": "Stand By Me",
       "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 3
+    },
+    {
+      "rank": 8,
+      "track_id": 457,
+      "artist": "DEEN",
+      "title": "このまま君だけを奪い去りたい",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     },
     {
       "rank": 9,

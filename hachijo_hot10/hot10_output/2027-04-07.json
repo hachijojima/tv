@@ -4,21 +4,21 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 1061,
-      "artist": "Cyndi Lauper",
-      "title": "Time After Time",
-      "movement": "↑1",
-      "days_at_number_1": 1,
-      "top10_streak": 11
-    },
-    {
-      "rank": 2,
       "track_id": 1072,
       "artist": "坂本龍一",
       "title": "Thousand Knives",
-      "movement": "↓1",
-      "days_at_number_1": 0,
+      "movement": "→",
+      "days_at_number_1": 3,
       "top10_streak": 3
+    },
+    {
+      "rank": 2,
+      "track_id": 1061,
+      "artist": "Cyndi Lauper",
+      "title": "Time After Time",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 12
     },
     {
       "rank": 3,
@@ -43,7 +43,7 @@
       "track_id": 1028,
       "artist": "Kendrick Lamar",
       "title": "Alright",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
@@ -61,7 +61,7 @@
       "track_id": 541,
       "artist": "山崎まさよし",
       "title": "セロリ",
-      "movement": "↑3",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -70,7 +70,7 @@
       "track_id": 473,
       "artist": "Every Little Thing",
       "title": "Time goes by",
-      "movement": "↓4",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 6
     },

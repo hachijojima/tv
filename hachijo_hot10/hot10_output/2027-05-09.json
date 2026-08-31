@@ -4,30 +4,30 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 573,
-      "artist": "THE BOOM",
-      "title": "風になりたい",
+      "track_id": 1594,
+      "artist": "團伊玖磨",
+      "title": "オリンピック序曲",
       "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 5
+      "days_at_number_1": 3,
+      "top10_streak": 7
     },
     {
       "rank": 2,
-      "track_id": 510,
-      "artist": "BEGIN",
-      "title": "島人ぬ宝",
-      "movement": "↑8",
+      "track_id": 573,
+      "artist": "THE BOOM",
+      "title": "風になりたい",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 5
     },
     {
       "rank": 3,
-      "track_id": 20,
-      "artist": "MONO NO AWARE",
-      "title": "水が湧いた",
-      "movement": "↑2",
+      "track_id": 510,
+      "artist": "BEGIN",
+      "title": "島人ぬ宝",
+      "movement": "↑7",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 2
     },
     {
       "rank": 4,
@@ -49,39 +49,39 @@
     },
     {
       "rank": 6,
-      "track_id": 1205,
-      "artist": "Beyoncé",
-      "title": "Crazy in Love",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 7,
-      "track_id": 1308,
-      "artist": "鼓童",
-      "title": "屋台囃子",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 8,
       "track_id": 1314,
       "artist": "U2",
       "title": "Beautiful Day",
-      "movement": "↓4",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 17
     },
     {
-      "rank": 9,
+      "rank": 7,
       "track_id": 1288,
       "artist": "BIGBANG",
       "title": "FANTASTIC BABY",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 1205,
+      "artist": "Beyoncé",
+      "title": "Crazy in Love",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 9,
+      "track_id": 1308,
+      "artist": "鼓童",
+      "title": "屋台囃子",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     },
     {
       "rank": 10,

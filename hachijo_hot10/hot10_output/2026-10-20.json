@@ -22,21 +22,21 @@
     },
     {
       "rank": 3,
-      "track_id": 572,
-      "artist": "BEGIN",
-      "title": "恋しくて",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 10
-    },
-    {
-      "rank": 4,
       "track_id": 524,
       "artist": "サザンオールスターズ",
       "title": "希望の轍",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 9
+    },
+    {
+      "rank": 4,
+      "track_id": 1364,
+      "artist": "Linkin Park",
+      "title": "In the End",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     },
     {
       "rank": 5,
@@ -58,12 +58,12 @@
     },
     {
       "rank": 7,
-      "track_id": 1364,
-      "artist": "Linkin Park",
-      "title": "In the End",
+      "track_id": 585,
+      "artist": "スピッツ",
+      "title": "楓",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 2
     },
     {
       "rank": 8,
@@ -76,21 +76,21 @@
     },
     {
       "rank": 9,
-      "track_id": 585,
-      "artist": "スピッツ",
-      "title": "楓",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 10,
       "track_id": 1394,
       "artist": "GOING STEADY",
       "title": "BABY BABY",
       "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 6
+    },
+    {
+      "rank": 10,
+      "track_id": 1058,
+      "artist": "ランカ・リー=中島愛",
+      "title": "星間飛行",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }

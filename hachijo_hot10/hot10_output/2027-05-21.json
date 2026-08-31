@@ -13,6 +13,15 @@
     },
     {
       "rank": 2,
+      "track_id": 1594,
+      "artist": "團伊玖磨",
+      "title": "オリンピック序曲",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 3,
       "track_id": 1043,
       "artist": "Television",
       "title": "Marquee Moon",
@@ -21,29 +30,20 @@
       "top10_streak": 2
     },
     {
-      "rank": 3,
+      "rank": 4,
       "track_id": 1248,
       "artist": "Swedish House Mafia",
       "title": "Save the World",
-      "movement": "↓1",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 5
-    },
-    {
-      "rank": 4,
-      "track_id": 1277,
-      "artist": "aespa",
-      "title": "Next Level",
-      "movement": "↑6",
-      "days_at_number_1": 0,
-      "top10_streak": 2
     },
     {
       "rank": 5,
       "track_id": 1541,
       "artist": "Cocco",
       "title": "カウントダウン",
-      "movement": "↑1",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
@@ -52,21 +52,30 @@
       "track_id": 454,
       "artist": "爆風スランプ",
       "title": "Runner",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 8
     },
     {
       "rank": 7,
+      "track_id": 1277,
+      "artist": "aespa",
+      "title": "Next Level",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
       "track_id": 533,
       "artist": "TRF",
       "title": "survival dAnce ～no no cry more～",
-      "movement": "↑1",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 8,
+      "rank": 9,
       "track_id": 1028,
       "artist": "Kendrick Lamar",
       "title": "Alright",
@@ -75,22 +84,13 @@
       "top10_streak": 5
     },
     {
-      "rank": 9,
+      "rank": 10,
       "track_id": 1068,
       "artist": "Simon & Garfunkel",
       "title": "Bridge Over Troubled Water",
       "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 9
-    },
-    {
-      "rank": 10,
-      "track_id": 57,
-      "artist": "君島大空",
-      "title": "遠視のコントラルト",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
     }
   ]
 }

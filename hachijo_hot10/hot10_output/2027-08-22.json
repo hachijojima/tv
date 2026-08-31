@@ -43,27 +43,27 @@
       "track_id": 607,
       "artist": "THE BLUE HEARTS",
       "title": "青空",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
     {
       "rank": 6,
-      "track_id": 1091,
-      "artist": "The Cure",
-      "title": "Boys Don’t Cry",
-      "movement": "RE",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 7,
       "track_id": 331,
       "artist": "ORIGINAL LOVE",
       "title": "朝日のあたる道 AS TIME GOES BY",
       "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 6
+    },
+    {
+      "rank": 7,
+      "track_id": 1091,
+      "artist": "The Cure",
+      "title": "Boys Don’t Cry",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     },
     {
       "rank": 8,

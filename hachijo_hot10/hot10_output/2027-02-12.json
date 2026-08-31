@@ -13,21 +13,21 @@
     },
     {
       "rank": 2,
+      "track_id": 1247,
+      "artist": "Swedish House Mafia",
+      "title": "Don't You Worry Child",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 3,
       "track_id": 19,
       "artist": "MONO NO AWARE",
       "title": "幽霊船",
       "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 7
-    },
-    {
-      "rank": 3,
-      "track_id": 1247,
-      "artist": "Swedish House Mafia",
-      "title": "Don't You Worry Child",
-      "movement": "↑5",
-      "days_at_number_1": 0,
-      "top10_streak": 2
     },
     {
       "rank": 4,
@@ -40,12 +40,12 @@
     },
     {
       "rank": 5,
-      "track_id": 1543,
-      "artist": "Cocco",
-      "title": "Raining",
-      "movement": "→",
+      "track_id": 1013,
+      "artist": "The Police",
+      "title": "Every Breath You Take",
+      "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 3
     },
     {
       "rank": 6,
@@ -58,15 +58,6 @@
     },
     {
       "rank": 7,
-      "track_id": 1013,
-      "artist": "The Police",
-      "title": "Every Breath You Take",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 8,
       "track_id": 1264,
       "artist": "Disclosure",
       "title": "Latch (feat. Sam Smith)",
@@ -75,7 +66,7 @@
       "top10_streak": 10
     },
     {
-      "rank": 9,
+      "rank": 8,
       "track_id": 1350,
       "artist": "Alanis Morissette",
       "title": "You Oughta Know",
@@ -84,13 +75,22 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
+      "rank": 9,
       "track_id": 298,
       "artist": "BUMP OF CHICKEN",
       "title": "車輪の唄",
       "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
+    },
+    {
+      "rank": 10,
+      "track_id": 829,
+      "artist": "Mrs. GREEN APPLE",
+      "title": "僕のこと",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 11
     }
   ]
 }

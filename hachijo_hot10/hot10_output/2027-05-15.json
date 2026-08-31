@@ -22,6 +22,15 @@
     },
     {
       "rank": 3,
+      "track_id": 1594,
+      "artist": "團伊玖磨",
+      "title": "オリンピック序曲",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 13
+    },
+    {
+      "rank": 4,
       "track_id": 454,
       "artist": "爆風スランプ",
       "title": "Runner",
@@ -30,7 +39,7 @@
       "top10_streak": 2
     },
     {
-      "rank": 4,
+      "rank": 5,
       "track_id": 1275,
       "artist": "TWICE",
       "title": "TT",
@@ -39,7 +48,7 @@
       "top10_streak": 2
     },
     {
-      "rank": 5,
+      "rank": 6,
       "track_id": 1364,
       "artist": "Linkin Park",
       "title": "In the End",
@@ -48,7 +57,16 @@
       "top10_streak": 6
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "track_id": 441,
+      "artist": "チャットモンチー",
+      "title": "恋愛スピリッツ",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 8,
       "track_id": 239,
       "artist": "さよならポニーテール",
       "title": "光る街へ",
@@ -57,38 +75,20 @@
       "top10_streak": 6
     },
     {
-      "rank": 7,
-      "track_id": 441,
-      "artist": "チャットモンチー",
-      "title": "恋愛スピリッツ",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 8,
+      "rank": 9,
       "track_id": 573,
       "artist": "THE BOOM",
       "title": "風になりたい",
-      "movement": "↓1",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 11
     },
     {
-      "rank": 9,
+      "rank": 10,
       "track_id": 1352,
       "artist": "Manic Street Preachers",
       "title": "A Design for Life",
       "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 10,
-      "track_id": 1228,
-      "artist": "Maroon 5",
-      "title": "Sugar",
-      "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

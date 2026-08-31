@@ -9,7 +9,7 @@
       "title": "In the End",
       "movement": "→",
       "days_at_number_1": 3,
-      "top10_streak": 9
+      "top10_streak": 8
     },
     {
       "rank": 2,
@@ -76,18 +76,18 @@
     },
     {
       "rank": 9,
-      "track_id": 565,
-      "artist": "hitomi",
-      "title": "CANDY GIRL",
-      "movement": "NEW",
+      "track_id": 466,
+      "artist": "GLAY",
+      "title": "BELOVED",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     },
     {
       "rank": 10,
-      "track_id": 813,
-      "artist": "Official髭男dism",
-      "title": "Pretender",
+      "track_id": 565,
+      "artist": "hitomi",
+      "title": "CANDY GIRL",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1

@@ -4,48 +4,48 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 12,
+      "track_id": 14,
       "artist": "MIZ",
-      "title": "丘",
+      "title": "とびうおのうた",
       "movement": "→",
       "days_at_number_1": 2,
-      "top10_streak": 15
+      "top10_streak": 8
     },
     {
       "rank": 2,
+      "track_id": 1601,
+      "artist": "福島弘和",
+      "title": "吹奏楽のための「おじゃれ」",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 9
+    },
+    {
+      "rank": 3,
       "track_id": 1394,
       "artist": "GOING STEADY",
       "title": "BABY BABY",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
-      "rank": 3,
+      "rank": 4,
       "track_id": 348,
       "artist": "レミオロメン",
       "title": "電話",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 8
+      "top10_streak": 7
     },
     {
-      "rank": 4,
+      "rank": 5,
       "track_id": 268,
       "artist": "リーガルリリー",
       "title": "ハナヒカリ",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
-    },
-    {
-      "rank": 5,
-      "track_id": 548,
-      "artist": "REBECCA",
-      "title": "RASPBERRY DREAM",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 7
     },
     {
       "rank": 6,
@@ -58,12 +58,12 @@
     },
     {
       "rank": 7,
-      "track_id": 1505,
-      "artist": "じゃがたら",
-      "title": "都市生活者の夜",
-      "movement": "↑1",
+      "track_id": 548,
+      "artist": "REBECCA",
+      "title": "RASPBERRY DREAM",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 6
     },
     {
       "rank": 8,
@@ -76,18 +76,18 @@
     },
     {
       "rank": 9,
-      "track_id": 1510,
-      "artist": "たま",
-      "title": "オゾンのダンス",
-      "movement": "NEW",
+      "track_id": 1505,
+      "artist": "じゃがたら",
+      "title": "都市生活者の夜",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     },
     {
       "rank": 10,
-      "track_id": 576,
-      "artist": "大黒摩季",
-      "title": "あなただけ見つめてる",
+      "track_id": 1510,
+      "artist": "たま",
+      "title": "オゾンのダンス",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1

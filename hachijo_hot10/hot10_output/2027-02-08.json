@@ -25,7 +25,7 @@
       "track_id": 19,
       "artist": "MONO NO AWARE",
       "title": "幽霊船",
-      "movement": "↑2",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
@@ -58,12 +58,12 @@
     },
     {
       "rank": 7,
-      "track_id": 1543,
-      "artist": "Cocco",
-      "title": "Raining",
-      "movement": "↑3",
+      "track_id": 536,
+      "artist": "PUFFY",
+      "title": "これが私の生きる道",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 4
     },
     {
       "rank": 8,
@@ -76,12 +76,12 @@
     },
     {
       "rank": 9,
-      "track_id": 536,
-      "artist": "PUFFY",
-      "title": "これが私の生きる道",
-      "movement": "↓3",
+      "track_id": 1543,
+      "artist": "Cocco",
+      "title": "Raining",
+      "movement": "RE",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 1
     },
     {
       "rank": 10,

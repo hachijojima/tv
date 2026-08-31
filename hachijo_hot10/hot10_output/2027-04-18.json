@@ -22,30 +22,30 @@
     },
     {
       "rank": 3,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 4,
       "track_id": 1006,
       "artist": "NewJeans",
       "title": "Ditto",
-      "movement": "↓3",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 5,
+      "rank": 4,
       "track_id": 1023,
       "artist": "Carpenters",
       "title": "(They Long To Be) Close To You",
       "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 4
+    },
+    {
+      "rank": 5,
+      "track_id": 14,
+      "artist": "MIZ",
+      "title": "とびうおのうた",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 5
     },
     {
       "rank": 6,
@@ -67,30 +67,30 @@
     },
     {
       "rank": 8,
-      "track_id": 7,
-      "artist": "MONO NO AWARE",
-      "title": "ゾッコン",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 9,
       "track_id": 1189,
       "artist": "ペトロールズ",
       "title": "雨",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 10,
+      "rank": 9,
       "track_id": 541,
       "artist": "山崎まさよし",
       "title": "セロリ",
-      "movement": "↓5",
+      "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 13
+    },
+    {
+      "rank": 10,
+      "track_id": 244,
+      "artist": "森は生きている",
+      "title": "煙夜の夢",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }

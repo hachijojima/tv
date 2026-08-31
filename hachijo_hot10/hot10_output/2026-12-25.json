@@ -4,42 +4,33 @@
   "chart": [
     {
       "rank": 1,
-      "track_id": 11,
-      "artist": "MONO NO AWARE",
-      "title": "異邦人",
-      "movement": "↑3",
-      "days_at_number_1": 1,
-      "top10_streak": 6
-    },
-    {
-      "rank": 2,
       "track_id": 481,
       "artist": "奥田民生",
       "title": "愛のために",
       "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 4
+      "days_at_number_1": 2,
+      "top10_streak": 5
     },
     {
-      "rank": 3,
+      "rank": 2,
       "track_id": 1371,
       "artist": "The Killers",
       "title": "When You Were Young",
-      "movement": "↑6",
+      "movement": "↑7",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 4,
-      "track_id": 597,
-      "artist": "Every Little Thing",
-      "title": "Dear My Friend",
-      "movement": "↓3",
+      "rank": 3,
+      "track_id": 1259,
+      "artist": "DJ Snake",
+      "title": "Turn Down for What (with Lil Jon)",
+      "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 8
     },
     {
-      "rank": 5,
+      "rank": 4,
       "track_id": 148,
       "artist": "角銅真実",
       "title": "December 13",
@@ -48,34 +39,25 @@
       "top10_streak": 1
     },
     {
-      "rank": 6,
-      "track_id": 1259,
-      "artist": "DJ Snake",
-      "title": "Turn Down for What (with Lil Jon)",
-      "movement": "↑1",
+      "rank": 5,
+      "track_id": 597,
+      "artist": "Every Little Thing",
+      "title": "Dear My Friend",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 8
+      "top10_streak": 3
     },
     {
-      "rank": 7,
+      "rank": 6,
       "track_id": 1207,
       "artist": "Bruno Mars",
       "title": "Just the Way You Are",
-      "movement": "↓4",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
-      "rank": 8,
-      "track_id": 1584,
-      "artist": "Elliott Smith",
-      "title": "Between the Bars",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 9,
+      "rank": 7,
       "track_id": 738,
       "artist": "松田聖子",
       "title": "瑠璃色の地球",
@@ -84,11 +66,29 @@
       "top10_streak": 4
     },
     {
-      "rank": 10,
+      "rank": 8,
+      "track_id": 1584,
+      "artist": "Elliott Smith",
+      "title": "Between the Bars",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 9,
       "track_id": 728,
       "artist": "角松敏生",
       "title": "If You Wanna Dance",
       "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1598,
+      "artist": "天野花",
+      "title": "暁を泳いで",
+      "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

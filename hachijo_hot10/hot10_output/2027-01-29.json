@@ -40,15 +40,24 @@
     },
     {
       "rank": 5,
+      "track_id": 1594,
+      "artist": "團伊玖磨",
+      "title": "オリンピック序曲",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 6,
       "track_id": 1588,
       "artist": "Portishead",
       "title": "Sour Times",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 6,
+      "rank": 7,
       "track_id": 613,
       "artist": "小泉今日子",
       "title": "優しい雨",
@@ -57,31 +66,22 @@
       "top10_streak": 2
     },
     {
-      "rank": 7,
-      "track_id": 655,
-      "artist": "山崎ハコ",
-      "title": "呪い",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
       "rank": 8,
-      "track_id": 379,
-      "artist": "UA",
-      "title": "悲しみジョニー",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 9,
       "track_id": 1068,
       "artist": "Simon & Garfunkel",
       "title": "Bridge Over Troubled Water",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 3
+    },
+    {
+      "rank": 9,
+      "track_id": 655,
+      "artist": "山崎ハコ",
+      "title": "呪い",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     },
     {
       "rank": 10,

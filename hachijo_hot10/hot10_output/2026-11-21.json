@@ -16,27 +16,27 @@
       "track_id": 1061,
       "artist": "Cyndi Lauper",
       "title": "Time After Time",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
     {
       "rank": 3,
+      "track_id": 470,
+      "artist": "TM NETWORK",
+      "title": "Get Wild",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 4,
       "track_id": 19,
       "artist": "MONO NO AWARE",
       "title": "幽霊船",
       "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 5
-    },
-    {
-      "rank": 4,
-      "track_id": 470,
-      "artist": "TM NETWORK",
-      "title": "Get Wild",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 7
     },
     {
       "rank": 5,
@@ -49,21 +49,21 @@
     },
     {
       "rank": 6,
-      "track_id": 1011,
-      "artist": "Underworld",
-      "title": "Born Slippy (Nuxx)",
-      "movement": "↑4",
+      "track_id": 1601,
+      "artist": "福島弘和",
+      "title": "吹奏楽のための「おじゃれ」",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 4
     },
     {
       "rank": 7,
-      "track_id": 829,
-      "artist": "Mrs. GREEN APPLE",
-      "title": "僕のこと",
-      "movement": "↓3",
+      "track_id": 1011,
+      "artist": "Underworld",
+      "title": "Born Slippy (Nuxx)",
+      "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 2
     },
     {
       "rank": 8,
@@ -76,9 +76,9 @@
     },
     {
       "rank": 9,
-      "track_id": 660,
-      "artist": "岡林信康",
-      "title": "山谷ブルース",
+      "track_id": 829,
+      "artist": "Mrs. GREEN APPLE",
+      "title": "僕のこと",
       "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 4

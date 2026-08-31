@@ -34,7 +34,7 @@
       "track_id": 541,
       "artist": "山崎まさよし",
       "title": "セロリ",
-      "movement": "→",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
@@ -52,7 +52,7 @@
       "track_id": 1046,
       "artist": "星野源",
       "title": "不思議",
-      "movement": "↓1",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
@@ -70,27 +70,27 @@
       "track_id": 1040,
       "artist": "METAFIVE",
       "title": "環境と心理",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
       "rank": 9,
-      "track_id": 1295,
-      "artist": "SHINee",
-      "title": "Ring Ding Dong",
-      "movement": "↓7",
+      "track_id": 10,
+      "artist": "MIZ",
+      "title": "パジャマでハイウェイ",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 7
     },
     {
       "rank": 10,
-      "track_id": 591,
-      "artist": "LUNA SEA",
-      "title": "I for You",
-      "movement": "↓3",
+      "track_id": 1295,
+      "artist": "SHINee",
+      "title": "Ring Ding Dong",
+      "movement": "↓8",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 3
     }
   ]
 }

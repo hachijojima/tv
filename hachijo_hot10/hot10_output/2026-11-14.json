@@ -67,15 +67,6 @@
     },
     {
       "rank": 8,
-      "track_id": 16,
-      "artist": "MIZ",
-      "title": "暑中見舞い",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 9,
       "track_id": 1514,
       "artist": "戸川純",
       "title": "玉姫様",
@@ -84,13 +75,22 @@
       "top10_streak": 1
     },
     {
-      "rank": 10,
+      "rank": 9,
       "track_id": 1228,
       "artist": "Maroon 5",
       "title": "Sugar",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 16,
+      "artist": "MIZ",
+      "title": "暑中見舞い",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 8
     }
   ]
 }

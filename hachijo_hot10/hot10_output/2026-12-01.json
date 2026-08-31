@@ -8,38 +8,47 @@
       "artist": "BLANKEY JET CITY",
       "title": "ガソリンの揺れかた",
       "movement": "→",
-      "days_at_number_1": 4,
+      "days_at_number_1": 3,
       "top10_streak": 6
     },
     {
       "rank": 2,
+      "track_id": 1205,
+      "artist": "Beyoncé",
+      "title": "Crazy in Love",
+      "movement": "↑5",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 3,
       "track_id": 4,
       "artist": "MIZ",
       "title": "空砲",
       "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 9
+      "top10_streak": 8
     },
     {
-      "rank": 3,
-      "track_id": 1205,
-      "artist": "Beyoncé",
-      "title": "Crazy in Love",
+      "rank": 4,
+      "track_id": 1601,
+      "artist": "福島弘和",
+      "title": "吹奏楽のための「おじゃれ」",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 14
+    },
+    {
+      "rank": 5,
+      "track_id": 1305,
+      "artist": "鼓童",
+      "title": "凰（おおとり）",
       "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 4,
-      "track_id": 1305,
-      "artist": "鼓童",
-      "title": "凰（おおとり）",
-      "movement": "↑4",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 5,
+      "rank": 6,
       "track_id": 19,
       "artist": "MONO NO AWARE",
       "title": "幽霊船",
@@ -48,7 +57,7 @@
       "top10_streak": 15
     },
     {
-      "rank": 6,
+      "rank": 7,
       "track_id": 937,
       "artist": "Alvvays",
       "title": "Archie, Marry Me",
@@ -57,31 +66,22 @@
       "top10_streak": 4
     },
     {
-      "rank": 7,
+      "rank": 8,
       "track_id": 1011,
       "artist": "Underworld",
       "title": "Born Slippy (Nuxx)",
-      "movement": "↑3",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 8,
+      "rank": 9,
       "track_id": 1353,
       "artist": "Manic Street Preachers",
       "title": "If You Tolerate This Your Children Will Be Next",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
-    },
-    {
-      "rank": 9,
-      "track_id": 718,
-      "artist": "友部正人",
-      "title": "夕日は昇る",
-      "movement": "↓5",
-      "days_at_number_1": 0,
-      "top10_streak": 3
     },
     {
       "rank": 10,

@@ -25,7 +25,7 @@
       "track_id": 19,
       "artist": "MONO NO AWARE",
       "title": "幽霊船",
-      "movement": "↑5",
+      "movement": "↑7",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -67,28 +67,28 @@
     },
     {
       "rank": 8,
-      "track_id": 1125,
-      "artist": "藤井風",
-      "title": "花",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 9,
-      "track_id": 829,
-      "artist": "Mrs. GREEN APPLE",
-      "title": "僕のこと",
-      "movement": "NEW",
+      "track_id": 1601,
+      "artist": "福島弘和",
+      "title": "吹奏楽のための「おじゃれ」",
+      "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
+      "rank": 9,
+      "track_id": 1125,
+      "artist": "藤井風",
+      "title": "花",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
       "rank": 10,
-      "track_id": 660,
-      "artist": "岡林信康",
-      "title": "山谷ブルース",
-      "movement": "RE",
+      "track_id": 829,
+      "artist": "Mrs. GREEN APPLE",
+      "title": "僕のこと",
+      "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

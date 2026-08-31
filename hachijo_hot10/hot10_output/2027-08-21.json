@@ -16,7 +16,7 @@
       "track_id": 2,
       "artist": "MIZ",
       "title": "パレード",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
@@ -25,21 +25,12 @@
       "track_id": 901,
       "artist": "R.E.M.",
       "title": "Nightswimming",
-      "movement": "↑1",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
     {
       "rank": 4,
-      "track_id": 607,
-      "artist": "THE BLUE HEARTS",
-      "title": "青空",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 5,
       "track_id": 331,
       "artist": "ORIGINAL LOVE",
       "title": "朝日のあたる道 AS TIME GOES BY",
@@ -48,11 +39,20 @@
       "top10_streak": 5
     },
     {
+      "rank": 5,
+      "track_id": 607,
+      "artist": "THE BLUE HEARTS",
+      "title": "青空",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
       "rank": 6,
       "track_id": 1347,
       "artist": "Garbage",
       "title": "Only Happy When It Rains",
-      "movement": "↓1",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 6
     },

@@ -16,7 +16,7 @@
       "track_id": 1441,
       "artist": "BLANKEY JET CITY",
       "title": "ガソリンの揺れかた",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 9
     },
@@ -43,45 +43,45 @@
       "track_id": 4,
       "artist": "MIZ",
       "title": "空砲",
-      "movement": "↓3",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 12
+      "top10_streak": 11
     },
     {
       "rank": 6,
-      "track_id": 9,
-      "artist": "MONO NO AWARE",
-      "title": "そこにあったから",
+      "track_id": 1011,
+      "artist": "Underworld",
+      "title": "Born Slippy (Nuxx)",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 7,
+      "track_id": 1134,
+      "artist": "Diana Ross",
+      "title": "I’m Coming Out",
       "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 7,
-      "track_id": 1011,
-      "artist": "Underworld",
-      "title": "Born Slippy (Nuxx)",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
       "rank": 8,
-      "track_id": 1305,
-      "artist": "鼓童",
-      "title": "凰（おおとり）",
-      "movement": "→",
+      "track_id": 937,
+      "artist": "Alvvays",
+      "title": "Archie, Marry Me",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 7
     },
     {
       "rank": 9,
-      "track_id": 1134,
-      "artist": "Diana Ross",
-      "title": "I’m Coming Out",
-      "movement": "→",
+      "track_id": 1024,
+      "artist": "SUPER BUTTER DOG",
+      "title": "サヨナラCOLOR",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 3
     },
     {
       "rank": 10,

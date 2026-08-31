@@ -22,42 +22,33 @@
     },
     {
       "rank": 3,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 4,
       "track_id": 330,
       "artist": "カヒミ・カリィ",
       "title": "Mike Alway's Diary",
-      "movement": "↓2",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
     {
-      "rank": 5,
+      "rank": 4,
       "track_id": 582,
       "artist": "T-BOLAN",
       "title": "Bye For Now",
-      "movement": "↑4",
+      "movement": "↑5",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
-      "rank": 6,
-      "track_id": 1473,
-      "artist": "スチャダラパー",
-      "title": "今夜はブギー・バック (smooth rap)",
-      "movement": "↓2",
+      "rank": 5,
+      "track_id": 14,
+      "artist": "MIZ",
+      "title": "とびうおのうた",
+      "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 3
     },
     {
-      "rank": 7,
+      "rank": 6,
       "track_id": 1499,
       "artist": "MUTE BEAT",
       "title": "Dub No.5",
@@ -66,11 +57,20 @@
       "top10_streak": 2
     },
     {
+      "rank": 7,
+      "track_id": 1473,
+      "artist": "スチャダラパー",
+      "title": "今夜はブギー・バック (smooth rap)",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
       "rank": 8,
       "track_id": 1254,
       "artist": "The Chainsmokers",
       "title": "Closer (feat. Halsey)",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
@@ -79,7 +79,7 @@
       "track_id": 607,
       "artist": "THE BLUE HEARTS",
       "title": "青空",
-      "movement": "↓3",
+      "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 10
     },

@@ -7,8 +7,8 @@
       "track_id": 945,
       "artist": "Oasis",
       "title": "Don't Look Back in Anger",
-      "movement": "→",
-      "days_at_number_1": 2,
+      "movement": "↑1",
+      "days_at_number_1": 1,
       "top10_streak": 2
     },
     {
@@ -16,18 +16,18 @@
       "track_id": 1394,
       "artist": "GOING STEADY",
       "title": "BABY BABY",
-      "movement": "→",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 7
     },
     {
       "rank": 3,
-      "track_id": 12,
+      "track_id": 14,
       "artist": "MIZ",
-      "title": "丘",
-      "movement": "→",
+      "title": "とびうおのうた",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 17
+      "top10_streak": 10
     },
     {
       "rank": 4,
@@ -49,48 +49,48 @@
     },
     {
       "rank": 6,
-      "track_id": 548,
-      "artist": "REBECCA",
-      "title": "RASPBERRY DREAM",
-      "movement": "↑1",
+      "track_id": 1601,
+      "artist": "福島弘和",
+      "title": "吹奏楽のための「おじゃれ」",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 9
+      "top10_streak": 11
     },
     {
       "rank": 7,
       "track_id": 348,
       "artist": "レミオロメン",
       "title": "電話",
-      "movement": "↓3",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 10
+      "top10_streak": 9
     },
     {
       "rank": 8,
-      "track_id": 734,
-      "artist": "濱田金吾",
-      "title": "Midnight Cruisin'",
-      "movement": "↑2",
+      "track_id": 548,
+      "artist": "REBECCA",
+      "title": "RASPBERRY DREAM",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 8
     },
     {
       "rank": 9,
       "track_id": 268,
       "artist": "リーガルリリー",
       "title": "ハナヒカリ",
-      "movement": "↓4",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 10,
-      "track_id": 1505,
-      "artist": "じゃがたら",
-      "title": "都市生活者の夜",
-      "movement": "↓2",
+      "track_id": 530,
+      "artist": "X JAPAN",
+      "title": "Rusty Nail",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 3
     }
   ]
 }

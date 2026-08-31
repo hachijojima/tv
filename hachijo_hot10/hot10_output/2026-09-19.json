@@ -40,21 +40,21 @@
     },
     {
       "rank": 5,
+      "track_id": 1040,
+      "artist": "METAFIVE",
+      "title": "環境と心理",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 6,
       "track_id": 1208,
       "artist": "Bruno Mars",
       "title": "24K Magic",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
-    },
-    {
-      "rank": 6,
-      "track_id": 1040,
-      "artist": "METAFIVE",
-      "title": "環境と心理",
-      "movement": "↑3",
-      "days_at_number_1": 0,
-      "top10_streak": 4
     },
     {
       "rank": 7,
@@ -67,12 +67,12 @@
     },
     {
       "rank": 8,
-      "track_id": 12,
-      "artist": "MIZ",
-      "title": "丘",
-      "movement": "↑2",
+      "track_id": 1601,
+      "artist": "福島弘和",
+      "title": "吹奏楽のための「おじゃれ」",
+      "movement": "RE",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 1
     },
     {
       "rank": 9,

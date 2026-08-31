@@ -31,6 +31,15 @@
     },
     {
       "rank": 4,
+      "track_id": 1332,
+      "artist": "R.E.M.",
+      "title": "Everybody Hurts",
+      "movement": "↑5",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
       "track_id": 533,
       "artist": "TRF",
       "title": "survival dAnce ～no no cry more～",
@@ -39,16 +48,16 @@
       "top10_streak": 3
     },
     {
-      "rank": 5,
-      "track_id": 1332,
-      "artist": "R.E.M.",
-      "title": "Everybody Hurts",
-      "movement": "↑4",
+      "rank": 6,
+      "track_id": 779,
+      "artist": "ヨルシカ",
+      "title": "ただ君に晴れ",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 6,
+      "rank": 7,
       "track_id": 1291,
       "artist": "KARA",
       "title": "Mister",
@@ -57,40 +66,31 @@
       "top10_streak": 7
     },
     {
-      "rank": 7,
-      "track_id": 779,
-      "artist": "ヨルシカ",
-      "title": "ただ君に晴れ",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
       "rank": 8,
-      "track_id": 1283,
-      "artist": "Stray Kids",
-      "title": "God's Menu",
+      "track_id": 1601,
+      "artist": "福島弘和",
+      "title": "吹奏楽のための「おじゃれ」",
       "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 12
     },
     {
       "rank": 9,
+      "track_id": 1076,
+      "artist": "Alicia Keys",
+      "title": "If I Ain’t Got You",
+      "movement": "↓6",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 10,
       "track_id": 1553,
       "artist": "BONNIE PINK",
       "title": "Forget Me Not",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
-    },
-    {
-      "rank": 10,
-      "track_id": 1076,
-      "artist": "Alicia Keys",
-      "title": "If I Ain’t Got You",
-      "movement": "↓5",
-      "days_at_number_1": 0,
-      "top10_streak": 4
     }
   ]
 }

@@ -7,48 +7,39 @@
       "track_id": 1002,
       "artist": "Jamiroquai",
       "title": "Virtual Insanity",
-      "movement": "↑1",
-      "days_at_number_1": 1,
+      "movement": "→",
+      "days_at_number_1": 2,
       "top10_streak": 2
     },
     {
       "rank": 2,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 14
-    },
-    {
-      "rank": 3,
       "track_id": 553,
       "artist": "米米CLUB",
       "title": "君がいるだけで",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 4,
-      "track_id": 1301,
-      "artist": "爆風スランプ",
-      "title": "旅人よ ～The Longest Journey～",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 5,
-      "track_id": 1589,
-      "artist": "Massive Attack",
-      "title": "Unfinished Sympathy",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 6,
+      "rank": 3,
+      "track_id": 1301,
+      "artist": "爆風スランプ",
+      "title": "旅人よ ～The Longest Journey～",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 4,
+      "track_id": 1252,
+      "artist": "Kygo",
+      "title": "Stole the Show (feat. Parson James)",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 5,
       "track_id": 449,
       "artist": "ROUND TABLE",
       "title": "Bossa Rossa",
@@ -57,13 +48,22 @@
       "top10_streak": 2
     },
     {
-      "rank": 7,
-      "track_id": 1252,
-      "artist": "Kygo",
-      "title": "Stole the Show (feat. Parson James)",
-      "movement": "↓1",
+      "rank": 6,
+      "track_id": 1589,
+      "artist": "Massive Attack",
+      "title": "Unfinished Sympathy",
+      "movement": "RE",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 1
+    },
+    {
+      "rank": 7,
+      "track_id": 1246,
+      "artist": "David Guetta",
+      "title": "Memories (feat. Kid Cudi)",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 6
     },
     {
       "rank": 8,
@@ -76,21 +76,21 @@
     },
     {
       "rank": 9,
-      "track_id": 1246,
-      "artist": "David Guetta",
-      "title": "Memories (feat. Kid Cudi)",
-      "movement": "↓6",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 10,
       "track_id": 1218,
       "artist": "Katy Perry",
       "title": "Teenage Dream",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 759,
+      "artist": "吉田美奈子",
+      "title": "TOWN",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
     }
   ]
 }

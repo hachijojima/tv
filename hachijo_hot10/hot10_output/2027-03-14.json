@@ -8,7 +8,7 @@
       "artist": "ティン・パン・アレー",
       "title": "北京ダック",
       "movement": "→",
-      "days_at_number_1": 3,
+      "days_at_number_1": 9,
       "top10_streak": 9
     },
     {
@@ -43,7 +43,7 @@
       "track_id": 1214,
       "artist": "Ariana Grande",
       "title": "Into You",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
@@ -58,6 +58,24 @@
     },
     {
       "rank": 7,
+      "track_id": 1305,
+      "artist": "鼓童",
+      "title": "凰（おおとり）",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 11
+    },
+    {
+      "rank": 8,
+      "track_id": 1247,
+      "artist": "Swedish House Mafia",
+      "title": "Don't You Worry Child",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 9,
       "track_id": 579,
       "artist": "ZARD",
       "title": "きっと忘れない",
@@ -66,31 +84,13 @@
       "top10_streak": 1
     },
     {
-      "rank": 8,
-      "track_id": 15,
-      "artist": "MONO NO AWARE",
-      "title": "もうけもん",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 9,
+      "rank": 10,
       "track_id": 1315,
       "artist": "Nirvana",
       "title": "Come As You Are",
-      "movement": "↓1",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 11
-    },
-    {
-      "rank": 10,
-      "track_id": 1305,
-      "artist": "鼓童",
-      "title": "凰（おおとり）",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 11
+      "top10_streak": 5
     }
   ]
 }

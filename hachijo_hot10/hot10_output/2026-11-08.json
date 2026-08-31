@@ -34,7 +34,7 @@
       "track_id": 16,
       "artist": "MIZ",
       "title": "暑中見舞い",
-      "movement": "↑5",
+      "movement": "↑6",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -85,12 +85,12 @@
     },
     {
       "rank": 10,
-      "track_id": 15,
-      "artist": "MONO NO AWARE",
-      "title": "もうけもん",
-      "movement": "↓2",
+      "track_id": 1030,
+      "artist": "Radiohead",
+      "title": "Creep",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
     }
   ]
 }

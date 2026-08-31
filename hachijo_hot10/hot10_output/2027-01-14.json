@@ -40,6 +40,15 @@
     },
     {
       "rank": 5,
+      "track_id": 1590,
+      "artist": "奥山熊雄",
+      "title": "色のついたシャバタキ・すがる",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 10
+    },
+    {
+      "rank": 6,
       "track_id": 58,
       "artist": "崎山蒼志",
       "title": "五月雨",
@@ -48,40 +57,31 @@
       "top10_streak": 1
     },
     {
-      "rank": 6,
+      "rank": 7,
       "track_id": 496,
       "artist": "宇多田ヒカル",
       "title": "Automatic",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 7,
+      "rank": 8,
       "track_id": 1584,
       "artist": "Elliott Smith",
       "title": "Between the Bars",
-      "movement": "→",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 7
     },
     {
-      "rank": 8,
+      "rank": 9,
       "track_id": 656,
       "artist": "友部正人",
       "title": "一本道",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
-    },
-    {
-      "rank": 9,
-      "track_id": 495,
-      "artist": "MISIA",
-      "title": "つつみ込むように…",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 11
     },
     {
       "rank": 10,

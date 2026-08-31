@@ -22,19 +22,19 @@
     },
     {
       "rank": 3,
-      "track_id": 471,
-      "artist": "TRF",
-      "title": "寒い夜だから…",
-      "movement": "→",
+      "track_id": 1601,
+      "artist": "福島弘和",
+      "title": "吹奏楽のための「おじゃれ」",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
       "rank": 4,
-      "track_id": 20,
-      "artist": "MONO NO AWARE",
-      "title": "水が湧いた",
-      "movement": "↓3",
+      "track_id": 548,
+      "artist": "REBECCA",
+      "title": "RASPBERRY DREAM",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
@@ -43,30 +43,21 @@
       "track_id": 1091,
       "artist": "The Cure",
       "title": "Boys Don’t Cry",
-      "movement": "↓3",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
       "rank": 6,
-      "track_id": 548,
-      "artist": "REBECCA",
-      "title": "RASPBERRY DREAM",
-      "movement": "→",
+      "track_id": 20,
+      "artist": "MONO NO AWARE",
+      "title": "水が湧いた",
+      "movement": "↓5",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 7,
-      "track_id": 1347,
-      "artist": "Garbage",
-      "title": "Only Happy When It Rains",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 8,
       "track_id": 607,
       "artist": "THE BLUE HEARTS",
       "title": "青空",
@@ -75,20 +66,29 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
-      "track_id": 563,
-      "artist": "ポルノグラフィティ",
-      "title": "サウダージ",
+      "rank": 8,
+      "track_id": 1347,
+      "artist": "Garbage",
+      "title": "Only Happy When It Rains",
       "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 2
     },
     {
-      "rank": 10,
+      "rank": 9,
       "track_id": 1215,
       "artist": "Taylor Swift",
       "title": "Shake It Off",
-      "movement": "NEW",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1048,
+      "artist": "Ben E. King",
+      "title": "Stand By Me",
+      "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     }

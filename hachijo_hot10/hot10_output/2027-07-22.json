@@ -7,7 +7,7 @@
       "track_id": 553,
       "artist": "米米CLUB",
       "title": "君がいるだけで",
-      "movement": "↑2",
+      "movement": "↑1",
       "days_at_number_1": 1,
       "top10_streak": 2
     },
@@ -16,27 +16,27 @@
       "track_id": 1589,
       "artist": "Massive Attack",
       "title": "Unfinished Sympathy",
-      "movement": "↑3",
+      "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 3,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 15
-    },
-    {
-      "rank": 4,
       "track_id": 348,
       "artist": "レミオロメン",
       "title": "電話",
-      "movement": "↑4",
+      "movement": "↑5",
       "days_at_number_1": 0,
       "top10_streak": 2
+    },
+    {
+      "rank": 4,
+      "track_id": 1252,
+      "artist": "Kygo",
+      "title": "Stole the Show (feat. Parson James)",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 4
     },
     {
       "rank": 5,
@@ -49,12 +49,12 @@
     },
     {
       "rank": 6,
-      "track_id": 1252,
-      "artist": "Kygo",
-      "title": "Stole the Show (feat. Parson James)",
-      "movement": "↑1",
+      "track_id": 759,
+      "artist": "吉田美奈子",
+      "title": "TOWN",
+      "movement": "↑4",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 5
     },
     {
       "rank": 7,

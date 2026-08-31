@@ -18,14 +18,14 @@
       "title": "丘",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 13
+      "top10_streak": 12
     },
     {
       "rank": 3,
       "track_id": 281,
       "artist": "ピチカート・ファイヴ",
       "title": "東京は夜の七時",
-      "movement": "↑6",
+      "movement": "↑5",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
@@ -34,7 +34,7 @@
       "track_id": 325,
       "artist": "SAKEROCK",
       "title": "慰安旅行",
-      "movement": "↑2",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
@@ -43,21 +43,12 @@
       "track_id": 468,
       "artist": "X JAPAN",
       "title": "ENDLESS RAIN",
-      "movement": "↓1",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 12
     },
     {
       "rank": 6,
-      "track_id": 15,
-      "artist": "MONO NO AWARE",
-      "title": "もうけもん",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 7,
       "track_id": 728,
       "artist": "角松敏生",
       "title": "If You Wanna Dance",
@@ -66,11 +57,20 @@
       "top10_streak": 7
     },
     {
+      "rank": 7,
+      "track_id": 1590,
+      "artist": "奥山熊雄",
+      "title": "色のついたシャバタキ・すがる",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
       "rank": 8,
       "track_id": 481,
       "artist": "奥田民生",
       "title": "愛のために",
-      "movement": "↓1",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
@@ -79,7 +79,7 @@
       "track_id": 495,
       "artist": "MISIA",
       "title": "つつみ込むように…",
-      "movement": "↓1",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 4
     },

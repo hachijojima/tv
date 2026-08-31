@@ -8,7 +8,7 @@
       "artist": "米米CLUB",
       "title": "Shake Hip!",
       "movement": "→",
-      "days_at_number_1": 2,
+      "days_at_number_1": 5,
       "top10_streak": 6
     },
     {
@@ -36,34 +36,34 @@
       "title": "ゾッコン",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 11
+      "top10_streak": 9
     },
     {
       "rank": 5,
-      "track_id": 1560,
-      "artist": "Mr.Children",
-      "title": "innocent world",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 6,
-      "track_id": 762,
-      "artist": "ティン・パン・アレー",
-      "title": "北京ダック",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 7,
       "track_id": 1280,
       "artist": "IVE",
       "title": "I AM",
       "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 4
+    },
+    {
+      "rank": 6,
+      "track_id": 1560,
+      "artist": "Mr.Children",
+      "title": "innocent world",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 7,
+      "track_id": 762,
+      "artist": "ティン・パン・アレー",
+      "title": "北京ダック",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 7
     },
     {
       "rank": 8,

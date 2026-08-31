@@ -22,15 +22,6 @@
     },
     {
       "rank": 3,
-      "track_id": 459,
-      "artist": "B'z",
-      "title": "ALONE",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 4,
       "track_id": 1204,
       "artist": "Rihanna",
       "title": "We Found Love",
@@ -39,16 +30,34 @@
       "top10_streak": 3
     },
     {
-      "rank": 5,
+      "rank": 4,
       "track_id": 458,
       "artist": "T-BOLAN",
       "title": "離したくはない",
-      "movement": "→",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
+      "rank": 5,
+      "track_id": 459,
+      "artist": "B'z",
+      "title": "ALONE",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
       "rank": 6,
+      "track_id": 348,
+      "artist": "レミオロメン",
+      "title": "電話",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 7,
       "track_id": 18,
       "artist": "MONO NO AWARE",
       "title": "アングル",
@@ -57,25 +66,7 @@
       "top10_streak": 2
     },
     {
-      "rank": 7,
-      "track_id": 348,
-      "artist": "レミオロメン",
-      "title": "電話",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
       "rank": 8,
-      "track_id": 1348,
-      "artist": "No Doubt",
-      "title": "Don't Speak",
-      "movement": "↓6",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 9,
       "track_id": 489,
       "artist": "小泉今日子",
       "title": "あなたに会えてよかった",
@@ -84,13 +75,22 @@
       "top10_streak": 6
     },
     {
-      "rank": 10,
-      "track_id": 1061,
-      "artist": "Cyndi Lauper",
-      "title": "Time After Time",
-      "movement": "RE",
+      "rank": 9,
+      "track_id": 1348,
+      "artist": "No Doubt",
+      "title": "Don't Speak",
+      "movement": "↓7",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 4
+    },
+    {
+      "rank": 10,
+      "track_id": 1241,
+      "artist": "Avicii",
+      "title": "Wake Me Up",
+      "movement": "↓6",
+      "days_at_number_1": 0,
+      "top10_streak": 7
     }
   ]
 }

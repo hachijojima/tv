@@ -67,6 +67,15 @@
     },
     {
       "rank": 8,
+      "track_id": 1594,
+      "artist": "團伊玖磨",
+      "title": "オリンピック序曲",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
       "track_id": 655,
       "artist": "山崎ハコ",
       "title": "呪い",
@@ -75,20 +84,11 @@
       "top10_streak": 1
     },
     {
-      "rank": 9,
+      "rank": 10,
       "track_id": 613,
       "artist": "小泉今日子",
       "title": "優しい雨",
       "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 10,
-      "track_id": 379,
-      "artist": "UA",
-      "title": "悲しみジョニー",
-      "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
     }
