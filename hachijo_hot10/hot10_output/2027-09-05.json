@@ -9,7 +9,7 @@
       "title": "In the End",
       "movement": "→",
       "days_at_number_1": 4,
-      "top10_streak": 10
+      "top10_streak": 9
     },
     {
       "rank": 2,
@@ -31,48 +31,48 @@
     },
     {
       "rank": 4,
+      "track_id": 466,
+      "artist": "GLAY",
+      "title": "BELOVED",
+      "movement": "↑5",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 5,
       "track_id": 482,
       "artist": "UNICORN",
       "title": "すばらしい日々",
-      "movement": "↑4",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
     {
-      "rank": 5,
+      "rank": 6,
       "track_id": 1032,
       "artist": "神聖かまってちゃん",
       "title": "ロックンロールは鳴り止まないっ",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 6,
+      "rank": 7,
       "track_id": 1534,
       "artist": "大瀧詠一",
       "title": "恋するカレン",
-      "movement": "↓1",
+      "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 10
     },
     {
-      "rank": 7,
-      "track_id": 466,
-      "artist": "GLAY",
-      "title": "BELOVED",
+      "rank": 8,
+      "track_id": 12,
+      "artist": "MIZ",
+      "title": "丘",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1
-    },
-    {
-      "rank": 8,
-      "track_id": 813,
-      "artist": "Official髭男dism",
-      "title": "Pretender",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
     },
     {
       "rank": 9,
@@ -85,9 +85,9 @@
     },
     {
       "rank": 10,
-      "track_id": 12,
-      "artist": "MIZ",
-      "title": "丘",
+      "track_id": 1383,
+      "artist": "Bon Jovi",
+      "title": "It's My Life",
       "movement": "RE",
       "days_at_number_1": 0,
       "top10_streak": 1

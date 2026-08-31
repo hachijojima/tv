@@ -1,7 +1,7 @@
 # HACHIJO HOT 10 — final 1601-track adoption
 
 - Adoption date: 2026-08-31 JST
-- Adoption commit: `8ac6b41` (`Adopt final 1601-track HOT10 master`)
+- Adoption commit: `a40aabe` (`Adopt final 1601-track HOT10 master`)
 - Production master: `HACHIJO_HOT10_master_1601_F41_MONO4_HACHIJOBOOST1_FUKUSHIMA_MINUS1.csv`
 - Master SHA-256: `32e77245c26cda593d09dc4946c39dabcdb0fd99fab4265f633d2e5c2d19ca1d`
 - Previous production master retained for regression testing: `HACHIJO_HOT10_master_1589_F41_MICROTUNE.csv`
@@ -15,7 +15,10 @@
 - `hot10_output/latest.json` and the current chart file `2026-08-31.json` were
   intentionally not regenerated.
 - Future projection files only were regenerated for `2026-09-01` through
-  `2027-09-04` (369 days), using the production daily seed convention:
+  `2027-09-05` (370 days). The normal daily job had already extended the
+  rolling horizon by one day before integration; that final day was refreshed
+  too, so no old-master projection remains. Generation uses the production
+  daily seed convention:
   `random.Random(YYYYMMDD)` per chart day.
 - The normal 03:05 JST `today` job remains responsible for overwriting the
   current chart date and advancing production state. Its idempotence continues

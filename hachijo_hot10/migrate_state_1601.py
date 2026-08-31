@@ -29,8 +29,14 @@ def migrate_state(before: dict[str, Any]) -> dict[str, Any]:
     """Return a migrated copy, preserving every existing state value exactly."""
     after = copy.deepcopy(before)
     tracks = after.get("tracks")
-    if not isinstance(tracks, dict) or set(tracks) != {str(value) for value in range(1, OLD_TRACK_COUNT + 1)}:
-        raise ValueError("production state must contain exactly track IDs 1..1589 before migration")
+    if not isinstance(tracks, dict):
+        raise ValueError("production state must contain a tracks map")
+    expected_old = {str(value) for value in range(1, OLD_TRACK_COUNT + 1)}
+    expected_final = {str(value) for value in range(1, FINAL_TRACK_COUNT + 1)}
+    if set(tracks) == expected_final:
+        return after
+    if set(tracks) != expected_old:
+        raise ValueError("production state must contain track IDs 1..1589 or 1..1601")
     for track_id in range(OLD_TRACK_COUNT + 1, FINAL_TRACK_COUNT + 1):
         tracks[str(track_id)] = hot10.blank_track_state()
     return after
@@ -45,10 +51,13 @@ def write_future_projection(
 ) -> int:
     """Replace only dates after ``current_day`` using a private projected state."""
     projected = copy.deepcopy(state)
-    # Advance the private state across today's pending daily generation.  This
-    # mirrors tomorrow's normal ``today`` run while keeping today's live files
-    # and the production state entirely untouched.
-    hot10.generate_chart(current_day, tracks, projected, config, random.Random(int(current_day.strftime("%Y%m%d"))))
+    last_generated = date.fromisoformat(projected["last_generated_chart_date"])
+    if last_generated > current_day:
+        raise ValueError("production state is newer than the protected current chart date")
+    if last_generated < current_day:
+        # Advance only a pending current day in the private copy. This mirrors
+        # the regular ``today`` run while preserving live files and state.
+        hot10.generate_chart(current_day, tracks, projected, config, random.Random(int(current_day.strftime("%Y%m%d"))))
     count = 0
     day = current_day + timedelta(days=1)
     while day <= horizon_end:
@@ -83,7 +92,7 @@ def main() -> None:
     if {key: value for key, value in before.items() if key != "tracks"} != {key: value for key, value in after.items() if key != "tracks"}:
         raise AssertionError("production globals changed")
     hot10.atomic_write_json(hot10.STATE_PATH, after)
-    print(f"state migrated: 1589 -> {len(after['tracks'])} tracks")
+    print(f"state ready: {len(before['tracks'])} -> {len(after['tracks'])} tracks")
     print(f"future projections regenerated: {write_future_projection(after, tracks, config, args.current_chart_date, args.horizon_end)}")
 
 
