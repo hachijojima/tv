@@ -1,0 +1,96 @@
+{
+  "date": "2027-09-07",
+  "generated_at": "2027-09-07T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 1617,
+      "artist": "sugar plant",
+      "title": "rise",
+      "movement": "↑1",
+      "days_at_number_1": 1,
+      "top10_streak": 2
+    },
+    {
+      "rank": 2,
+      "track_id": 591,
+      "artist": "LUNA SEA",
+      "title": "I for You",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 3,
+      "track_id": 1508,
+      "artist": "RCサクセション",
+      "title": "多摩蘭坂",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 4,
+      "track_id": 584,
+      "artist": "Mr.Children",
+      "title": "名もなき詩",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 5,
+      "track_id": 499,
+      "artist": "SPEED",
+      "title": "White Love",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 6,
+      "track_id": 1212,
+      "artist": "Dua Lipa",
+      "title": "Levitating",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 7,
+      "track_id": 860,
+      "artist": "Aimer",
+      "title": "残響散歌",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 1336,
+      "artist": "Coldplay",
+      "title": "Clocks",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 9,
+      "track_id": 1626,
+      "artist": "イルリメ",
+      "title": "元気でやってるのかい？",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 10
+    },
+    {
+      "rank": 10,
+      "track_id": 812,
+      "artist": "米津玄師",
+      "title": "LOSER",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    }
+  ]
+}
