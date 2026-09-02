@@ -1,0 +1,96 @@
+{
+  "date": "2027-09-08",
+  "generated_at": "2027-09-08T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 591,
+      "artist": "LUNA SEA",
+      "title": "I for You",
+      "movement": "↑1",
+      "days_at_number_1": 1,
+      "top10_streak": 6
+    },
+    {
+      "rank": 2,
+      "track_id": 584,
+      "artist": "Mr.Children",
+      "title": "名もなき詩",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 3,
+      "track_id": 1508,
+      "artist": "RCサクセション",
+      "title": "多摩蘭坂",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 4,
+      "track_id": 1617,
+      "artist": "sugar plant",
+      "title": "rise",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 5,
+      "track_id": 499,
+      "artist": "SPEED",
+      "title": "White Love",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 6,
+      "track_id": 1212,
+      "artist": "Dua Lipa",
+      "title": "Levitating",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 7,
+      "track_id": 1336,
+      "artist": "Coldplay",
+      "title": "Clocks",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
+      "track_id": 860,
+      "artist": "Aimer",
+      "title": "残響散歌",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 9,
+      "track_id": 476,
+      "artist": "シャ乱Q",
+      "title": "上・京・物・語",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1213,
+      "artist": "Ariana Grande",
+      "title": "thank u, next",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    }
+  ]
+}

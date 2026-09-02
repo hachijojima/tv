@@ -1,96 +1,96 @@
 {
-  "date": "2026-09-02",
-  "generated_at": "2026-09-02T05:39:56.995763+09:00",
+  "date": "2026-09-03",
+  "generated_at": "2026-09-03T05:37:29.012442+09:00",
   "chart": [
     {
       "rank": 1,
-      "track_id": 541,
-      "artist": "山崎まさよし",
-      "title": "セロリ",
-      "movement": "↑2",
-      "days_at_number_1": 1,
-      "top10_streak": 4
-    },
-    {
-      "rank": 2,
-      "track_id": 1247,
-      "artist": "Swedish House Mafia",
-      "title": "Don't You Worry Child",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 3,
-      "track_id": 533,
-      "artist": "TRF",
-      "title": "survival dAnce ～no no cry more～",
+      "track_id": 680,
+      "artist": "キャンディーズ",
+      "title": "春一番",
       "movement": "NEW",
-      "days_at_number_1": 0,
+      "days_at_number_1": 1,
       "top10_streak": 1
     },
     {
+      "rank": 2,
+      "track_id": 533,
+      "artist": "TRF",
+      "title": "survival dAnce ～no no cry more～",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 3,
+      "track_id": 1040,
+      "artist": "METAFIVE",
+      "title": "環境と心理",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
       "rank": 4,
-      "track_id": 1288,
-      "artist": "BIGBANG",
-      "title": "FANTASTIC BABY",
+      "track_id": 1247,
+      "artist": "Swedish House Mafia",
+      "title": "Don't You Worry Child",
       "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 5
     },
     {
       "rank": 5,
       "track_id": 1028,
       "artist": "Kendrick Lamar",
       "title": "Alright",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 7
     },
     {
       "rank": 6,
-      "track_id": 1040,
-      "artist": "METAFIVE",
-      "title": "環境と心理",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 7,
       "track_id": 660,
       "artist": "岡林信康",
       "title": "山谷ブルース",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 8,
-      "track_id": 776,
-      "artist": "Vaundy",
-      "title": "東京フラッシュ",
       "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 9,
-      "track_id": 1400,
-      "artist": "フジファブリック",
-      "title": "銀河",
-      "movement": "↓5",
+      "rank": 7,
+      "track_id": 541,
+      "artist": "山崎まさよし",
+      "title": "セロリ",
+      "movement": "↓6",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
-      "rank": 10,
-      "track_id": 1625,
-      "artist": "NATSUMEN",
-      "title": "Cicada Sing The Galaxy",
-      "movement": "↓2",
+      "rank": 8,
+      "track_id": 1288,
+      "artist": "BIGBANG",
+      "title": "FANTASTIC BABY",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 4
+    },
+    {
+      "rank": 9,
+      "track_id": 725,
+      "artist": "カルメン・マキ",
+      "title": "山羊にひかれて",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 641,
+      "artist": "佐野元春",
+      "title": "SOMEDAY",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }
