@@ -3,7 +3,7 @@ const sb = window.supabase.createClient(window.FM_HACHIJO_SUPABASE.url, window.F
 const audioPreferenceKey = 'fm8jo_audio_preference';
 function getAudioPreference() { try { const value = localStorage.getItem(audioPreferenceKey); return value === 'on' || value === 'off' ? value : null; } catch { return null; } }
 function setAudioPreference(value) { try { localStorage.setItem(audioPreferenceKey, value); } catch {} }
-const state = { player: null, current: null, key: '', boundaryTimer: null, soundOn: false, audioPreference: getAudioPreference(), showAudioOverlay: false, awaitingAudibleAutoplay: false, initialising: false };
+const state = { player: null, current: null, key: '', boundaryTimer: null, accessRetryTimer: null, accessAttempts: 0, soundOn: false, audioPreference: getAudioPreference(), showAudioOverlay: false, awaitingAudibleAutoplay: false, initialising: false };
 function trackEvent(name, parameters = {}) { if (typeof window.gtag === 'function') window.gtag('event', name, parameters); }
 const familyName = { music: 'MUSIC', hachijo_taiko: 'HACHIJO TAIKO', power_push: 'POWER PLAY', sports: 'SPORTS', hachijo_picks: 'HACHIJO PICKS', island_view: 'ISLAND VIEW', tokyo_relay: 'TOKYO RELAY' };
 const formatTime = value => new Intl.DateTimeFormat('ja-JP', { timeZone: 'Asia/Tokyo', hour: '2-digit', minute: '2-digit', hourCycle: 'h23' }).format(new Date(value));
@@ -14,8 +14,11 @@ const speakerIcon = 'M4 9v6h4l5 4V5L8 9H4Zm12.59 3 2.7-2.7-1.41-1.41-2.7 2.7-2.7
 const mutedSpeakerIcon = 'M4 9v6h4l5 4V5L8 9H4Zm12.5 3c0-1.77-1-3.29-2.5-4.03v8.05A4.49 4.49 0 0 0 16.5 12ZM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.5 7-8.77s-2.99-7.86-7-8.77Z';
 function soundLabel() { const button = $('#sound-toggle'); const label = state.soundOn ? '音を消す' : '音を出す'; button.querySelector('span').textContent = label; button.querySelector('path').setAttribute('d', state.soundOn ? speakerIcon : mutedSpeakerIcon); button.setAttribute('aria-label', label); button.setAttribute('aria-pressed', String(state.soundOn)); button.classList.toggle('is-audible', state.soundOn); const overlay = $('#audio-unmute-overlay'); overlay.hidden = !(desktopAudioUI() && state.showAudioOverlay && !state.soundOn && state.player); }
 const jstDateKey = () => new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Tokyo', year: 'numeric', month: '2-digit', day: '2-digit' }).format(new Date());
-function showAccessTotal(total) { document.querySelector("#presence-count").textContent = `${Number(total || 0)}人`; document.querySelector("#presence-status").setAttribute("aria-label", `${Number(total || 0)}人がみています`); }
-async function recordAccess() { try { const key = `fmh_access_recorded_${jstDateKey()}`; if (sessionStorage.getItem(key)) { const { data, error } = await sb.rpc("access_total"); if (!error) showAccessTotal(data); return; } const { data, error } = await sb.rpc("record_access"); if (error) return; sessionStorage.setItem(key, '1'); showAccessTotal(data); } catch {} }
+const accessTotalCacheKey = 'fmh_access_total';
+function showAccessTotal(total) { const count = Number(total); if (!Number.isFinite(count) || count < 0) throw new Error('Invalid access total'); document.querySelector("#presence-count").textContent = `${count}人`; document.querySelector("#presence-status").setAttribute("aria-label", `${count}人がみています`); try { localStorage.setItem(accessTotalCacheKey, String(count)); } catch {} }
+function showCachedAccessTotal() { try { const cached = localStorage.getItem(accessTotalCacheKey); if (cached !== null) showAccessTotal(cached); } catch {} }
+function retryAccessRecord() { clearTimeout(state.accessRetryTimer); const delay = Math.min(60000, 1500 * 2 ** state.accessAttempts); state.accessAttempts += 1; state.accessRetryTimer = window.setTimeout(recordAccess, delay); }
+async function recordAccess() { try { const key = `fmh_access_recorded_${jstDateKey()}`; const { data, error } = sessionStorage.getItem(key) ? await sb.rpc("access_total") : await sb.rpc("record_access"); if (error) throw error; showAccessTotal(data); sessionStorage.setItem(key, '1'); state.accessAttempts = 0; clearTimeout(state.accessRetryTimer); } catch (error) { console.warn('Unable to update viewer count; retrying.', error); retryAccessRecord(); } }
 const hot10Weekdays = ['Sun.', 'Mon.', 'Tue.', 'Wed.', 'Thu.', 'Fri.', 'Sat.'];
 function hot10MovementLabel(movement) { if (movement === 'NEW') return 'NEW'; if (movement === 'RE') return 'RE'; if (movement === '→') return '順位変動なし'; const match = /^([↑↓])(\d+)$/.exec(movement || ''); return match ? `${match[2]}位${match[1] === '↑' ? '上昇' : '下降'}` : (movement || '順位情報なし'); }
 function renderHot10Date(date) { const match = /^(\d{4})-(\d{2})-(\d{2})$/.exec(date || ''); if (!match) throw new Error('Invalid HOT10 date'); const [year, month, day] = match.slice(1); const weekday = hot10Weekdays[new Date(Date.UTC(Number(year), Number(month) - 1, Number(day))).getUTCDay()]; $('#hot10-date').setAttribute('aria-label', `${Number(year)}年${Number(month)}月${Number(day)}日 ${weekday}`); $('.hot10-month-day').textContent = `${Number(month)}.${day}`; $('.hot10-weekday').textContent = weekday; $('.hot10-year').textContent = year; }
@@ -81,4 +84,4 @@ if (new URLSearchParams(location.search).get('request') === 'sent') {
   url.searchParams.delete('request');
   history.replaceState({}, '', url);
 }
-window.addEventListener('resize', soundLabel); soundLabel(); recordAccess(); loadHot10(); scheduleHot10BoundaryRefresh();
+window.addEventListener('resize', soundLabel); soundLabel(); showCachedAccessTotal(); recordAccess(); loadHot10(); scheduleHot10BoundaryRefresh();
