@@ -1,0 +1,96 @@
+{
+  "date": "2027-09-10",
+  "generated_at": "2027-09-10T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 584,
+      "artist": "Mr.Children",
+      "title": "名もなき詩",
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 6
+    },
+    {
+      "rank": 2,
+      "track_id": 476,
+      "artist": "シャ乱Q",
+      "title": "上・京・物・語",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 3,
+      "track_id": 518,
+      "artist": "FIELD OF VIEW",
+      "title": "DAN DAN 心魅かれてく",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 4,
+      "track_id": 1508,
+      "artist": "RCサクセション",
+      "title": "多摩蘭坂",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 5,
+      "track_id": 1212,
+      "artist": "Dua Lipa",
+      "title": "Levitating",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 6,
+      "track_id": 591,
+      "artist": "LUNA SEA",
+      "title": "I for You",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 7,
+      "track_id": 1553,
+      "artist": "BONNIE PINK",
+      "title": "Forget Me Not",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 499,
+      "artist": "SPEED",
+      "title": "White Love",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 9,
+      "track_id": 1213,
+      "artist": "Ariana Grande",
+      "title": "thank u, next",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 10,
+      "track_id": 479,
+      "artist": "山崎まさよし",
+      "title": "中華料理",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    }
+  ]
+}
