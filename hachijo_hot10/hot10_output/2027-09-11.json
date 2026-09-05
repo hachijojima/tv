@@ -1,0 +1,96 @@
+{
+  "date": "2027-09-11",
+  "generated_at": "2027-09-11T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 476,
+      "artist": "シャ乱Q",
+      "title": "上・京・物・語",
+      "movement": "↑1",
+      "days_at_number_1": 1,
+      "top10_streak": 4
+    },
+    {
+      "rank": 2,
+      "track_id": 584,
+      "artist": "Mr.Children",
+      "title": "名もなき詩",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 3,
+      "track_id": 518,
+      "artist": "FIELD OF VIEW",
+      "title": "DAN DAN 心魅かれてく",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 4,
+      "track_id": 1198,
+      "artist": "中村佳穂",
+      "title": "そのいのち",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 5,
+      "track_id": 1508,
+      "artist": "RCサクセション",
+      "title": "多摩蘭坂",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 6,
+      "track_id": 1553,
+      "artist": "BONNIE PINK",
+      "title": "Forget Me Not",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 7,
+      "track_id": 591,
+      "artist": "LUNA SEA",
+      "title": "I for You",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 9
+    },
+    {
+      "rank": 8,
+      "track_id": 1212,
+      "artist": "Dua Lipa",
+      "title": "Levitating",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 9,
+      "track_id": 660,
+      "artist": "岡林信康",
+      "title": "山谷ブルース",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1213,
+      "artist": "Ariana Grande",
+      "title": "thank u, next",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    }
+  ]
+}
