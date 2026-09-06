@@ -1,0 +1,96 @@
+{
+  "date": "2027-09-12",
+  "generated_at": "2027-09-12T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 584,
+      "artist": "Mr.Children",
+      "title": "名もなき詩",
+      "movement": "↑1",
+      "days_at_number_1": 1,
+      "top10_streak": 8
+    },
+    {
+      "rank": 2,
+      "track_id": 476,
+      "artist": "シャ乱Q",
+      "title": "上・京・物・語",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 3,
+      "track_id": 33,
+      "artist": "ミツメ",
+      "title": "エスパー",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 4,
+      "track_id": 1198,
+      "artist": "中村佳穂",
+      "title": "そのいのち",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 660,
+      "artist": "岡林信康",
+      "title": "山谷ブルース",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 6,
+      "track_id": 591,
+      "artist": "LUNA SEA",
+      "title": "I for You",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 10
+    },
+    {
+      "rank": 7,
+      "track_id": 1508,
+      "artist": "RCサクセション",
+      "title": "多摩蘭坂",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 8,
+      "track_id": 805,
+      "artist": "WONK",
+      "title": "Rollin'",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 315,
+      "artist": "BEAT CRUSADERS",
+      "title": "HIT IN THE USA",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1622,
+      "artist": "downy",
+      "title": "左の種",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    }
+  ]
+}
