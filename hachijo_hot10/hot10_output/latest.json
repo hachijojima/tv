@@ -1,24 +1,24 @@
 {
-  "date": "2026-09-07",
-  "generated_at": "2026-09-07T05:05:02.906456+09:00",
+  "date": "2026-09-08",
+  "generated_at": "2026-09-08T06:12:25.514890+09:00",
   "chart": [
     {
       "rank": 1,
-      "track_id": 1002,
-      "artist": "Jamiroquai",
-      "title": "Virtual Insanity",
-      "movement": "→",
-      "days_at_number_1": 2,
+      "track_id": 1394,
+      "artist": "GOING STEADY",
+      "title": "BABY BABY",
+      "movement": "↑1",
+      "days_at_number_1": 1,
       "top10_streak": 3
     },
     {
       "rank": 2,
-      "track_id": 1394,
-      "artist": "GOING STEADY",
-      "title": "BABY BABY",
-      "movement": "↑6",
+      "track_id": 1002,
+      "artist": "Jamiroquai",
+      "title": "Virtual Insanity",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 4
     },
     {
       "rank": 3,
@@ -27,70 +27,70 @@
       "title": "カウントダウン",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 5
     },
     {
       "rank": 4,
-      "track_id": 1001,
-      "artist": "Earth, Wind & Fire",
-      "title": "September",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 5,
       "track_id": 1709,
       "artist": "Satanicpornocultshop",
       "title": "Anorexia Gas Balloon",
-      "movement": "↑4",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 3
     },
     {
-      "rank": 6,
-      "track_id": 641,
-      "artist": "佐野元春",
-      "title": "SOMEDAY",
-      "movement": "↓2",
+      "rank": 5,
+      "track_id": 1001,
+      "artist": "Earth, Wind & Fire",
+      "title": "September",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
-      "rank": 7,
-      "track_id": 580,
-      "artist": "FIELD OF VIEW",
-      "title": "Last Good-bye",
-      "movement": "↑3",
+      "rank": 6,
+      "track_id": 1615,
+      "artist": "DRY&HEAVY",
+      "title": "New Creation",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
     },
     {
-      "rank": 8,
-      "track_id": 1040,
-      "artist": "METAFIVE",
-      "title": "環境と心理",
-      "movement": "↓6",
+      "rank": 7,
+      "track_id": 641,
+      "artist": "佐野元春",
+      "title": "SOMEDAY",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
     {
-      "rank": 9,
-      "track_id": 680,
-      "artist": "キャンディーズ",
-      "title": "春一番",
-      "movement": "↓3",
+      "rank": 8,
+      "track_id": 580,
+      "artist": "FIELD OF VIEW",
+      "title": "Last Good-bye",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 3
+    },
+    {
+      "rank": 9,
+      "track_id": 1301,
+      "artist": "爆風スランプ",
+      "title": "旅人よ ～The Longest Journey～",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     },
     {
       "rank": 10,
       "track_id": 660,
       "artist": "岡林信康",
       "title": "山谷ブルース",
-      "movement": "↓3",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 7
     }
   ]
 }

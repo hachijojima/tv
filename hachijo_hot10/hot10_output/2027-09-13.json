@@ -1,0 +1,96 @@
+{
+  "date": "2027-09-13",
+  "generated_at": "2027-09-13T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 584,
+      "artist": "Mr.Children",
+      "title": "名もなき詩",
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 9
+    },
+    {
+      "rank": 2,
+      "track_id": 805,
+      "artist": "WONK",
+      "title": "Rollin'",
+      "movement": "↑6",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 3,
+      "track_id": 1587,
+      "artist": "Teenage Fanclub",
+      "title": "The Concept",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 4,
+      "track_id": 476,
+      "artist": "シャ乱Q",
+      "title": "上・京・物・語",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 5,
+      "track_id": 33,
+      "artist": "ミツメ",
+      "title": "エスパー",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 6,
+      "track_id": 660,
+      "artist": "岡林信康",
+      "title": "山谷ブルース",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 7,
+      "track_id": 1713,
+      "artist": "PINE*am",
+      "title": "Gymnopedie 0.1",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 1198,
+      "artist": "中村佳穂",
+      "title": "そのいのち",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 9,
+      "track_id": 1622,
+      "artist": "downy",
+      "title": "左の種",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 10,
+      "track_id": 1508,
+      "artist": "RCサクセション",
+      "title": "多摩蘭坂",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 9
+    }
+  ]
+}
