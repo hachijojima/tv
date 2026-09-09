@@ -1,0 +1,96 @@
+{
+  "date": "2027-09-15",
+  "generated_at": "2027-09-15T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 1618,
+      "artist": "DJ KRUSH",
+      "title": "Kemuri",
+      "movement": "↑6",
+      "days_at_number_1": 1,
+      "top10_streak": 2
+    },
+    {
+      "rank": 2,
+      "track_id": 805,
+      "artist": "WONK",
+      "title": "Rollin'",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 3,
+      "track_id": 584,
+      "artist": "Mr.Children",
+      "title": "名もなき詩",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 11
+    },
+    {
+      "rank": 4,
+      "track_id": 1622,
+      "artist": "downy",
+      "title": "左の種",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 5,
+      "track_id": 1587,
+      "artist": "Teenage Fanclub",
+      "title": "The Concept",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 6,
+      "track_id": 660,
+      "artist": "岡林信康",
+      "title": "山谷ブルース",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 7,
+      "track_id": 386,
+      "artist": "NUMBER GIRL",
+      "title": "鉄風 鋭くなって",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 1020,
+      "artist": "The Doobie Brothers",
+      "title": "What a Fool Believes",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 1217,
+      "artist": "Katy Perry",
+      "title": "Firework",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 10,
+      "track_id": 915,
+      "artist": "Slowdive",
+      "title": "Alison",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    }
+  ]
+}
