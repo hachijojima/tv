@@ -1,0 +1,96 @@
+{
+  "date": "2027-09-16",
+  "generated_at": "2027-09-16T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 1618,
+      "artist": "DJ KRUSH",
+      "title": "Kemuri",
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 3
+    },
+    {
+      "rank": 2,
+      "track_id": 1622,
+      "artist": "downy",
+      "title": "左の種",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 3,
+      "track_id": 748,
+      "artist": "細野晴臣",
+      "title": "北京ダック",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 4,
+      "track_id": 1020,
+      "artist": "The Doobie Brothers",
+      "title": "What a Fool Believes",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 386,
+      "artist": "NUMBER GIRL",
+      "title": "鉄風 鋭くなって",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 6,
+      "track_id": 805,
+      "artist": "WONK",
+      "title": "Rollin'",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 7,
+      "track_id": 1313,
+      "artist": "U2",
+      "title": "Where the Streets Have No Name",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 1387,
+      "artist": "Fishmans",
+      "title": "Go Go Round This World!",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 1587,
+      "artist": "Teenage Fanclub",
+      "title": "The Concept",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 10,
+      "track_id": 584,
+      "artist": "Mr.Children",
+      "title": "名もなき詩",
+      "movement": "↓7",
+      "days_at_number_1": 0,
+      "top10_streak": 12
+    }
+  ]
+}
