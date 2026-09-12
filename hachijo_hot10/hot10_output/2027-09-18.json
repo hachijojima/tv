@@ -1,0 +1,96 @@
+{
+  "date": "2027-09-18",
+  "generated_at": "2027-09-18T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 1387,
+      "artist": "Fishmans",
+      "title": "Go Go Round This World!",
+      "movement": "↑2",
+      "days_at_number_1": 1,
+      "top10_streak": 3
+    },
+    {
+      "rank": 2,
+      "track_id": 1020,
+      "artist": "The Doobie Brothers",
+      "title": "What a Fool Believes",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 3,
+      "track_id": 748,
+      "artist": "細野晴臣",
+      "title": "北京ダック",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 4,
+      "track_id": 220,
+      "artist": "iri",
+      "title": "Watashi",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 5,
+      "track_id": 536,
+      "artist": "PUFFY",
+      "title": "これが私の生きる道",
+      "movement": "↑5",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 6,
+      "track_id": 1622,
+      "artist": "downy",
+      "title": "左の種",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 7,
+      "track_id": 827,
+      "artist": "indigo la End",
+      "title": "瞳に映らない",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 691,
+      "artist": "山下達郎",
+      "title": "RIDE ON TIME",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 1597,
+      "artist": "天野花",
+      "title": "透明なブルー",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 671,
+      "artist": "亜蘭知子",
+      "title": "Midnight Pretenders",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    }
+  ]
+}

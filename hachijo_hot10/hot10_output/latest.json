@@ -1,93 +1,93 @@
 {
-  "date": "2026-09-12",
-  "generated_at": "2026-09-12T05:35:17.752311+09:00",
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T05:16:05.263091+09:00",
   "chart": [
     {
       "rank": 1,
-      "track_id": 1394,
-      "artist": "GOING STEADY",
-      "title": "BABY BABY",
-      "movement": "→",
-      "days_at_number_1": 5,
-      "top10_streak": 7
+      "track_id": 1615,
+      "artist": "DRY&HEAVY",
+      "title": "New Creation",
+      "movement": "↑2",
+      "days_at_number_1": 1,
+      "top10_streak": 6
     },
     {
       "rank": 2,
       "track_id": 1043,
       "artist": "Television",
       "title": "Marquee Moon",
-      "movement": "↑3",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 3
     },
     {
       "rank": 3,
-      "track_id": 1615,
-      "artist": "DRY&HEAVY",
-      "title": "New Creation",
-      "movement": "→",
+      "track_id": 1394,
+      "artist": "GOING STEADY",
+      "title": "BABY BABY",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 8
     },
     {
       "rank": 4,
-      "track_id": 1301,
-      "artist": "爆風スランプ",
-      "title": "旅人よ ～The Longest Journey～",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 5,
-      "track_id": 703,
-      "artist": "杉真理",
-      "title": "いとしのテラ",
-      "movement": "↑1",
+      "track_id": 1383,
+      "artist": "Bon Jovi",
+      "title": "It's My Life",
+      "movement": "↑5",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 6,
-      "track_id": 247,
-      "artist": "思い出野郎Aチーム",
-      "title": "楽しく暮らそう",
-      "movement": "NEW",
+      "rank": 5,
+      "track_id": 1301,
+      "artist": "爆風スランプ",
+      "title": "旅人よ ～The Longest Journey～",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 6
+    },
+    {
+      "rank": 6,
+      "track_id": 14,
+      "artist": "MIZ",
+      "title": "とびうおのうた",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     },
     {
       "rank": 7,
       "track_id": 356,
       "artist": "ROUND TABLE",
       "title": "Chocolate",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 1605,
+      "artist": "ASA-CHANG&巡礼",
+      "title": "花",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 8,
-      "track_id": 1691,
-      "artist": "非常階段",
-      "title": "Modern",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
       "rank": 9,
-      "track_id": 1383,
-      "artist": "Bon Jovi",
-      "title": "It's My Life",
+      "track_id": 925,
+      "artist": "Donald Fagen",
+      "title": "I.G.Y.",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 14,
-      "artist": "MIZ",
-      "title": "とびうおのうた",
+      "track_id": 48,
+      "artist": "TENDRE",
+      "title": "DOCUMENT",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
