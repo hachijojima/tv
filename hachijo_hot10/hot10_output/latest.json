@@ -1,96 +1,96 @@
 {
-  "date": "2026-09-14",
-  "generated_at": "2026-09-14T05:25:49.707979+09:00",
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T06:34:43.813933+09:00",
   "chart": [
     {
       "rank": 1,
       "track_id": 1383,
       "artist": "Bon Jovi",
       "title": "It's My Life",
-      "movement": "↑3",
-      "days_at_number_1": 1,
-      "top10_streak": 3
-    },
-    {
-      "rank": 2,
-      "track_id": 1043,
-      "artist": "Television",
-      "title": "Marquee Moon",
       "movement": "→",
-      "days_at_number_1": 0,
+      "days_at_number_1": 2,
       "top10_streak": 4
     },
     {
-      "rank": 3,
+      "rank": 2,
       "track_id": 1191,
       "artist": "宇多田ヒカル",
       "title": "Beautiful World",
-      "movement": "NEW",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
+    },
+    {
+      "rank": 3,
+      "track_id": 1043,
+      "artist": "Television",
+      "title": "Marquee Moon",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
     },
     {
       "rank": 4,
-      "track_id": 1615,
-      "artist": "DRY&HEAVY",
-      "title": "New Creation",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 5,
       "track_id": 925,
       "artist": "Donald Fagen",
       "title": "I.G.Y.",
-      "movement": "↑4",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 5,
+      "track_id": 12,
+      "artist": "MIZ",
+      "title": "丘",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 6,
-      "track_id": 12,
-      "artist": "MIZ",
-      "title": "丘",
+      "track_id": 1389,
+      "artist": "Fishmans",
+      "title": "ひこうき",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 7,
-      "track_id": 1394,
-      "artist": "GOING STEADY",
-      "title": "BABY BABY",
-      "movement": "↓4",
+      "track_id": 1615,
+      "artist": "DRY&HEAVY",
+      "title": "New Creation",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 9
+      "top10_streak": 8
     },
     {
       "rank": 8,
+      "track_id": 636,
+      "artist": "鈴木茂",
+      "title": "砂の女",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
       "track_id": 356,
       "artist": "ROUND TABLE",
       "title": "Chocolate",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 9,
-      "track_id": 1707,
-      "artist": "Naruyoshi Kikuchi Dub Sextet",
-      "title": "Dub Liz",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 4
     },
     {
       "rank": 10,
-      "track_id": 1561,
-      "artist": "Mr.Children",
-      "title": "【es】〜Theme of es〜",
-      "movement": "NEW",
+      "track_id": 1707,
+      "artist": "Naruyoshi Kikuchi Dub Sextet",
+      "title": "Dub Liz",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     }
   ]
 }
