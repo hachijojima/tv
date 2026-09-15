@@ -1,0 +1,96 @@
+{
+  "date": "2027-09-21",
+  "generated_at": "2027-09-21T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 10,
+      "artist": "MIZ",
+      "title": "パジャマでハイウェイ",
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 2
+    },
+    {
+      "rank": 2,
+      "track_id": 1072,
+      "artist": "坂本龍一",
+      "title": "Thousand Knives",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 3,
+      "track_id": 1597,
+      "artist": "天野花",
+      "title": "透明なブルー",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 4,
+      "track_id": 361,
+      "artist": "ACIDMAN",
+      "title": "造花が笑う",
+      "movement": "↑6",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 536,
+      "artist": "PUFFY",
+      "title": "これが私の生きる道",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 6,
+      "track_id": 1029,
+      "artist": "m-flo",
+      "title": "come again",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 7,
+      "track_id": 880,
+      "artist": "Belle and Sebastian",
+      "title": "The Boy with the Arab Strap",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 698,
+      "artist": "南佳孝",
+      "title": "スローなブギにしてくれ",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 748,
+      "artist": "細野晴臣",
+      "title": "北京ダック",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 10,
+      "track_id": 658,
+      "artist": "遠藤賢司",
+      "title": "カレーライス",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    }
+  ]
+}
