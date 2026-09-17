@@ -1,0 +1,96 @@
+{
+  "date": "2027-09-23",
+  "generated_at": "2027-09-23T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 1029,
+      "artist": "m-flo",
+      "title": "come again",
+      "movement": "↑2",
+      "days_at_number_1": 1,
+      "top10_streak": 3
+    },
+    {
+      "rank": 2,
+      "track_id": 1072,
+      "artist": "坂本龍一",
+      "title": "Thousand Knives",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 3,
+      "track_id": 10,
+      "artist": "MIZ",
+      "title": "パジャマでハイウェイ",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 4,
+      "track_id": 1235,
+      "artist": "Lorde",
+      "title": "Royals",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 5,
+      "track_id": 361,
+      "artist": "ACIDMAN",
+      "title": "造花が笑う",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 6,
+      "track_id": 1273,
+      "artist": "BTS",
+      "title": "Dynamite",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 7,
+      "track_id": 658,
+      "artist": "遠藤賢司",
+      "title": "カレーライス",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
+      "track_id": 517,
+      "artist": "ZARD",
+      "title": "揺れる想い",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 1597,
+      "artist": "天野花",
+      "title": "透明なブルー",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 10,
+      "track_id": 1655,
+      "artist": "モーモールルギャバン",
+      "title": "サイケな恋人",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    }
+  ]
+}
