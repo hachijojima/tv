@@ -1,0 +1,96 @@
+{
+  "date": "2027-09-24",
+  "generated_at": "2027-09-24T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 1235,
+      "artist": "Lorde",
+      "title": "Royals",
+      "movement": "↑3",
+      "days_at_number_1": 1,
+      "top10_streak": 2
+    },
+    {
+      "rank": 2,
+      "track_id": 1514,
+      "artist": "戸川純",
+      "title": "玉姫様",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 3,
+      "track_id": 1029,
+      "artist": "m-flo",
+      "title": "come again",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 4,
+      "track_id": 10,
+      "artist": "MIZ",
+      "title": "パジャマでハイウェイ",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 5,
+      "track_id": 1273,
+      "artist": "BTS",
+      "title": "Dynamite",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 6,
+      "track_id": 361,
+      "artist": "ACIDMAN",
+      "title": "造花が笑う",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 7,
+      "track_id": 1108,
+      "artist": "Portishead",
+      "title": "Glory Box",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 1072,
+      "artist": "坂本龍一",
+      "title": "Thousand Knives",
+      "movement": "↓6",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 9,
+      "track_id": 517,
+      "artist": "ZARD",
+      "title": "揺れる想い",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 10,
+      "track_id": 1672,
+      "artist": "Hartfield",
+      "title": "Today Forever",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    }
+  ]
+}
