@@ -1,94 +1,94 @@
 {
-  "date": "2026-09-19",
-  "generated_at": "2026-09-19T05:31:31.616100+09:00",
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T05:09:20.830267+09:00",
   "chart": [
     {
       "rank": 1,
-      "track_id": 636,
-      "artist": "鈴木茂",
-      "title": "砂の女",
-      "movement": "→",
-      "days_at_number_1": 4,
-      "top10_streak": 5
-    },
-    {
-      "rank": 2,
-      "track_id": 1702,
-      "artist": "Maher Shalal Hash Baz",
-      "title": "Unknown Happiness",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 3,
       "track_id": 1601,
       "artist": "福島弘和",
       "title": "吹奏楽のための「おじゃれ」",
-      "movement": "↑5",
-      "days_at_number_1": 0,
-      "top10_streak": 3
+      "movement": "↑2",
+      "days_at_number_1": 1,
+      "top10_streak": 4
     },
     {
-      "rank": 4,
+      "rank": 2,
       "track_id": 1634,
       "artist": "THA BLUE HERB",
       "title": "未来は俺等の手の中",
-      "movement": "↓1",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 4
     },
     {
-      "rank": 5,
-      "track_id": 858,
-      "artist": "ずっと真夜中でいいのに。",
-      "title": "あいつら全員同窓会",
+      "rank": 3,
+      "track_id": 636,
+      "artist": "鈴木茂",
+      "title": "砂の女",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 4,
+      "track_id": 361,
+      "artist": "ACIDMAN",
+      "title": "造花が笑う",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 6,
-      "track_id": 1685,
-      "artist": "BOaT",
-      "title": "ALL",
-      "movement": "↑4",
+      "rank": 5,
+      "track_id": 1208,
+      "artist": "Bruno Mars",
+      "title": "24K Magic",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
+      "rank": 6,
+      "track_id": 1702,
+      "artist": "Maher Shalal Hash Baz",
+      "title": "Unknown Happiness",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
       "rank": 7,
-      "track_id": 707,
-      "artist": "チューリップ",
-      "title": "心の旅",
+      "track_id": 1685,
+      "artist": "BOaT",
+      "title": "ALL",
       "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 8,
-      "track_id": 1208,
-      "artist": "Bruno Mars",
-      "title": "24K Magic",
-      "movement": "NEW",
+      "track_id": 858,
+      "artist": "ずっと真夜中でいいのに。",
+      "title": "あいつら全員同窓会",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     },
     {
       "rank": 9,
-      "track_id": 366,
-      "artist": "フラワーカンパニーズ",
-      "title": "東京タワー",
+      "track_id": 1686,
+      "artist": "有頂天",
+      "title": "BYE-BYE",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 1582,
-      "artist": "Galaxie 500",
-      "title": "Blue Thunder",
-      "movement": "↓3",
+      "track_id": 366,
+      "artist": "フラワーカンパニーズ",
+      "title": "東京タワー",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 2
     }
