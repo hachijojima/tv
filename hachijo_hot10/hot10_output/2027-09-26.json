@@ -1,0 +1,96 @@
+{
+  "date": "2027-09-26",
+  "generated_at": "2027-09-26T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 1514,
+      "artist": "戸川純",
+      "title": "玉姫様",
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 3
+    },
+    {
+      "rank": 2,
+      "track_id": 1273,
+      "artist": "BTS",
+      "title": "Dynamite",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 3,
+      "track_id": 1086,
+      "artist": "Queen",
+      "title": "Somebody to Love",
+      "movement": "↑7",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 4,
+      "track_id": 1029,
+      "artist": "m-flo",
+      "title": "come again",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 5,
+      "track_id": 666,
+      "artist": "角松敏生",
+      "title": "Sea Line",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 6,
+      "track_id": 1672,
+      "artist": "Hartfield",
+      "title": "Today Forever",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 7,
+      "track_id": 1108,
+      "artist": "Portishead",
+      "title": "Glory Box",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
+      "track_id": 374,
+      "artist": "Cornelius",
+      "title": "If You're Here",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 9,
+      "track_id": 1235,
+      "artist": "Lorde",
+      "title": "Royals",
+      "movement": "↓7",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 10,
+      "track_id": 1726,
+      "artist": "想い出波止場",
+      "title": "アストロ・ヴォルカノ・ブレイク・ダウン",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    }
+  ]
+}
