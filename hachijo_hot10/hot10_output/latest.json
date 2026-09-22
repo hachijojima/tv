@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-22",
-  "generated_at": "2026-09-22T06:46:04.354425+09:00",
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T05:57:46.808237+09:00",
   "chart": [
     {
       "rank": 1,
@@ -8,89 +8,89 @@
       "artist": "福島弘和",
       "title": "吹奏楽のための「おじゃれ」",
       "movement": "→",
-      "days_at_number_1": 3,
-      "top10_streak": 6
+      "days_at_number_1": 4,
+      "top10_streak": 7
     },
     {
       "rank": 2,
-      "track_id": 361,
-      "artist": "ACIDMAN",
-      "title": "造花が笑う",
-      "movement": "→",
+      "track_id": 348,
+      "artist": "レミオロメン",
+      "title": "電話",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 3,
-      "track_id": 348,
-      "artist": "レミオロメン",
-      "title": "電話",
-      "movement": "↑5",
+      "track_id": 361,
+      "artist": "ACIDMAN",
+      "title": "造花が笑う",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 4,
+      "track_id": 548,
+      "artist": "REBECCA",
+      "title": "RASPBERRY DREAM",
+      "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 4,
+      "rank": 5,
       "track_id": 1686,
       "artist": "有頂天",
       "title": "BYE-BYE",
-      "movement": "↑2",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 5,
-      "track_id": 1685,
-      "artist": "BOaT",
-      "title": "ALL",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 4
     },
     {
       "rank": 6,
-      "track_id": 1634,
-      "artist": "THA BLUE HERB",
-      "title": "未来は俺等の手の中",
+      "track_id": 1286,
+      "artist": "SEVENTEEN",
+      "title": "Super",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 7,
+      "track_id": 1692,
+      "artist": "Merzbow",
+      "title": "Woodpecker No.1",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 1685,
+      "artist": "BOaT",
+      "title": "ALL",
       "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 6
     },
     {
-      "rank": 7,
+      "rank": 9,
       "track_id": 636,
       "artist": "鈴木茂",
       "title": "砂の女",
-      "movement": "↓3",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 8,
-      "track_id": 548,
-      "artist": "REBECCA",
-      "title": "RASPBERRY DREAM",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 9,
-      "track_id": 1705,
-      "artist": "大友良英 NEW JAZZ ENSEMBLE",
-      "title": "Eureka",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 9
     },
     {
       "rank": 10,
-      "track_id": 1286,
-      "artist": "SEVENTEEN",
-      "title": "Super",
-      "movement": "NEW",
+      "track_id": 1705,
+      "artist": "大友良英 NEW JAZZ ENSEMBLE",
+      "title": "Eureka",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     }
   ]
 }

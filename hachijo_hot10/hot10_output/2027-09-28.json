@@ -1,0 +1,96 @@
+{
+  "date": "2027-09-28",
+  "generated_at": "2027-09-28T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 1136,
+      "artist": "Guns N’ Roses",
+      "title": "Sweet Child O’ Mine",
+      "movement": "NEW",
+      "days_at_number_1": 1,
+      "top10_streak": 1
+    },
+    {
+      "rank": 2,
+      "track_id": 1672,
+      "artist": "Hartfield",
+      "title": "Today Forever",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 3,
+      "track_id": 1056,
+      "artist": "XTC",
+      "title": "The Mayor of Simpleton",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 4,
+      "track_id": 267,
+      "artist": "KOTORI",
+      "title": "RED",
+      "movement": "↑6",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 1514,
+      "artist": "戸川純",
+      "title": "玉姫様",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 6,
+      "track_id": 641,
+      "artist": "佐野元春",
+      "title": "SOMEDAY",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 7,
+      "track_id": 1726,
+      "artist": "想い出波止場",
+      "title": "アストロ・ヴォルカノ・ブレイク・ダウン",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
+      "track_id": 1273,
+      "artist": "BTS",
+      "title": "Dynamite",
+      "movement": "↓6",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 9,
+      "track_id": 1086,
+      "artist": "Queen",
+      "title": "Somebody to Love",
+      "movement": "↓6",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 10,
+      "track_id": 1348,
+      "artist": "No Doubt",
+      "title": "Don't Speak",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    }
+  ]
+}
