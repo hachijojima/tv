@@ -1,96 +1,96 @@
 {
-  "date": "2026-09-24",
-  "generated_at": "2026-09-24T06:11:35.472359+09:00",
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T06:14:07.698718+09:00",
   "chart": [
     {
       "rank": 1,
       "track_id": 348,
       "artist": "レミオロメン",
       "title": "電話",
-      "movement": "↑1",
-      "days_at_number_1": 1,
-      "top10_streak": 4
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 5
     },
     {
       "rank": 2,
       "track_id": 1601,
       "artist": "福島弘和",
       "title": "吹奏楽のための「おじゃれ」",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 8
+      "top10_streak": 9
     },
     {
       "rank": 3,
-      "track_id": 1686,
-      "artist": "有頂天",
-      "title": "BYE-BYE",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 4,
-      "track_id": 361,
-      "artist": "ACIDMAN",
-      "title": "造花が笑う",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 5,
       "track_id": 548,
       "artist": "REBECCA",
       "title": "RASPBERRY DREAM",
-      "movement": "↓1",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 4
     },
     {
-      "rank": 6,
+      "rank": 4,
       "track_id": 1286,
       "artist": "SEVENTEEN",
       "title": "Super",
-      "movement": "→",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 4
+    },
+    {
+      "rank": 5,
+      "track_id": 1446,
+      "artist": "Thee Michelle Gun Elephant",
+      "title": "G.W.D",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 6,
+      "track_id": 361,
+      "artist": "ACIDMAN",
+      "title": "造花が笑う",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 6
     },
     {
       "rank": 7,
-      "track_id": 1692,
-      "artist": "Merzbow",
-      "title": "Woodpecker No.1",
-      "movement": "→",
+      "track_id": 1543,
+      "artist": "PEALOUT",
+      "title": "爆裂世界 ～世界に追い越されても～",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 8,
-      "track_id": 1446,
-      "artist": "Thee Michelle Gun Elephant",
-      "title": "G.W.D",
+      "track_id": 1267,
+      "artist": "Eric Prydz",
+      "title": "Call on Me",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 9,
-      "track_id": 1543,
-      "artist": "PEALOUT",
-      "title": "爆裂世界 ～世界に追い越されても～",
-      "movement": "NEW",
+      "track_id": 1686,
+      "artist": "有頂天",
+      "title": "BYE-BYE",
+      "movement": "↓6",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 6
     },
     {
       "rank": 10,
       "track_id": 1719,
       "artist": "Kaoru Inoue",
       "title": "The Invisible Eclipse",
-      "movement": "NEW",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     }
   ]
 }
