@@ -1,0 +1,96 @@
+{
+  "date": "2027-10-03",
+  "generated_at": "2027-10-03T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 1316,
+      "artist": "Nirvana",
+      "title": "Heart-Shaped Box",
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 3
+    },
+    {
+      "rank": 2,
+      "track_id": 1321,
+      "artist": "Foo Fighters",
+      "title": "Everlong",
+      "movement": "↑6",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 3,
+      "track_id": 1543,
+      "artist": "PEALOUT",
+      "title": "爆裂世界 ～世界に追い越されても～",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 4,
+      "track_id": 28,
+      "artist": "トリプルファイヤー",
+      "title": "次やったら殴る",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 331,
+      "artist": "ORIGINAL LOVE",
+      "title": "朝日のあたる道 AS TIME GOES BY",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 6,
+      "track_id": 1076,
+      "artist": "Alicia Keys",
+      "title": "If I Ain’t Got You",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 7,
+      "track_id": 641,
+      "artist": "佐野元春",
+      "title": "SOMEDAY",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 8,
+      "track_id": 1700,
+      "artist": "朝日美穂",
+      "title": "ETERNAL FLOWER",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 1328,
+      "artist": "Weezer",
+      "title": "Say It Ain't So",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1203,
+      "artist": "Rihanna",
+      "title": "Umbrella",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    }
+  ]
+}
