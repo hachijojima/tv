@@ -15,6 +15,7 @@ await db.exec("insert into content_items(family_code,youtube_id,title,duration_s
 await db.exec("select regenerate_schedule('2026-02-09T03:00:00+09:00');");
 const before = (await db.query('select * from schedule_items order by start_at')).rows;
 await db.exec(read('0015_add_five_o_clock_song.sql'));
+await db.exec(read('0016_rename_song_display.sql'));
 assert.deepEqual((await db.query('select * from schedule_items order by start_at')).rows, before, 'migration must not regenerate');
 await db.exec("insert into content_items(family_code,youtube_id,title,duration_secs) values ('five_o_clock_song','song0000001','PRIVATE SONG / ARTIST',300);");
 let checked=0;
@@ -28,7 +29,7 @@ for (const duration of [1,300,600]) {
     for(let i=1;i<rows.length;i++) assert.equal(+rows[i-1].end_at,+rows[i].start_at,`gap/overlap ${date}`);
     const start=new Date(`${date}T17:00:00+09:00`), end=new Date(+start+duration*1000);
     const song=rows.filter(r=>r.family_code==='five_o_clock_song'&&+r.start_at===+start);
-    assert.equal(song.length,1,date); assert.equal(song[0].seconds,duration); assert.equal(song[0].title,'5時のうた');
+    assert.equal(song.length,1,date); assert.equal(song[0].seconds,duration); assert.equal(song[0].title,'ごじのうた');
     const following=rows.find(r=>+r.start_at===+end); assert.ok(following,date);
     assert.notEqual(following.family_code,'five_o_clock_song');
     const previous=rows.find(r=>+r.end_at===+start); assert.ok(previous); assert.notEqual(previous.family_code,'five_o_clock_song');
@@ -54,7 +55,7 @@ const nodes={};const context={document:{querySelector:s=>nodes[s]??={}},Intl,Dat
 vm.runInContext(app.slice(0,app.indexOf('const sb ='))+app.slice(app.indexOf('const familyName'),app.indexOf('const desktopAudioUI')),context);
 for(const prefix of ['now','next']) {
  context.prefix=prefix;vm.runInContext("showProgram(prefix,{family_code:'five_o_clock_song',title:'PRIVATE SONG / ARTIST'})",context);
- assert.equal(nodes[`#${prefix}-family`].textContent,'5時のうた');assert.equal(nodes[`#${prefix}-title`].textContent,'');
+ assert.equal(nodes[`#${prefix}-family`].textContent,'ごじのうた');assert.equal(nodes[`#${prefix}-title`].textContent,'');
 }
 console.log(`${checked} generated schedules passed; migration preservation, one-pass selection, duration limit, NOW/NEXT passed`);
 await db.close();
