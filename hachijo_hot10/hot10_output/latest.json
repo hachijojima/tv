@@ -1,96 +1,96 @@
 {
-  "date": "2026-10-01",
-  "generated_at": "2026-10-01T06:56:38.992521+09:00",
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T07:24:42.273982+09:00",
   "chart": [
     {
       "rank": 1,
-      "track_id": 945,
-      "artist": "Oasis",
-      "title": "Don't Look Back in Anger",
-      "movement": "→",
-      "days_at_number_1": 4,
+      "track_id": 679,
+      "artist": "太田裕美",
+      "title": "木綿のハンカチーフ",
+      "movement": "↑4",
+      "days_at_number_1": 1,
       "top10_streak": 4
     },
     {
       "rank": 2,
-      "track_id": 1141,
-      "artist": "The Beatles",
-      "title": "Something",
-      "movement": "↑1",
+      "track_id": 945,
+      "artist": "Oasis",
+      "title": "Don't Look Back in Anger",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 5
     },
     {
       "rank": 3,
-      "track_id": 734,
-      "artist": "濱田金吾",
-      "title": "Midnight Cruisin'",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 4,
-      "track_id": 1446,
-      "artist": "Thee Michelle Gun Elephant",
-      "title": "G.W.D",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 5,
-      "track_id": 679,
-      "artist": "太田裕美",
-      "title": "木綿のハンカチーフ",
-      "movement": "↑5",
+      "track_id": 601,
+      "artist": "KAN",
+      "title": "言えずのI LOVE YOU",
+      "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 6,
-      "track_id": 268,
-      "artist": "リーガルリリー",
-      "title": "ハナヒカリ",
-      "movement": "↓1",
+      "rank": 4,
+      "track_id": 1141,
+      "artist": "The Beatles",
+      "title": "Something",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 4
     },
     {
-      "rank": 7,
-      "track_id": 601,
-      "artist": "KAN",
-      "title": "言えずのI LOVE YOU",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 8,
-      "track_id": 1287,
-      "artist": "EXO",
-      "title": "Growl",
+      "rank": 5,
+      "track_id": 1598,
+      "artist": "天野花",
+      "title": "暁を泳いで",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 6,
+      "track_id": 734,
+      "artist": "濱田金吾",
+      "title": "Midnight Cruisin'",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 7,
+      "track_id": 1284,
+      "artist": "Stray Kids",
+      "title": "MANIAC",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 268,
+      "artist": "リーガルリリー",
+      "title": "ハナヒカリ",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 6
     },
     {
       "rank": 9,
       "track_id": 1508,
       "artist": "RCサクセション",
       "title": "多摩蘭坂",
-      "movement": "↓2",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 7
     },
     {
       "rank": 10,
-      "track_id": 764,
-      "artist": "EPO",
-      "title": "土曜の夜はパラダイス",
-      "movement": "↓2",
+      "track_id": 1446,
+      "artist": "Thee Michelle Gun Elephant",
+      "title": "G.W.D",
+      "movement": "↓6",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 9
     }
   ]
 }

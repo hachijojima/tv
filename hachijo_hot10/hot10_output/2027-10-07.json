@@ -1,0 +1,96 @@
+{
+  "date": "2027-10-07",
+  "generated_at": "2027-10-07T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 1280,
+      "artist": "IVE",
+      "title": "I AM",
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 4
+    },
+    {
+      "rank": 2,
+      "track_id": 1203,
+      "artist": "Rihanna",
+      "title": "Umbrella",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 3,
+      "track_id": 450,
+      "artist": "the pillows",
+      "title": "LITTLE BUSTERS",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 4,
+      "track_id": 1629,
+      "artist": "Boris",
+      "title": "Farewell",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 5,
+      "track_id": 1321,
+      "artist": "Foo Fighters",
+      "title": "Everlong",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 6,
+      "track_id": 559,
+      "artist": "浜崎あゆみ",
+      "title": "appears",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 7,
+      "track_id": 1712,
+      "artist": "Macdonald Duck Eclair",
+      "title": "short short",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
+      "track_id": 143,
+      "artist": "折坂悠太",
+      "title": "平成",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 1236,
+      "artist": "Lizzo",
+      "title": "About Damn Time",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 10,
+      "track_id": 331,
+      "artist": "ORIGINAL LOVE",
+      "title": "朝日のあたる道 AS TIME GOES BY",
+      "movement": "↓6",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    }
+  ]
+}
