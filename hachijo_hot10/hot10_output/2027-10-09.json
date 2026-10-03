@@ -1,0 +1,96 @@
+{
+  "date": "2027-10-09",
+  "generated_at": "2027-10-09T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 19,
+      "artist": "MONO NO AWARE",
+      "title": "幽霊船",
+      "movement": "↑5",
+      "days_at_number_1": 1,
+      "top10_streak": 2
+    },
+    {
+      "rank": 2,
+      "track_id": 1608,
+      "artist": "rei harakami",
+      "title": "joy",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 3,
+      "track_id": 559,
+      "artist": "浜崎あゆみ",
+      "title": "appears",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 4,
+      "track_id": 1203,
+      "artist": "Rihanna",
+      "title": "Umbrella",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 5,
+      "track_id": 450,
+      "artist": "the pillows",
+      "title": "LITTLE BUSTERS",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 6,
+      "track_id": 1401,
+      "artist": "フジファブリック",
+      "title": "虹",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 7,
+      "track_id": 1712,
+      "artist": "Macdonald Duck Eclair",
+      "title": "short short",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 8,
+      "track_id": 972,
+      "artist": "New Order",
+      "title": "Temptation",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 747,
+      "artist": "はっぴいえんど",
+      "title": "はいからはくち",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1680,
+      "artist": "nhhmbase",
+      "title": "9/8",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    }
+  ]
+}
