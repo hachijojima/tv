@@ -1,93 +1,93 @@
 {
-  "date": "2026-10-04",
-  "generated_at": "2026-10-04T05:40:56.372923+09:00",
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T05:56:48.627623+09:00",
   "chart": [
     {
       "rank": 1,
-      "track_id": 1219,
-      "artist": "Ed Sheeran",
-      "title": "Shape of You",
-      "movement": "↑3",
+      "track_id": 1653,
+      "artist": "ミドリ",
+      "title": "ゆきこさん",
+      "movement": "NEW",
       "days_at_number_1": 1,
-      "top10_streak": 2
+      "top10_streak": 1
     },
     {
       "rank": 2,
-      "track_id": 596,
-      "artist": "globe",
-      "title": "Can't Stop Fallin' in Love",
-      "movement": "NEW",
+      "track_id": 1219,
+      "artist": "Ed Sheeran",
+      "title": "Shape of You",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 3
     },
     {
       "rank": 3,
-      "track_id": 1026,
-      "artist": "Björk",
-      "title": "Hyper-ballad",
+      "track_id": 596,
+      "artist": "globe",
+      "title": "Can't Stop Fallin' in Love",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 4,
+      "track_id": 334,
+      "artist": "UA",
+      "title": "甘い運命",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 4,
-      "track_id": 1598,
-      "artist": "天野花",
-      "title": "暁を泳いで",
+      "rank": 5,
+      "track_id": 1026,
+      "artist": "Björk",
+      "title": "Hyper-ballad",
       "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 5,
-      "track_id": 679,
-      "artist": "太田裕美",
-      "title": "木綿のハンカチーフ",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 2
     },
     {
       "rank": 6,
-      "track_id": 945,
-      "artist": "Oasis",
-      "title": "Don't Look Back in Anger",
-      "movement": "↓3",
+      "track_id": 1212,
+      "artist": "Dua Lipa",
+      "title": "Levitating",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 1
     },
     {
       "rank": 7,
-      "track_id": 1308,
-      "artist": "鼓童",
-      "title": "屋台囃子",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 8,
-      "track_id": 1013,
-      "artist": "The Police",
-      "title": "Every Breath You Take",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 9,
       "track_id": 1284,
       "artist": "Stray Kids",
       "title": "MANIAC",
-      "movement": "↓3",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 4
     },
     {
-      "rank": 10,
+      "rank": 8,
+      "track_id": 1238,
+      "artist": "Gotye",
+      "title": "Somebody That I Used to Know (feat. Kimbra)",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
       "track_id": 1327,
       "artist": "Weezer",
       "title": "Buddy Holly",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 10,
+      "track_id": 1593,
+      "artist": "天田トメノ",
+      "title": "ショメ節",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
