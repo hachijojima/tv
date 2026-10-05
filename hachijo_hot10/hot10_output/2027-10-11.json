@@ -1,0 +1,96 @@
+{
+  "date": "2027-10-11",
+  "generated_at": "2027-10-11T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 19,
+      "artist": "MONO NO AWARE",
+      "title": "幽霊船",
+      "movement": "→",
+      "days_at_number_1": 3,
+      "top10_streak": 4
+    },
+    {
+      "rank": 2,
+      "track_id": 1633,
+      "artist": "キエるマキュウ",
+      "title": "ナゼナラ",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 3,
+      "track_id": 972,
+      "artist": "New Order",
+      "title": "Temptation",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 4,
+      "track_id": 1045,
+      "artist": "YELLOW MAGIC ORCHESTRA",
+      "title": "RYDEEN",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 5,
+      "track_id": 1608,
+      "artist": "rei harakami",
+      "title": "joy",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 6,
+      "track_id": 1722,
+      "artist": "砂原良徳",
+      "title": "LOVEBEAT",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 7,
+      "track_id": 1712,
+      "artist": "Macdonald Duck Eclair",
+      "title": "short short",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 8,
+      "track_id": 559,
+      "artist": "浜崎あゆみ",
+      "title": "appears",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 9,
+      "track_id": 1203,
+      "artist": "Rihanna",
+      "title": "Umbrella",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 9
+    },
+    {
+      "rank": 10,
+      "track_id": 450,
+      "artist": "the pillows",
+      "title": "LITTLE BUSTERS",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    }
+  ]
+}
