@@ -1,0 +1,96 @@
+{
+  "date": "2027-10-12",
+  "generated_at": "2027-10-12T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 19,
+      "artist": "MONO NO AWARE",
+      "title": "幽霊船",
+      "movement": "→",
+      "days_at_number_1": 4,
+      "top10_streak": 5
+    },
+    {
+      "rank": 2,
+      "track_id": 1722,
+      "artist": "砂原良徳",
+      "title": "LOVEBEAT",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 3,
+      "track_id": 1045,
+      "artist": "YELLOW MAGIC ORCHESTRA",
+      "title": "RYDEEN",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 4,
+      "track_id": 972,
+      "artist": "New Order",
+      "title": "Temptation",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 5,
+      "track_id": 282,
+      "artist": "フリッパーズ・ギター",
+      "title": "恋とマシンガン",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 6,
+      "track_id": 1633,
+      "artist": "キエるマキュウ",
+      "title": "ナゼナラ",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 7,
+      "track_id": 947,
+      "artist": "Prefab Sprout",
+      "title": "The King of Rock 'n' Roll",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 414,
+      "artist": "曽我部恵一",
+      "title": "LOVE-SICK",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 1712,
+      "artist": "Macdonald Duck Eclair",
+      "title": "short short",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 10,
+      "track_id": 30,
+      "artist": "カネコアヤノ",
+      "title": "祝日",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    }
+  ]
+}

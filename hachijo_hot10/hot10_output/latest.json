@@ -1,24 +1,24 @@
 {
-  "date": "2026-10-06",
-  "generated_at": "2026-10-06T08:49:12.278116+09:00",
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T07:25:12.667179+09:00",
   "chart": [
     {
       "rank": 1,
-      "track_id": 1653,
-      "artist": "ミドリ",
-      "title": "ゆきこさん",
-      "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 2
-    },
-    {
-      "rank": 2,
       "track_id": 1219,
       "artist": "Ed Sheeran",
       "title": "Shape of You",
-      "movement": "→",
+      "movement": "↑1",
+      "days_at_number_1": 1,
+      "top10_streak": 5
+    },
+    {
+      "rank": 2,
+      "track_id": 1653,
+      "artist": "ミドリ",
+      "title": "ゆきこさん",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 3
     },
     {
       "rank": 3,
@@ -27,68 +27,68 @@
       "title": "Can't Stop Fallin' in Love",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 4
     },
     {
       "rank": 4,
-      "track_id": 1238,
-      "artist": "Gotye",
-      "title": "Somebody That I Used to Know (feat. Kimbra)",
-      "movement": "↑4",
+      "track_id": 696,
+      "artist": "小坂忠",
+      "title": "しらけちまうぜ",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 5,
-      "track_id": 334,
-      "artist": "UA",
-      "title": "甘い運命",
+      "track_id": 1238,
+      "artist": "Gotye",
+      "title": "Somebody That I Used to Know (feat. Kimbra)",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 3
     },
     {
       "rank": 6,
-      "track_id": 696,
-      "artist": "小坂忠",
-      "title": "しらけちまうぜ",
+      "track_id": 172,
+      "artist": "ドミコ",
+      "title": "まどろまない",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 7,
-      "track_id": 1708,
-      "artist": "Korekyojinn",
-      "title": "Arabesque",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 8,
       "track_id": 1593,
       "artist": "天田トメノ",
       "title": "ショメ節",
-      "movement": "↑2",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
+      "track_id": 1708,
+      "artist": "Korekyojinn",
+      "title": "Arabesque",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 9,
-      "track_id": 1026,
-      "artist": "Björk",
-      "title": "Hyper-ballad",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 10,
       "track_id": 1327,
       "artist": "Weezer",
       "title": "Buddy Holly",
-      "movement": "↓1",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 10,
+      "track_id": 334,
+      "artist": "UA",
+      "title": "甘い運命",
+      "movement": "↓5",
       "days_at_number_1": 0,
       "top10_streak": 3
     }
