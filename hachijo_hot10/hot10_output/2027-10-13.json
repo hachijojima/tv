@@ -1,0 +1,96 @@
+{
+  "date": "2027-10-13",
+  "generated_at": "2027-10-13T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 1722,
+      "artist": "砂原良徳",
+      "title": "LOVEBEAT",
+      "movement": "↑1",
+      "days_at_number_1": 1,
+      "top10_streak": 4
+    },
+    {
+      "rank": 2,
+      "track_id": 19,
+      "artist": "MONO NO AWARE",
+      "title": "幽霊船",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 3,
+      "track_id": 631,
+      "artist": "井上陽水",
+      "title": "少年時代",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 4,
+      "track_id": 282,
+      "artist": "フリッパーズ・ギター",
+      "title": "恋とマシンガン",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 1633,
+      "artist": "キエるマキュウ",
+      "title": "ナゼナラ",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 6,
+      "track_id": 972,
+      "artist": "New Order",
+      "title": "Temptation",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 7,
+      "track_id": 414,
+      "artist": "曽我部恵一",
+      "title": "LOVE-SICK",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 30,
+      "artist": "カネコアヤノ",
+      "title": "祝日",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 9,
+      "track_id": 1045,
+      "artist": "YELLOW MAGIC ORCHESTRA",
+      "title": "RYDEEN",
+      "movement": "↓6",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 10,
+      "track_id": 810,
+      "artist": "サカナクション",
+      "title": "新宝島",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    }
+  ]
+}
