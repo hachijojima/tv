@@ -1,96 +1,96 @@
 {
-  "date": "2026-10-08",
-  "generated_at": "2026-10-08T07:49:56.191573+09:00",
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T08:00:57.353483+09:00",
   "chart": [
     {
       "rank": 1,
       "track_id": 1653,
       "artist": "ミドリ",
       "title": "ゆきこさん",
-      "movement": "↑1",
-      "days_at_number_1": 1,
-      "top10_streak": 4
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 5
     },
     {
       "rank": 2,
-      "track_id": 1219,
-      "artist": "Ed Sheeran",
-      "title": "Shape of You",
-      "movement": "↓1",
+      "track_id": 1534,
+      "artist": "大瀧詠一",
+      "title": "恋するカレン",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 2
     },
     {
       "rank": 3,
-      "track_id": 475,
-      "artist": "ウルフルズ",
-      "title": "大阪ストラット",
+      "track_id": 319,
+      "artist": "Syrup16g",
+      "title": "生活",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 4,
-      "track_id": 1534,
-      "artist": "大瀧詠一",
-      "title": "恋するカレン",
-      "movement": "NEW",
+      "track_id": 1219,
+      "artist": "Ed Sheeran",
+      "title": "Shape of You",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 7
     },
     {
       "rank": 5,
-      "track_id": 1593,
-      "artist": "天田トメノ",
-      "title": "ショメ節",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 6,
-      "track_id": 596,
-      "artist": "globe",
-      "title": "Can't Stop Fallin' in Love",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 7,
-      "track_id": 696,
-      "artist": "小坂忠",
-      "title": "しらけちまうぜ",
-      "movement": "↓3",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 8,
-      "track_id": 172,
-      "artist": "ドミコ",
-      "title": "まどろまない",
+      "track_id": 475,
+      "artist": "ウルフルズ",
+      "title": "大阪ストラット",
       "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 9,
-      "track_id": 1238,
-      "artist": "Gotye",
-      "title": "Somebody That I Used to Know (feat. Kimbra)",
-      "movement": "↓4",
+      "rank": 6,
+      "track_id": 696,
+      "artist": "小坂忠",
+      "title": "しらけちまうぜ",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 10,
+      "rank": 7,
+      "track_id": 1365,
+      "artist": "Linkin Park",
+      "title": "Numb",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
       "track_id": 1327,
       "artist": "Weezer",
       "title": "Buddy Holly",
-      "movement": "↓1",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 9,
+      "track_id": 1593,
+      "artist": "天田トメノ",
+      "title": "ショメ節",
+      "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 5
+    },
+    {
+      "rank": 10,
+      "track_id": 744,
+      "artist": "斉藤由貴",
+      "title": "悲しみよこんにちは",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }
