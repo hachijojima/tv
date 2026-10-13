@@ -1,30 +1,30 @@
 {
-  "date": "2026-10-12",
-  "generated_at": "2026-10-12T06:35:25.126925+09:00",
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T09:14:17.895836+09:00",
   "chart": [
     {
       "rank": 1,
       "track_id": 524,
       "artist": "サザンオールスターズ",
       "title": "希望の轍",
-      "movement": "NEW",
-      "days_at_number_1": 1,
-      "top10_streak": 1
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 2
     },
     {
       "rank": 2,
-      "track_id": 1226,
-      "artist": "Imagine Dragons",
-      "title": "Believer",
+      "track_id": 1717,
+      "artist": "Chari Chari",
+      "title": "Across the Universe",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 3,
-      "track_id": 1200,
-      "artist": "尾崎紀世彦",
-      "title": "また逢う日まで",
+      "track_id": 1226,
+      "artist": "Imagine Dragons",
+      "title": "Believer",
       "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 2
@@ -34,63 +34,63 @@
       "track_id": 1542,
       "artist": "COALTAR OF THE DEEPERS",
       "title": "My Speedy Sarah",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 5,
-      "track_id": 1371,
-      "artist": "The Killers",
-      "title": "When You Were Young",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 6,
-      "track_id": 744,
-      "artist": "斉藤由貴",
-      "title": "悲しみよこんにちは",
-      "movement": "↑4",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 7,
+      "rank": 5,
+      "track_id": 420,
+      "artist": "小沢健二",
+      "title": "今夜はブギー・バック",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 6,
       "track_id": 816,
       "artist": "藤井風",
       "title": "優しさ",
       "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 8,
-      "track_id": 1653,
-      "artist": "ミドリ",
-      "title": "ゆきこさん",
-      "movement": "↓7",
-      "days_at_number_1": 0,
-      "top10_streak": 8
-    },
-    {
-      "rank": 9,
-      "track_id": 1080,
-      "artist": "Jeff Buckley",
-      "title": "Hallelujah",
-      "movement": "↓5",
-      "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 10,
-      "track_id": 1241,
-      "artist": "Avicii",
-      "title": "Wake Me Up",
+      "rank": 7,
+      "track_id": 288,
+      "artist": "サニーデイ・サービス",
+      "title": "青春狂走曲",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 1718,
+      "artist": "Calm",
+      "title": "Light Years",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 744,
+      "artist": "斉藤由貴",
+      "title": "悲しみよこんにちは",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 10,
+      "track_id": 1371,
+      "artist": "The Killers",
+      "title": "When You Were Young",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     }
   ]
 }

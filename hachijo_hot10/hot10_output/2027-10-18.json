@@ -1,0 +1,96 @@
+{
+  "date": "2027-10-18",
+  "generated_at": "2027-10-18T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 885,
+      "artist": "Tame Impala",
+      "title": "The Less I Know the Better",
+      "movement": "↑1",
+      "days_at_number_1": 1,
+      "top10_streak": 2
+    },
+    {
+      "rank": 2,
+      "track_id": 515,
+      "artist": "LINDBERG",
+      "title": "BELIEVE IN LOVE",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 3,
+      "track_id": 615,
+      "artist": "米米CLUB",
+      "title": "Shake Hip!",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 4,
+      "track_id": 330,
+      "artist": "カヒミ・カリィ",
+      "title": "Mike Alway's Diary",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 5,
+      "track_id": 1710,
+      "artist": "MOTOCOMPO",
+      "title": "Lemonade",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 6,
+      "track_id": 259,
+      "artist": "ドミコ",
+      "title": "ペーパーロールスター",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 7,
+      "track_id": 1095,
+      "artist": "サニーデイ・サービス",
+      "title": "春の風",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 1727,
+      "artist": "いまみれん",
+      "title": "それだけで",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 1246,
+      "artist": "David Guetta",
+      "title": "Memories (feat. Kid Cudi)",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 552,
+      "artist": "森高千里",
+      "title": "雨",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    }
+  ]
+}
