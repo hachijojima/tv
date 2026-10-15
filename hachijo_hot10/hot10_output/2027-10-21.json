@@ -1,0 +1,96 @@
+{
+  "date": "2027-10-21",
+  "generated_at": "2027-10-21T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 555,
+      "artist": "DREAMS COME TRUE",
+      "title": "LOVE LOVE LOVE",
+      "movement": "RE",
+      "days_at_number_1": 1,
+      "top10_streak": 1
+    },
+    {
+      "rank": 2,
+      "track_id": 1637,
+      "artist": "環ROY",
+      "title": "Break Boy in the Dream",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 3,
+      "track_id": 1286,
+      "artist": "SEVENTEEN",
+      "title": "Super",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 4,
+      "track_id": 615,
+      "artist": "米米CLUB",
+      "title": "Shake Hip!",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 5,
+      "track_id": 1727,
+      "artist": "いまみれん",
+      "title": "それだけで",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 6,
+      "track_id": 1246,
+      "artist": "David Guetta",
+      "title": "Memories (feat. Kid Cudi)",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 7,
+      "track_id": 1601,
+      "artist": "福島弘和",
+      "title": "吹奏楽のための「おじゃれ」",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 885,
+      "artist": "Tame Impala",
+      "title": "The Less I Know the Better",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 9,
+      "track_id": 515,
+      "artist": "LINDBERG",
+      "title": "BELIEVE IN LOVE",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 10,
+      "track_id": 1030,
+      "artist": "Radiohead",
+      "title": "Creep",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    }
+  ]
+}
