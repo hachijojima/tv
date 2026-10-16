@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-16",
-  "generated_at": "2026-10-16T06:00:39.202373+09:00",
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T05:35:41.866813+09:00",
   "chart": [
     {
       "rank": 1,
@@ -8,89 +8,89 @@
       "artist": "サザンオールスターズ",
       "title": "希望の轍",
       "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 5
+      "days_at_number_1": 3,
+      "top10_streak": 6
     },
     {
       "rank": 2,
-      "track_id": 1542,
-      "artist": "COALTAR OF THE DEEPERS",
-      "title": "My Speedy Sarah",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 3,
       "track_id": 293,
       "artist": "くるり",
       "title": "東京",
-      "movement": "→",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 4
+    },
+    {
+      "rank": 3,
+      "track_id": 1542,
+      "artist": "COALTAR OF THE DEEPERS",
+      "title": "My Speedy Sarah",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 8
     },
     {
       "rank": 4,
-      "track_id": 1717,
-      "artist": "Chari Chari",
-      "title": "Across the Universe",
-      "movement": "↓2",
+      "track_id": 1078,
+      "artist": "Daft Punk",
+      "title": "Get Lucky (feat. Pharrell Williams and Nile Rodgers)",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
       "rank": 5,
-      "track_id": 1205,
-      "artist": "Beyoncé",
-      "title": "Crazy in Love",
+      "track_id": 1515,
+      "artist": "戸川純",
+      "title": "レーダーマン",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 6,
-      "track_id": 1718,
-      "artist": "Calm",
-      "title": "Light Years",
+      "track_id": 1205,
+      "artist": "Beyoncé",
+      "title": "Crazy in Love",
       "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 7,
-      "track_id": 1078,
-      "artist": "Daft Punk",
-      "title": "Get Lucky (feat. Pharrell Williams and Nile Rodgers)",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 8,
-      "track_id": 1629,
-      "artist": "Boris",
-      "title": "Farewell",
-      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
+      "rank": 7,
+      "track_id": 1717,
+      "artist": "Chari Chari",
+      "title": "Across the Universe",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 8,
+      "track_id": 1718,
+      "artist": "Calm",
+      "title": "Light Years",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
       "rank": 9,
-      "track_id": 1612,
-      "artist": "SPIRAL LIFE",
-      "title": "GAME OVER",
+      "track_id": 1275,
+      "artist": "TWICE",
+      "title": "TT",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 420,
-      "artist": "小沢健二",
-      "title": "今夜はブギー・バック",
-      "movement": "↓3",
+      "track_id": 1032,
+      "artist": "神聖かまってちゃん",
+      "title": "ロックンロールは鳴り止まないっ",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 1
     }
   ]
 }
