@@ -1,84 +1,84 @@
 {
-  "date": "2026-10-18",
-  "generated_at": "2026-10-18T05:14:21.622562+09:00",
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T05:12:43.823830+09:00",
   "chart": [
     {
       "rank": 1,
-      "track_id": 524,
-      "artist": "サザンオールスターズ",
-      "title": "希望の轍",
-      "movement": "→",
-      "days_at_number_1": 4,
-      "top10_streak": 7
+      "track_id": 1032,
+      "artist": "神聖かまってちゃん",
+      "title": "ロックンロールは鳴り止まないっ",
+      "movement": "↑4",
+      "days_at_number_1": 1,
+      "top10_streak": 3
     },
     {
       "rank": 2,
       "track_id": 1275,
       "artist": "TWICE",
       "title": "TT",
-      "movement": "↑7",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 3
     },
     {
       "rank": 3,
       "track_id": 1515,
       "artist": "戸川純",
       "title": "レーダーマン",
-      "movement": "↑2",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 3
     },
     {
       "rank": 4,
       "track_id": 655,
       "artist": "山崎ハコ",
       "title": "呪い",
-      "movement": "NEW",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     },
     {
       "rank": 5,
-      "track_id": 1032,
-      "artist": "神聖かまってちゃん",
-      "title": "ロックンロールは鳴り止まないっ",
-      "movement": "↑5",
+      "track_id": 1240,
+      "artist": "Pharrell Williams",
+      "title": "Happy",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 6,
-      "track_id": 293,
-      "artist": "くるり",
-      "title": "東京",
-      "movement": "↓4",
+      "track_id": 1058,
+      "artist": "ランカ・リー=中島愛",
+      "title": "星間飛行",
+      "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 2
     },
     {
       "rank": 7,
-      "track_id": 1078,
-      "artist": "Daft Punk",
-      "title": "Get Lucky (feat. Pharrell Williams and Nile Rodgers)",
-      "movement": "↓3",
+      "track_id": 524,
+      "artist": "サザンオールスターズ",
+      "title": "希望の轍",
+      "movement": "↓6",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 8
     },
     {
       "rank": 8,
-      "track_id": 1240,
-      "artist": "Pharrell Williams",
-      "title": "Happy",
+      "track_id": 585,
+      "artist": "スピッツ",
+      "title": "楓",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 9,
-      "track_id": 1058,
-      "artist": "ランカ・リー=中島愛",
-      "title": "星間飛行",
+      "track_id": 1253,
+      "artist": "Martin Garrix",
+      "title": "Animals",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
@@ -88,9 +88,9 @@
       "track_id": 1718,
       "artist": "Calm",
       "title": "Light Years",
-      "movement": "↓2",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 7
     }
   ]
 }

@@ -1,0 +1,96 @@
+{
+  "date": "2027-10-24",
+  "generated_at": "2027-10-24T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 555,
+      "artist": "DREAMS COME TRUE",
+      "title": "LOVE LOVE LOVE",
+      "movement": "→",
+      "days_at_number_1": 4,
+      "top10_streak": 4
+    },
+    {
+      "rank": 2,
+      "track_id": 1092,
+      "artist": "The Cure",
+      "title": "Friday I’m In Love",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 3,
+      "track_id": 1609,
+      "artist": "Ken Ishii",
+      "title": "Extra",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 4,
+      "track_id": 1702,
+      "artist": "Maher Shalal Hash Baz",
+      "title": "Unknown Happiness",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 5,
+      "track_id": 1637,
+      "artist": "環ROY",
+      "title": "Break Boy in the Dream",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 6,
+      "track_id": 1030,
+      "artist": "Radiohead",
+      "title": "Creep",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 7,
+      "track_id": 1060,
+      "artist": "電気グルーヴ",
+      "title": "N.O.",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 861,
+      "artist": "milet",
+      "title": "Ordinary days",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 400,
+      "artist": "Spangle call Lilli line",
+      "title": "ice track",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 10,
+      "track_id": 1356,
+      "artist": "The Strokes",
+      "title": "Reptilia",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    }
+  ]
+}
