@@ -1,0 +1,96 @@
+{
+  "date": "2027-10-28",
+  "generated_at": "2027-10-28T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 1367,
+      "artist": "Muse",
+      "title": "Time Is Running Out",
+      "movement": "↑1",
+      "days_at_number_1": 1,
+      "top10_streak": 2
+    },
+    {
+      "rank": 2,
+      "track_id": 1278,
+      "artist": "aespa",
+      "title": "Supernova",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 3,
+      "track_id": 816,
+      "artist": "藤井風",
+      "title": "優しさ",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 4,
+      "track_id": 1544,
+      "artist": "Cocco",
+      "title": "樹海の糸",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 5,
+      "track_id": 1231,
+      "artist": "Sabrina Carpenter",
+      "title": "Espresso",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 6,
+      "track_id": 471,
+      "artist": "TRF",
+      "title": "masquerade",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 7,
+      "track_id": 54,
+      "artist": "スカート",
+      "title": "静かな夜がいい",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
+      "track_id": 725,
+      "artist": "カルメン・マキ",
+      "title": "山羊にひかれて",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 9,
+      "track_id": 1043,
+      "artist": "Television",
+      "title": "Marquee Moon",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 10,
+      "track_id": 1060,
+      "artist": "電気グルーヴ",
+      "title": "N.O.",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    }
+  ]
+}

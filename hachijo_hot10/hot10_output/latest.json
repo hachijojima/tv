@@ -1,96 +1,96 @@
 {
-  "date": "2026-10-22",
-  "generated_at": "2026-10-22T06:20:11.717689+09:00",
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T06:16:10.324045+09:00",
   "chart": [
     {
       "rank": 1,
       "track_id": 1240,
       "artist": "Pharrell Williams",
       "title": "Happy",
-      "movement": "↑1",
-      "days_at_number_1": 1,
-      "top10_streak": 5
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 6
     },
     {
       "rank": 2,
-      "track_id": 1058,
-      "artist": "ランカ・リー=中島愛",
-      "title": "星間飛行",
-      "movement": "↓1",
+      "track_id": 381,
+      "artist": "My Little Lover",
+      "title": "白いカイト",
+      "movement": "↑5",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 4
     },
     {
       "rank": 3,
-      "track_id": 1698,
-      "artist": "二階堂和美",
-      "title": "ショッピンブル",
-      "movement": "NEW",
+      "track_id": 1645,
+      "artist": "CO-FUSION",
+      "title": "Material to Digital",
+      "movement": "↑5",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     },
     {
       "rank": 4,
-      "track_id": 608,
-      "artist": "THE HIGH-LOWS",
-      "title": "千年メダル",
-      "movement": "NEW",
+      "track_id": 1058,
+      "artist": "ランカ・リー=中島愛",
+      "title": "星間飛行",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 6
     },
     {
       "rank": 5,
       "track_id": 1057,
       "artist": "キリンジ",
       "title": "スウィートソウル",
-      "movement": "↑1",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 4
     },
     {
       "rank": 6,
-      "track_id": 1032,
-      "artist": "神聖かまってちゃん",
-      "title": "ロックンロールは鳴り止まないっ",
-      "movement": "↓3",
+      "track_id": 608,
+      "artist": "THE HIGH-LOWS",
+      "title": "千年メダル",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 2
     },
     {
       "rank": 7,
-      "track_id": 381,
-      "artist": "My Little Lover",
-      "title": "白いカイト",
-      "movement": "→",
+      "track_id": 1698,
+      "artist": "二階堂和美",
+      "title": "ショッピンブル",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 2
     },
     {
       "rank": 8,
-      "track_id": 1645,
-      "artist": "CO-FUSION",
-      "title": "Material to Digital",
+      "track_id": 1315,
+      "artist": "Nirvana",
+      "title": "Come As You Are",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 9,
-      "track_id": 409,
-      "artist": "LOST IN TIME",
-      "title": "花",
-      "movement": "↓5",
+      "track_id": 695,
+      "artist": "矢野顕子",
+      "title": "春咲小紅",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 1140,
-      "artist": "STUTS",
-      "title": "夜を使いはたして feat. PUNPEE",
-      "movement": "↓2",
+      "track_id": 1032,
+      "artist": "神聖かまってちゃん",
+      "title": "ロックンロールは鳴り止まないっ",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 7
     }
   ]
 }
