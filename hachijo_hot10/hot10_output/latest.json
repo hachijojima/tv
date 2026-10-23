@@ -1,42 +1,42 @@
 {
-  "date": "2026-10-23",
-  "generated_at": "2026-10-23T06:16:10.324045+09:00",
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T06:04:55.246671+09:00",
   "chart": [
     {
       "rank": 1,
-      "track_id": 1240,
-      "artist": "Pharrell Williams",
-      "title": "Happy",
-      "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 6
+      "track_id": 1645,
+      "artist": "CO-FUSION",
+      "title": "Material to Digital",
+      "movement": "↑2",
+      "days_at_number_1": 1,
+      "top10_streak": 3
     },
     {
       "rank": 2,
       "track_id": 381,
       "artist": "My Little Lover",
       "title": "白いカイト",
-      "movement": "↑5",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 5
     },
     {
       "rank": 3,
-      "track_id": 1645,
-      "artist": "CO-FUSION",
-      "title": "Material to Digital",
-      "movement": "↑5",
+      "track_id": 1240,
+      "artist": "Pharrell Williams",
+      "title": "Happy",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 7
     },
     {
       "rank": 4,
-      "track_id": 1058,
-      "artist": "ランカ・リー=中島愛",
-      "title": "星間飛行",
-      "movement": "↓2",
+      "track_id": 695,
+      "artist": "矢野顕子",
+      "title": "春咲小紅",
+      "movement": "↑5",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 2
     },
     {
       "rank": 5,
@@ -45,52 +45,52 @@
       "title": "スウィートソウル",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 5
     },
     {
       "rank": 6,
-      "track_id": 608,
-      "artist": "THE HIGH-LOWS",
-      "title": "千年メダル",
-      "movement": "↓2",
+      "track_id": 1315,
+      "artist": "Nirvana",
+      "title": "Come As You Are",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 7,
-      "track_id": 1698,
-      "artist": "二階堂和美",
-      "title": "ショッピンブル",
-      "movement": "↓4",
+      "track_id": 505,
+      "artist": "Tommy february6",
+      "title": "EVERYDAY AT THE BUS STOP",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
     },
     {
       "rank": 8,
-      "track_id": 1315,
-      "artist": "Nirvana",
-      "title": "Come As You Are",
+      "track_id": 457,
+      "artist": "DEEN",
+      "title": "翼を広げて",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 9,
-      "track_id": 695,
-      "artist": "矢野顕子",
-      "title": "春咲小紅",
+      "track_id": 1296,
+      "artist": "Super Junior",
+      "title": "Sorry, Sorry",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 1032,
-      "artist": "神聖かまってちゃん",
-      "title": "ロックンロールは鳴り止まないっ",
-      "movement": "↓4",
+      "track_id": 1309,
+      "artist": "Red Hot Chili Peppers",
+      "title": "Under the Bridge",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 1
     }
   ]
 }
