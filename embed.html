@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="robots" content="noindex">
+  <title>FM八丈島テレビ｜埋め込みプレーヤー</title>
+  <link rel="stylesheet" href="embed.css?v=1">
+</head>
+<body class="embed-page">
+  <main class="screen" aria-label="FM八丈島テレビ">
+    <div class="video-area"><div id="player"></div></div>
+    <p id="player-message" role="status" hidden></p>
+    <button id="audio-unmute-overlay" hidden><span>ミュートを解除</span></button>
+    <div class="player-controls">
+      <button id="sound-toggle" type="button" aria-label="音を出す" aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d=""/></svg><span>音を出す</span></button>
+      <a href="https://tv.hachijojima.jp/" target="_blank" rel="noopener noreferrer">FM八丈島 TV ↗</a>
+      <button id="fullscreen-toggle" type="button" aria-label="全画面" aria-pressed="false"><span>全画面</span></button>
+    </div>
+  </main>
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  <script src="supabase-config.js"></script>
+  <script src="https://www.youtube.com/iframe_api"></script>
+  <script src="app.js?v=embed-1"></script>
+</body>
+</html>

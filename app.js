@@ -1,4 +1,5 @@
 const $ = selector => document.querySelector(selector);
+const isEmbed = document.body.classList.contains('embed-page');
 const sb = window.supabase.createClient(window.FM_HACHIJO_SUPABASE.url, window.FM_HACHIJO_SUPABASE.publishableKey);
 const audioPreferenceKey = 'fm8jo_audio_preference';
 function getAudioPreference() { try { const value = localStorage.getItem(audioPreferenceKey); return value === 'on' || value === 'off' ? value : null; } catch { return null; } }
@@ -8,8 +9,8 @@ function trackEvent(name, parameters = {}) { if (typeof window.gtag === 'functio
 const familyName = { five_o_clock_song: 'ごじのうた', music: 'MUSIC', hachijo_taiko: 'HACHIJO TAIKO', power_push: 'POWER PLAY', sports: 'SPORTS', hachijo_picks: 'HACHIJO PICKS', island_view: 'ISLAND VIEW', tokyo_relay: 'TOKYO RELAY' };
 const formatTime = value => new Intl.DateTimeFormat('ja-JP', { timeZone: 'Asia/Tokyo', hour: '2-digit', minute: '2-digit', hourCycle: 'h23' }).format(new Date(value));
 const message = value => { $('#player-message').textContent = value; $('#player-message').hidden = !value; };
-function showProgram(prefix, program) { const isDeparture = program?.family_code === 'tokyo_relay' && formatTime(program.start_at) === '22:30' && formatTime(program.end_at) === '22:50'; const showTitle = ['music', 'power_push', 'hachijo_picks', 'island_view'].includes(program?.family_code); const displayTitle = showTitle ? (program.title || '') : ''; $(`#${prefix}-family`).textContent = program ? (program.family_code === 'tokyo_relay' ? (isDeparture ? 'DEPARTURE' : '放送休止') : familyName[program.family_code]) : '—'; $(`#${prefix}-title`).textContent = displayTitle; }
-const desktopAudioUI = () => window.matchMedia('(min-width: 1366px)').matches;
+function showProgram(prefix, program) { if (!$(`#${prefix}-family`)) return; const isDeparture = program?.family_code === 'tokyo_relay' && formatTime(program.start_at) === '22:30' && formatTime(program.end_at) === '22:50'; const showTitle = ['music', 'power_push', 'hachijo_picks', 'island_view'].includes(program?.family_code); const displayTitle = showTitle ? (program.title || '') : ''; $(`#${prefix}-family`).textContent = program ? (program.family_code === 'tokyo_relay' ? (isDeparture ? 'DEPARTURE' : '放送休止') : familyName[program.family_code]) : '—'; $(`#${prefix}-title`).textContent = displayTitle; }
+const desktopAudioUI = () => !isEmbed && window.matchMedia('(min-width: 1366px)').matches;
 const speakerIcon = 'M4 9v6h4l5 4V5L8 9H4Zm12.59 3 2.7-2.7-1.41-1.41-2.7 2.7-2.71-2.71-1.41 1.41 2.71 2.71-2.7 2.7 1.41 1.41 2.7-2.71 2.71 2.71 1.41-1.41L16.59 12Z';
 const mutedSpeakerIcon = 'M4 9v6h4l5 4V5L8 9H4Zm12.5 3c0-1.77-1-3.29-2.5-4.03v8.05A4.49 4.49 0 0 0 16.5 12ZM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.5 7-8.77s-2.99-7.86-7-8.77Z';
 function soundLabel() { const button = $('#sound-toggle'); const label = state.soundOn ? '音を消す' : '音を出す'; button.querySelector('span').textContent = label; button.querySelector('path').setAttribute('d', state.soundOn ? speakerIcon : mutedSpeakerIcon); button.setAttribute('aria-label', label); button.setAttribute('aria-pressed', String(state.soundOn)); button.classList.toggle('is-audible', state.soundOn); const overlay = $('#audio-unmute-overlay'); overlay.hidden = !(desktopAudioUI() && state.showAudioOverlay && !state.soundOn && state.player); }
@@ -35,7 +36,7 @@ function disableAudio() { if (state.player) state.player.mute(); state.awaitingA
 function beginInitialAudioPlayback() { const tryAudible = desktopAudioUI() && state.audioPreference === 'on'; if (!tryAudible) { startMutedPlayback(desktopAudioUI() && state.audioPreference === null); return; } state.awaitingAudibleAutoplay = true; state.showAudioOverlay = false; state.soundOn = false; soundLabel(); state.player.unMute(); state.player.playVideo(); window.setTimeout(() => { if (!state.awaitingAudibleAutoplay) return; state.awaitingAudibleAutoplay = false; state.soundOn = !state.player.isMuted(); state.showAudioOverlay = !state.soundOn && desktopAudioUI(); soundLabel(); }, 450); }
 function handleAutoplayBlocked() { if (!state.awaitingAudibleAutoplay) return; startMutedPlayback(desktopAudioUI()); }
 function loadCurrent(current, force = false) { const key = `${current.id}:${current.start_at}`; if (!force && key === state.key) return; const keepSound = state.soundOn; state.key = key; state.current = current; state.awaitingAudibleAutoplay = false; state.player.mute(); state.soundOn = false; state.showAudioOverlay = false; soundLabel(); state.player.loadVideoById({ videoId: current.youtube_id, startSeconds: startSecondsFor(current) }); state.player.playVideo(); if (keepSound) window.setTimeout(() => enableAudio({ showOverlayOnFailure: false }), 150); }
-function renderTimeline({ current, next }, force = false) { if (!current) { message('現在の編成を準備中です。'); $('#now-start').textContent = ''; $('#next-start').textContent = ''; showProgram('now', null); showProgram('next', null); return; } message(''); $('#now-start').textContent = ` ${formatTime(current.start_at)}から`; $('#next-start').textContent = next ? ` ${formatTime(next.start_at)}から` : ''; showProgram('now', current); showProgram('next', next); if (state.player) loadCurrent(current, force); scheduleBoundary(current); }
+function renderTimeline({ current, next }, force = false) { if (!current) { message('現在の編成を準備中です。'); if ($('#now-start')) $('#now-start').textContent = ''; if ($('#next-start')) $('#next-start').textContent = ''; showProgram('now', null); showProgram('next', null); return; } message(''); if ($('#now-start')) $('#now-start').textContent = ` ${formatTime(current.start_at)}から`; if ($('#next-start')) $('#next-start').textContent = next ? ` ${formatTime(next.start_at)}から` : ''; showProgram('now', current); showProgram('next', next); if (state.player) loadCurrent(current, force); scheduleBoundary(current); }
 async function sync(force = false) { try { renderTimeline(await readTimeline(), force); } catch { message('編成を読み込めませんでした。'); } }
 const isIPhone = () => /iPhone|iPod/.test(navigator.userAgent);
 function fullscreenLabel(active) { const button = $('#fullscreen-toggle'); button.querySelector('span').textContent = active ? '全画面を閉じる' : '全画面'; button.setAttribute('aria-label', active ? '全画面を閉じる' : '全画面'); button.setAttribute('aria-pressed', String(active)); }
@@ -49,7 +50,7 @@ if (window.YT?.Player) startInitialPlayback();
 $('#sound-toggle').addEventListener('click', () => { if (state.soundOn) disableAudio(); else enableAudio({ remember: true, source: 'control' }); });
 $('#audio-unmute-overlay').addEventListener('click', () => enableAudio({ remember: true, source: 'overlay' }));
 $('#fullscreen-toggle').addEventListener('click', fullscreen); ['fullscreenchange', 'webkitfullscreenchange'].forEach(type => document.addEventListener(type, () => { const active = Boolean(document.fullscreenElement || document.webkitFullscreenElement); if (!active) unlockOrientation(); fullscreenLabel(active); trackEvent('fullscreen_toggle', { fullscreen_state: active ? 'open' : 'close' }); }));
-$('.note-link').addEventListener('click', () => trackEvent('note_outbound_click', { link_destination: 'note' }));
+$('.note-link')?.addEventListener('click', () => trackEvent('note_outbound_click', { link_destination: 'note' }));
 const requestForm = $('.hot10-request');
 const hot10RequestExamples = ['Adoの唱', 'マツケンサンバ', 'ゆずの夏色', 'ミセスの青と夏', 'スピッツのチェリー', 'サザンの真夏の果実', 'B’zのultra soul', 'ピンク・レディーのUFO', 'あいみょんのマリーゴールド', 'いきものがかりのYELL', '奥山熊雄のいもめとてがめ', '石投げ踊り', '50Aのインドの牛乳屋さん', '畑中葉子のカナダからの手紙'];
 const requestInput = $('#hot10-request-input');
@@ -84,4 +85,4 @@ if (new URLSearchParams(location.search).get('request') === 'sent') {
   url.searchParams.delete('request');
   history.replaceState({}, '', url);
 }
-window.addEventListener('resize', soundLabel); soundLabel(); showCachedAccessTotal(); recordAccess(); loadHot10(); scheduleHot10BoundaryRefresh();
+window.addEventListener('resize', soundLabel); soundLabel(); if (!isEmbed) { showCachedAccessTotal(); recordAccess(); loadHot10(); scheduleHot10BoundaryRefresh(); }

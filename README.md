@@ -2,6 +2,22 @@
 
 公開URL: https://tv.hachijojima.jp/
 
+## 他サイトへの埋め込み
+
+`https://tv.hachijojima.jp/embed.html` は現在の編成を再生する専用プレーヤーです。初回はミュートで再生し、音声・全画面ボタンを表示します。サイズは埋め込み先で指定します（操作欄を含むサイズ）。動画は指定された領域内に収まります。
+
+```html
+<iframe
+  src="https://tv.hachijojima.jp/embed.html"
+  title="FM八丈島テレビ"
+  style="display:block;width:100%;aspect-ratio:16/9;border:0"
+  allow="autoplay; fullscreen"
+  allowfullscreen
+></iframe>
+```
+
+固定サイズにする場合は `style="border:0" width="640" height="360"` を指定してください。YouTubeプレーヤーの表示領域を確保するため、高さは244px以上を推奨します。自動再生や全画面の可否は埋め込み先とブラウザの設定にも依存します。
+
 PUBLICはSupabaseの`schedule_items`からNOW/NEXTだけを読み、YouTube公式IFrame Playerで再生します。編成生成はPUBLICでは行いません。
 
 通常familyは`music`、`hachijo_taiko`、`power_push`、`sports`、`hachijo_picks`です。SPECIALは`island_view`と`tokyo_relay`です。
