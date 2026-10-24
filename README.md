@@ -4,19 +4,37 @@
 
 ## 他サイトへの埋め込み
 
-`https://tv.hachijojima.jp/embed.html` は現在の編成を再生する専用プレーヤーです。初回はミュートで再生し、音声・全画面ボタンを表示します。サイズは埋め込み先で指定します。操作欄は映像の下端に重ね、映像の高さを削りません。16:9の動画には、下記の16:9指定を使ってください。
+`https://tv.hachijojima.jp/embed.html` は現在の編成を再生する専用プレーヤーです。初回はミュートで再生します。操作欄は映像の下に44pxの高さで配置し、映像には重ねません。埋め込み全体の高さは「幅 × 9 ÷ 16 ＋ 44px」にしてください。以前のiframe全体を16:9にするコードからは差し替えが必要です。
+
+幅に追従する埋め込み（映像16:9＋操作欄44px）：
+
+```html
+<div style="position:relative;width:100%;height:0;padding-top:calc(56.25% + 44px)">
+  <iframe
+    src="https://tv.hachijojima.jp/embed.html"
+    title="FM八丈島テレビ"
+    style="position:absolute;inset:0;display:block;width:100%;height:100%;border:0"
+    allow="autoplay; fullscreen"
+    allowfullscreen
+  ></iframe>
+</div>
+```
+
+固定サイズなら、映像640×360pxに操作欄44pxを足して以下を使います。
 
 ```html
 <iframe
   src="https://tv.hachijojima.jp/embed.html"
   title="FM八丈島テレビ"
-  style="display:block;width:100%;aspect-ratio:16/9;border:0"
+  width="640"
+  height="404"
+  style="display:block;border:0"
   allow="autoplay; fullscreen"
   allowfullscreen
 ></iframe>
 ```
 
-固定サイズにする場合は `style="border:0" width="640" height="360"` を指定してください。YouTubeプレーヤーの表示領域を確保するため、高さは200px以上を推奨します。自動再生や全画面の可否は埋め込み先とブラウザの設定にも依存します。
+YouTubeプレーヤーの表示領域を確保するため、全体の高さは244px以上を推奨します。元の動画に黒帯が含まれる場合や動画の縦横比が16:9と異なる場合は、黒帯が残ることがあります。自動再生や全画面の可否は埋め込み先とブラウザの設定にも依存します。
 
 PUBLICはSupabaseの`schedule_items`からNOW/NEXTだけを読み、YouTube公式IFrame Playerで再生します。編成生成はPUBLICでは行いません。
 
