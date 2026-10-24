@@ -1,0 +1,96 @@
+{
+  "date": "2027-10-30",
+  "generated_at": "2027-10-30T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 1224,
+      "artist": "Adele",
+      "title": "Rolling in the Deep",
+      "movement": "↑7",
+      "days_at_number_1": 1,
+      "top10_streak": 2
+    },
+    {
+      "rank": 2,
+      "track_id": 471,
+      "artist": "TRF",
+      "title": "masquerade",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 3,
+      "track_id": 1544,
+      "artist": "Cocco",
+      "title": "樹海の糸",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 4,
+      "track_id": 1188,
+      "artist": "スピッツ",
+      "title": "チェリー",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 816,
+      "artist": "藤井風",
+      "title": "優しさ",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 6,
+      "track_id": 1278,
+      "artist": "aespa",
+      "title": "Supernova",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 7,
+      "track_id": 1134,
+      "artist": "Diana Ross",
+      "title": "I’m Coming Out",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 1231,
+      "artist": "Sabrina Carpenter",
+      "title": "Espresso",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 9,
+      "track_id": 1042,
+      "artist": "Stevie Wonder",
+      "title": "Sir Duke",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 10,
+      "track_id": 1222,
+      "artist": "Billie Eilish",
+      "title": "BIRDS OF A FEATHER",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    }
+  ]
+}
