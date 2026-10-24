@@ -4,7 +4,7 @@ html, body { width: 100%; height: 100%; margin: 0; overflow: hidden; }
 .screen { position: relative; display: grid; grid-template-rows: minmax(0, 1fr) 44px; width: 100%; height: 100%; background: #000; }
 .video-area { min-height: 0; }
 #player, .video-area iframe { display: block; width: 100%; height: 100%; border: 0; }
-.player-controls { display: flex; align-items: center; justify-content: space-between; gap: 4px; padding: 0 6px; background: #151515; }
+.player-controls { display: grid; grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr); align-items: center; gap: 4px; padding: 0 6px; background: #151515; }
 button, a { color: inherit; font: inherit; font-size: 12px; }
 button { min-height: 40px; padding: 0 8px; border: 0; background: transparent; cursor: pointer; white-space: nowrap; }
 button svg { width: 18px; height: 18px; margin-right: 5px; fill: currentColor; vertical-align: middle; }
@@ -15,3 +15,6 @@ button:focus-visible, a:focus-visible { outline: 2px solid white; outline-offset
 .screen:fullscreen, .screen:-webkit-full-screen { width: 100%; height: 100%; }
 .screen.ios-immersive { position: fixed; inset: 0; z-index: 100; height: 100dvh; }
 @media (max-width: 300px) { .player-controls a { font-size: 10px; } button { padding: 0 4px; font-size: 11px; } button svg { margin-right: 2px; } }
+
+.player-controls #sound-toggle { justify-self: start; }
+.player-controls a { justify-self: end; }
