@@ -1,96 +1,96 @@
 {
-  "date": "2026-10-26",
-  "generated_at": "2026-10-26T05:28:18.026731+09:00",
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T07:21:55.743461+09:00",
   "chart": [
     {
       "rank": 1,
       "track_id": 1589,
       "artist": "Massive Attack",
       "title": "Unfinished Sympathy",
-      "movement": "↑4",
-      "days_at_number_1": 1,
-      "top10_streak": 2
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 3
     },
     {
       "rank": 2,
-      "track_id": 695,
-      "artist": "矢野顕子",
-      "title": "春咲小紅",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 3,
-      "track_id": 1645,
-      "artist": "CO-FUSION",
-      "title": "Material to Digital",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 4,
-      "track_id": 914,
-      "artist": "My Bloody Valentine",
-      "title": "When You Sleep",
+      "track_id": 482,
+      "artist": "UNICORN",
+      "title": "すばらしい日々",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 5,
-      "track_id": 381,
-      "artist": "My Little Lover",
-      "title": "白いカイト",
+      "rank": 3,
+      "track_id": 914,
+      "artist": "My Bloody Valentine",
+      "title": "When You Sleep",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 4,
+      "track_id": 695,
+      "artist": "矢野顕子",
+      "title": "春咲小紅",
       "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 7
+      "top10_streak": 5
+    },
+    {
+      "rank": 5,
+      "track_id": 1217,
+      "artist": "Katy Perry",
+      "title": "Firework",
+      "movement": "↑4",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     },
     {
       "rank": 6,
-      "track_id": 1620,
-      "artist": "SPARTA LOCALS",
-      "title": "トーキョウバレリーナ",
+      "track_id": 1314,
+      "artist": "U2",
+      "title": "Beautiful Day",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 7,
-      "track_id": 1309,
-      "artist": "Red Hot Chili Peppers",
-      "title": "Under the Bridge",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 8,
-      "track_id": 839,
-      "artist": "Awesome City Club",
-      "title": "アウトサイダー",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 9,
-      "track_id": 1217,
-      "artist": "Katy Perry",
-      "title": "Firework",
+      "track_id": 1631,
+      "artist": "ECD",
+      "title": "DIRECT DRIVE",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 10,
-      "track_id": 1638,
-      "artist": "KASHIWA Daisuke",
-      "title": "Stella",
-      "movement": "↓4",
+      "rank": 8,
+      "track_id": 1309,
+      "artist": "Red Hot Chili Peppers",
+      "title": "Under the Bridge",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 9,
+      "track_id": 1620,
+      "artist": "SPARTA LOCALS",
+      "title": "トーキョウバレリーナ",
+      "movement": "↓3",
       "days_at_number_1": 0,
       "top10_streak": 2
+    },
+    {
+      "rank": 10,
+      "track_id": 1024,
+      "artist": "SUPER BUTTER DOG",
+      "title": "サヨナラCOLOR",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }
