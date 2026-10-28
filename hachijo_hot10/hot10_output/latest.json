@@ -1,93 +1,93 @@
 {
-  "date": "2026-10-28",
-  "generated_at": "2026-10-28T06:53:06.213361+09:00",
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T07:16:55.513144+09:00",
   "chart": [
     {
       "rank": 1,
-      "track_id": 1589,
-      "artist": "Massive Attack",
-      "title": "Unfinished Sympathy",
-      "movement": "→",
-      "days_at_number_1": 3,
-      "top10_streak": 4
-    },
-    {
-      "rank": 2,
-      "track_id": 482,
-      "artist": "UNICORN",
-      "title": "すばらしい日々",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 3,
       "track_id": 623,
       "artist": "細野晴臣",
       "title": "恋は桃色",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
+      "movement": "↑2",
+      "days_at_number_1": 1,
+      "top10_streak": 2
     },
     {
-      "rank": 4,
+      "rank": 2,
       "track_id": 1146,
       "artist": "TOMOO",
       "title": "Cinderella",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 5,
-      "track_id": 1631,
-      "artist": "ECD",
-      "title": "DIRECT DRIVE",
       "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 6,
-      "track_id": 695,
-      "artist": "矢野顕子",
-      "title": "春咲小紅",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 7,
-      "track_id": 1314,
-      "artist": "U2",
-      "title": "Beautiful Day",
-      "movement": "↓1",
+      "rank": 3,
+      "track_id": 1345,
+      "artist": "The Cranberries",
+      "title": "Zombie",
+      "movement": "↑7",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 8,
+      "rank": 4,
+      "track_id": 1589,
+      "artist": "Massive Attack",
+      "title": "Unfinished Sympathy",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 5,
+      "track_id": 482,
+      "artist": "UNICORN",
+      "title": "すばらしい日々",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 6,
       "track_id": 716,
       "artist": "イルカ",
       "title": "海岸通",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 7,
+      "track_id": 1631,
+      "artist": "ECD",
+      "title": "DIRECT DRIVE",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
+      "track_id": 618,
+      "artist": "久保田利伸",
+      "title": "LOVE RAIN ～恋の雨～",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 9,
-      "track_id": 1217,
-      "artist": "Katy Perry",
-      "title": "Firework",
-      "movement": "↓4",
+      "track_id": 736,
+      "artist": "来生たかお",
+      "title": "Goodbye Day",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 1345,
-      "artist": "The Cranberries",
-      "title": "Zombie",
+      "track_id": 1442,
+      "artist": "BLANKEY JET CITY",
+      "title": "赤いタンバリン",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1

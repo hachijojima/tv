@@ -1,0 +1,96 @@
+{
+  "date": "2027-11-03",
+  "generated_at": "2027-11-03T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 1544,
+      "artist": "Cocco",
+      "title": "樹海の糸",
+      "movement": "→",
+      "days_at_number_1": 3,
+      "top10_streak": 7
+    },
+    {
+      "rank": 2,
+      "track_id": 1222,
+      "artist": "Billie Eilish",
+      "title": "BIRDS OF A FEATHER",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 3,
+      "track_id": 1134,
+      "artist": "Diana Ross",
+      "title": "I’m Coming Out",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 4,
+      "track_id": 1341,
+      "artist": "Pulp",
+      "title": "Disco 2000",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 5,
+      "track_id": 1224,
+      "artist": "Adele",
+      "title": "Rolling in the Deep",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 6,
+      "track_id": 1231,
+      "artist": "Sabrina Carpenter",
+      "title": "Espresso",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 7,
+      "track_id": 1042,
+      "artist": "Stevie Wonder",
+      "title": "Sir Duke",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 8,
+      "track_id": 388,
+      "artist": "BUMP OF CHICKEN",
+      "title": "スノースマイル",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 1090,
+      "artist": "The Beatles",
+      "title": "Strawberry Fields Forever",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1294,
+      "artist": "Red Velvet",
+      "title": "Red Flavor",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    }
+  ]
+}
