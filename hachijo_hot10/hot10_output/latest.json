@@ -1,24 +1,24 @@
 {
-  "date": "2026-10-30",
-  "generated_at": "2026-10-30T07:30:12.009106+09:00",
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T06:58:56.229209+09:00",
   "chart": [
     {
       "rank": 1,
-      "track_id": 623,
-      "artist": "細野晴臣",
-      "title": "恋は桃色",
-      "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 3
+      "track_id": 1068,
+      "artist": "Simon & Garfunkel",
+      "title": "Bridge Over Troubled Water",
+      "movement": "NEW",
+      "days_at_number_1": 1,
+      "top10_streak": 1
     },
     {
       "rank": 2,
-      "track_id": 1146,
-      "artist": "TOMOO",
-      "title": "Cinderella",
-      "movement": "→",
+      "track_id": 623,
+      "artist": "細野晴臣",
+      "title": "恋は桃色",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 4
     },
     {
       "rank": 3,
@@ -27,70 +27,70 @@
       "title": "Zombie",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 4
     },
     {
       "rank": 4,
-      "track_id": 716,
-      "artist": "イルカ",
-      "title": "海岸通",
-      "movement": "↑2",
+      "track_id": 1442,
+      "artist": "BLANKEY JET CITY",
+      "title": "赤いタンバリン",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
       "rank": 5,
-      "track_id": 913,
-      "artist": "Sonic Youth",
-      "title": "Sunday",
+      "track_id": 591,
+      "artist": "LUNA SEA",
+      "title": "I for You",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 6,
-      "track_id": 1589,
-      "artist": "Massive Attack",
-      "title": "Unfinished Sympathy",
-      "movement": "↓2",
+      "track_id": 1146,
+      "artist": "TOMOO",
+      "title": "Cinderella",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 4
     },
     {
       "rank": 7,
-      "track_id": 1442,
-      "artist": "BLANKEY JET CITY",
-      "title": "赤いタンバリン",
-      "movement": "↑3",
+      "track_id": 716,
+      "artist": "イルカ",
+      "title": "海岸通",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 4
     },
     {
       "rank": 8,
-      "track_id": 618,
-      "artist": "久保田利伸",
-      "title": "LOVE RAIN ～恋の雨～",
-      "movement": "→",
+      "track_id": 842,
+      "artist": "離婚伝説",
+      "title": "本日のおすすめ",
+      "movement": "↑1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 9,
-      "track_id": 842,
-      "artist": "離婚伝説",
-      "title": "本日のおすすめ",
+      "track_id": 760,
+      "artist": "南佳孝",
+      "title": "プールサイド",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 736,
-      "artist": "来生たかお",
-      "title": "Goodbye Day",
-      "movement": "↓1",
+      "track_id": 1249,
+      "artist": "Zedd",
+      "title": "Clarity (feat. Foxes)",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
     }
   ]
 }

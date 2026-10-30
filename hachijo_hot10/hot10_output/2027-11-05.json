@@ -1,0 +1,96 @@
+{
+  "date": "2027-11-05",
+  "generated_at": "2027-11-05T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 1062,
+      "artist": "Daft Punk",
+      "title": "Digital Love",
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 2
+    },
+    {
+      "rank": 2,
+      "track_id": 1090,
+      "artist": "The Beatles",
+      "title": "Strawberry Fields Forever",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 3,
+      "track_id": 1297,
+      "artist": "Wonder Girls",
+      "title": "Nobody",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 4,
+      "track_id": 370,
+      "artist": "SAKEROCK",
+      "title": "ホニャララ",
+      "movement": "↑6",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 1341,
+      "artist": "Pulp",
+      "title": "Disco 2000",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 6,
+      "track_id": 1222,
+      "artist": "Billie Eilish",
+      "title": "BIRDS OF A FEATHER",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 7,
+      "track_id": 1134,
+      "artist": "Diana Ross",
+      "title": "I’m Coming Out",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 8
+    },
+    {
+      "rank": 8,
+      "track_id": 388,
+      "artist": "BUMP OF CHICKEN",
+      "title": "スノースマイル",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 9,
+      "track_id": 1544,
+      "artist": "Cocco",
+      "title": "樹海の糸",
+      "movement": "↓7",
+      "days_at_number_1": 0,
+      "top10_streak": 9
+    },
+    {
+      "rank": 10,
+      "track_id": 801,
+      "artist": "Cody・Lee(李)",
+      "title": "我愛你",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    }
+  ]
+}
