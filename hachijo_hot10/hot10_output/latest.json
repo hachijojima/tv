@@ -1,93 +1,93 @@
 {
-  "date": "2026-10-31",
-  "generated_at": "2026-10-31T06:58:56.229209+09:00",
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T06:05:58.992846+09:00",
   "chart": [
     {
       "rank": 1,
       "track_id": 1068,
       "artist": "Simon & Garfunkel",
       "title": "Bridge Over Troubled Water",
-      "movement": "NEW",
-      "days_at_number_1": 1,
-      "top10_streak": 1
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 2
     },
     {
       "rank": 2,
-      "track_id": 623,
-      "artist": "細野晴臣",
-      "title": "恋は桃色",
-      "movement": "↓1",
+      "track_id": 1046,
+      "artist": "星野源",
+      "title": "不思議",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 1
     },
     {
       "rank": 3,
-      "track_id": 1345,
-      "artist": "The Cranberries",
-      "title": "Zombie",
-      "movement": "→",
+      "track_id": 591,
+      "artist": "LUNA SEA",
+      "title": "I for You",
+      "movement": "↑2",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 2
     },
     {
       "rank": 4,
       "track_id": 1442,
       "artist": "BLANKEY JET CITY",
       "title": "赤いタンバリン",
-      "movement": "↑3",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 5,
+      "track_id": 1249,
+      "artist": "Zedd",
+      "title": "Clarity (feat. Foxes)",
+      "movement": "↑5",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 6,
+      "track_id": 842,
+      "artist": "離婚伝説",
+      "title": "本日のおすすめ",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 5,
-      "track_id": 591,
-      "artist": "LUNA SEA",
-      "title": "I for You",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 6,
-      "track_id": 1146,
-      "artist": "TOMOO",
-      "title": "Cinderella",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
       "rank": 7,
-      "track_id": 716,
-      "artist": "イルカ",
-      "title": "海岸通",
-      "movement": "↓3",
+      "track_id": 623,
+      "artist": "細野晴臣",
+      "title": "恋は桃色",
+      "movement": "↓5",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 5
     },
     {
       "rank": 8,
-      "track_id": 842,
-      "artist": "離婚伝説",
-      "title": "本日のおすすめ",
-      "movement": "↑1",
+      "track_id": 1345,
+      "artist": "The Cranberries",
+      "title": "Zombie",
+      "movement": "↓5",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 5
     },
     {
       "rank": 9,
       "track_id": 760,
       "artist": "南佳孝",
       "title": "プールサイド",
-      "movement": "NEW",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     },
     {
       "rank": 10,
-      "track_id": 1249,
-      "artist": "Zedd",
-      "title": "Clarity (feat. Foxes)",
+      "track_id": 1227,
+      "artist": "OneRepublic",
+      "title": "Counting Stars",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
