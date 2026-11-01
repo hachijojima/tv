@@ -1,0 +1,96 @@
+{
+  "date": "2027-11-07",
+  "generated_at": "2027-11-07T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 1062,
+      "artist": "Daft Punk",
+      "title": "Digital Love",
+      "movement": "→",
+      "days_at_number_1": 4,
+      "top10_streak": 4
+    },
+    {
+      "rank": 2,
+      "track_id": 1249,
+      "artist": "Zedd",
+      "title": "Clarity (feat. Foxes)",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 3,
+      "track_id": 370,
+      "artist": "SAKEROCK",
+      "title": "ホニャララ",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 4,
+      "track_id": 1390,
+      "artist": "SUPER BUTTER DOG",
+      "title": "コミュニケーション・ブレイクダンス",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 5,
+      "track_id": 1090,
+      "artist": "The Beatles",
+      "title": "Strawberry Fields Forever",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 6,
+      "track_id": 1665,
+      "artist": "Guitar Wolf",
+      "title": "Jet Generation",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 7,
+      "track_id": 501,
+      "artist": "ポルノグラフィティ",
+      "title": "ヒトリノ夜",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 1048,
+      "artist": "Ben E. King",
+      "title": "Stand By Me",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 1341,
+      "artist": "Pulp",
+      "title": "Disco 2000",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 10,
+      "track_id": 1312,
+      "artist": "U2",
+      "title": "One",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    }
+  ]
+}
