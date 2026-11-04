@@ -1,93 +1,93 @@
 {
-  "date": "2026-11-04",
-  "generated_at": "2026-11-04T07:57:48.772703+09:00",
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T08:17:24.608583+09:00",
   "chart": [
     {
       "rank": 1,
-      "track_id": 1358,
-      "artist": "The White Stripes",
-      "title": "Fell in Love with a Girl",
-      "movement": "NEW",
-      "days_at_number_1": 1,
-      "top10_streak": 1
-    },
-    {
-      "rank": 2,
       "track_id": 1475,
       "artist": "スチャダラパー",
       "title": "ゲームボーイズ",
-      "movement": "↑3",
+      "movement": "↑1",
+      "days_at_number_1": 1,
+      "top10_streak": 4
+    },
+    {
+      "rank": 2,
+      "track_id": 1358,
+      "artist": "The White Stripes",
+      "title": "Fell in Love with a Girl",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 2
     },
     {
       "rank": 3,
       "track_id": 1227,
       "artist": "OneRepublic",
       "title": "Counting Stars",
-      "movement": "↑3",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 5
     },
     {
       "rank": 4,
       "track_id": 1046,
       "artist": "星野源",
       "title": "不思議",
-      "movement": "↓1",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 5,
-      "track_id": 1068,
-      "artist": "Simon & Garfunkel",
-      "title": "Bridge Over Troubled Water",
-      "movement": "↓3",
+      "movement": "→",
       "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
-      "rank": 6,
-      "track_id": 1295,
-      "artist": "SHINee",
-      "title": "Ring Ding Dong",
-      "movement": "↓5",
+      "rank": 5,
+      "track_id": 542,
+      "artist": "斉藤和義",
+      "title": "歩いて帰ろう",
+      "movement": "↑4",
       "days_at_number_1": 0,
       "top10_streak": 3
+    },
+    {
+      "rank": 6,
+      "track_id": 784,
+      "artist": "緑黄色社会",
+      "title": "Mela!",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     },
     {
       "rank": 7,
       "track_id": 1249,
       "artist": "Zedd",
       "title": "Clarity (feat. Foxes)",
-      "movement": "↓3",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 6
     },
     {
       "rank": 8,
-      "track_id": 28,
-      "artist": "トリプルファイヤー",
-      "title": "次やったら殴る",
-      "movement": "↑1",
+      "track_id": 1704,
+      "artist": "Bondage Fruit",
+      "title": "Odd-Job",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
     },
     {
       "rank": 9,
-      "track_id": 542,
-      "artist": "斉藤和義",
-      "title": "歩いて帰ろう",
-      "movement": "↑1",
+      "track_id": 1068,
+      "artist": "Simon & Garfunkel",
+      "title": "Bridge Over Troubled Water",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 6
     },
     {
       "rank": 10,
-      "track_id": 1036,
-      "artist": "レイ・ハラカミ",
-      "title": "owari no kisetsu",
+      "track_id": 28,
+      "artist": "トリプルファイヤー",
+      "title": "次やったら殴る",
       "movement": "↓2",
       "days_at_number_1": 0,
       "top10_streak": 3

@@ -1,0 +1,96 @@
+{
+  "date": "2027-11-10",
+  "generated_at": "2027-11-10T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 1048,
+      "artist": "Ben E. King",
+      "title": "Stand By Me",
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 4
+    },
+    {
+      "rank": 2,
+      "track_id": 1373,
+      "artist": "Primal Scream",
+      "title": "Movin' on Up",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 3,
+      "track_id": 1384,
+      "artist": "Fishmans",
+      "title": "LONG SEASON",
+      "movement": "↑5",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 4,
+      "track_id": 472,
+      "artist": "globe",
+      "title": "FREEDOM",
+      "movement": "↑6",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 1028,
+      "artist": "Kendrick Lamar",
+      "title": "Alright",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 6,
+      "track_id": 1249,
+      "artist": "Zedd",
+      "title": "Clarity (feat. Foxes)",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 7,
+      "track_id": 1001,
+      "artist": "Earth, Wind & Fire",
+      "title": "September",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 1390,
+      "artist": "SUPER BUTTER DOG",
+      "title": "コミュニケーション・ブレイクダンス",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 9,
+      "track_id": 1662,
+      "artist": "TEENGENERATE",
+      "title": "My GTO",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1665,
+      "artist": "Guitar Wolf",
+      "title": "Jet Generation",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    }
+  ]
+}
