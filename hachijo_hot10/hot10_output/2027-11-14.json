@@ -1,0 +1,96 @@
+{
+  "date": "2027-11-14",
+  "generated_at": "2027-11-14T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 1048,
+      "artist": "Ben E. King",
+      "title": "Stand By Me",
+      "movement": "→",
+      "days_at_number_1": 6,
+      "top10_streak": 8
+    },
+    {
+      "rank": 2,
+      "track_id": 1201,
+      "artist": "Lady Gaga",
+      "title": "Bad Romance",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 3,
+      "track_id": 1592,
+      "artist": "浅沼亨年",
+      "title": "八丈太鼓",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 4,
+      "track_id": 578,
+      "artist": "爆風スランプ",
+      "title": "リゾ・ラバ",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 152,
+      "artist": "さよならポニーテール",
+      "title": "新世界交響楽",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 6,
+      "track_id": 1028,
+      "artist": "Kendrick Lamar",
+      "title": "Alright",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 7,
+      "track_id": 1454,
+      "artist": "ゆらゆら帝国",
+      "title": "つぎの夜へ",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 8,
+      "track_id": 1001,
+      "artist": "Earth, Wind & Fire",
+      "title": "September",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 9,
+      "track_id": 1332,
+      "artist": "R.E.M.",
+      "title": "Everybody Hurts",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 10,
+      "track_id": 844,
+      "artist": "WONK",
+      "title": "Fleeting Fantasy",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    }
+  ]
+}
