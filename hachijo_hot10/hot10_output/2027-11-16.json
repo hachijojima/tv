@@ -1,0 +1,96 @@
+{
+  "date": "2027-11-16",
+  "generated_at": "2027-11-16T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 578,
+      "artist": "爆風スランプ",
+      "title": "リゾ・ラバ",
+      "movement": "↑3",
+      "days_at_number_1": 1,
+      "top10_streak": 4
+    },
+    {
+      "rank": 2,
+      "track_id": 4,
+      "artist": "MIZ",
+      "title": "空砲",
+      "movement": "↑7",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 3,
+      "track_id": 1201,
+      "artist": "Lady Gaga",
+      "title": "Bad Romance",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 4,
+      "track_id": 1048,
+      "artist": "Ben E. King",
+      "title": "Stand By Me",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 10
+    },
+    {
+      "rank": 5,
+      "track_id": 719,
+      "artist": "三上寛",
+      "title": "ひびけ電気釜!!",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 6,
+      "track_id": 152,
+      "artist": "さよならポニーテール",
+      "title": "新世界交響楽",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 7,
+      "track_id": 1028,
+      "artist": "Kendrick Lamar",
+      "title": "Alright",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 8,
+      "track_id": 1332,
+      "artist": "R.E.M.",
+      "title": "Everybody Hurts",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 9,
+      "track_id": 1592,
+      "artist": "浅沼亨年",
+      "title": "八丈太鼓",
+      "movement": "↓6",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 10,
+      "track_id": 844,
+      "artist": "WONK",
+      "title": "Fleeting Fantasy",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    }
+  ]
+}

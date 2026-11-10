@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-10",
-  "generated_at": "2026-11-10T10:14:57.203437+09:00",
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T07:54:50.068709+09:00",
   "chart": [
     {
       "rank": 1,
@@ -8,8 +8,8 @@
       "artist": "IVE",
       "title": "I AM",
       "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 4
+      "days_at_number_1": 3,
+      "top10_streak": 5
     },
     {
       "rank": 2,
@@ -18,16 +18,16 @@
       "title": "暑中見舞い",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 5
     },
     {
       "rank": 3,
-      "track_id": 1475,
-      "artist": "スチャダラパー",
-      "title": "ゲームボーイズ",
-      "movement": "↑2",
+      "track_id": 170,
+      "artist": "betcover!!",
+      "title": "翔け夜の匂い草",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 9
+      "top10_streak": 1
     },
     {
       "rank": 4,
@@ -36,61 +36,61 @@
       "title": "Creep",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 4
     },
     {
       "rank": 5,
-      "track_id": 784,
-      "artist": "緑黄色社会",
-      "title": "Mela!",
-      "movement": "↑1",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 6,
       "track_id": 275,
       "artist": "BREIMEN",
       "title": "yonaki",
-      "movement": "↑2",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 4
     },
     {
-      "rank": 7,
-      "track_id": 545,
-      "artist": "THE BLUE HEARTS",
-      "title": "TRAIN-TRAIN",
-      "movement": "↑3",
+      "rank": 6,
+      "track_id": 612,
+      "artist": "渡辺美里",
+      "title": "サマータイム ブルース",
+      "movement": "↑2",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 8,
-      "track_id": 612,
-      "artist": "渡辺美里",
-      "title": "サマータイム ブルース",
-      "movement": "NEW",
+      "rank": 7,
+      "track_id": 1475,
+      "artist": "スチャダラパー",
+      "title": "ゲームボーイズ",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 10
+    },
+    {
+      "rank": 8,
+      "track_id": 545,
+      "artist": "THE BLUE HEARTS",
+      "title": "TRAIN-TRAIN",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     },
     {
       "rank": 9,
-      "track_id": 1677,
-      "artist": "te'",
-      "title": "言葉を用いて奏でる者は才能に在らず、ただの記憶に『過』ぎぬ。",
-      "movement": "↓6",
-      "days_at_number_1": 0,
-      "top10_streak": 5
-    },
-    {
-      "rank": 10,
-      "track_id": 71,
-      "artist": "VIDEOTAPEMUSIC",
-      "title": "世界各国の夜",
+      "track_id": 1228,
+      "artist": "Maroon 5",
+      "title": "Sugar",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 784,
+      "artist": "緑黄色社会",
+      "title": "Mela!",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 7
     }
   ]
 }
