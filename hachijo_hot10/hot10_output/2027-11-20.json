@@ -1,0 +1,96 @@
+{
+  "date": "2027-11-20",
+  "generated_at": "2027-11-20T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 459,
+      "artist": "B'z",
+      "title": "MOTEL",
+      "movement": "RE",
+      "days_at_number_1": 1,
+      "top10_streak": 1
+    },
+    {
+      "rank": 2,
+      "track_id": 1253,
+      "artist": "Martin Garrix",
+      "title": "Animals",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 3,
+      "track_id": 1442,
+      "artist": "BLANKEY JET CITY",
+      "title": "赤いタンバリン",
+      "movement": "↑5",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 4,
+      "track_id": 659,
+      "artist": "加川良",
+      "title": "教訓I",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 1345,
+      "artist": "The Cranberries",
+      "title": "Zombie",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 6,
+      "track_id": 934,
+      "artist": "The Wannadies",
+      "title": "You and Me Song",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 7,
+      "track_id": 839,
+      "artist": "Awesome City Club",
+      "title": "アウトサイダー",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 852,
+      "artist": "Official髭男dism",
+      "title": "宿命",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 9,
+      "track_id": 1048,
+      "artist": "Ben E. King",
+      "title": "Stand By Me",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 14
+    },
+    {
+      "rank": 10,
+      "track_id": 1146,
+      "artist": "TOMOO",
+      "title": "Cinderella",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    }
+  ]
+}
