@@ -1,96 +1,96 @@
 {
-  "date": "2026-11-16",
-  "generated_at": "2026-11-16T07:32:52.166264+09:00",
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T10:40:23.211747+09:00",
   "chart": [
     {
       "rank": 1,
       "track_id": 1215,
       "artist": "Taylor Swift",
       "title": "Shake It Off",
-      "movement": "↑3",
-      "days_at_number_1": 1,
-      "top10_streak": 3
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 4
     },
     {
       "rank": 2,
       "track_id": 1008,
       "artist": "Marvin Gaye",
       "title": "What’s Going On",
-      "movement": "NEW",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     },
     {
       "rank": 3,
-      "track_id": 1290,
-      "artist": "Girls' Generation",
-      "title": "Gee",
-      "movement": "↑4",
+      "track_id": 829,
+      "artist": "Mrs. GREEN APPLE",
+      "title": "僕のこと",
+      "movement": "↑5",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 4,
-      "track_id": 1272,
-      "artist": "BLACKPINK",
-      "title": "How You Like That",
+      "track_id": 1245,
+      "artist": "David Guetta",
+      "title": "Titanium (feat. Sia)",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 1264,
+      "artist": "Disclosure",
+      "title": "Latch (feat. Sam Smith)",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 5,
-      "track_id": 1145,
-      "artist": "tofubeats",
-      "title": "水星 (feat. オノマトペ大臣)",
-      "movement": "↓4",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
       "rank": 6,
-      "track_id": 1245,
-      "artist": "David Guetta",
-      "title": "Titanium (feat. Sia)",
+      "track_id": 921,
+      "artist": "Lou Reed",
+      "title": "Perfect Day",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 7,
-      "track_id": 568,
-      "artist": "54-71",
-      "title": "Life",
-      "movement": "↓5",
+      "track_id": 1290,
+      "artist": "Girls' Generation",
+      "title": "Gee",
+      "movement": "↓4",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 3
     },
     {
       "rank": 8,
-      "track_id": 829,
-      "artist": "Mrs. GREEN APPLE",
-      "title": "僕のこと",
+      "track_id": 1257,
+      "artist": "Clean Bandit",
+      "title": "Rather Be (feat. Jess Glynne)",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 9,
-      "track_id": 819,
-      "artist": "ずっと真夜中でいいのに。",
-      "title": "正しくなれない",
-      "movement": "↓4",
+      "track_id": 568,
+      "artist": "54-71",
+      "title": "Life",
+      "movement": "↓2",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 6
     },
     {
       "rank": 10,
-      "track_id": 1228,
-      "artist": "Maroon 5",
-      "title": "Sugar",
-      "movement": "↓7",
+      "track_id": 507,
+      "artist": "aiko",
+      "title": "カブトムシ",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 1
     }
   ]
 }
