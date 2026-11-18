@@ -1,93 +1,93 @@
 {
-  "date": "2026-11-17",
-  "generated_at": "2026-11-17T10:40:23.211747+09:00",
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T09:38:31.449348+09:00",
   "chart": [
     {
       "rank": 1,
-      "track_id": 1215,
-      "artist": "Taylor Swift",
-      "title": "Shake It Off",
-      "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 4
+      "track_id": 829,
+      "artist": "Mrs. GREEN APPLE",
+      "title": "僕のこと",
+      "movement": "↑2",
+      "days_at_number_1": 1,
+      "top10_streak": 3
     },
     {
       "rank": 2,
-      "track_id": 1008,
-      "artist": "Marvin Gaye",
-      "title": "What’s Going On",
-      "movement": "→",
+      "track_id": 1257,
+      "artist": "Clean Bandit",
+      "title": "Rather Be (feat. Jess Glynne)",
+      "movement": "↑6",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 3,
-      "track_id": 829,
-      "artist": "Mrs. GREEN APPLE",
-      "title": "僕のこと",
-      "movement": "↑5",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 4,
-      "track_id": 1245,
-      "artist": "David Guetta",
-      "title": "Titanium (feat. Sia)",
-      "movement": "↑2",
-      "days_at_number_1": 0,
-      "top10_streak": 2
-    },
-    {
-      "rank": 5,
-      "track_id": 1264,
-      "artist": "Disclosure",
-      "title": "Latch (feat. Sam Smith)",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 6,
-      "track_id": 921,
-      "artist": "Lou Reed",
-      "title": "Perfect Day",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 7,
-      "track_id": 1290,
-      "artist": "Girls' Generation",
-      "title": "Gee",
-      "movement": "↓4",
+      "track_id": 1008,
+      "artist": "Marvin Gaye",
+      "title": "What’s Going On",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 3
     },
     {
-      "rank": 8,
-      "track_id": 1257,
-      "artist": "Clean Bandit",
-      "title": "Rather Be (feat. Jess Glynne)",
+      "rank": 4,
+      "track_id": 1721,
+      "artist": "Towa Tei",
+      "title": "Technova",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
-      "rank": 9,
-      "track_id": 568,
-      "artist": "54-71",
-      "title": "Life",
-      "movement": "↓2",
+      "rank": 5,
+      "track_id": 1245,
+      "artist": "David Guetta",
+      "title": "Titanium (feat. Sia)",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 6
+      "top10_streak": 3
     },
     {
-      "rank": 10,
+      "rank": 6,
+      "track_id": 1215,
+      "artist": "Taylor Swift",
+      "title": "Shake It Off",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 7,
+      "track_id": 1264,
+      "artist": "Disclosure",
+      "title": "Latch (feat. Sam Smith)",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 921,
+      "artist": "Lou Reed",
+      "title": "Perfect Day",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 9,
       "track_id": 507,
       "artist": "aiko",
       "title": "カブトムシ",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 10,
+      "track_id": 805,
+      "artist": "WONK",
+      "title": "Rollin'",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1

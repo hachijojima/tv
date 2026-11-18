@@ -1,0 +1,96 @@
+{
+  "date": "2027-11-23",
+  "generated_at": "2027-11-23T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 659,
+      "artist": "加川良",
+      "title": "教訓I",
+      "movement": "↑1",
+      "days_at_number_1": 1,
+      "top10_streak": 5
+    },
+    {
+      "rank": 2,
+      "track_id": 1253,
+      "artist": "Martin Garrix",
+      "title": "Animals",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 3,
+      "track_id": 1542,
+      "artist": "COALTAR OF THE DEEPERS",
+      "title": "My Speedy Sarah",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 4,
+      "track_id": 459,
+      "artist": "B'z",
+      "title": "MOTEL",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 5,
+      "track_id": 573,
+      "artist": "THE BOOM",
+      "title": "風になりたい",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 6,
+      "track_id": 1146,
+      "artist": "TOMOO",
+      "title": "Cinderella",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 7,
+      "track_id": 410,
+      "artist": "Syrup16g",
+      "title": "Reborn",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 1442,
+      "artist": "BLANKEY JET CITY",
+      "title": "赤いタンバリン",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 9,
+      "track_id": 934,
+      "artist": "The Wannadies",
+      "title": "You and Me Song",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 10,
+      "track_id": 510,
+      "artist": "BEGIN",
+      "title": "島人ぬ宝",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    }
+  ]
+}
