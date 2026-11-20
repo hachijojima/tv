@@ -1,24 +1,24 @@
 {
-  "date": "2026-11-20",
-  "generated_at": "2026-11-20T09:21:04.858622+09:00",
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T08:44:09.949118+09:00",
   "chart": [
     {
       "rank": 1,
-      "track_id": 829,
-      "artist": "Mrs. GREEN APPLE",
-      "title": "僕のこと",
-      "movement": "↑1",
-      "days_at_number_1": 1,
-      "top10_streak": 5
-    },
-    {
-      "rank": 2,
       "track_id": 1245,
       "artist": "David Guetta",
       "title": "Titanium (feat. Sia)",
-      "movement": "↑6",
+      "movement": "↑1",
+      "days_at_number_1": 1,
+      "top10_streak": 6
+    },
+    {
+      "rank": 2,
+      "track_id": 1395,
+      "artist": "GOING STEADY",
+      "title": "銀河鉄道の夜",
+      "movement": "↑4",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 3
     },
     {
       "rank": 3,
@@ -27,70 +27,70 @@
       "title": "Rather Be (feat. Jess Glynne)",
       "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 5
     },
     {
       "rank": 4,
-      "track_id": 1721,
-      "artist": "Towa Tei",
-      "title": "Technova",
+      "track_id": 829,
+      "artist": "Mrs. GREEN APPLE",
+      "title": "僕のこと",
       "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 6
     },
     {
       "rank": 5,
-      "track_id": 1105,
-      "artist": "LCD Soundsystem",
-      "title": "All My Friends",
-      "movement": "↓1",
+      "track_id": 1172,
+      "artist": "New Order",
+      "title": "Regret",
+      "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 6,
-      "track_id": 1395,
-      "artist": "GOING STEADY",
-      "title": "銀河鉄道の夜",
-      "movement": "↑3",
+      "track_id": 1098,
+      "artist": "a-ha",
+      "title": "Take on Me",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
     },
     {
       "rank": 7,
       "track_id": 1017,
       "artist": "Grover Washington, Jr.",
       "title": "Just the Two of Us",
-      "movement": "NEW",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
     },
     {
       "rank": 8,
-      "track_id": 1172,
-      "artist": "New Order",
-      "title": "Regret",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 9,
-      "track_id": 507,
-      "artist": "aiko",
-      "title": "カブトムシ",
+      "track_id": 1721,
+      "artist": "Towa Tei",
+      "title": "Technova",
       "movement": "↓4",
       "days_at_number_1": 0,
       "top10_streak": 4
     },
     {
-      "rank": 10,
-      "track_id": 1008,
-      "artist": "Marvin Gaye",
-      "title": "What’s Going On",
-      "movement": "↓4",
+      "rank": 9,
+      "track_id": 1650,
+      "artist": "Cokiyu",
+      "title": "Mirror Flake",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 1033,
+      "artist": "Billy Joel",
+      "title": "Just the Way You Are",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
     }
   ]
 }
