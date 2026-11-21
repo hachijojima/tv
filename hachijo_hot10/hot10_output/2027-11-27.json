@@ -1,0 +1,96 @@
+{
+  "date": "2027-11-27",
+  "generated_at": "2027-11-27T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 508,
+      "artist": "矢井田瞳",
+      "title": "My Sweet Darlin'",
+      "movement": "→",
+      "days_at_number_1": 3,
+      "top10_streak": 4
+    },
+    {
+      "rank": 2,
+      "track_id": 1021,
+      "artist": "スチャダラパー",
+      "title": "サマージャム’95",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 3,
+      "track_id": 1061,
+      "artist": "Cyndi Lauper",
+      "title": "Time After Time",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 4,
+      "track_id": 257,
+      "artist": "betcover!!",
+      "title": "平和の大使",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 1223,
+      "artist": "Miley Cyrus",
+      "title": "Flowers",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 6,
+      "track_id": 1674,
+      "artist": "Pasteboard",
+      "title": "Flipper",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 7,
+      "track_id": 842,
+      "artist": "離婚伝説",
+      "title": "本日のおすすめ",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
+      "track_id": 410,
+      "artist": "Syrup16g",
+      "title": "Reborn",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 9,
+      "track_id": 1646,
+      "artist": "Serani Poji",
+      "title": "スマイリーを探して",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 10,
+      "track_id": 573,
+      "artist": "THE BOOM",
+      "title": "風になりたい",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    }
+  ]
+}
