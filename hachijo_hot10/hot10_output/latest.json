@@ -1,96 +1,96 @@
 {
-  "date": "2026-11-23",
-  "generated_at": "2026-11-23T08:18:54.827515+09:00",
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T12:51:47.157754+09:00",
   "chart": [
     {
       "rank": 1,
       "track_id": 1113,
       "artist": "The Beatles",
       "title": "Blackbird",
-      "movement": "↑5",
-      "days_at_number_1": 1,
-      "top10_streak": 2
+      "movement": "→",
+      "days_at_number_1": 2,
+      "top10_streak": 3
     },
     {
       "rank": 2,
       "track_id": 1395,
       "artist": "GOING STEADY",
       "title": "銀河鉄道の夜",
-      "movement": "↓1",
+      "movement": "→",
       "days_at_number_1": 0,
-      "top10_streak": 5
+      "top10_streak": 6
     },
     {
       "rank": 3,
-      "track_id": 1098,
-      "artist": "a-ha",
-      "title": "Take on Me",
-      "movement": "↑1",
+      "track_id": 1655,
+      "artist": "モーモールルギャバン",
+      "title": "サイケな恋人",
+      "movement": "↑5",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 2
     },
     {
       "rank": 4,
-      "track_id": 1257,
-      "artist": "Clean Bandit",
-      "title": "Rather Be (feat. Jess Glynne)",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 7
-    },
-    {
-      "rank": 5,
-      "track_id": 1033,
-      "artist": "Billy Joel",
-      "title": "Just the Way You Are",
-      "movement": "↑5",
-      "days_at_number_1": 0,
-      "top10_streak": 3
-    },
-    {
-      "rank": 6,
-      "track_id": 1203,
-      "artist": "Rihanna",
-      "title": "Umbrella",
+      "track_id": 1660,
+      "artist": "COWPERS",
+      "title": "Curve",
       "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
+      "rank": 5,
+      "track_id": 1098,
+      "artist": "a-ha",
+      "title": "Take on Me",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 6,
+      "track_id": 1033,
+      "artist": "Billy Joel",
+      "title": "Just the Way You Are",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
       "rank": 7,
-      "track_id": 1660,
-      "artist": "COWPERS",
-      "title": "Curve",
+      "track_id": 630,
+      "artist": "RCサクセション",
+      "title": "スローバラード",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 8,
-      "track_id": 1655,
-      "artist": "モーモールルギャバン",
-      "title": "サイケな恋人",
+      "track_id": 339,
+      "artist": "フジファブリック",
+      "title": "茜色の夕日",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 9,
-      "track_id": 1172,
-      "artist": "New Order",
-      "title": "Regret",
-      "movement": "↓4",
+      "track_id": 950,
+      "artist": "Fleetwood Mac",
+      "title": "Everywhere",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 1
     },
     {
       "rank": 10,
-      "track_id": 543,
-      "artist": "奥田民生",
-      "title": "さすらい",
-      "movement": "↓2",
+      "track_id": 1115,
+      "artist": "The Ronettes",
+      "title": "Be My Baby",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 1
     }
   ]
 }

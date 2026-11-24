@@ -1,0 +1,96 @@
+{
+  "date": "2027-11-29",
+  "generated_at": "2027-11-29T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 1021,
+      "artist": "スチャダラパー",
+      "title": "サマージャム’95",
+      "movement": "↑1",
+      "days_at_number_1": 1,
+      "top10_streak": 6
+    },
+    {
+      "rank": 2,
+      "track_id": 842,
+      "artist": "離婚伝説",
+      "title": "本日のおすすめ",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 3,
+      "track_id": 1646,
+      "artist": "Serani Poji",
+      "title": "スマイリーを探して",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 4,
+      "track_id": 569,
+      "artist": "aiko",
+      "title": "花火",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 5,
+      "track_id": 508,
+      "artist": "矢井田瞳",
+      "title": "My Sweet Darlin'",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 6,
+      "track_id": 602,
+      "artist": "槇原敬之",
+      "title": "遠く遠く",
+      "movement": "→",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 7,
+      "track_id": 1674,
+      "artist": "Pasteboard",
+      "title": "Flipper",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 8,
+      "track_id": 1247,
+      "artist": "Swedish House Mafia",
+      "title": "Don't You Worry Child",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 9,
+      "track_id": 1061,
+      "artist": "Cyndi Lauper",
+      "title": "Time After Time",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 10,
+      "track_id": 257,
+      "artist": "betcover!!",
+      "title": "平和の大使",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    }
+  ]
+}
