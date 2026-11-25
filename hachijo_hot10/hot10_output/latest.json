@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-24",
-  "generated_at": "2026-11-24T12:51:47.157754+09:00",
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T10:57:39.797866+09:00",
   "chart": [
     {
       "rank": 1,
@@ -8,89 +8,89 @@
       "artist": "The Beatles",
       "title": "Blackbird",
       "movement": "→",
-      "days_at_number_1": 2,
-      "top10_streak": 3
+      "days_at_number_1": 3,
+      "top10_streak": 4
     },
     {
       "rank": 2,
-      "track_id": 1395,
-      "artist": "GOING STEADY",
-      "title": "銀河鉄道の夜",
-      "movement": "→",
-      "days_at_number_1": 0,
-      "top10_streak": 6
-    },
-    {
-      "rank": 3,
       "track_id": 1655,
       "artist": "モーモールルギャバン",
       "title": "サイケな恋人",
-      "movement": "↑5",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 2
+      "top10_streak": 3
     },
     {
-      "rank": 4,
+      "rank": 3,
       "track_id": 1660,
       "artist": "COWPERS",
       "title": "Curve",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 4,
+      "track_id": 1395,
+      "artist": "GOING STEADY",
+      "title": "銀河鉄道の夜",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 5,
+      "track_id": 339,
+      "artist": "フジファブリック",
+      "title": "茜色の夕日",
       "movement": "↑3",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
-      "rank": 5,
-      "track_id": 1098,
-      "artist": "a-ha",
-      "title": "Take on Me",
-      "movement": "↓2",
-      "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
       "rank": 6,
-      "track_id": 1033,
-      "artist": "Billy Joel",
-      "title": "Just the Way You Are",
-      "movement": "↓1",
+      "track_id": 1595,
+      "artist": "岡本ノブ",
+      "title": "春山節",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 4
+      "top10_streak": 1
     },
     {
       "rank": 7,
-      "track_id": 630,
-      "artist": "RCサクセション",
-      "title": "スローバラード",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 8,
-      "track_id": 339,
-      "artist": "フジファブリック",
-      "title": "茜色の夕日",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 9,
-      "track_id": 950,
-      "artist": "Fleetwood Mac",
-      "title": "Everywhere",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 10,
       "track_id": 1115,
       "artist": "The Ronettes",
       "title": "Be My Baby",
-      "movement": "NEW",
+      "movement": "↑3",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
+    },
+    {
+      "rank": 8,
+      "track_id": 950,
+      "artist": "Fleetwood Mac",
+      "title": "Everywhere",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 9,
+      "track_id": 1098,
+      "artist": "a-ha",
+      "title": "Take on Me",
+      "movement": "↓4",
+      "days_at_number_1": 0,
+      "top10_streak": 5
+    },
+    {
+      "rank": 10,
+      "track_id": 630,
+      "artist": "RCサクセション",
+      "title": "スローバラード",
+      "movement": "↓3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
     }
   ]
 }

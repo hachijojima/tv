@@ -1,0 +1,96 @@
+{
+  "date": "2027-11-30",
+  "generated_at": "2027-11-30T03:00:00+09:00",
+  "chart": [
+    {
+      "rank": 1,
+      "track_id": 1646,
+      "artist": "Serani Poji",
+      "title": "スマイリーを探して",
+      "movement": "↑2",
+      "days_at_number_1": 1,
+      "top10_streak": 4
+    },
+    {
+      "rank": 2,
+      "track_id": 569,
+      "artist": "aiko",
+      "title": "花火",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 3,
+      "track_id": 1021,
+      "artist": "スチャダラパー",
+      "title": "サマージャム’95",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    },
+    {
+      "rank": 4,
+      "track_id": 1353,
+      "artist": "Manic Street Preachers",
+      "title": "If You Tolerate This Your Children Will Be Next",
+      "movement": "RE",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 5,
+      "track_id": 1486,
+      "artist": "clammbon",
+      "title": "パンと蜜をめしあがれ",
+      "movement": "NEW",
+      "days_at_number_1": 0,
+      "top10_streak": 1
+    },
+    {
+      "rank": 6,
+      "track_id": 1674,
+      "artist": "Pasteboard",
+      "title": "Flipper",
+      "movement": "↑1",
+      "days_at_number_1": 0,
+      "top10_streak": 4
+    },
+    {
+      "rank": 7,
+      "track_id": 842,
+      "artist": "離婚伝説",
+      "title": "本日のおすすめ",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 6
+    },
+    {
+      "rank": 8,
+      "track_id": 602,
+      "artist": "槇原敬之",
+      "title": "遠く遠く",
+      "movement": "↓2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
+    },
+    {
+      "rank": 9,
+      "track_id": 1247,
+      "artist": "Swedish House Mafia",
+      "title": "Don't You Worry Child",
+      "movement": "↓1",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 10,
+      "track_id": 508,
+      "artist": "矢井田瞳",
+      "title": "My Sweet Darlin'",
+      "movement": "↓5",
+      "days_at_number_1": 0,
+      "top10_streak": 7
+    }
+  ]
+}
