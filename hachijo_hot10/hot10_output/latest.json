@@ -1,96 +1,96 @@
 {
-  "date": "2026-11-26",
-  "generated_at": "2026-11-26T10:39:03.179488+09:00",
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T10:31:56.393242+09:00",
   "chart": [
     {
       "rank": 1,
-      "track_id": 1660,
-      "artist": "COWPERS",
-      "title": "Curve",
-      "movement": "↑2",
+      "track_id": 645,
+      "artist": "チューリップ",
+      "title": "青春の影",
+      "movement": "↑4",
       "days_at_number_1": 1,
-      "top10_streak": 4
+      "top10_streak": 2
     },
     {
       "rank": 2,
-      "track_id": 339,
-      "artist": "フジファブリック",
-      "title": "茜色の夕日",
-      "movement": "↑3",
+      "track_id": 1660,
+      "artist": "COWPERS",
+      "title": "Curve",
+      "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 5
     },
     {
       "rank": 3,
+      "track_id": 1651,
+      "artist": "Oorutaichi",
+      "title": "Hamihadarigeri",
+      "movement": "↑3",
+      "days_at_number_1": 0,
+      "top10_streak": 2
+    },
+    {
+      "rank": 4,
       "track_id": 1655,
       "artist": "モーモールルギャバン",
       "title": "サイケな恋人",
       "movement": "↓1",
       "days_at_number_1": 0,
-      "top10_streak": 4
-    },
-    {
-      "rank": 4,
-      "track_id": 1113,
-      "artist": "The Beatles",
-      "title": "Blackbird",
-      "movement": "↓3",
-      "days_at_number_1": 0,
       "top10_streak": 5
     },
     {
       "rank": 5,
-      "track_id": 645,
-      "artist": "チューリップ",
-      "title": "青春の影",
-      "movement": "NEW",
+      "track_id": 339,
+      "artist": "フジファブリック",
+      "title": "茜色の夕日",
+      "movement": "↓3",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 4
     },
     {
       "rank": 6,
-      "track_id": 1651,
-      "artist": "Oorutaichi",
-      "title": "Hamihadarigeri",
-      "movement": "NEW",
-      "days_at_number_1": 0,
-      "top10_streak": 1
-    },
-    {
-      "rank": 7,
       "track_id": 88,
       "artist": "Laura day romance",
       "title": "sad number",
-      "movement": "NEW",
+      "movement": "↑1",
       "days_at_number_1": 0,
-      "top10_streak": 1
+      "top10_streak": 2
+    },
+    {
+      "rank": 7,
+      "track_id": 1595,
+      "artist": "岡本ノブ",
+      "title": "春山節",
+      "movement": "↑2",
+      "days_at_number_1": 0,
+      "top10_streak": 3
     },
     {
       "rank": 8,
-      "track_id": 66,
-      "artist": "相対性理論",
-      "title": "LOVEずっきゅん",
+      "track_id": 305,
+      "artist": "GO!GO!7188",
+      "title": "こいのうた",
       "movement": "NEW",
       "days_at_number_1": 0,
       "top10_streak": 1
     },
     {
       "rank": 9,
-      "track_id": 1595,
-      "artist": "岡本ノブ",
-      "title": "春山節",
-      "movement": "↓3",
+      "track_id": 66,
+      "artist": "相対性理論",
+      "title": "LOVEずっきゅん",
+      "movement": "↓1",
       "days_at_number_1": 0,
       "top10_streak": 2
     },
     {
       "rank": 10,
-      "track_id": 950,
-      "artist": "Fleetwood Mac",
-      "title": "Everywhere",
-      "movement": "↓2",
+      "track_id": 228,
+      "artist": "スカート",
+      "title": "ストーリー",
+      "movement": "NEW",
       "days_at_number_1": 0,
-      "top10_streak": 3
+      "top10_streak": 1
     }
   ]
 }
